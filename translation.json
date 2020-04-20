@@ -1,0 +1,160 @@
+{
+  "Language updated!": {
+    "fr": "Langue définie avec succès !"
+  },
+  "View server settings": {
+    "fr": "Voir les réglages du serveur"
+  },
+  "Display information about a character": {
+    "fr": "Montrer les informations sur une personnage"
+  },
+  "View all the characters for the server": {
+    "fr": "Voir tous les personnages du serveur"
+  },
+  "Give an item from your inventory to another character.\nUsage:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 charname": {
+    "fr": "Donner un item de votre inventaire à une autre personnage.\nUtilisation:\n    - rp!give Banane 5 @Henry#8808\n    - rp!give Banane 6 nom"
+  },
+  "View your or another user's inventory": {
+    "fr": "Voir votre inventaire ou l'inventaire d'un autre personnage."
+  },
+  "Give an item to a number of characters as an administrator, rather than from your inventory\nUsage:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 mycharacter character2\n    - rp!giveitem Banana 14 @Administrators @\u200Beveryone": {
+    "fr": "Donner un item à quelques personnages comme administrateur, pas de votre inventaire\nUtilisation:\n    - rp!giveitem Banane 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banane 13 perso1 perso2\n    - rp!giveitem Banane 14 @Administrateurs @\u200Beveryone"
+  },
+  "See the items for the server": {
+    "fr": "Voir les items du serveur"
+  },
+  "Subcommands for items and view info about an item\nUsage: rp!item Banana": {
+    "fr": "Sous-commandes pour les items et voir les informations sur un item\nUtilisation: rp!item Banane"
+  },
+  "View your money": {
+    "fr": "Voir votre argent"
+  },
+  "Subcommands for economy": {
+    "fr": "Sous-commandes pour l'économie"
+  },
+  "Give money to users, same syntax as rp!giveitem": {
+    "fr": "Donner l'argent aux personnages, syntax est la pareille à rp!giveitem"
+  },
+  "Pay money from your pocket to another user": {
+    "fr": "Paier l'argent de votre poche à une autre personnage"
+  },
+  "View all the guilds for a server": {
+    "fr": "Voir toutes les guildes pour un serveur"
+  },
+  "Deposit money from your pocket into the bank": {
+    "fr": "Depenser de l'argent de votre poche dans la banque"
+  },
+  "Withdraw money from the bank into your pocket": {
+    "fr": "Retirer de l'argent de la banque à votre poche"
+  },
+  "You are not assumed!": {
+  },
+  "That is not a valid lottery!": {
+  },
+  "You're already in this lottery!": {
+  },
+  "Successfully joined the lottery!": {
+  },
+  "Money: ${:.2f}\nItems: {}\nTime Left: {}\nEntrants: {}": {
+  },
+  "No active lotteries!": {
+  },
+  "Holds subcommands for lottery. See currently running lotteries": {
+  },
+  "Create a lottery": {
+  },
+  "Enter the lottery with the given name": {
+  },
+  "Successfully gave money": {
+  },
+  "Character {} does not exist!": {
+  },
+  "{} is not currently assumed!": {
+  },
+  "You don't have enough money to pay!": {
+  },
+  "You are not currently assumed!": {
+  },
+  "You cannot withdraw more money than you have in the bank!": {
+  },
+  "You cannot deposit more money than you have on you!": {
+  },
+  "On you:\t\t ${:.2f}\nIn the bank:\t ${:.2f}\nTotal:\t\t ${:.2f}": {
+  },
+  "This command is disabled!": {
+  },
+  "Nobody entered the lottery!": {
+  },
+  "{} was the winner!": {
+  },
+  "Lottery does not exist!": {
+  },
+  "No characters!": {
+  },
+  "No aliases": {
+  },
+  "No region": {
+  },
+  "None": {
+  },
+  "No attributes": {
+  },
+  "Empty": {
+  },
+  "That character does not exist!": {
+  },
+  "Name": {
+  },
+  "Owner": {
+  },
+  "Aliases": {
+  },
+  "That character does not belong to you!": {
+  },
+  "Character assumed!": {
+  },
+  "Character unassumed!": {
+  },
+  "Character deleted!": {
+    "fr": "Personnage supprimée"
+  },
+  "A character with that name already exists!": {
+  },
+  "Character aliased!": {
+  },
+  "There is no character associated with this alias": {
+  },
+  "That alias belongs to another character!": {
+  },
+  "Character alias removed!": {
+  },
+  "Subcommands for importing data\n        Requires attached file\n        Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
+  },
+  "You must attach a file!": {
+  },
+  "Invalid choice!": {
+  },
+  "Data loaded!": {
+  },
+  "Import data from old RPGBot.\n        Valid datatypes to import:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO": {
+
+  },
+  "Invalid datatype!": {
+
+  },
+  "Invalid type!": {
+
+  },
+  "Data imported!": {
+
+  },
+  "Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
+
+  },
+  "No items!": {
+
+  },
+  "No guilds!": {
+
+  }
+}
