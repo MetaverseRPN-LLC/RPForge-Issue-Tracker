@@ -151,3 +151,17 @@ Lets you check how much money you have in your pockets and in your bank, if you 
 You will likely need this money command a lot while setting up as it allows you to create money out of thin air and give it to the specified character/characters
 
 
+# Migrating from RPGBot V1
+
+
+# Importing Data with Spreadsheets
+Many features of the bot can be imported from .csv files, which can be generated from Excel spreadsheets. Below are example spreadsheets
+See the csv_examples for [example spreadsheets](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/tree/master/csv_examples).
+### Items
+[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/item_example.xlsx)
+Items require several columns:
+  - name: A name for the item
+  - description: A description for the item
+  - image: The URL to an image
+  - type: comma separated, valid values are `basic, nontransfer, unique, container, equippable, quest`, for example `nontransfer, unique, container`
+  - capacity: If you specify the container attribute (premium only), you need to add a `capacity` column, with a number which gives the number of items which can be held in the container.
