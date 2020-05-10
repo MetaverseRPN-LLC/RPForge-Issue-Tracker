@@ -205,19 +205,15 @@
     "fr": "Données chargées !"
   },
   "Import data from old RPGBot.\n        Valid datatypes to import:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO": {
-
   },
   "Invalid datatype!": {
-
   },
   "Invalid type!": {
-
   },
   "Data imported!": {
     "fr": "Données importées"
   },
   "Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
-
   },
   "No items!": {
     "fr": "Aucun item !"
@@ -227,5 +223,281 @@
   },
   "You have no containers in your inventory!": {
     "fr": "Vous n'avez pas de contenant dans votre inventaire !"
+  },
+  "'Subcommands for importing data\nRequires attached file\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things\nFor more information, see the section in the tutorial\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'": {
+  },
+  "Import data from old RPGBot.\n        Valid datatypes to import:\n        - items\n        - guilds TODO\n        - characters\n        - salaries TODO\n        - lootboxes TODO\n        - shops\n        Imports should occur in that order if you want characters to have items, and if you want guilds to have items.\n        Salaries must happen after items.": {
+  },
+  "Shop items must have a shop name!": {
+  },
+  "Please upgrade to create more than 3 characters per user! For a small amount monthly you can enable premium features on your server which allows us to keep a bot as large as this running. See rp!features for details": {
+  },
+  "Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds": {
+  },
+  "Continuing!": {
+  },
+  "Cancelling!": {
+  },
+  "Confirmation timed out, cancelling!": {
+  },
+  "Successfully wiped {}": {
+  },
+  "No lootboxes!": {
+  },
+  "That lootbox doesn't exist!": {
+  },
+  "Subcommands for lootboxes. rp!lootbox <name> to see data on the lootbox with the given name": {
+  },
+  "List all server lootboxes": {
+  },
+  "Create a lootbox with the given name.\n        You will need to have items set that you want to act as the box and key in the user's inventory.\n        Requires Bot Admin": {
+  },
+  "Open a lootbox you have in your inventory with the given name": {
+  },
+  "You can't afford to open this lootbox! Make sure you have both the box and key": {
+  },
+  "You won {}!": {
+  },
+  "Delete a lootbox with the given name. Requires Bot Admin": {
+  },
+  "Successfully deleted lootbox": {
+  },
+  "View all of your own characters on this server": {
+  },
+  "Prefix": {
+  },
+  "Description": {
+  },
+  "Attributes": {
+  },
+  "Inventory": {
+  },
+  "Guild": {
+  },
+  "Guild Rank": {
+  },
+  "Roles": {
+  },
+  "Content": {
+  },
+  "Key": {
+  },
+  "Item": {
+  },
+  "That character doesn't exist!": {
+  },
+  "Create a character with the given name": {
+  },
+  "Edit a character with the given name": {
+  },
+  "Rename a character with the given name": {
+  },
+  "Assume a character with the given name": {
+  },
+  "Unassume a character": {
+  },
+  "Region": {
+  },
+  "Delete a character with the given name": {
+  },
+  "Give a character a role": {
+  },
+  "You must be assumed or provide a character!": {
+  },
+  "Remove a role from a character": {
+  },
+  "Role removed!": {
+  },
+  "Crafts the given recipe": {
+  },
+  "No such recipe!": {
+  },
+  "You can't afford to craft this!": {
+  },
+  "Beginning crafting of {}": {
+  },
+  "You have no assumed character!": {
+  },
+  "Crafting failed!": {
+  },
+  "Looks up a recipe. Subcommands for recipes": {
+  },
+  "Try out a method and ingredients to potentially discover a recipe": {
+  },
+  "Creates a recipe": {
+  },
+  "Edits an existing recipe": {
+  },
+  "Invalid recipe name!": {
+  },
+  "Delete a recipe": {
+  },
+  "A recipe with that name does not exist!": {
+  },
+  "A recipe with that name already exists!": {
+  },
+  "Recipe deleted!": {
+  },
+  "Commands for money and economy": {
+  },
+  "\nOn you:\t\t ${:.2f}\nIn the bank:\t ${:.2f}\nTotal:\t\t ${:.2f}\n        ": {
+  },
+  "Successfully deposited money!": {
+  },
+  "Successfully withdrew money!": {
+  },
+  "Successfully paid money!": {
+  },
+  "Successfully gave {} / {}": {
+  },
+  "See the characters with the 10 highest balances": {
+  },
+  "No characters": {
+  },
+  "See which premium features are enabled for the server or see more information about a feature": {
+  },
+  "You have no features enabled!": {
+  },
+  "Enable a premium feature for the server": {
+  },
+  "That feature doesn't exist!": {
+  },
+  "You do not have enough tokens to enable this feature! See rp!feature balance for details.": {
+  },
+  "Updated enabled features for this server! This will cost {} tokens ({}).": {
+  },
+  "Updated enabled features for this server!": {
+  },
+  "See your token balance for enabling premium features.": {
+  },
+  "Click here to see the shop": {
+  },
+  "You have {} tokens and the following features enabled: \n{}": {
+  },
+  "Allows creation of more than 3 characters per user": {
+  },
+  "Allows creation of special container items": {
+  },
+  "Allows creation of guild shops and custom": {
+  },
+  "That guild does not exist!": {
+  },
+  "Please specify a guild!": {
+  },
+  "You are not in a guild!": {
+  },
+  "View your own or a particular guild's information": {
+  },
+  "Create a new guild with the given name": {
+  },
+  "A guild with that name already exists!": {
+  },
+  "You cannot afford to create the guild!": {
+  },
+  "You are already in a guild!": {
+  },
+  "Edit your guild": {
+  },
+  "Your character lacks a guild!": {
+  },
+  "Your character lacks a guild rank!": {
+  },
+  "Your rank is invalid!": {
+  },
+  "Your character lacks guild data editing permissions!": {
+  },
+  "Invite a user to your closed Guild": {
+  },
+  "Your character lacks guild invite permissions!": {
+  },
+  "Kick a user from your guild (requires guild kick permissions)": {
+  },
+  "Your character lacks guild kick permissions!": {
+  },
+  "That character is not in your guild!": {
+  },
+  "You do not have the authority to kick that character!": {
+  },
+  "Set a setting for the guild": {
+  },
+  "You lack the edit guild settings permission!": {
+  },
+  "Setting name invalid!": {
+  },
+  "See the ranks for a guild": {
+  },
+  "Please upgrade to use guild ranks! For a small amount monthly you can enable premium features on your server which allows us to keep a bot as large as this running. See rp!features for details": {
+  },
+  "Authority: ": {
+  },
+  "Permissions:\n": {
+  },
+  "Salary: ": {
+  },
+  "Subcommands for managing guild ranks and viewing ranks": {
+  },
+  "That rank doesn't exist!": {
+  },
+  "That rank already exists!": {
+  },
+  "You do not have the authority to edit that rank!": {
+  },
+  "Invalid rank name!": {
+  },
+  "You do not have the authority to assign that rank!": {
+  },
+  "Successfully set guild rank!": {
+  },
+  "Your guild has: ": {
+  },
+  "You do not have enough to deposit!": {
+  },
+  "Please upgrade to use item containers! For a small amount monthly you can enable premium features on your server which allows us to keep a bot as large as this running. See rp!features for details": {
+  },
+  "Give multiple items to the list of users. Look carefully at syntax\n        Usage:\n            - rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 mycharacter character2\n            - rp!giveitems Bananax14 Applex9 @Administrators @\\u200beveryone": {
+  },
+  "Successfully gave items": {
+  },
+  "Give an item to a number of characters as an administrator, rather than from your inventory\n        Usage:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 mycharacter character2\n            - rp!giveitem Banana 14 @Administrators @\u200beveryone": {
+  },
+  "Give an item to a number of characters as an administrator, rather than from your inventory. You may\n        also target item tags.\n        Usage:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 mycharacter character2": {
+  },
+  "That isn't a valid item!": {
+  },
+  "Give an item from your inventory to another character.\n        Usage:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 charname charname2": {
+  },
+  "You do not have that many to give away!": {
+  },
+  "{} is not tranferrable!": {
+  },
+  "Items given!": {
+  },
+  "Accept a trade": {
+  },
+  "Decline a trade": {
+  },
+  "Starts a trade between you and someone else": {
+  },
+  "Cancel a trade": {
+  },
+  "View the containers that are in your inventory and their numbers.": {
+  },
+  "No items": {
+  },
+  "Deposit the given items into the container with the given number. To see which container has which number, check rp!containers\n        Usage: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ": {
+  },
+  "You don't have this many items to deposit!": {
+  },
+  "You cannot put containers in other containers!": {
+  },
+  "That is not a valid container number!": {
+  },
+  "Successfully deposited items!": {
+  },
+  "Withdraw the given items from the container with the given number. To see which container has which number, check rp!containers\n        Usage: rp!container withdraw 1 Applex15, Bananax25, Orangex15": {
+  },
+  "There are not this many items in the container!": {
+  },
+  "Successfully withdrew items!": {
   }
 }
