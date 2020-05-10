@@ -499,5 +499,191 @@
   "There are not this many items in the container!": {
   },
   "Successfully withdrew items!": {
+  },
+  "Subcommands for items and view info about an item\n        Usage: rp!item Banana": {
+  },
+  "That item does not exist!": {
+  },
+  "Type": {
+  },
+  "That item doesn't exist!": {
+  },
+  "Rename an item with the given name": {
+  },
+  "Edit an item with the given name": {
+  },
+  "Updated name!": {
+  },
+  "An item with that name already exists!": {
+  },
+  "Delete an item with the given name": {
+  },
+  "Create an item with the given name": {
+  },
+  "Item deleted!": {
+  },
+  "View information for the given region": {
+  },
+  "That region does not exist!": {
+  },
+  "Channels": {
+  },
+  "Role": {
+  },
+  "Neighbors": {
+  },
+  "Create a region for the given role": {
+  },
+  "Add a channel to the region": {
+  },
+  "Added channel!": {
+  },
+  "Removes a channel from the region": {
+  },
+  "Removed channel!": {
+  },
+  "Add another Region as a neighbor to this one": {
+  },
+  "Target region does not exist!": {
+  },
+  "Remove a region neighbor from this region": {
+  },
+  "Contains subcommands for salary creation and management": {
+  },
+  "No salaries!": {
+  },
+  "Create a new salary": {
+  },
+  "Role \"{}\" not found.": {
+  },
+  "Delete a salary for the given role": {
+  },
+  "Salary deleted!": {
+  },
+  "Salary for {} cannot be collected for another {}": {
+  },
+  "Collected salary for {}": {
+  },
+  "Use Webhooks": {
+  },
+  "Items": {
+  },
+  "Characters": {
+  },
+  "Language": {
+  },
+  "Regions": {
+  },
+  "Guild Cost": {
+  },
+  "Set the cost of making a guild for the server. (0 for no cost)": {
+  },
+  "Amount must be greater than 0!": {
+  },
+  "Updated guild cost": {
+  },
+  "Disable a command for the server. Ex: rp!s disable character everyone": {
+  },
+  "Could not find the command ": {
+  },
+  "{0.name} command has no subcommands": {
+  },
+  "Settings commands cannot be disabled!": {
+  },
+  "Disabled command for role {}": {
+  },
+  "Explicitly enable a command for a role for the server. Will override the setting for lower roles\n        Ex: rp!s enable character.create @Bot Admin": {
+  },
+  "Enabled command for role {}": {
+  },
+  "Clear the setting for a command for a role. Ex: rp!s clearcommand character @Bot Admin": {
+  },
+  "Cleared command for role {}": {
+  },
+  "Set whether assuming a character makes the user send messages as that character (yes/no)": {
+  },
+  "Invalid choice! (yes/no)": {
+  },
+  "Updated setting!": {
+  },
+  "That is not a valid language!": {
+  },
+  "View a shop": {
+  },
+  "That shop doesn't exist!": {
+  },
+  "Buy Price": {
+  },
+  "Sell Price": {
+  },
+  "Requires": {
+  },
+  "View info on a shop": {
+  },
+  "View the available shops in the given channel": {
+  },
+  "No shops in this channel.": {
+  },
+  "See rp!shop <shopname> to view an available shop": {
+  },
+  "Create a new shop": {
+  },
+  "Edit an existing new shop": {
+  },
+  "Delete a shop": {
+  },
+  "Shop deleted!": {
+  },
+  "Add a new item to the given shop.\n         To make buying the item require having another item, you may specify the <requires> arugment, \\\n        which should target an item name.": {
+  },
+  "Added item to shop": {
+  },
+  "Remove an item from the given shop": {
+  },
+  "Removed item from shop": {
+  },
+  "Buy a quantity of an item from the given shop": {
+  },
+  "You must have {} to buy this!": {
+  },
+  "You cannot afford that many!": {
+  },
+  "Successfully bought items!": {
+  },
+  "Sell a quantity of an item to the given shop": {
+  },
+  "That item isn't sellable": {
+  },
+  "That item isn't buyable": {
+  },
+  "You must have {} to sell this!": {
+  },
+  "You don't have that many to sell!": {
+  },
+  "Successfully sold items!": {
+  },
+  "Listing ID": {
+  },
+  "Seller": {
+  },
+  "Quantity": {
+  },
+  "List an item on the player market. Unique items must have a quantity of 1": {
+  },
+  "View the player market": {
+  },
+  "Quantity must be greater than 0!": {
+  },
+  "You may only list 1 unique item at a time!": {
+  },
+  "Item listed on market!": {
+  },
+  "Buy an item from the market with the given ID": {
+  },
+  "You cannot afford to buy this item!": {
+  },
+  "An item you listed on the market in server '{}' by character '{}' was sold to '{}' for ${:.2f}": {
+  },
+  "Item successfully purchased!": {
   }
 }
