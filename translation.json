@@ -984,5 +984,62 @@
   },
   "Item successfully purchased!": {
 	"pt": "Item comprado com sucesso!"
-  }
+  },
+  "How long should the time between salary collection be (in minutes)\n": {
+
+  },
+  "How much money should the salary give?\n": {
+
+  },
+  "What items should the salary give?\n": {
+
+  },
+  "What type of salary should it be? Automatically given (after the time), or should the player need tocollect it manually with rp!salary collect? Choices are `automatic` or `manual`\n":{
+
+  },
+  "Type the number of the page you wish to jump to.\n1. Time Interval\n2. Money\n3. Items\n4. Type": {
+
+  },
+  "Time Interval": {
+
+  },
+  "Money": {
+
+  },
+  "Final Review": {
+
+  },
+  "Not a valid number! Try again!": {
+
+  },
+  "Not a number! Try again!": {
+
+  },
+  "minutes": {
+
+  },
+  "Failed to parse item list!": {
+
+  },
+  "Failed to find role with that name!": {
+
+  },
+  "Please set a time interval!": {
+
+  },
+  "Please set a role!": {
+
+  },
+  "You need to set either money or items or both!": {
+
+  },
+  "Salary successfully created!": {
+
+  },
+  "Not set": {
+
+  },
+  "No tags!": {
+
+  },
 }
