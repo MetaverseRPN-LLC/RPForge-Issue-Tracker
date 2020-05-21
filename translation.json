@@ -10,7 +10,7 @@
     "pt": "Exibir configurações do servidor"
   },
   "Display information about a character": {
-    "fr": "Montrer les informations sur une personnage",
+    "fr": "Montrer les informations sur un personnage",
     "jp": "キャラクターの情報を表示する。",
     "pt": "Exibir informações sobre um personagem"
   },
@@ -29,7 +29,7 @@
     "pt": "Exibir seu inventário ou o de outro jogador"
   },
   "Give an item to a number of characters as an administrator, rather than from your inventory\nUsage:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 mycharacter character2\n    - rp!giveitem Banana 14 @Administrators @\u200Beveryone": {
-    "fr": "Donner un item à quelques personnages comme administrateur, pas de votre inventaire\nUtilisation:\n    - rp!giveitem Banane 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banane 13 perso1 perso2\n    - rp!giveitem Banane 14 @Administrateurs @\u200Beveryone",
+    "fr": "Donner un item à quelques personnages en tant qu'administrateur, pas de votre inventaire\nUtilisation:\n    - rp!giveitem Banane 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banane 13 perso1 perso2\n    - rp!giveitem Banane 14 @Administrateurs @\u200Beveryone",
     "pt": "Dar um item a um número de personagem como administrador, e não a partir do seu inventário\nUso:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 personagem1 personagem2\n    - rp!giveitem Banana 14 @Administrators @\u200Beveryone"
   },
   "See the items for the server": {
@@ -52,11 +52,11 @@
     "pt": "Subcomandos para economia"
   },
   "Give money to users, same syntax as rp!giveitem": {
-    "fr": "Donner l'argent aux personnages, syntax est la pareille à rp!giveitem",
+    "fr": "Donner de l'argent aux utilisateurs, même syntaxe que rp!giveitem",
     "pt": "Dar dinheiro para usuários, mesma sintaxe de rp!giveitem"
   },
   "Pay money from your pocket to another user": {
-    "fr": "Paier l'argent de votre poche à une autre personnage",
+    "fr": "Donner de l'argent de votre poche à un autre personnage",
     "pt": "Pagar dinheiro do seu bolso para outro usuário"
   },
   "View all the guilds for a server": {
@@ -65,17 +65,17 @@
     "pt": "Exibir todas as guildas do servidor"
   },
   "Deposit money from your pocket into the bank": {
-    "fr": "Depenser de l'argent de votre poche dans la banque",
+    "fr": "Déposer de l'argent de votre poche dans la banque",
     "jp": "小遣いから銀行に貯金をする。",
     "pt": "Depositar dinheiro do seu bolso no banco"
   },
   "Withdraw money from the bank into your pocket": {
-    "fr": "Retirer de l'argent de la banque à votre poche",
+    "fr": "Retirer de l'argent de la banque dans votre poche",
     "jp": "銀行から小遣いにお金を下ろす。",
     "pt": "Retirar dinheiro do banco para o seu bolso"
   },
   "You are not assumed!": {
-    "fr": "Vous n'avez pas assumé une personnage.",
+    "fr": "Vous n'êtes pas associé à un personnage.",
     "pt": "Você não associou um personagem."
   },
   "That is not a valid lottery!": {
@@ -84,12 +84,12 @@
     "pt": "Esta não é uma loteria válida!"
   },
   "You're already in this lottery!": {
-    "fr": "Vous avez déja rejoint cette loterie",
+    "fr": "Vous avez déjà rejoint cette loterie",
     "jp": "もうこのロートに加わている",
     "pt": "Você já entrou dessa loteria!"
   },
   "Successfully joined the lottery!": {
-    "fr": "Loterie rejointe avec succés !",
+    "fr": "Loterie rejointe avec succès !",
     "jp": "ロートに加わた",
     "pt": "Entrou com sucesso na loteria!"
   },
@@ -98,16 +98,16 @@
     "pt": "Dinheiro: ${:.2f}\nItens: {}\nTempo Restante: {}\nParticipantes: {}"
   },
   "No active lotteries!": {
-    "fr": "Aucune loteries actives",
+    "fr": "Aucune loterie active",
     "jp": "ロートがない",
     "pt": "Sem loterias ativas!"
   },
   "Holds subcommands for lottery. See currently running lotteries": {
-    "fr": "Voir les sous-commandes pour la loterie et les loteries qui sont en train de passer.",
+    "fr": "Voir les sous-commandes pour la loterie et les loteries en cours.",
     "pt": "Visualize os subcomandos para loteria e as loterias que estão acontecendo."
   },
   "Create a lottery": {
-    "fr": "Créer un loterie",
+    "fr": "Créer une loterie",
     "jp": "ロートを作る。",
     "pt": "Crie uma loteria"
   },
@@ -117,17 +117,17 @@
     "pt": "Participe da loteria com o nome informado"
   },
   "Successfully gave money": {
-    "fr": "Argent donné avec succés",
+    "fr": "Argent donné avec succès",
     "jp": "お金を払った",
     "pt": "Dinheiro fornecido com sucesso"
   },
   "Character {} does not exist!": {
-    "fr": "Personnage {} n'existe pas !",
+    "fr": "Le personnage {} n'existe pas !",
     "jp": "「{}」というキャラクターが存在しない",
     "pt": "Personagem {} não existe!"
   },
   "{} is not currently assumed!": {
-    "fr": "{} n'est pas assumé actuellement",
+    "fr": "{} n'est pas associé actuellement",
     "pt": "{} não está atualmente associado."
   },
   "You don't have enough money to pay!": {
@@ -135,26 +135,27 @@
     "pt": "Você não tem dinheiro suficiente para pagar!"
   },
   "You are not currently assumed!": {
-    "fr": "Vous n'êtes pas assumé actuellement",
+    "fr": "Vous n'êtes pas associé avec un personnage actuellement!",
     "pt": "Você não está atualmente associado!"
   },
   "You cannot withdraw more money than you have in the bank!": {
-    "fr": "Vous ne pouvez pas retirer plus d'argent que vous avez dans la banque.",
+    "fr": "Vous ne pouvez pas retirer plus d'argent que vous n'en avez dans la banque.",
     "pt": "Você não pode retirar mais dinheiro do que você possui no banco!"
   },
   "You cannot deposit more money than you have on you!": {
-    "fr": "Vous ne pouvez pas déposer plus d'argent que vous avez en main.",
+    "fr": "Vous ne pouvez pas déposer plus d'argent que vous avez sur vous.",
     "pt": "Você não pode depositar mais dinheiro do que tem com você!"
   },
   "On you:\t\t ${:.2f}\nIn the bank:\t ${:.2f}\nTotal:\t\t ${:.2f}": {
-	"pt": "Com você:\t\t ${:.2f}\nNo banco:\t ${:.2f}\nTotal:\t\t ${:.2f}"
+    "fr": "Sur vous:\t\t ${:.2f}\nEn banque:\t ${:.2f}\nTotal:\t\t ${:.2f}",
+    "pt": "Com você:\t\t ${:.2f}\nNo banco:\t ${:.2f}\nTotal:\t\t ${:.2f}"
   },
   "This command is disabled!": {
     "fr": "Cette commande est désactivée",
     "pt": "Este comando está desativado!"
   },
   "Nobody entered the lottery!": {
-    "fr": "Personne n'a pas rejoint la loterie !",
+    "fr": "Personne n'a rejoint la loterie !",
     "pt": "Ninguém participou da loteria!"
   },
   "{} was the winner!": {
@@ -168,16 +169,16 @@
     "pt": "Loteria não existe!"
   },
   "No characters!": {
-    "fr": "Aucune personnage !",
+    "fr": "Aucun personnage !",
     "jp": "キャラクターがいない",
     "pt": "Sem personagens!"
   },
   "No aliases": {
-    "fr": "Aucune aliases !",
+    "fr": "Aucun pseudonyme !",
     "pt": "Sem pseudônimos"
   },
   "No region": {
-    "fr": "Aucun region !",
+    "fr": "Aucune région !",
     "pt": "Sem região"
   },
   "None": {
@@ -193,7 +194,7 @@
     "pt": "Vazio"
   },
   "That character does not exist!": {
-    "fr": "Cette personnage n'existe pas !",
+    "fr": "Ce personnage n'existe pas !",
     "jp": "そのキャラクターが存在しない！",
     "pt": "Este personagem não existe!"
   },
@@ -203,7 +204,7 @@
     "pt": "Nome"
   },
   "Owner": {
-    "fr": "Propriateur",
+    "fr": "Propriétaire",
     "pt": "Proprietário"
   },
   "Aliases": {
@@ -211,36 +212,36 @@
     "pt": "Pseudônimos"
   },
   "That character does not belong to you!": {
-    "fr": "Cela n'est pas votre personnage !",
+    "fr": "Ce personnage ne vous appartient pas !",
     "jp": "そのきゃらくたーはあなたのじゃない！",
     "pt": "Este personagem não pertence a você!"
   },
   "Character assumed!": {
-    "fr": "Personnage assumée",
+    "fr": "Personnage associé",
     "pt": "Personagem associado!"
   },
   "Character unassumed!": {
-    "fr": "Personnage de-assumée !",
+    "fr": "Personnage non-associé !",
     "pt": "Personagem desassociado"
   },
   "Character deleted!": {
-    "fr": "Personnage supprimée",
+    "fr": "Personnage supprimé",
     "pt": "Personagem removido!"
   },
   "A character with that name already exists!": {
-    "fr": "Une personnage avec ce nom existe déja !",
+    "fr": "Un personnage avec ce nom existe déja !",
     "pt": "Um personagem com esse nome já existe!"
   },
   "Character aliased!": {
-    "fr": "Personnage pseudonommée",
+    "fr": "Pseudonyme défini pour ce personnage!",
     "pt": "Pseudônimo defindo para o personagem!"
   },
   "There is no character associated with this alias": {
-    "fr": "Il n'y a pas de personnage associée avec cette pseudonyme",
+    "fr": "Il n'y a pas de personnage associé avec ce pseudonyme",
     "pt": "Não há personagem associado com esse pseudônimo"
   },
   "That alias belongs to another character!": {
-    "fr": "Cette pseudo appartient à une autre personnage",
+    "fr": "Ce pseudo appartient à un autre personnage",
     "pt": "Este pseudônimo pertence a outro personagem!"
   },
   "Character alias removed!": {
@@ -248,12 +249,12 @@
     "pt": "Pseudônimo do personagem removido!"
   },
   "Subcommands for importing data\n        Requires attached file\n        Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
-    "fr": "Sous-commandes pour importer vos données\n        Requiert un fichier attaché\n        Importer les données du vieux RPGBot.\n        Types des données valides en exportant:\n        - items\n        - personnages\n        - réglages\n        - guildes\n        - userdata",
+    "fr": "Sous-commandes pour importer vos données\n        Requiert un fichier attaché\n        Importer les données de l'ancien RPGBot.\n        Types des données valides à exporter:\n        - items\n        - personnages\n        - réglages\n        - guildes\n        - userdata",
     "pt": "Subcomandos para importação de dados\n        Requer arquivo anexado\n        Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - iten\n        - personagens\n        - configuracoes\n        - guildas\n        - userdata"
   },
   "You must attach a file!": {
     "jp": "ファイルをメッセージに付けなければいけない！",
-    "fr": "Il faut attacher un fichier",
+    "fr": "Vous devez attacher un fichier",
     "pt": "Você deve anexar um arquivo!"
   },
   "Invalid choice!": {
@@ -265,20 +266,24 @@
     "pt": "Dados carregados!"
   },
   "Import data from old RPGBot.\n        Valid datatypes to import:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO": {
-	"pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para importar:\n        - itens\n        - personagens\n        - configuracoes TODO\n        - salarios TODO\n        - lootboxes TODO\n        - shop TODO"
+    "fr": "Importer des données de l'ancien RPGBot.\n        Types de données valides à importer:\n        - items\n        - personnages\n        - options TODO\n        - salaires TODO\n        - lootboxes TODO\n        - boutique TODO",
+    "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para importar:\n        - itens\n        - personagens\n        - configuracoes TODO\n        - salarios TODO\n        - lootboxes TODO\n        - shop TODO"
   },
   "Invalid datatype!": {
-	"pt": "Tipo de dado inválido!"
+    "fr": "Type de données invalide!",
+    "pt": "Tipo de dado inválido!"
   },
   "Invalid type!": {
-	"pt": "Tipo inválido!"
+    "fr": "Type invalide!",
+    "pt": "Tipo inválido!"
   },
   "Data imported!": {
     "fr": "Données importées",
     "pt": "Dados importados!"
   },
   "Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
-	"pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - itens\n        - personagens\n        - configracoes\n        - guildas\n        - userdata"
+    "fr": "Importer les données de l'ancien RPGBot.\n        Types de données valides pour exporter:\n        - items\n        - personnages\n        - paramètres\n        - guildes\n        - userdata",
+    "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - itens\n        - personagens\n        - configracoes\n        - guildas\n        - userdata"
   },
   "No items!": {
     "fr": "Aucun item !",
@@ -293,764 +298,992 @@
     "pt": "Você não possui contêineres no seu inventário!"
   },
   "'Subcommands for importing data\nRequires attached file\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things\nFor more information, see the section in the tutorial\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'": {
-	"pt": "'Subcomandos para importação de dados\nRequer arquivo anexado\nTipos de dados válidos para exportar:\n- itens\n- personagens\n- configuracoes\n- guildas\n- receitas\n- lojas\n\nEspecifique \"overwrite\" no final para sobrescrever as informacoes existentes\nPara mais informações, veja a seção do tutorial\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'"
+    "fr": "'Sous-commandes pour importer des données\nNécessite un fichier attaché\nTypes de données valides pour l'exportation:\n- items\n- personnages\n- paramètres\n- guildes\n- recettes\n- boutiques\n\nMettez \"overwrite\" à la fin pour écraser toutes les choses existantes\nPour plus d'informations, allez voir la section dans le tutoriel\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'",
+    "pt": "'Subcomandos para importação de dados\nRequer arquivo anexado\nTipos de dados válidos para exportar:\n- itens\n- personagens\n- configuracoes\n- guildas\n- receitas\n- lojas\n\nEspecifique \"overwrite\" no final para sobrescrever as informacoes existentes\nPara mais informações, veja a seção do tutorial\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'"
   },
   "Import data from old RPGBot.\n        Valid datatypes to import:\n        - items\n        - guilds TODO\n        - characters\n        - salaries TODO\n        - lootboxes TODO\n        - shops\n        Imports should occur in that order if you want characters to have items, and if you want guilds to have items.\n        Salaries must happen after items.": {
-	"pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para importar:\n        - itens\n        - guildas TODO\n        - personagens\n        - salarios TODO\n        - lootboxes TODO\n        - lojas\n        Importação deve ser feita nessa ordem se você quer que os personagens tenham itens, e que as guildas tenham itens.\n        Salários devem vir depois dos itens."
+    "fr": "Importer les données de l'ancien RPGBot.\n        Types de données valides pour l'importation:\n        - items\n        - guildes TODO\n        - personnages\n        - salaires TODO\n        - lootboxes TODO\n        - boutiques\n        L'importation doit se faire dans cet ordre si vous voulez que les personnages aient les items, et si vous voulez que les guildes aient des items.\n        Les salaires doivent arriver apès les items.",
+    "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para importar:\n        - itens\n        - guildas TODO\n        - personagens\n        - salarios TODO\n        - lootboxes TODO\n        - lojas\n        Importação deve ser feita nessa ordem se você quer que os personagens tenham itens, e que as guildas tenham itens.\n        Salários devem vir depois dos itens."
   },
   "Shop items must have a shop name!": {
-	"pt": "Itens de loja devem ter um nome de loja!"
+    "fr": "Les items en vente doivent avoir un nom de boutique en tant que destination!",
+    "pt": "Itens de loja devem ter um nome de loja!"
   },
   "Please upgrade to create more than 3 characters per user! For a small amount monthly you can enable premium features on your server which allows us to keep a bot as large as this running. See rp!features for details": {
-	"pt": "Por favor, atualize para criar mais que 3 personagens por usuário. Por uma pequena quantia mensal você pode habilitar recursos premium no servidor, o que nos permite manter um bot tão grande quanto este rodando. Veja rp!features para mais detalhes"
+    "fr": "S'il vous plait augmentez le serveur pour créer plus de 3 personnages par utilisateur! Pour une petite somme chaque mois vous pouvez activer les fonctionnalités premium du bot sur votre serveur ce qui nous permet de garder un aussi gros bot actif. Allez voir rp!features pour les détails",
+    "pt": "Por favor, atualize para criar mais que 3 personagens por usuário. Por uma pequena quantia mensal você pode habilitar recursos premium no servidor, o que nos permite manter um bot tão grande quanto este rodando. Veja rp!features para mais detalhes"
   },
   "Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds": {
-	"pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - itens\n        - personagens\n        - configuracoes\n        - guildas"
+    "fr": "Importer les données de l'ancien RPGBot.\n        Types de données valides pour l'exportation:\n        - items\n        - personnages\n        - paramètres\n        - guildes",
+    "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - itens\n        - personagens\n        - configuracoes\n        - guildas"
   },
   "Continuing!": {
-	"pt": "Continuando"
+    "fr": "Continuation!",
+    "pt": "Continuando"
   },
   "Cancelling!": {
-	"pt": "Cancelando!"
+    "fr": "Annulation!",
+    "pt": "Cancelando!"
   },
   "Confirmation timed out, cancelling!": {
-	"pt": "Tempo excedido confirmado, cancelando!"
+    "fr": "Temps de confirmation expiré, annulation!",
+    "pt": "Tempo excedido confirmado, cancelando!"
   },
   "Successfully wiped {}": {
-	"pt": "{} limpado com sucesso"
+    "fr": "{} supprimé avec succès",
+    "pt": "{} limpado com sucesso"
   },
   "No lootboxes!": {
-	"pt": "Sem lootboxes!"
+    "fr": "Pas de lootboxes!",
+    "pt": "Sem lootboxes!"
   },
   "That lootbox doesn't exist!": {
-	"pt": "Esta lootbox nao existe!"
+    "fr": "Cette lootbox n'existe pas!",
+    "pt": "Esta lootbox nao existe!"
   },
   "Subcommands for lootboxes. rp!lootbox <name> to see data on the lootbox with the given name": {
-	"pt": "Subcomandos para lootboxes. rp!lootbox <nome> para ver informações da lootbox com o nome informado"
+    "fr": "Sous commande pour les lootboxes. rp!lootbox <nom> pour voir les informations sur la lootbox donnée",
+    "pt": "Subcomandos para lootboxes. rp!lootbox <nome> para ver informações da lootbox com o nome informado"
   },
   "List all server lootboxes": {
-	"pt": "Lista todas as lootboxes do servidor"
+    "fr": "Liste toutes les lootboxes du serveur",
+    "pt": "Lista todas as lootboxes do servidor"
   },
   "Create a lootbox with the given name.\n        You will need to have items set that you want to act as the box and key in the user's inventory.\n        Requires Bot Admin": {
-	"pt": "Cria uma lootbox com o nome informado.\n        Você precisará ter definido os itens que deseja ser a box e a chave no inventário do usuário.\n        Requer Bot Admin"
+    "fr": "Crée une lootbox avec le nom donné.\n        Vous aurez besoin des items de la lootbox ainsi que la clé dans l'inventaire de l'utilisateur.\n        Nécessite Bot Admin",
+    "pt": "Cria uma lootbox com o nome informado.\n        Você precisará ter definido os itens que deseja ser a box e a chave no inventário do usuário.\n        Requer Bot Admin"
   },
   "Open a lootbox you have in your inventory with the given name": {
-	"pt": "Abre uma lootbox que você tem em seu inventário com o nome informado"
+    "fr": "Ouvre une lootbox dans votre inventaire avec le nom donné",
+    "pt": "Abre uma lootbox que você tem em seu inventário com o nome informado"
   },
   "You can't afford to open this lootbox! Make sure you have both the box and key": {
-	"pt": "Você não pode abrir essa lootbox! Verifique se você tem tanto a box quanto a chave."
+    "fr": "Vous ne pouvez pas ouvrir cette lootbox! Soyez sûr d'avoir la box et la clé",
+    "pt": "Você não pode abrir essa lootbox! Verifique se você tem tanto a box quanto a chave."
   },
   "You won {}!": {
-	"pt": "Você ganhou {}!"
+    "fr": "Vous avez gagné {}!",
+    "pt": "Você ganhou {}!"
   },
   "Delete a lootbox with the given name. Requires Bot Admin": {
-	"pt": "Remove uma lootbox com o nome informado. Requer Bot Admin"
+    "fr": "Supprime une lootbox avec le nom donné. Nécessite Bot Admin",
+    "pt": "Remove uma lootbox com o nome informado. Requer Bot Admin"
   },
   "Successfully deleted lootbox": {
-	"pt": "Lootbox removida com sucesso"
+    "fr": "Lootbox supprimée avec succès",
+    "pt": "Lootbox removida com sucesso"
   },
   "View all of your own characters on this server": {
-	"pt": "Exibe todos os seus personagens nesse servidor"
+    "fr": "Voir tous vos personnages sur le serveur",
+    "pt": "Exibe todos os seus personagens nesse servidor"
   },
   "Prefix": {
-	"pt": "Prefixo"
+    "fr": "Préfixe",
+    "pt": "Prefixo"
   },
   "Description": {
-	"pt": "Descrição"
+    "fr": "Description",
+    "pt": "Descrição"
   },
   "Attributes": {
-	"pt": "Atributos"
+    "fr": "Attributs",
+    "pt": "Atributos"
   },
   "Inventory": {
-	"pt": "Inventório"
+    "fr": "Inventaire",
+    "pt": "Inventório"
   },
   "Guild": {
-	"pt": "Guilda"
+    "fr": "Guilde",
+    "pt": "Guilda"
   },
   "Guild Rank": {
-	"pt": "Classificação da Guilda"
+    "fr": "Classement de Guilde",
+    "pt": "Classificação da Guilda"
   },
   "Roles": {
-	"pt": "Cargos"
+    "fr": "Rôles",
+    "pt": "Cargos"
   },
   "Content": {
-	"pt": "Conteúdo"
+    "fr": "Contenu",
+    "pt": "Conteúdo"
   },
   "Key": {
-	"pt": "Chave"
+    "fr": "Clé",
+    "pt": "Chave"
   },
   "Item": {
-	"pt": "Item"
+    "fr": "Item",
+    "pt": "Item"
   },
   "That character doesn't exist!": {
-	"pt": "Este personagem não existe!"
+    "fr": "Ce personnage n'existe pas!",
+    "pt": "Este personagem não existe!"
   },
   "Create a character with the given name": {
-	"pt": "Cria um personagem com o nome informado"
+    "fr": "Créer un personnage avec le nom donné",
+    "pt": "Cria um personagem com o nome informado"
   },
   "Edit a character with the given name": {
-	"pt": "Altera um personagem com o nome informado"
+    "fr": "Editer le personnage avec le nom donné",
+    "pt": "Altera um personagem com o nome informado"
   },
   "Rename a character with the given name": {
-	"pt": "Renomeia um personagem com o nome informado"
+    "fr": "Renommer le personnage avec le nom donné",
+    "pt": "Renomeia um personagem com o nome informado"
   },
   "Assume a character with the given name": {
-	"pt": "Associa um personagem com o nome informado"
+    "fr": "S'associer avec le personnage donné",
+    "pt": "Associa um personagem com o nome informado"
   },
   "Unassume a character": {
-	"pt": "Desassume um personagem"
+    "fr": "Désassocier un personnage",
+    "pt": "Desassume um personagem"
   },
   "Region": {
-	"pt": "Região"
+    "fr": "Région",
+    "pt": "Região"
   },
   "Delete a character with the given name": {
-	"pt": "Remove um personagem com o nome informado"
+    "fr": "Supprimer le personnage avec le nom donné",
+    "pt": "Remove um personagem com o nome informado"
   },
   "Give a character a role": {
-	"pt": "Define um cargo para um personagem"
+    "fr": "Donner un rôle à un personnage",
+    "pt": "Define um cargo para um personagem"
   },
   "You must be assumed or provide a character!": {
-	"pt": "Você deve estar associado ou fornecer um personagem!"
+    "fr": "Vous devez être associé ou fournir un personnage!",
+    "pt": "Você deve estar associado ou fornecer um personagem!"
   },
   "Remove a role from a character": {
-	"pt": "Remove um cargo de um personagem"
+    "fr": "Enlever un rôle àun personnage",
+    "pt": "Remove um cargo de um personagem"
   },
   "Role removed!": {
-	"pt": "Cargo removido!"
+    "fr": "Rôle enlevé!",
+    "pt": "Cargo removido!"
   },
   "Crafts the given recipe": {
-	"pt": "Constrói a receita informada."
+    "fr": "Fabrique le recette donnée",
+    "pt": "Constrói a receita informada."
   },
   "No such recipe!": {
-	"pt": "Nenhuma receita!"
+    "fr": "Aucune recette correspondante",
+    "pt": "Nenhuma receita!"
   },
   "You can't afford to craft this!": {
-	"pt": "Você não pode arcar com as despesas da construção disto!"
+    "fr": "Vous ne pouvez pas fabriquer ça!",
+    "pt": "Você não pode arcar com as despesas da construção disto!"
   },
   "Beginning crafting of {}": {
-	"pt": "Iniciando construção de {}"
+    "fr": "Début de fabrication de {}",
+    "pt": "Iniciando construção de {}"
   },
   "You have no assumed character!": {
-	"pt": "Você não tem personagem associado!"
+    "fr": "Vous n'êtes pas associé à un personnage!",
+    "pt": "Você não tem personagem associado!"
   },
   "Crafting failed!": {
-	"pt": "A contrução falhou!"
+    "fr": "Fabrication échouée!",
+    "pt": "A contrução falhou!"
   },
   "Looks up a recipe. Subcommands for recipes": {
-	"pt": "Procura uma receita. Subcomandos para receitas"
+    "fr": "Affiche une recette. Sous-commandes pour les recettes",
+    "pt": "Procura uma receita. Subcomandos para receitas"
   },
   "Try out a method and ingredients to potentially discover a recipe": {
-	"pt": "Experimente um método e ingredientes para descobrir potencialmente uma receita"
+    "fr": "Essayer une méthode et des ingrédients pour potentiellement découvrir une recette",
+    "pt": "Experimente um método e ingredientes para descobrir potencialmente uma receita"
   },
   "Creates a recipe": {
-	"pt": "Cria uma receita"
+    "fr": "Crée une recette",
+    "pt": "Cria uma receita"
   },
   "Edits an existing recipe": {
-	"pt": "Altera uma receita existente"
+    "fr": "Modifie une recette existante",
+    "pt": "Altera uma receita existente"
   },
   "Invalid recipe name!": {
-	"pt": "Nome de receita inválido!"
+    "fr": "Nom de recette invalide!",
+    "pt": "Nome de receita inválido!"
   },
   "Delete a recipe": {
-	"pt": "Remove uma receita"
+    "fr": "Supprime une recette",
+    "pt": "Remove uma receita"
   },
   "A recipe with that name does not exist!": {
-	"pt": "Uma receita com este nome não existe!"
+    "fr": "Aucune recette avec ce nom n'existe!",
+    "pt": "Uma receita com este nome não existe!"
   },
   "A recipe with that name already exists!": {
-	"pt": "Uma receita com este nome já existe!"
+    "fr": "Une recette porte déjà ce nom!",
+    "pt": "Uma receita com este nome já existe!"
   },
   "Recipe deleted!": {
-	"pt": "Receita removida!"
+    "fr": "recette supprimée!",
+    "pt": "Receita removida!"
   },
   "Commands for money and economy": {
-	"pt": "Comandos para dinheiro e economia"
+    "fr": "Commandes pour l'argent et l'économie",
+    "pt": "Comandos para dinheiro e economia"
   },
   "\nOn you:\t\t ${:.2f}\nIn the bank:\t ${:.2f}\nTotal:\t\t ${:.2f}\n        ": {
-	"pt": "\nCom você:\t\t ${:.2f}\nNo banco:\t ${:.2f}\nTotal:\t\t ${:.2f}\n       "
+    "fr": "\nSur vous:\t\t ${:.2f}\nEn banque:\t ${:.2f}\nTotal:\t\t ${:.2f}\n        ",
+    "pt": "\nCom você:\t\t ${:.2f}\nNo banco:\t ${:.2f}\nTotal:\t\t ${:.2f}\n       "
   },
   "Successfully deposited money!": {
-	"pt": "Dinheiro depositado com sucesso!"
+    "fr": "Argent déposé avec succès!",
+    "pt": "Dinheiro depositado com sucesso!"
   },
   "Successfully withdrew money!": {
-	"pt": "Dinheiro retirado com sucesso!"
+    "fr": "Argent retiré avec succès!",
+    "pt": "Dinheiro retirado com sucesso!"
   },
   "Successfully paid money!": {
-	"pt": "Dinheiro pago com sucesso!"
+    "fr": "Argent payé avec succès!",
+    "pt": "Dinheiro pago com sucesso!"
   },
   "Successfully gave {} / {}": {
-	"pt": "Forneceu {} / {} com sucesso"
+    "fr": "{} / {} Donné avec succès",
+    "pt": "Forneceu {} / {} com sucesso"
   },
   "See the characters with the 10 highest balances": {
-	"pt": "Veja os personagens com os 10 mais altos saldos"
+    "fr": "Voir les 10 personnages avec les plus gros soldes.",
+    "pt": "Veja os personagens com os 10 mais altos saldos"
   },
   "No characters": {
-	"pt": "Nenhum personagem"
+    "fr": "Pas de personnages",
+    "pt": "Nenhum personagem"
   },
   "See which premium features are enabled for the server or see more information about a feature": {
-	"pt": "Veja quais recursos premium estão disponíveis nesse servidor ou veja mais informações sobre um recurso"
+    "fr": "Voir quelles fonctionnalités premium sont activées sur ce serveur ou voir plus d'informations à propos d'une fonctionnalité",
+    "pt": "Veja quais recursos premium estão disponíveis nesse servidor ou veja mais informações sobre um recurso"
   },
   "You have no features enabled!": {
-	"pt": "Você não tem recursos disponíveis!"
+    "fr": "Vous n'avez pas de fonctionnalités activées",
+    "pt": "Você não tem recursos disponíveis!"
   },
   "Enable a premium feature for the server": {
-	"pt": "Habilita um recurso premium para o servidor"
+    "fr": "Active une fonctionnalité premium pour ce serveur",
+    "pt": "Habilita um recurso premium para o servidor"
   },
   "That feature doesn't exist!": {
-	"pt": "Este recurso não existe!"
+    "fr": "Cette fonctionnalité n'existe pas!",
+    "pt": "Este recurso não existe!"
   },
   "You do not have enough tokens to enable this feature! See rp!feature balance for details.": {
-	"pt": "Você não tem tokens suficientes para habilitar este recurso! See rp!feature balance para detalhes."
+    "fr": "Vous n'avez pas assez de jetons pour activer cette fonctionnalité! Voyez rp!feature balance pour les détails",
+    "pt": "Você não tem tokens suficientes para habilitar este recurso! See rp!feature balance para detalhes."
   },
   "Updated enabled features for this server! This will cost {} tokens ({}).": {
-	"pt": "Recursos ativos atualizados para este servidor! Isso ira custar {} tokens ({})."
+    "fr": "Fonctionnalités activées sur le serveur mises à jour! Ca vous coûtera {} jetons ({}).",
+    "pt": "Recursos ativos atualizados para este servidor! Isso ira custar {} tokens ({})."
   },
   "Updated enabled features for this server!": {
-	"pt": "Recursos ativos atualizados para este servidor!"
+    "fr": "Fonctionnalités activées sur ce serveur mises à jour!",
+    "pt": "Recursos ativos atualizados para este servidor!"
   },
   "See your token balance for enabling premium features.": {
-	"pt": "Veja seu saldo de tokens para habilitar recursos premium."
+    "fr": "Voir votre solde de jetons pour les fonctionnalités premium.",
+    "pt": "Veja seu saldo de tokens para habilitar recursos premium."
   },
   "Click here to see the shop": {
-	"pt": "Clique aqui para ver a loja"
+    "fr": "Cliquez ici pour voir la boutique",
+    "pt": "Clique aqui para ver a loja"
   },
   "You have {} tokens and the following features enabled: \n{}": {
-	"pt": "Você tem {} tokens e os seguntes recursos habilitados: \n{}"
+    "fr": "Vous avez {} jetons et les fonctionnalités suivantes sont activées:\n{}",
+    "pt": "Você tem {} tokens e os seguntes recursos habilitados: \n{}"
   },
   "Allows creation of more than 3 characters per user": {
-	"pt": "Permite a criação de mais de 3 personagens por usuário"
+    "fr": "Autorise la création de plus de 3 personnages par utilisateur",
+    "pt": "Permite a criação de mais de 3 personagens por usuário"
   },
   "Allows creation of special container items": {
-	"pt": "Permite a criação de contâiners especiais de itens"
+    "fr": "Autorise la création de conteneur spéciaux d'items",
+    "pt": "Permite a criação de contâiners especiais de itens"
   },
   "Allows creation of guild shops and custom": {
-	"pt": "Permite a criação de lojas de guilda e lojas personalizadas"
+    "fr": "Autorise la création de boutiques de guildes et boutique personnalisés",
+    "pt": "Permite a criação de lojas de guilda e lojas personalizadas"
   },
   "That guild does not exist!": {
-	"pt": "Esta guilda não existe!"
+    "fr": "Cette guilde n'existe pas!",
+    "pt": "Esta guilda não existe!"
   },
   "Please specify a guild!": {
-	"pt": "Por favor, informe uma guilda!"
+    "fr": "S'il vous plait spécifiez une guilde!",
+    "pt": "Por favor, informe uma guilda!"
   },
   "You are not in a guild!": {
-	"pt": "Você não está em uma guilda!"
+    "fr": "Vous n'êtes pasdans une guilde!",
+    "pt": "Você não está em uma guilda!"
   },
   "View your own or a particular guild's information": {
-	"pt": "Exibe as informações da sua guilda ou de uma guilda específica"
+    "fr": "Montre les informations sur votre ou une autre guilde",
+    "pt": "Exibe as informações da sua guilda ou de uma guilda específica"
   },
   "Create a new guild with the given name": {
-	"pt": "Cria uma guilda com o nome informado"
+    "fr": "Crée une nouvelle guilde avec le nom donné",
+    "pt": "Cria uma guilda com o nome informado"
   },
   "A guild with that name already exists!": {
-	"pt": "Já existe uma guilda com este nome!"
+    "fr": "Une guilde avec ce nom existe déjà!",
+    "pt": "Já existe uma guilda com este nome!"
   },
   "You cannot afford to create the guild!": {
-	"pt": "Você não pode arcar com a criação da guilda!"
+    "fr": "Vous ne pouvez pas créer une guilde!",
+    "pt": "Você não pode arcar com a criação da guilda!"
   },
   "You are already in a guild!": {
-	"pt": "Você já está em uma guilda!"
+    "fr": "Vous êtes déjà dans une guilde!",
+    "pt": "Você já está em uma guilda!"
   },
   "Edit your guild": {
-	"pt": "Altere sua guilda"
+    "fr": "Modifier votre guilde",
+    "pt": "Altere sua guilda"
   },
   "Your character lacks a guild!": {
-	"pt": "Seu personagem não tem uma guilda!"
+    "fr": "Votre personnage n'est pasdans une guilde!",
+    "pt": "Seu personagem não tem uma guilda!"
   },
   "Your character lacks a guild rank!": {
-	"pt": "Seu personagem não possui uma classificação na guilda!"
+    "fr": "Votre personnage ne possède pas de classement de guilde!",
+    "pt": "Seu personagem não possui uma classificação na guilda!"
   },
   "Your rank is invalid!": {
-	"pt": "Sua classificação é inválida!"
+    "fr": "Votre rang est invalide!",
+    "pt": "Sua classificação é inválida!"
   },
   "Your character lacks guild data editing permissions!": {
-	"pt": "Seu personagem não possui permissão para alterar informações da guilda!"
+    "fr": "Votre personnage n'a pas les permissions d'éditer les données de guilde!",
+    "pt": "Seu personagem não possui permissão para alterar informações da guilda!"
   },
   "Invite a user to your closed Guild": {
-	"pt": "Convida um usuário para sua guilda fechada"
+    "fr": "Inviter un utilisateur à votre guilde fermée",
+    "pt": "Convida um usuário para sua guilda fechada"
   },
   "Your character lacks guild invite permissions!": {
-	"pt": "Seu personagem não possui permissão de convidar para a guilda!"
+    "fr": "Votre personnage n'a pas les permissions d'inviter desmembres dans la guilde!",
+    "pt": "Seu personagem não possui permissão de convidar para a guilda!"
   },
   "Kick a user from your guild (requires guild kick permissions)": {
-	"pt": "Kicka um usuário da sua guilda (requer permissão para kickar na guilda"
+    "fr": "Exclue un utilisateur de votre guilde (nécessite les permissions d'exclusion)",
+    "pt": "Kicka um usuário da sua guilda (requer permissão para kickar na guilda"
   },
   "Your character lacks guild kick permissions!": {
-	"pt": "Seu personagem não possui permissão de kickar na guilda!"
+    "fr": "Votre personnage n'a pas les permissions d'exclusion!",
+    "pt": "Seu personagem não possui permissão de kickar na guilda!"
   },
   "That character is not in your guild!": {
-	"pt": "Este personagem não está na sua guilda!"
+    "fr": "Ce personnage n'est pas dans votre guilde",
+    "pt": "Este personagem não está na sua guilda!"
   },
   "You do not have the authority to kick that character!": {
-	"pt": "Você não tem autorização para kickar este personagem!"
+    "fr": "Vous n'avez pas la permission de guilde pour exclure ce personnage!",
+    "pt": "Você não tem autorização para kickar este personagem!"
   },
   "Set a setting for the guild": {
-	"pt": "Define as configurações da guilda"
+    "fr": "Défini des paramètres pour la guilde",
+    "pt": "Define as configurações da guilda"
   },
   "You lack the edit guild settings permission!": {
-	"pt": "Você não possui permissão para alterar as configurações da guilda!"
+    "fr": "Vous n'avez pas la permission de modifier les paramètres de la guilde",
+    "pt": "Você não possui permissão para alterar as configurações da guilda!"
   },
   "Setting name invalid!": {
-	"pt": "Nome de configuração inválido!"
+    "fr": "Nom de confguration invalide!",
+    "pt": "Nome de configuração inválido!"
   },
   "See the ranks for a guild": {
-	"pt": "Vejas as classificações de uma guilda"
+    "fr": "Affiche les classements d'une guilde",
+    "pt": "Vejas as classificações de uma guilda"
   },
   "Please upgrade to use guild ranks! For a small amount monthly you can enable premium features on your server which allows us to keep a bot as large as this running. See rp!features for details": {
-	"pt": "Por favor, atualize para utilizar classificações de guildas. Por uma pequena quantia ao mês você pode habilitar recursos premium no seu servidor, o que nos permite manter um bot tão grande quanto este rodando. Veja rp!features para mais detalhes"
+    "fr": "S'il vous plait mettez à niveau le serveur pour avoir les classements des guilds! Pour une petite somme mensuelle vous pouvez activer les fonctionnalités premium sur votre serveur ce qui nous aide à garder un bot aussi gros actif. Allez voir rp!features pour les détails",
+    "pt": "Por favor, atualize para utilizar classificações de guildas. Por uma pequena quantia ao mês você pode habilitar recursos premium no seu servidor, o que nos permite manter um bot tão grande quanto este rodando. Veja rp!features para mais detalhes"
   },
   "Authority: ": {
-	"pt": "Autoridade"
+    "fr": "Autorité",
+    "pt": "Autoridade"
   },
   "Permissions:\n": {
-	"pt": "Permissões:\n"
+    "fr": "Permissions:\n",
+    "pt": "Permissões:\n"
   },
   "Salary: ": {
-	"pt": "Salário"
+    "fr": "Salaire: ",
+    "pt": "Salário: "
   },
   "Subcommands for managing guild ranks and viewing ranks": {
-	"pt": "Subcomandos para gerenciar classificações de guildas e visualizar classificações"
+    "fr": "Sous-commandes pour gérer les classements de guilde et voir les classements",
+    "pt": "Subcomandos para gerenciar classificações de guildas e visualizar classificações"
   },
   "That rank doesn't exist!": {
-	"pt": "Esta classificação não existe!"
+    "fr": "Ce classement n'existe pas!",
+    "pt": "Esta classificação não existe!"
   },
   "That rank already exists!": {
-	"pt": "Esta classificação já existe!"
+    "fr": "Ce classement existe déjà!",
+    "pt": "Esta classificação já existe!"
   },
   "You do not have the authority to edit that rank!": {
-  "pt": "Você não tem autoridade para editar esta classificação!"
+    "fr": "Vous n'avez pas les permissions de guilde pour modifier ce classement!",
+    "pt": "Você não tem autoridade para editar esta classificação!"
   },
   "Invalid rank name!": {
-	"pt": "Nome de classificação inválido!"
+    "fr": "Nom de classement invalide!",
+    "pt": "Nome de classificação inválido!"
   },
   "You do not have the authority to assign that rank!": {
-	"pt": "Você não tem permissão para associar esta classificação!"
+    "fr": "Vous n'avez pas la permission de guilde pour assigner ce classement!",
+    "pt": "Você não tem permissão para associar esta classificação!"
   },
   "Successfully set guild rank!": {
-	"pt": "Classificação de guilda definida com sucesso!"
+    "fr": "Classement de guilde définie avec succès!",
+    "pt": "Classificação de guilda definida com sucesso!"
   },
   "Your guild has: ": {
-	"pt": "Sua guilda tem: "
+    "fr": "Votre guilde a: ",
+    "pt": "Sua guilda tem: "
   },
   "You do not have enough to deposit!": {
-	"pt": "Você não tem o suficiente para depositar!"
+    "fr": "Vous n'avez pas assez pour déposer ce montant!",
+    "pt": "Você não tem o suficiente para depositar!"
   },
   "Please upgrade to use item containers! For a small amount monthly you can enable premium features on your server which allows us to keep a bot as large as this running. See rp!features for details": {
-	"pt": "Por favor, atualize para utilizar contâineres de itens. Por uma pequena quantia ao mês você pode habilitar recursos premium no seu servidor, o que nos permite manter um bot tão grande quanto este rodando. Veja rp!features para mais detalhes"
+    "fr": "S'il vous plait mettez à niveau le serveur pour utiliser les conteneurs à item! Pour un petit montant par mois vous pouvez activer les fonctionnalités premium sur votre serveur et nous aider à garder un bot aussi gros actif. Allez voir rp!features pour les détails",
+    "pt": "Por favor, atualize para utilizar contâineres de itens. Por uma pequena quantia ao mês você pode habilitar recursos premium no seu servidor, o que nos permite manter um bot tão grande quanto este rodando. Veja rp!features para mais detalhes"
   },
   "Give multiple items to the list of users. Look carefully at syntax\n        Usage:\n            - rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 mycharacter character2\n            - rp!giveitems Bananax14 Applex9 @Administrators @\\u200beveryone": {
-	"pt": "Dar múltiplos itens para a lista de usuários. Fique atento à sintaxe\n        Uso:\n            - rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 meuPersonagem personagem2\n            - rp!giveitems Bananax14 Applex9 @Administrators @\\u200beveryone"
+    "fr": "Doonner plusieurs items à la liste d'utilisateurs. Faites attention à la syntaxe\n        Utilisation:\n            - rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 monpersonnage personnage2\n            - rp!giveitems Bananax14 Applex9 @Administrators @\\u200beveryone",
+    "pt": "Dar múltiplos itens para a lista de usuários. Fique atento à sintaxe\n        Uso:\n            - rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 meuPersonagem personagem2\n            - rp!giveitems Bananax14 Applex9 @Administrators @\\u200beveryone"
   },
   "Successfully gave items": {
-	"pt": "Itens fornecidos com sucesso"
+    "fr": "Items donnés avec succès",
+    "pt": "Itens fornecidos com sucesso"
   },
   "Give an item to a number of characters as an administrator, rather than from your inventory\n        Usage:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 mycharacter character2\n            - rp!giveitem Banana 14 @Administrators @\u200beveryone": {
-	"pt": "Dar um item para um número de personagens como um administrador, e não a partir do seu inventário\n        Uso:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 meuPersonagem personagem2\n            - rp!giveitem Banana 14 @Administrators @\u200beveryone"
+    "fr": "Donne un item à un certain nombre de personnages en tant qu'administrateur, plutôt que de votre inventaire\n        Utilisation:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 monpersonnage personnage2\n            - rp!giveitem Banana 14 @Administrators @\u200beveryone",
+    "pt": "Dar um item para um número de personagens como um administrador, e não a partir do seu inventário\n        Uso:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 meuPersonagem personagem2\n            - rp!giveitem Banana 14 @Administrators @\u200beveryone"
   },
   "Give an item to a number of characters as an administrator, rather than from your inventory. You may\n        also target item tags.\n        Usage:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 mycharacter character2": {
-	"pt": "Dar um item para um número de personagens como um administrador, e não a partir do seu inventário.\n        Você também pode utiliazr tags de itens.\n        Uso:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 meuPersonagem personagem2"
+    "fr": "Donne un item à un certain nombre de personnages en tant qu'administrateur, plutôt que de votre inventaire.\n        Vous pouvez aussi utilisez des tags d'items.\n        Utilisation:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 monpersonnage personnage2",
+    "pt": "Dar um item para um número de personagens como um administrador, e não a partir do seu inventário.\n        Você também pode utiliazr tags de itens.\n        Uso:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 meuPersonagem personagem2"
   },
   "That isn't a valid item!": {
-	"pt": "Esté não é um item válido!"
+    "fr": "Ce n'est pas un item valide!",
+    "pt": "Esté não é um item válido!"
   },
   "Give an item from your inventory to another character.\n        Usage:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 charname charname2": {
-	"pt": "Dar um item do seu inventário para outro personagem.\n        Uso:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 nomeDoPersonagem1 nomeDoPersonagem2"
+    "fr": "Donne un item de votre inventaire à un autre personnage.\n        Utilisation:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 nomdepersonnage nomdepersonnage2",
+    "pt": "Dar um item do seu inventário para outro personagem.\n        Uso:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 nomeDoPersonagem1 nomeDoPersonagem2"
   },
   "You do not have that many to give away!": {
-	"pt": "Você não tem essa quantidade para dar!"
+    "fr": "Vous n'avez pas autant à donner!",
+    "pt": "Você não tem essa quantidade para dar!"
   },
   "{} is not tranferrable!": {
-	"pt": "{} não é transferível!"
+    "fr": "{} n'est pas tranférable!",
+    "pt": "{} não é transferível!"
   },
   "Items given!": {
-	"pt": "Itens fornecidos!"
+    "fr": "Items donnés!",
+    "pt": "Itens fornecidos!"
   },
   "Accept a trade": {
-	"pt": "Aceitar uma negociação"
+    "fr": "Accepter un échange",
+    "pt": "Aceitar uma negociação"
   },
   "Decline a trade": {
-	"pt": "Rejeitar uma negociação"
+    "fr": "Refuser un échange",
+    "pt": "Rejeitar uma negociação"
   },
   "Starts a trade between you and someone else": {
-	"pt": "Inicie uma negociação entre você e outra pessoa"
+    "fr": "Commence un échange avec vous et quelqu'un d'autre",
+    "pt": "Inicie uma negociação entre você e outra pessoa"
   },
   "Cancel a trade": {
-	"pt": "Cancelar uma negociação"
+    "fr": "Annule un échange",
+    "pt": "Cancelar uma negociação"
   },
   "View the containers that are in your inventory and their numbers.": {
-	"pt": "Exibe os contâineres que estão no seu inventório e seus números."
+    "fr": "Montre les conteneurs présents dans votre inventaire et leurs numéros.",
+    "pt": "Exibe os contâineres que estão no seu inventório e seus números."
   },
   "No items": {
-	"pt": "Nenhum item"
+    "fr": "Pas d'items",
+    "pt": "Nenhum item"
   },
   "Deposit the given items into the container with the given number. To see which container has which number, check rp!containers\n        Usage: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ": {
-	"pt": "Deposita os itens informados no contâiner com o número informado. Para ver qual contâiner tem determinado número, verifique rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15\n         "
+    "fr": "Dépose les items donnés dans le conteneur avec le numéro donné. Pour voir quel conteneur a quel numéro, faites r!containers\n        Utilisation: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ",
+    "pt": "Deposita os itens informados no contâiner com o número informado. Para ver qual contâiner tem determinado número, verifique rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15\n         "
   },
   "You don't have this many items to deposit!": {
-	"pt": "Você não tem essa quantidade de itens para depositar!"
+    "fr": "Vous n'avez pas autant d'items à déposer!",
+    "pt": "Você não tem essa quantidade de itens para depositar!"
   },
   "You cannot put containers in other containers!": {
-	"pt": "Você não pode colocar um contâiner dentro de outro contâiner!"
+    "fr": "Vous ne pouvez pas mettre un contaneur dans un autre conteneur!",
+    "pt": "Você não pode colocar um contâiner dentro de outro contâiner!"
   },
   "That is not a valid container number!": {
-	"pt": "Este não é um número de contâiner válido!"
+    "fr": "Ce n'est pas un numérode conteneur valide!",
+    "pt": "Este não é um número de contâiner válido!"
   },
   "Successfully deposited items!": {
-	"pt": "Itens depositados com sucesso!"
+    "fr": "Items déposés avec succès!",
+    "pt": "Itens depositados com sucesso!"
   },
   "Withdraw the given items from the container with the given number. To see which container has which number, check rp!containers\n        Usage: rp!container withdraw 1 Applex15, Bananax25, Orangex15": {
-	"pt": "Retira os itens informados de um contâiner com o número informado. Para ver qual contâiner tem determinado número, verifique rp!containers\n        Uso: rp!container withdraw 1 Applex15, Bananax25, Orangex15"
+    "fr": "Retire les items donnés du conteneur avec le numéro donné. Pour voir quel conteneur a quel numéro, faites rp!containers\n        Utilisation: rp!container withdraw 1 Applex15, Bananax25, Orangex15",
+    "pt": "Retira os itens informados de um contâiner com o número informado. Para ver qual contâiner tem determinado número, verifique rp!containers\n        Uso: rp!container withdraw 1 Applex15, Bananax25, Orangex15"
   },
   "There are not this many items in the container!": {
-	"pt": "Não há essa quantidade de itens no contâiner!"
+    "fr": "Il n'y a pas autant d'items dans ce conteneur!",
+    "pt": "Não há essa quantidade de itens no contâiner!"
   },
   "Successfully withdrew items!": {
-	"pt": "Itens retirados com sucesso!"
+    "fr": "items retirés avec succès!",
+    "pt": "Itens retirados com sucesso!"
   },
   "Subcommands for items and view info about an item\n        Usage: rp!item Banana": {
-	"pt": "Subcomandos para itens e exibir informações a respeito de um item\n        Uso: rp!item Banana"
+    "fr": "Sous-commandes pour lesitems et voir les infos à propos d'un item\n        Utilisation: rp!item Banana",
+    "pt": "Subcomandos para itens e exibir informações a respeito de um item\n        Uso: rp!item Banana"
   },
   "That item does not exist!": {
-	"pt": "Este item não existe!"
+    "fr": "Cet item n'existe pas!",
+    "pt": "Este item não existe!"
   },
   "Type": {
-	"pt": "Tipo"
+    "fr": "Type",
+    "pt": "Tipo"
   },
   "That item doesn't exist!": {
-	"pt": "Este item não existe!"
+    "fr": "Cet item n'existe pas!",
+    "pt": "Este item não existe!"
   },
   "Rename an item with the given name": {
-	"pt": "Renomei um item para o nome informado"
+    "fr": "Renomme un item avec le nom donné",
+    "pt": "Renomei um item para o nome informado"
   },
   "Edit an item with the given name": {
-	"pt": "Altere um item com o nome informado"
+    "fr": "Modifie l'item avec le nom donné",
+    "pt": "Altere um item com o nome informado"
   },
   "Updated name!": {
-	"pt": "Nome atualizado!"
+    "fr": "Nom mis à jour!",
+    "pt": "Nome atualizado!"
   },
   "An item with that name already exists!": {
-	"pt": "Um item como este nome já existe!"
+    "fr": "Un item a déjà ce nom!",
+    "pt": "Um item como este nome já existe!"
   },
   "Delete an item with the given name": {
-	"pt": "Remove um item com o nome informado"
+    "fr": "Supprime un item avec le nom donné",
+    "pt": "Remove um item com o nome informado"
   },
   "Create an item with the given name": {
-	"pt": "Cria um item com o nome informado"
+    "fr": "Crée un item avec le nom donné",
+    "pt": "Cria um item com o nome informado"
   },
   "Item deleted!": {
-	"pt": "Item removido!"
+    "fr": "Item supprimé!",
+    "pt": "Item removido!"
   },
   "View information for the given region": {
-	"pt": "Exibe informações para a região informada"
+    "fr": "Voir les informations pour la région donnée",
+    "pt": "Exibe informações para a região informada"
   },
   "That region does not exist!": {
-	"pt": "Esta região não existe!"
+    "fr": "Cette région n'existe pas!",
+    "pt": "Esta região não existe!"
   },
   "Channels": {
-	"pt": "Canais"
+    "fr": "Channels",
+    "pt": "Canais"
   },
   "Role": {
-	"pt": "Cargo"
+    "fr": "Rôle",
+    "pt": "Cargo"
   },
   "Neighbors": {
-	"pt": "Vizinhos"
+    "fr": "Voisins",
+    "pt": "Vizinhos"
   },
   "Create a region for the given role": {
-	"pt": "Cria uma região para o cargo informado"
+    "fr": "Crée une région pour le rôle donné",
+    "pt": "Cria uma região para o cargo informado"
   },
   "Add a channel to the region": {
-	"pt": "Adiciona um canão à região"
+    "fr": "Ajoute un channel à la région",
+    "pt": "Adiciona um canão à região"
   },
   "Added channel!": {
-	"pt": "Canao adicionado!"
+    "fr": "Channel ajouté!",
+    "pt": "Canao adicionado!"
   },
   "Removes a channel from the region": {
-	"pt": "Remove um canal de uma região"
+    "fr": "Supprime un channel de la région",
+    "pt": "Remove um canal de uma região"
   },
   "Removed channel!": {
-	"pt": "Canal removido"
+    "fr": "Channel supprimé",
+    "pt": "Canal removido"
   },
   "Add another Region as a neighbor to this one": {
-	"pt": "Adiciona outra Região como vizinha desta"
+    "fr": "Ajoute une autre Région en tant que voisin de celle là",
+    "pt": "Adiciona outra Região como vizinha desta"
   },
   "Target region does not exist!": {
-	"pt": "Região alvo não existe!"
+    "fr": "La région ciblée n'existe pas",
+    "pt": "Região alvo não existe!"
   },
   "Remove a region neighbor from this region": {
-	"pt": "Remove uma região vizinha desta região"
+    "fr": "Supprime une région comme voisin de cette région",
+    "pt": "Remove uma região vizinha desta região"
   },
   "Contains subcommands for salary creation and management": {
-	"pt": "Contém subcomandos para criação e gerenciamento de salário"
+    "fr": "Contient les sous-commandes pour la création et la gestion des salaires",
+    "pt": "Contém subcomandos para criação e gerenciamento de salário"
   },
   "No salaries!": {
-	"pt": "Nenhum salário!"
+    "fr": "Pas de salaire!",
+    "pt": "Nenhum salário!"
   },
   "Create a new salary": {
-	"pt": "Cria um novo salário"
+    "fr": "Crée un nouveau salaire",
+    "pt": "Cria um novo salário"
   },
   "Role \"{}\" not found.": {
-	"pt": "Cargo \"{}\" não encontrado."
+    "fr": "Rôle \"{}\" pas trouvé.",
+    "pt": "Cargo \"{}\" não encontrado."
   },
   "Delete a salary for the given role": {
-	"pt": "Remove o salário para o cargo informado"
+    "fr": "Supprime un salaire pour le role donné",
+    "pt": "Remove o salário para o cargo informado"
   },
   "Salary deleted!": {
-	"pt": "Salário removido!"
+    "fr": "Salaire supprimé!",
+    "pt": "Salário removido!"
   },
   "Salary for {} cannot be collected for another {}": {
-	"pt": "Salário para {} não pode ser coletado por outro {}"
+    "fr": "Salaire pour {} ne peut pas etre collecté par un autre {}",
+    "pt": "Salário para {} não pode ser coletado por outro {}"
   },
   "Collected salary for {}": {
-	"pt": "Salário coletado por {}"
+    "fr": "Salaire collecté pour {}",
+    "pt": "Salário coletado por {}"
   },
   "Use Webhooks": {
-	"pt": "Utilize Webhooks"
+    "fr": "Utiliser les Webhooks",
+    "pt": "Utilize Webhooks"
   },
   "Items": {
-	"pt": "Itens"
+    "fr": "Items",
+    "pt": "Itens"
   },
   "Characters": {
-	"pt": "Personagens"
+    "fr": "Personnages",
+    "pt": "Personagens"
   },
   "Language": {
-	"pt": "Idioma"
+    "fr": "Langue",
+    "pt": "Idioma"
   },
   "Regions": {
-	"pt": "Regiões"
+    "fr": "Régions",
+    "pt": "Regiões"
   },
   "Guild Cost": {
-	"pt": "Custo da guilda"
+    "fr": "Coût de guilde",
+    "pt": "Custo da guilda"
   },
   "Set the cost of making a guild for the server. (0 for no cost)": {
-	"pt": "Veja os custos de criar uma guilda no servidor. (0 para sem custo)"
+    "fr": "Voir le coût de création de guilde sur le serveur. (0 pour aucun coût)",
+    "pt": "Veja os custos de criar uma guilda no servidor. (0 para sem custo)"
   },
   "Amount must be greater than 0!": {
-	"pt": "Valor deve ser maior que 0!"
+    "fr": "La somme doit être supérieure à 0!",
+    "pt": "Valor deve ser maior que 0!"
   },
   "Updated guild cost": {
-	"pt": "Custo da guilda atualizado"
+    "fr": "Prix de guilde mis à jour",
+    "pt": "Custo da guilda atualizado"
   },
   "Disable a command for the server. Ex: rp!s disable character everyone": {
-	"pt": "Desabilita um comando para o servidor. Ex: rp!s disable character everyone"
+    "fr": "Désactive une commande pour le serveur. Ex: rp!s disable character everyone",
+    "pt": "Desabilita um comando para o servidor. Ex: rp!s disable character everyone"
   },
   "Could not find the command ": {
-	"pt": "Não foi possível encontrar o comando "
+    "fr": "Commande introuvable",
+    "pt": "Não foi possível encontrar o comando "
   },
   "{0.name} command has no subcommands": {
-	"pt": "Comando {0.name} não tem subcomandos"
+    "fr": "La commande {0.name} n'a pas de sous-commandes",
+    "pt": "Comando {0.name} não tem subcomandos"
   },
   "Settings commands cannot be disabled!": {
-	"pt": "Comandos de configuração não podem ser desabilitados!"
+    "fr": "Les paramètres ne peuvent pas être désactivés!",
+    "pt": "Comandos de configuração não podem ser desabilitados!"
   },
   "Disabled command for role {}": {
-	"pt": "Comando para cargo {} desabilitado"
+    "fr": "Commande désactivée pour le rôle {}",
+    "pt": "Comando para cargo {} desabilitado"
   },
   "Explicitly enable a command for a role for the server. Will override the setting for lower roles\n        Ex: rp!s enable character.create @Bot Admin": {
-	"pt": "Habilita um comando explicitamente para um cargo do servidor. Substituirá a configuração para cargos mais baixos\n        Ex: rp!s enable character.create @Bot Admin"
+    "fr": "Active une commande spécifiquement pour un rôle pour le serveur. Ca va surpasser les options pour les rôles plus bas\n        Ex: rp!s enable character.create @Bot Admin",
+    "pt": "Habilita um comando explicitamente para um cargo do servidor. Substituirá a configuração para cargos mais baixos\n        Ex: rp!s enable character.create @Bot Admin"
   },
   "Enabled command for role {}": {
-	"pt": "Comando para o cargo {} habilitado"
+    "fr": "Commande activée pour le role {}",
+    "pt": "Comando para o cargo {} habilitado"
   },
   "Clear the setting for a command for a role. Ex: rp!s clearcommand character @Bot Admin": {
-	"pt": "Limpa a configuração de um comando para um cargo. Ex: rp!s clearcommand character @Bot Admin"
+    "fr": "Enlève les paramètres pour un rôle. Ex: rp!s clearcommand character @Bot Admin",
+    "pt": "Limpa a configuração de um comando para um cargo. Ex: rp!s clearcommand character @Bot Admin"
   },
   "Cleared command for role {}": {
-	"pt": "Comando para o cargo {} limpo"
+    "fr": "Commande enlevée pour le role {}",
+    "pt": "Comando para o cargo {} limpo"
   },
   "Set whether assuming a character makes the user send messages as that character (yes/no)": {
-	"pt": "Define se ao associar um personagem faz com que o usuário envie mensagem como o personagem (yes/no)"
+    "fr": "Défini le fait qu'un personnage associé fait que l'utilisateur envoie des messages en tant que son personnage (yes/no)",
+    "pt": "Define se ao associar um personagem faz com que o usuário envie mensagem como o personagem (yes/no)"
   },
   "Invalid choice! (yes/no)": {
-	"pt": "Escolha inválida! (yes/no)"
+    "fr": "Choix invalide! (yes/no)",
+    "pt": "Escolha inválida! (yes/no)"
   },
   "Updated setting!": {
-	"pt": "Configurações atualizadas!"
+    "fr": "Paramètres mis à jour!",
+    "pt": "Configurações atualizadas!"
   },
   "That is not a valid language!": {
-	"pt": "Este não é um idioma válido!"
+    "fr": "Ce n'est pas une langue valide!",
+    "pt": "Este não é um idioma válido!"
   },
   "View a shop": {
-	"pt": "Exibe uma loja"
+    "fr": "Voir une boutique",
+    "pt": "Exibe uma loja"
   },
   "That shop doesn't exist!": {
-	"pt": "Esta loja não existe!"
+    "fr": "Cette boutique n'existe pas!",
+    "pt": "Esta loja não existe!"
   },
   "Buy Price": {
-	"pt": "Preço de compra"
+    "fr": "Prix d'achat",
+    "pt": "Preço de compra"
   },
   "Sell Price": {
-	"pt": "Preço de venda"
+    "fr": "Prix de vente",
+    "pt": "Preço de venda"
   },
   "Requires": {
-	"pt": "Requer"
+    "fr": "Nécessite",
+    "pt": "Requer"
   },
   "View info on a shop": {
-	"pt": "Ver informações de uma loja"
+    "fr": "Voir les informations sur une boutique",
+    "pt": "Ver informações de uma loja"
   },
   "View the available shops in the given channel": {
-	"pt": "Ver as lojas disponíveis no canal informado"
+    "fr": "Voir les boutiques disponibles dans le channel donné",
+    "pt": "Ver as lojas disponíveis no canal informado"
   },
   "No shops in this channel.": {
-	"pt": "Nenhuma loja neste canal."
+    "fr": "Pas de boutiques dans ce channel",
+    "pt": "Nenhuma loja neste canal."
   },
   "See rp!shop <shopname> to view an available shop": {
-	"pt": "Veja rp!shop <shopname> para ver uma loja disponível"
+    "fr": "Voir rp!shop <nomdeboutique> pour voir les boutiques disponibles",
+    "pt": "Veja rp!shop <shopname> para ver uma loja disponível"
   },
   "Create a new shop": {
-	"pt": "Criar uma nova loja"
+    "fr": "Crée une nouvelle boutique",
+    "pt": "Criar uma nova loja"
   },
   "Edit an existing new shop": {
-	"pt": "Alterar uma loja existente"
+    "fr": "Modifie une boutique existante",
+    "pt": "Alterar uma loja existente"
   },
   "Delete a shop": {
-	"pt": "Remover uma loja"
+    "fr": "Supprime une boutique",
+    "pt": "Remover uma loja"
   },
   "Shop deleted!": {
-	"pt": "Loja removida!"
+    "fr": "Boutique supprimée!",
+    "pt": "Loja removida!"
   },
   "Add a new item to the given shop.\n         To make buying the item require having another item, you may specify the <requires> arugment, \\\n        which should target an item name.": {
-	"pt": "Adiciona um novo item na loja informada.\n         Para definir que a compra deste item requer ter outro item, você pode definir o argumento <requires>, \\\n        que deve apontar para um nome de item."
+    "fr": "Ajoute un nouvel item dans la boutique donnée.\n         Pour faire en sorte qu'acheter cet item nécessite un autre item, vous devez spécifier l'argument <requires>, \\\n         ce qui doit viser le nom d'un item",
+    "pt": "Adiciona um novo item na loja informada.\n         Para definir que a compra deste item requer ter outro item, você pode definir o argumento <requires>, \\\n        que deve apontar para um nome de item."
   },
   "Added item to shop": {
-	"pt": "Item adicionado à loja"
+    "fr": "Item ajouté à la boutique",
+    "pt": "Item adicionado à loja"
   },
   "Remove an item from the given shop": {
-	"pt": "Remove um item da loja informada"
+    "fr": "Enlève un item de la boutique donnée",
+    "pt": "Remove um item da loja informada"
   },
   "Removed item from shop": {
-	"pt": "Item removido da loja"
+    "fr": "Enlève l'item de la boutique",
+    "pt": "Item removido da loja"
   },
   "Buy a quantity of an item from the given shop": {
-	"pt": "Compra uma quantidade de um item da loja informada"
+    "fr": "Achète une quatité d'un item d'une boutique donnée",
+    "pt": "Compra uma quantidade de um item da loja informada"
   },
   "You must have {} to buy this!": {
-	"pt": "Você deve ter {} para comprar isso!"
+    "fr": "Vous devez avoir {} pour acheter ça!",
+    "pt": "Você deve ter {} para comprar isso!"
   },
   "You cannot afford that many!": {
-	"pt": "Você não pode arcar com tanto!"
+    "fr": "Vous ne pouvezpas en acheter autant!",
+    "pt": "Você não pode arcar com tanto!"
   },
   "Successfully bought items!": {
-	"pt": "Itens comprados com sucesso!"
+    "fr": "Items achetés avec succès!",
+    "pt": "Itens comprados com sucesso!"
   },
   "Sell a quantity of an item to the given shop": {
-	"pt": "Vende uma quantidade de um item na loja informada"
+    "fr": "Vends une quantité d'un item à la boutique donnée",
+    "pt": "Vende uma quantidade de um item na loja informada"
   },
   "That item isn't sellable": {
-	"pt": "Este item não pode ser vendido"
+    "fr": "Cet objet n'est pas vendable",
+    "pt": "Este item não pode ser vendido"
   },
   "That item isn't buyable": {
-	"pt": "Este item não pode ser comprado"
+    "fr": "Cet item n'est pas achetable",
+    "pt": "Este item não pode ser comprado"
   },
   "You must have {} to sell this!": {
-	"pt": "Você deve ter {} para vender isso!"
+    "fr": "Vous devez avoir {} pour vendre ça!",
+    "pt": "Você deve ter {} para vender isso!"
   },
   "You don't have that many to sell!": {
-	"pt": "Você não tem essa quantidade para vender!"
+    "fr": "Vous n'avez pas autant d'items à vendre!",
+    "pt": "Você não tem essa quantidade para vender!"
   },
   "Successfully sold items!": {
-	"pt": "Itens vendidos com sucesso!"
+    "fr": "Items vendus avec succès!",
+    "pt": "Itens vendidos com sucesso!"
   },
   "Listing ID": {
-	"pt": "Listando ID"
+    "fr": "ID de liste",
+    "pt": "Listando ID"
   },
   "Seller": {
-	"pt": "Vendedor"
+    "fr": "Vendeur",
+    "pt": "Vendedor"
   },
   "Quantity": {
-	"pt": "Quantidade"
+    "fr": "Quantité",
+    "pt": "Quantidade"
   },
   "List an item on the player market. Unique items must have a quantity of 1": {
-	"pt": "Lista um item de um mercado de jogador. Itens únicos devem ter a quantidade de 1"
+    "fr": "List un item dans le marché du joueur. Les items uniques doivent avoir une quantité de 1",
+    "pt": "Lista um item de um mercado de jogador. Itens únicos devem ter a quantidade de 1"
   },
   "View the player market": {
-	"pt": "Exibe o mercado do jogador"
+    "fr": "Voir le marché du joueur",
+    "pt": "Exibe o mercado do jogador"
   },
   "Quantity must be greater than 0!": {
-	"pt": "Quantidade deve ser maior que 0!"
+    "fr": "La quantité doit être plus grande que 0!",
+    "pt": "Quantidade deve ser maior que 0!"
   },
   "You may only list 1 unique item at a time!": {
-	"pt": "Você pode listar somente 1 item único por vez!"
+    "fr": "Vous devez lister seulement 1 item unique à la fois!",
+    "pt": "Você pode listar somente 1 item único por vez!"
   },
   "Item listed on market!": {
-	"pt": "Itens do mercado listados!"
+    "fr": "Items listé sur le marché!",
+    "pt": "Itens do mercado listados!"
   },
   "Buy an item from the market with the given ID": {
-	"pt": "Compre um item de um mercado com o ID informado"
+    "fr": "Acheter un item depuis le marché avec l'ID donné",
+    "pt": "Compre um item de um mercado com o ID informado"
   },
   "You cannot afford to buy this item!": {
-	"pt": "Você não pode arcar com a compra deste item!"
+    "fr": "Vous ne pouvez pas acheter cet item!",
+    "pt": "Você não pode arcar com a compra deste item!"
   },
   "An item you listed on the market in server '{}' by character '{}' was sold to '{}' for ${:.2f}": {
-	"pt": "Um item que você colocou no mercado do servidor '{}' através do personagem '{}' foi vendido para '{}' por ${:.2f}"
+    "fr": "Un item que vous avez listé sur le serveur '{}' par le personnage '{}' a été vendu à '{}' pour ${:.2f}",
+    "pt": "Um item que você colocou no mercado do servidor '{}' através do personagem '{}' foi vendido para '{}' por ${:.2f}"
   },
   "Item successfully purchased!": {
-	"pt": "Item comprado com sucesso!"
+    "fr": "Item acheté avec succès!",
+    "pt": "Item comprado com sucesso!"
   },
   "How long should the time between salary collection be (in minutes)\n": {
-
+    "fr": "Combien de temps doit il y avoir entre 2 récupération de salaire (en minutes)\n"
   },
   "How much money should the salary give?\n": {
-
+    "fr": "Combien d'argent le salaire doit il donner ?"
   },
   "What items should the salary give?\n": {
-
+    "fr": "Quels items lesalaire doit il donner?\n"
   },
-  "What type of salary should it be? Automatically given (after the time), or should the player need tocollect it manually with rp!salary collect? Choices are `automatic` or `manual`\n":{
-
+  "What type of salary should it be? Automatically given (after the time), or should the player need tocollect it manually with rp!salary collect? Choices are `automatic` or `manual`\n": {
+    "fr": "Quel type de salaire doit il être ? Donné automatiquement (après le temps donné), ou le joueur doit il le collecter manuellement avec rp!salary collect? Les choix sont `automatic` ou `manual`"
   },
   "Type the number of the page you wish to jump to.\n1. Time Interval\n2. Money\n3. Items\n4. Type": {
-
+    "fr": "tapez le numéro de la page à laquelle vous voulez aller.\n1. Intervalle de temps\n2. Argent\n3. Items\n4. Type"
   },
   "Time Interval": {
-
+    "fr": "Intervalle de temps"
   },
   "Money": {
-
+    "fr": "Argent"
   },
   "Final Review": {
-
+    "fr": "Dernière vérification"
   },
   "Not a valid number! Try again!": {
-
+    "fr": "Pas un nombre valide! Essayez encore!"
   },
   "Not a number! Try again!": {
-
+    "fr": "Pas un nombre! Essayez encore!"
   },
   "minutes": {
-
+    "fr": "minutes"
   },
   "Failed to parse item list!": {
-
+    "fr": "Impossible d'analyser la liste d'items!"
   },
   "Failed to find role with that name!": {
-
+    "fr": "Impossible de trouver un rôle avec ce nom!"
   },
   "Please set a time interval!": {
-
+    "fr": "Spécifiez une intervalle de temps s'il vous plait!"
   },
   "Please set a role!": {
-
+    "fr": "Spécifiez un rôle s'il vous plait!"
   },
   "You need to set either money or items or both!": {
-
+    "fr": "Vous devez définir au moins l'argent ou les items ou les deux!"
   },
   "Salary successfully created!": {
-
+    "fr": "Salaire créé avec succès!"
   },
   "Not set": {
-
+    "fr": "Non défini"
   },
   "No tags!": {
-
+    "fr": "Pas de tags!"
   },
   "Delete a lottery": {
-	  
   },
   "That lottery already exists!": {
-	  
   },
   "Lottery deleted!": {
-	  
   },
   "{} does not have enough money to take!": {
-  },
+  }
 }
