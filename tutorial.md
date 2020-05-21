@@ -52,9 +52,58 @@ RPGBot is a tool to help you do your own RPGs, there is no game to play without 
 >
 >If something doesn't work and involves an item or a character with spaces in its name try putting " these around it like "this" to signal to the bot where one thing ends and the other begins
 
+**Any time you are confused as to how to use a command or want to see subcommands for a command, please look at the help for that command, for example**
+
+> rp!help bank
+> rp!help character assume
+> rp!help
+
+The help can provide instant information on using commands. If a command does not appear to be listed, it is probably a subcommand of another command!
+
 Now that thats out of the way lets get into how to use those things
 
 ## Managing Settings and Setting Up a Server
+
+RPGBot is configurable, and provides many options to fit your server needs.
+
+### Language
+
+> rp!settings setlanguage <language>
+    
+You can use this command to set the bot to use a certain language for your server. See the help on the command for details, currently the bot supports several languages including english, spanish, french, german, and portuguese. We are always looking for help with translations, so if you would like to contribute, please contact us in the support server!
+
+### Prefix
+
+> rp!settings setprefix <prefix>
+    
+A custom prefix can be configured for your server, this is independent from character prefixes and acts as a general replacement for rp!
+
+### Character Assumption and Webhooks
+
+> rp!settings usewebhooks <yes/no>
+
+When characters are assumed, by default their messages will be replaced by a webhook that has their character's name and icon, with the content of the message. This can be disabled by setting usewebhooks to `no`.
+
+### Disabling and Enabling Commands
+
+> rp!settings disable <command> <role>
+> rp!settings enable <command> <role>
+> rp!settings clearcommand <command> <role>
+    
+Every command has 3 options, either it is enabled for a given role (bypassing moderator restrictions), disabled for a given role (not bypassing moderator restrictions), or it has no setting, and defers to the default option of whether it is for moderators or not. Bot Moderators bypass all settings for disabled and enabled commands. For example, if the `character create` command is disabled for `@everyone`, then nobody but moderators may make characters. If the command `givemoney` is enabled for the `Money Givers` (any role can be targeted), then anyone with the `Money Givers` role may use the command, in addition to Bot Moderators. Use `settings clearcommand` to clear the settings for a command.
+
+### Guild Costs
+
+> rp!settings setguildcost <cost>
+
+Guilds can be configured to require a certain cost to be made by players. Players will be charged the given amount when attempting to create a guild.
+
+### Character Roles
+
+> rp!character addrole <role> [target]
+> rp!character removerole <role> [target]
+    
+Characters can be given roles for targeting things like giving items, money, and for managing salaries. These roles are standard Discord roles, to add a role, you must first create it through Discord. Having the Bot Moderator role on a character has no effect.
 
 ## Characters
 
@@ -96,7 +145,7 @@ While assumed your sent messages will be deleted and replaced by the bot saying 
 
 Most commands on this bot will require you to use them as a character, whether you use the assume command or the character prefix for that doesnt matter. If you do not want the bot to resend messages with the custom character, you can disable it in the server settings with
 
-> rp!usewebhooks false
+> rp!settings usewebhooks false (as a moderator)
 
 It is generally easier to use a custom prefix than to assume, see the creation section above for details.
 
@@ -137,13 +186,7 @@ Before you can do anything with items you need to create at least one
 ##### Type
 - several tags you can add for unique effects, the bot explains the tags in the creation prompt
 
-## Economy
-
-> Note:
->
-> You need a character to use or be targeted by these commands as only characters can have money or inventories
-
-Managing the economy is done with a number of commands. The economy ties together the inventory system, character system, and several other systems. Money can be made in a number of ways: a starting amount granted to new players, manually given by moderators, earned with salaries on a regular basis, or by selling items to the shop.
+## The Economy as a Player
 
 ### Balance and Bank
 
@@ -156,6 +199,24 @@ Lets you check how much money you have in your pockets and in your bank, if you 
 
 You can withdraw and deposit into your bank with these commands. You can only spend money that is on you, so be sure to withdraw from the bank if you do not have enough.
 
+## Transactions with players
+
+> rp!trade <target>
+> rp!give [items...] [targets...]
+> rp!pay <amount> <target>
+
+## Shops and Purchases
+
+## Collecting Salaries
+
+## Managing the Economy
+
+> Note:
+>
+> You need a character to use or be targeted by these commands as only characters can have money or inventories
+
+Managing the economy is done with a number of commands. The economy ties together the inventory system, character system, and several other systems. Money can be made in a number of ways: a starting amount granted to new players, manually given by moderators, earned with salaries on a regular basis, or by selling items to the shop.
+
 ### Giving and Taking Money as a Moderator
 
 > rp!givemoney \<amount> [targets...]
@@ -165,7 +226,7 @@ This can be used to directly give and take money from characters. You can target
 
 ### Salaries
 
-### Shop
+### Shop and Market
 
 ## Lootboxes and Chance
 
@@ -175,9 +236,11 @@ This can be used to directly give and take money from characters. You can target
 
 ## Crafting and Recipes
 
-# Migrating from RPGBot V1
+## Premium Features
 
-# Importing Data with Spreadsheets
+## Migrating from RPGBot V1
+
+## Importing Data with Spreadsheets
 Many features of the bot can be imported from .csv files, which can be generated from Excel spreadsheets. Below are example spreadsheets
 See the csv_examples for [example spreadsheets](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/tree/master/csv_examples).
 ### Items
