@@ -20,8 +20,6 @@ Before we get started heres a general overview to give you an understanding of w
     - server shop
     - player trading
     - player market
-- Dynamic Combat Script
-    - [Placeholder]
    
 RPGBot is a tool to help you do your own RPGs, there is no game to play without you setting it up first.
 
@@ -56,9 +54,11 @@ RPGBot is a tool to help you do your own RPGs, there is no game to play without 
 
 Now that thats out of the way lets get into how to use those things
 
+## Managing Settings and Setting Up a Server
+
 ## Characters
 
-Before most of the bot can be used you are going to need a character, to create one type
+All bot features require having a character tied to your command.
 
 ### Creation
 
@@ -78,7 +78,7 @@ Now lets dive into the categories you have access to
     
 - Prefix
 
-    A prefix you can quickly use to talk as the character or use a command as them (you can skip the default prefix if youre using this)
+    A prefix you can quickly use to talk as the character or use a command as them, for example, instead of having to assume the character with `rp!char assume`, you can instead use the custom prefix you've set for the character to use the character for that command, for example, `rp!bank deposit 500` while assumed can be made `>bank deposit 500` while not explicitly assumed.
     
     
 Now that you have made your character lets jump through the basic other usages
@@ -94,7 +94,9 @@ to undo it you can use
 
 While assumed your sent messages will be deleted and replaced by the bot saying it with your assumed character's image as profile picture and with the original content of your message
 
-Most commands on this bot will require you to use them as a character, wether you use the assume command or the character prefix for that doesnt matter
+Most commands on this bot will require you to use them as a character, whether you use the assume command or the character prefix for that doesnt matter. If you do not want the bot to resend messages with the custom character, you can disable it in the server settings with
+
+> rp!usewebhooks false
 
 
 ### Edit
@@ -106,17 +108,19 @@ This command lets you edit already made characters
 ### Lookup
 
 > rp!character \<name>
+> rp!mychars 
+> rp!characters
 
-This lets you look up a character
+You can list characters or find them by name
 
 
-## Items
+## Items and Crafting
 
 > Small Note:
 >
 > You need a character to actually have access to an inventory
 
-###Creation
+### Creation
 
 > rp!item create \name
 
@@ -137,12 +141,18 @@ Before you can do anything with items you need to create at least one
 >
 > You need a character to use or be targeted by these commands as only characters can have money or inventories
 
-### Balance
+Managing the economy is done with a number of commands. The economy ties together the inventory system, character system, and several other systems. Money can be made in a number of ways: a starting amount granted to new players, manually given by moderators, earned with salaries on a regular basis, or by selling items to the shop.
 
-> rp!balance
+### Balance and Bank
 
-Lets you check how much money you have in your pockets and in your bank, if you just made your character you probably have nothing on there or the starter amount. If you don't have a character use this it just wont work at all
+> rp!balance [character]
 
+Lets you check how much money you have in your pockets and in your bank, if you just made your character you probably have nothing on you but the starter amount. You can optionally target a character to see their balance.
+
+> rp!bank withdraw <amount>
+> rp!bank deposit <amount>
+
+You can withdraw and deposit into your bank with these commands. You can only spend money that is on you, so be sure to withdraw from the bank if you do not have enough.
 
 ### Givemoney (Mod)
 
@@ -150,9 +160,15 @@ Lets you check how much money you have in your pockets and in your bank, if you 
 
 You will likely need this money command a lot while setting up as it allows you to create money out of thin air and give it to the specified character/characters
 
+## Lootboxes and Chance
+
+### Lootbox Management
+
+### Lotteries
+
+## Crafting and Recipes
 
 # Migrating from RPGBot V1
-
 
 # Importing Data with Spreadsheets
 Many features of the bot can be imported from .csv files, which can be generated from Excel spreadsheets. Below are example spreadsheets
