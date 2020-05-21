@@ -1044,5 +1044,13 @@
   },
   "Delete a lottery": {
 	  
-  }
+  },
+  "That lottery already exists!": {
+	  
+  },
+  "Lottery deleted!": {
+	  
+  },
+  "{} does not have enough money to take!": {
+  },
 }
