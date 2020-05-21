@@ -92,11 +92,13 @@ to undo it you can use
 
 > rp!character unassume
 
-While assumed your sent messages will be deleted and replaced by the bot saying it with your assumed character's image as profile picture and with the original content of your message
+While assumed your sent messages will be deleted and replaced by the bot saying it with your assumed character's image as profile picture and with the original content of your message. When using a custom prefix, the bot will replace normal messages that begin with <prefix>/message (with a slash between the prefix and message)
 
 Most commands on this bot will require you to use them as a character, whether you use the assume command or the character prefix for that doesnt matter. If you do not want the bot to resend messages with the custom character, you can disable it in the server settings with
 
 > rp!usewebhooks false
+
+It is generally easier to use a custom prefix than to assume, see the creation section above for details.
 
 
 ### Edit
@@ -114,7 +116,7 @@ This command lets you edit already made characters
 You can list characters or find them by name
 
 
-## Items and Crafting
+## Items
 
 > Small Note:
 >
@@ -154,11 +156,16 @@ Lets you check how much money you have in your pockets and in your bank, if you 
 
 You can withdraw and deposit into your bank with these commands. You can only spend money that is on you, so be sure to withdraw from the bank if you do not have enough.
 
-### Givemoney (Mod)
+### Giving and Taking Money as a Moderator
 
 > rp!givemoney \<amount> [targets...]
+> rp!takemoney \<amount> [targets...]
 
-You will likely need this money command a lot while setting up as it allows you to create money out of thin air and give it to the specified character/characters
+This can be used to directly give and take money from characters. You can target users (who are assumed), characters by name, and roles which characters may have.
+
+### Salaries
+
+### Shop
 
 ## Lootboxes and Chance
 
