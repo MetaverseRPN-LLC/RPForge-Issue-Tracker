@@ -18,6 +18,7 @@ Before we get started heres a general overview to give you an understanding of w
     - customizable craftingsystem
 - Inventories
     - Lets you collect items
+    - Containers
 - Economy
     - economy
     - player trading(WIP)
@@ -173,12 +174,15 @@ Hit the green checkmark to finish the item creation process.
 
 ## Inventory
 
+> rp!inventory
+
+Lets you view your current character's inventory
 
 ### Giveitem (Mod)
 
 > rp!giveitem \<itemname> \<amount> [targets...]
 
-Give One type of item to the specified character(s) or role(s)
+Give One type of item to the specified character(s) or all characters with a specific role(s)
 example:
 > rp!giveitem Banana 12 @Henry#8808 @terabix#0001
 
@@ -186,11 +190,12 @@ example:
 
 > rp!giveitem Banana 14 @Administrators @​everyone
 
+
 ### Giveitems (Mod)
 
 > rp!giveitems \<items...> \<targets...>
 
-Give multiple items to the specified character(s) or all characters with specific a role(s)
+Give multiple items to the specified character(s) or all characters with a specific role(s)
 Syntax is itemxamount
 for example 
 > rp!giveitems Bananax12 "Big Applex15" @Henry#8808 @terabix#0001
@@ -204,11 +209,50 @@ for example
 
 > rp!takeitem \<itemname> \<amount> [targets...]
 
-Take One type of item from the specified character(s)
+Take One type of item from the specified character(s) or all characters with a specific role(s)
 example:
 > rp!takeitem Banana 12 @Henry#8808 @terabix#0001
 
 > rp!takeitem Banana 13 mycharacter character2
+
+
+### Takeitems (Mod)
+
+> rp!takeitems \<items...> \<targets...>
+
+Take multiple items from the specified character(s) or all characters with a specific role(s)
+Syntax is itemxamount
+for example 
+> rp!giveitems Bananax12 "Big Applex15" @Henry#8808 @terabix#0001
+
+> rp!giveitems Bananax13 Applex12 mycharacter character2
+
+> rp!giveitems "Small Bananax14" Applex9 @Administrators @​everyone
+
+
+### Give
+
+> rp!give \<items...> \<targets...>
+
+Give a set of different items to multiple people for example giving 2 apples this way gives every target 2 apples each assuming you have enough
+
+> rp!give Bananax5 Applex13 @Henry#8808
+
+> rp!give Bananax6 Applex23 charname charname2
+
+
+## Containers
+
+> rp!containers
+
+View the containers your character has in their inventory
+
+
+### View
+
+> rp!container \<id>
+
+View a container's contents
 
 
 
