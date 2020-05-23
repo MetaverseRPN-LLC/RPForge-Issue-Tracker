@@ -226,6 +226,12 @@ This can be used to directly give and take money from characters. You can target
 
 ### Salaries
 
+You will first off have to create discord roles to give salaries to. When you have the role made use the following command
+> rp!salary create \<role>
+
+For the role you can either ping it or type its name (use one " on each side "like this" if it has multiple words)
+
+
 ### Shop and Market
 
 ## Lootboxes and Chance
@@ -239,10 +245,27 @@ This can be used to directly give and take money from characters. You can target
 ## Premium Features
 
 ## Migrating from RPGBot V1
+You can migrate data from v1 to v2 with this handy command:
+
+> rp!import rpgbot \<datatype> [overwrite]
+
+The available datatypes are
+- items
+- characters
+- shops
+
+Please import them in this order to ensure that the bot can work them properly
+Disclaimer: the items and balance in your non character inventory wont be imported, we will release a patch for this soon
+
+
 
 ## Importing Data with Spreadsheets
 Many features of the bot can be imported from .csv files, which can be generated from Excel spreadsheets. Below are example spreadsheets
 See the csv_examples for [example spreadsheets](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/tree/master/csv_examples).
+
+> rp!import \<datatype> [overwrite]
+
+Available datatypes are:
 ### Items
 [Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/item_example.xlsx)
 Items require several columns:
