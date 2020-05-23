@@ -1313,6 +1313,7 @@
     
     "pt": "{} não tem dinheiro suficiente para pegar!"
   },	    
-  "You must be assumed to use this command! Create a character with `rp!char create` and see the tutorial for information on assuming characters.": {	    "pt": "{} não tem dinheiro suficiente para pegar!"
+  "You must be assumed to use this command! Create a character with `rp!char create` and see the tutorial for information on assuming characters.": {
+    "pt": "Você deve assumir que usa este comando! Crie um personagem com `rp!char create` e consulte o tutorial para obter informações sobre como assumir caracteres."
   }
 }
