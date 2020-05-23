@@ -16,14 +16,32 @@ Before we get started heres a general overview to give you an understanding of w
     - custom items
     - optionally useable(WIP)
     - customizable craftingsystem
-- Economy System
+- Inventories
+    - Lets you collect items
+- Economy
     - economy
-    - custom currency name
-    - lotteries
-    - salaries
-    - server shop
     - player trading(WIP)
+- Crafting
+- Guilds
+    - Groups for your players to make
+- Salary
+    - regular money or item supply for players
+- Shop
+    - server shop
     - player market
+- Chance
+    - lotteries
+    - dice
+- Regions
+- Settings
+    - custom currency name
+    - language settings
+    - prefix customiation
+    - command enabling/disabling
+- Backup
+    - item importing
+    - getting data from v1
+- Premium Features
 - Dynamic Combat Script
     - [Placeholder]
    
@@ -59,6 +77,11 @@ RPGBot is a tool to help you do your own RPGs, there is no game to play without 
 >If something doesn't work and involves an item or a character with spaces in its name try putting " these around it like "this" to signal to the bot where one thing ends and the other begins
 
 Now that thats out of the way lets get into how to use those things
+
+
+
+
+
 
 ## Characters
 
@@ -146,6 +169,48 @@ All the below steps are optional
 - several tags you can add for unique effects, the bot explains the tags in the creation prompt
 
 Hit the green checkmark to finish the item creation process.
+
+
+## Inventory
+
+
+### Giveitem (Mod)
+
+> rp!giveitem \<itemname> \<amount> [targets...]
+
+Give One type of item to the specified character(s) or role(s)
+example:
+> rp!giveitem Banana 12 @Henry#8808 @terabix#0001
+
+> rp!giveitem Banana 13 mycharacter character2
+
+> rp!giveitem Banana 14 @Administrators @​everyone
+
+### Giveitems (Mod)
+
+> rp!giveitems \<items...> \<targets...>
+
+Give multiple items to the specified character(s) or all characters with specific a role(s)
+Syntax is itemxamount
+for example 
+> rp!giveitems Bananax12 "Big Applex15" @Henry#8808 @terabix#0001
+
+> rp!giveitems Bananax13 Applex12 mycharacter character2
+
+> rp!giveitems "Small Bananax14" Applex9 @Administrators @​everyone
+
+
+### Takeitem (Mod)
+
+> rp!takeitem \<itemname> \<amount> [targets...]
+
+Take One type of item from the specified character(s)
+example:
+> rp!takeitem Banana 12 @Henry#8808 @terabix#0001
+
+> rp!takeitem Banana 13 mycharacter character2
+
+
 
 ## Economy
 

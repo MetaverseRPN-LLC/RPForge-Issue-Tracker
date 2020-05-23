@@ -256,7 +256,8 @@ The available datatypes are
 
 Please import them in this order to ensure that the bot can work them properly
 Disclaimer: the items and balance in your non character inventory wont be imported, we will release a patch for this soon
-
+You dont need to add the overwrite unless you want to overwrite existing data on v2
+if you do want to do that just type overwrite
 
 
 ## Importing Data with Spreadsheets
