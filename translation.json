@@ -1312,5 +1312,7 @@
   "{} does not have enough money to take!": {
     
     "pt": "{} não tem dinheiro suficiente para pegar!"
+  },	    
+  "You must be assumed to use this command! Create a character with `rp!char create` and see the tutorial for information on assuming characters.": {	    "pt": "{} não tem dinheiro suficiente para pegar!"
   }
 }
