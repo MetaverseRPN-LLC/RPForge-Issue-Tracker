@@ -1222,70 +1222,98 @@
     "pt": "Item comprado com sucesso!"
   },
   "How long should the time between salary collection be (in minutes)\n": {
-    "fr": "Combien de temps doit il y avoir entre 2 récupération de salaire (en minutes)\n"
+    "fr": "Combien de temps doit il y avoir entre 2 récupération de salaire (en minutes)\n",
+    "pt": "Quanto deve ser o tempo entre as coletas de salário (em minutos)\n"
   },
   "How much money should the salary give?\n": {
-    "fr": "Combien d'argent le salaire doit il donner ?"
+    "fr": "Combien d'argent le salaire doit il donner ?",
+    "pt": "Quando dinheiro o salário deve dar?\n"
   },
   "What items should the salary give?\n": {
-    "fr": "Quels items lesalaire doit il donner?\n"
+    "fr": "Quels items lesalaire doit il donner?\n",
+    "pt": "Quais itens o salário deve dar?\n"
   },
-  "What type of salary should it be? Automatically given (after the time), or should the player need tocollect it manually with rp!salary collect? Choices are `automatic` or `manual`\n": {
-    "fr": "Quel type de salaire doit il être ? Donné automatiquement (après le temps donné), ou le joueur doit il le collecter manuellement avec rp!salary collect? Les choix sont `automatic` ou `manual`"
+  "What type of salary should it be? Automatically given (after the time), or should the player need to collect it manually with rp!salary collect? Choices are `automatic` or `manual`\n": {
+    "fr": "Quel type de salaire doit il être ? Donné automatiquement (après le temps donné), ou le joueur doit il le collecter manuellement avec rp!salary collect? Les choix sont `automatic` ou `manual`",
+    "pt": "Que tipo de salário deve ser? Automaticamente pago (após o tempo), ou o jogador precisa coletar manualmente com rp!salary collect? Opções são `automatic` ou `manual`\n"
   },
   "Type the number of the page you wish to jump to.\n1. Time Interval\n2. Money\n3. Items\n4. Type": {
-    "fr": "tapez le numéro de la page à laquelle vous voulez aller.\n1. Intervalle de temps\n2. Argent\n3. Items\n4. Type"
+    "fr": "tapez le numéro de la page à laquelle vous voulez aller.\n1. Intervalle de temps\n2. Argent\n3. Items\n4. Type",
+    "pt": "Digite o número da página para a qual você quer ir.\n1. Intervalo de Tempo\n2. Dinheiro\n3. Itens\n4. Tipo"
   },
   "Time Interval": {
-    "fr": "Intervalle de temps"
+    "fr": "Intervalle de temps",
+    "pt": "Intervalo de tempo"
   },
   "Money": {
-    "fr": "Argent"
+    "fr": "Argent",
+    "pt": "Dinheiro"
   },
   "Final Review": {
-    "fr": "Dernière vérification"
+    "fr": "Dernière vérification",
+    "pt": "Revisão final"
   },
   "Not a valid number! Try again!": {
-    "fr": "Pas un nombre valide! Essayez encore!"
+    "fr": "Pas un nombre valide! Essayez encore!",
+    "pt": "Número inválido! Tente novamente!"
   },
   "Not a number! Try again!": {
-    "fr": "Pas un nombre! Essayez encore!"
+    "fr": "Pas un nombre! Essayez encore!",
+    "pt": "Não é um número! Tente novamente!"
   },
   "minutes": {
-    "fr": "minutes"
+    "fr": "minutes",
+    "pt": "minutos"
   },
   "Failed to parse item list!": {
-    "fr": "Impossible d'analyser la liste d'items!"
+    "fr": "Impossible d'analyser la liste d'items!",
+    "pt": "Falha ao analisar lista de itens!"
   },
   "Failed to find role with that name!": {
-    "fr": "Impossible de trouver un rôle avec ce nom!"
+    "fr": "Impossible de trouver un rôle avec ce nom!",
+    "pt": "Falha ao procurar cargo com este nome!"
   },
   "Please set a time interval!": {
-    "fr": "Spécifiez une intervalle de temps s'il vous plait!"
+    "fr": "Spécifiez une intervalle de temps s'il vous plait!",
+    "pt": "Por favor, defina um intervalo de tempo!"
   },
   "Please set a role!": {
-    "fr": "Spécifiez un rôle s'il vous plait!"
+    "fr": "Spécifiez un rôle s'il vous plait!",
+    "pt": "Por favor, defina o cargo!"
   },
   "You need to set either money or items or both!": {
-    "fr": "Vous devez définir au moins l'argent ou les items ou les deux!"
+    "fr": "Vous devez définir au moins l'argent ou les items ou les deux!",
+    "pt": "Você precisa definor o dinheiro, os items ou âmbos!"
   },
   "Salary successfully created!": {
-    "fr": "Salaire créé avec succès!"
+    "fr": "Salaire créé avec succès!",
+    "pt": "Salário criado com sucesso!"
   },
   "Not set": {
-    "fr": "Non défini"
+    "fr": "Non défini",
+    "pt": "Não definido"
   },
   "No tags!": {
-    "fr": "Pas de tags!"
+    "fr": "Pas de tags!",
+    "pt": "Sem tags!"
   },
   "Delete a lottery": {
+    
+    "pt": "Remove uma loteria"
   },
   "That lottery already exists!": {
+    
+    "pt": "Esta loteria já existe!"
   },
   "Lottery deleted!": {
+    
+    "pt": "Loteria removida!"
   },
   "{} does not have enough money to take!": {
-  },
+    
+    "pt": "{} não tem dinheiro suficiente para pegar!"
+  },	    
   "You must be assumed to use this command! Create a character with `rp!char create` and see the tutorial for information on assuming characters.": {
+    "pt": "Você deve assumir que usa este comando! Crie um personagem com `rp!char create` e consulte o tutorial para obter informações sobre como assumir caracteres."
   }
 }
