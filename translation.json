@@ -1285,5 +1285,7 @@
   "Lottery deleted!": {
   },
   "{} does not have enough money to take!": {
+  },
+  "You must be assumed to use this command! Create a character with `rp!char create` and see the tutorial for information on assuming characters.": {
   }
 }
