@@ -107,7 +107,7 @@ Characters can be given roles for targeting things like giving items, money, and
 
 ## Characters
 
-All bot features require having a character tied to your command.
+All bot features require having a character tied to your command. If you were a fan of having data tied to your user account, we recommend you use the Default Character functionality, it will make the bot operate nearly as if the character weren't there.
 
 ### Creation
 
