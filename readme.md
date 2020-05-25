@@ -1,3 +1,6 @@
+# RPGBot-V2-Issue-Tracker
+A Github page for storing public data for RPGBot and tracking issues
+
 This repository is for recording and reporting issues with the bot, crowd sourced translations, and hosting the tutorial. If you'd like to contribute, please message Henry or open a pull request!
 
 
