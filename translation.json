@@ -1630,7 +1630,7 @@
     "pl": "{} nie ma wystarczająco dużo pieniędzy do wzięcia!"
   },
   "You must be assumed to use this command! Create a character with `rp!char create` and see the tutorial for information on assuming characters.": {
-    "pt": "Você deve assumir que usa este comando! Crie um personagem com `rp!char create` e consulte o tutorial para obter informações sobre como assumir caracteres.",
+    "pt": "Você deve assumir um personagem para usar este comando! Crie um personagem com `rp!char create` e consulte o tutorial para obter informações sobre como assumir personagens.",
     "pl": "Musisz być uprawiony aby użyć ten komendy! Stwórz postać przy użyciu `rp!char creater` i zobacz poradnik o tym jak przypisać postać."
   }
 }
