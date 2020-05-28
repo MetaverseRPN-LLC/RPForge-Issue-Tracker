@@ -293,7 +293,7 @@ Characters require several columns:
 
 ### Recipes
 [Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/recipe_example.csv)
-Items require several columns:
+Recipes require several columns:
   - name: A name for the recipe
   - ingredients: What the recipe needs to be crafted
   - product: What the recipe produces
@@ -304,7 +304,7 @@ Items require several columns:
 
 ### Shop
 [Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/shop_example.csv)
-Items require several columns:
+Shops require several columns:
   - shopname: The name of the shop this will be added to 
   - itemname: The name of the item that this adds
   - buy: The amount of money charged for buying this from the shop 
