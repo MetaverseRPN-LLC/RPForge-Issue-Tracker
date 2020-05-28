@@ -268,7 +268,7 @@ See the csv_examples for [example spreadsheets](https://github.com/henry232323/R
 
 Available datatypes are:
 ### Items
-[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/item_example.xlsx)
+[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/item_example.csv)
 Items require several columns:
   - name: A name for the item
   - description: A description for the item
