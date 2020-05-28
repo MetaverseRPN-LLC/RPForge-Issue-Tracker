@@ -275,3 +275,37 @@ Items require several columns:
   - image: The URL to an image
   - type: comma separated, valid values are `basic, nontransfer, unique, container, equippable, quest`, for example `nontransfer, unique, container`
   - capacity: If you specify the container attribute (premium only), you need to add a `capacity` column, with a number which gives the number of items which can be held in the container.
+
+
+### Characters
+[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/character_example.csv)
+Characters require several columns:
+  - name: A name for the character
+  - owner_id: The user id of the owner
+  - pocket: Amount of money this character has in their pocket
+  - bank: Amount of money this character has in their bank
+  - description: A description for the character
+  - picture: The URL to an image the character uses (optional)
+  - prefix: The prefix you can use for the character instead of assuming (optional)
+  - guild: The guild this character belongs to (optional)
+  - guildrank: The Characters rank in the guild (required if guild)
+
+
+### Recipes
+[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/recipe_example.csv)
+Items require several columns:
+  - name: A name for the recipe
+  - ingredients: What the recipe needs to be crafted
+  - product: What the recipe produces
+  - time: How long it takes to make in seconds
+  - hidden: If It should show up in the recipe list
+  - method: The method someone has to enter to discover the recipe if its hidden
+
+
+### Shop
+[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/shop_example.csv)
+Items require several columns:
+  - shopname: The name of the shop this will be added to 
+  - itemname: The name of the item that this adds
+  - buy: The amount of money charged for buying this from the shop 
+  - sell: The amount of money given for selling this to the shop 
