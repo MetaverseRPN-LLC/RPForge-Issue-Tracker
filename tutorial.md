@@ -289,7 +289,7 @@ Characters require several columns:
   - prefix: The prefix you can use for the character instead of assuming (optional)
   - guild: The guild this character belongs to (optional)
   - guildrank: The Characters rank in the guild (required if guild)
-
+ 
 
 ### Recipes
 [Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/recipe_example.csv)

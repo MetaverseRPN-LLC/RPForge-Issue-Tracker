@@ -1955,5 +1955,14 @@
     "pt": "Você deve estar associado a um personagem para usar este comando! Crie um personagem com `rp!char create` e consulte o tutorial para obter informações sobre como associar personagens.",
     "pl": "Musisz być uprawiony aby użyć ten komendy! Stwórz postać przy użyciu `rp!char creater` i zobacz poradnik o tym jak przypisać postać.",
     "de": "Sie müssen einen Charakter annehmen um diesen Befehl verwenden zu können! Erstellen Sie einen mit `rp!char create` und lesen Sie sich das Tutorial durch um weitere Informationen zur Annahme von Charakteren zu finden."
+  },
+  "There's no shop with that name in this channel!": {
+    "de": "Es gibt keinen Laden mit diesem Namen in diesem Kanal!"
+  },
+  "See {} for subcommands": {
+    "de": "Siehe {} für unterbefehle"
+  },
+  "See the item tags for the server": {
+    "de": "Liste alle Gegenstand Tags auf diesem Server auf"
   }
 }
