@@ -153,12 +153,12 @@
     "pl": "Pomyślnie dołączyłeś do loterii",
     "de": "Erfolgreich an der Lotterie teilgenommen!"
   },
-  "Money: ${:.2f}\nItems: {}\nTime Left: {}\nEntrants: {}": {
-    "fr": "Argent: ${:.2f}\nItems: {}\nTemps Restant: {}\nParticipants: {}",
-    "pt": "Dinheiro: ${:.2f}\nItens: {}\nTempo Restante: {}\nParticipantes: {}",
-    "es": "Dinero: ${:.2f}\nObjetos: {}\nTiempo Restante: {}\nParticipantes: {}",
-    "pl": "Pieniądze: ${:.2f}\nPrzedmiot: {}\nPozostały czas: {}\nUczestnicy: {}",
-    "de": "Geld: ${:.2f}\nGegenstände: {}\nÜbrige Zeit: {}\nTeilnehmerInnen: {}"
+  "Money: {}{:.2f}\nItems: {}\nTime Left: {}\nEntrants: {}": {
+    "fr": "Argent: {}{:.2f}\nItems: {}\nTemps Restant: {}\nParticipants: {}",
+    "pt": "Dinheiro: {}{:.2f}\nItens: {}\nTempo Restante: {}\nParticipantes: {}",
+    "es": "Dinero: {}{:.2f}\nObjetos: {}\nTiempo Restante: {}\nParticipantes: {}",
+    "pl": "Pieniądze: {}{:.2f}\nPrzedmiot: {}\nPozostały czas: {}\nUczestnicy: {}",
+    "de": "Geld: {}{:.2f}\nGegenstände: {}\nÜbrige Zeit: {}\nTeilnehmerInnen: {}"
   },
   "No active lotteries!": {
     "fr": "Aucune loterie active",
@@ -242,11 +242,11 @@
     "pl": "Nie możesz wpłacić więcej pieniędzy niż masz przy sobie!”",
     "de": "Sie können nicht mehr Geld einzahlen, als Sie aktuell besitzen!"
   },
-  "On you:\t\t ${:.2f}\nIn the bank:\t ${:.2f}\nTotal:\t\t ${:.2f}": {
-    "fr": "Sur vous:\t\t ${:.2f}\nEn banque:\t ${:.2f}\nTotal:\t\t ${:.2f}",
-    "pt": "Com você:\t\t ${:.2f}\nNo banco:\t ${:.2f}\nTotal:\t\t ${:.2f}",
-    "es": "En el bolsillo:\t\t ${:.2f}\nEn el banco:\t ${:.2f}\nTotal:\t\t ${:.2f}",
-    "pl": "Przy tobie:\t\t ${:.2f}\nW banku:\t ${:.2f}\nŁacznie:\t\t ${:.2f}",
+  "On you:\t\t {}{:.2f}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}": {
+    "fr": "Sur vous:\t\t {}{:.2f}\nEn banque:\t {}{:.2f}\nTotal:\t\t {}{:.2f}",
+    "pt": "Com você:\t\t {}{:.2f}\nNo banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}",
+    "es": "En el bolsillo:\t\t {}{:.2f}\nEn el banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}",
+    "pl": "Przy tobie:\t\t {}{:.2f}\nW banku:\t {}{:.2f}\nŁacznie:\t\t {}{:.2f}",
     "de": "Auf der Hand:\t\t {:.2f}€\nAuf der Bank:\t {:.2f}€\nInsgesamt:\t\t {:.2f}€"
   },
   "This command is disabled!": {
@@ -842,6 +842,9 @@
     "pl": "Poszukaj receptury. Podkomendy dotyczące receptur",
     "de": "Schlägt ein Rezept nach. Unterbefehle für Rezepte"
   },
+  "No recipes to display": {
+    "de": "Es gibt keine anzeigbaren Rezepte"
+  },
   "Try out a method and ingredients to potentially discover a recipe": {
     "fr": "Essayer une méthode et des ingrédients pour potentiellement découvrir une recette",
     "pt": "Experimente um método e ingredientes para descobrir potencialmente uma receita",
@@ -905,12 +908,12 @@
     "pl": "Komendy dotyczące pieniędzy i ekonomii",
     "de": "Befehle für Geld und Wirtschaft"
   },
-  "\nOn you:\t\t ${:.2f}\nIn the bank:\t ${:.2f}\nTotal:\t\t ${:.2f}\n        ": {
-    "fr": "\nSur vous:\t\t ${:.2f}\nEn banque:\t ${:.2f}\nTotal:\t\t ${:.2f}\n        ",
-    "pt": "\nCom você:\t\t ${:.2f}\nNo banco:\t ${:.2f}\nTotal:\t\t ${:.2f}\n       ",
-    "es": "\nEn el bolsillo:\t\t ${:.2f}\nEn el banco:\t ${:.2f}\nTotal:\t\t ${:.2f}\n       ",
-    "pl": "\nPrzy trobie:\t\t ${:.2f}\nW banku:\t ${:.2f}\nŁącznie:\t\t ${:.2f}\n        ",
-    "de": "\nIn der Tasche:\t\t ${:.2f}\nIn der Bank:\t ${:.2f}\nInsgesamt:\t\t ${:.2f}\n        "
+  "\nOn you:\t\t {}{:.2f}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n        ": {
+    "fr": "\nSur vous:\t\t {}{:.2f}\nEn banque:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n        ",
+    "pt": "\nCom você:\t\t {}{:.2f}\nNo banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n       ",
+    "es": "\nEn el bolsillo:\t\t {}{:.2f}\nEn el banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n       ",
+    "pl": "\nPrzy trobie:\t\t {}{:.2f}\nW banku:\t {}{:.2f}\nŁącznie:\t\t {}{:.2f}\n        ",
+    "de": "\nIn der Tasche:\t\t {}{:.2f}\nIn der Bank:\t {}{:.2f}\nInsgesamt:\t\t {}{:.2f}\n        "
   },
   "Successfully deposited money!": {
     "fr": "Argent déposé avec succès!",
@@ -2102,11 +2105,11 @@
     "pl": "Nie masz wystarczającej ilości pieniędzy aby zakupić ten przedmiot",
     "de": "Sie können es sich nicht leisten, diesen Gegenstand zu kaufen!"
   },
-  "An item you listed on the market in server '{}' by character '{}' was sold to '{}' for ${:.2f}": {
-    "fr": "Un item que vous avez listé sur le serveur '{}' par le personnage '{}' a été vendu à '{}' pour ${:.2f}",
-    "pt": "Um item que você colocou no mercado do servidor '{}' através do personagem '{}' foi vendido para '{}' por ${:.2f}",
-    "es": "Un objeto que tú has listado en el mercado del server '{}' por el personaje '{}' fue vendido a '{}' por ${:.2f}",
-    "pl": "Przedmiot który wystawiłeś na markecie na serwerze '{}' jako postac '{}' został sprzedany '{}' za ${:.2f}",
+  "An item you listed on the market in server '{}' by character '{}' was sold to '{}' for {}{:.2f}": {
+    "fr": "Un item que vous avez listé sur le serveur '{}' par le personnage '{}' a été vendu à '{}' pour {}{:.2f}",
+    "pt": "Um item que você colocou no mercado do servidor '{}' através do personagem '{}' foi vendido para '{}' por {}{:.2f}",
+    "es": "Un objeto que tú has listado en el mercado del server '{}' por el personaje '{}' fue vendido a '{}' por {}{:.2f}",
+    "pl": "Przedmiot który wystawiłeś na markecie na serwerze '{}' jako postac '{}' został sprzedany '{}' za {}{:.2f}",
     "de": "Ein Gegenstand, den Sie auf dem Markt im Server '{}' nach Charakter '{}' gelistet haben, wurde für {:.2f}€ an '{}'verkauft."
   },
   "Item successfully purchased!": {
