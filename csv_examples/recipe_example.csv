@@ -1,5 +1,5 @@
 name,ingredients,product,method,time,hidden
 Fabricate Matter,Matter Fabricatorx0,Matterx1,crafting,3hr,FALSE
 Campfire,"Flint and Steelx0, Woodx3","Campfirex1, Ashx2",tool,5m,FALSE
-Broken Stick,"Stickx1",Broken Stickx1,crafting,0,TRUE
+Broken Stick,"Stickx1",Broken Stickx1,crafting,0s,TRUE
 Cool Hat,"Fabricx5, Leatherx2",Cool Hatx1,crafting,30s,TRUE
