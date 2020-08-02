@@ -143,12 +143,17 @@ to undo it you can use
 
 While assumed your sent messages will be deleted and replaced by the bot saying it with your assumed character's image as profile picture and with the original content of your message. When using a custom prefix, the bot will replace normal messages that begin with <prefix>/message (with a slash between the prefix and message)
 
+Alternatively, if you do not want the bot to replace your messages, you can set a default character with
+
+> rp!character default \<name>
+
+Or you can give the character a custom prefix to quickly switch between characters. If a character is given the prefix `!`, any command run with the prefix `!` will be run as that character, and if another character has the prefix `?`, then these two can be used to quickly run commands as different characters without assuming. Prefixes will override the selected assumed character, which will in turn override the selected default character.
+
 Most commands on this bot will require you to use them as a character, whether you use the assume command or the character prefix for that doesnt matter. If you do not want the bot to resend messages with the custom character, you can disable it in the server settings with
 
 > rp!settings usewebhooks false (as a moderator)
 
 It is generally easier to use a custom prefix than to assume, see the creation section above for details.
-
 
 ### Edit
 
