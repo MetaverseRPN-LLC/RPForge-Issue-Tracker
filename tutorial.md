@@ -326,7 +326,24 @@ There are a number of predefined functions that are available when your script r
   - reply(message: string) - Send a message in the chat where this script was invoked
   
 ### Variables
-Depending on where this script is run from (from item use, ability use, or on an event), different variables will be defined
+Depending on where this script is run from (from item use, ability use, or on an event), different variables will be defined in the namespace of the code, meaning you can use these variables in your script without defining them. For defined functions, if they fail for some reason, they will return false to let you know.
+## Builtin Functions
+
+  - get_inventory_count(charname: string, itemname: string) - Get the number of an item a user has in their inventory
+  - get_item_attribute(itemname: string, attrname: string) - Get the value of an attribute of an item
+  - set_item_attribute(itemname: string, attrname: string, value: any) - Set the value of an attribute of an item
+  - get_character_attribute(charname: string, attrname: string, value: any) - Set the value of an attribute of a character
+  - set_character_attribute(charname: string, attrname: string, value: any) - Set the value of an attribute of a character
+  - give_character_item(charname: string, itemname: string, amount: positive integer) - Set the value of an attribute of an item
+  - take_character_item(charname: string, itemname: string, amount: positive integer) - Set the value of an attribute of an item
+  - reply(message: string) - Send a message in the current channel
+  - randint(floor: integer, ceiling: integer) - Generate a random integer between the floor and ceiling inclusive
+  - choice(items: list) - Choose a random thing out of a list of things
+  - sleep(time: float) - Wait a number of seconds (up to an hour) before continuing the code
+  - give_role(charname: string, rolename: string) - Give a character (and its owner) a role with the given name
+  - take_role(charname: string, rolename: string) - Take a role from a character (and its owner) with the given name
+  
+  
 ## Item Use
   - item - the name of the item as a string
   - char - the name of the character using the item as a string
