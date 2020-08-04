@@ -347,3 +347,9 @@ Depending on where this script is run from (from item use, ability use, or on an
 ## Item Use
   - item - the name of the item as a string
   - char - the name of the character using the item as a string
+  
+  Example:
+  ```
+  reply("You used one" + $item)
+  give_role($char, "Fishing Master")
+  ```
