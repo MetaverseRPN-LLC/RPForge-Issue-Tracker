@@ -339,6 +339,7 @@ Depending on where this script is run from (from item use, ability use, or on an
   - reply(message: string) - Send a message in the current channel
   - randint(floor: integer, ceiling: integer) - Generate a random integer between the floor and ceiling inclusive
   - choice(items: list) - Choose a random thing out of a list of things
+  - choice(item1, item2, item3, ...) - Alternative way to use choice
   - sleep(time: float) - Wait a number of seconds (up to an hour) before continuing the code
   - give_role(charname: string, rolename: string) - Give a character (and its owner) a role with the given name
   - take_role(charname: string, rolename: string) - Take a role from a character (and its owner) with the given name
