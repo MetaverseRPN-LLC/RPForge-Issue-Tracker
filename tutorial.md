@@ -318,17 +318,10 @@ Shops require several columns:
 # Scripting
 We use Pyk to implement our scripts. For a tutorial on Pyk syntax, see [here](https://github.com/IAmTomahawkx/pyk#syntax)
 
-There are a number of predefined functions that are available when your script runs, as well as several variables depending on the context in which the script runs.
-  - get_character_attribute(character_name: string, attribute_name: string) - Get the value of an attribute of a character. Attributes are custom things you can set on a character which will exist between script runs
-  - set_character_attribute(character_name: string, attribute_name: string, new_value: anything) - Set the value of one of these custom attributes
-  - take_character_item(character_name: string, item_name: string, amount: integer) - Take a certain number of items from a character with the given name
-  - give_character_item(character_name: string, item_name: string, amount: integer) - Give a certain number of items to a character with the given name
-  - reply(message: string) - Send a message in the chat where this script was invoked
-  
 ### Variables
 Depending on where this script is run from (from item use, ability use, or on an event), different variables will be defined in the namespace of the code, meaning you can use these variables in your script without defining them. For defined functions, if they fail for some reason, they will return false to let you know.
 ## Builtin Functions
-
+  There are a number of predefined functions that are available when your script runs, as well as several variables depending on the context in which the script runs.
   - get_inventory_count(charname: string, itemname: string) - Get the number of an item a user has in their inventory
   - get_item_attribute(itemname: string, attrname: string) - Get the value of an attribute of an item
   - set_item_attribute(itemname: string, attrname: string, value: any) - Set the value of an attribute of an item
@@ -360,3 +353,8 @@ Depending on where this script is run from (from item use, ability use, or on an
   reply("You used one" + $item)
   give_role($char, "Fishing Master")
   ```
+
+## Abilities
+  When using a custom command through an ability, you will have access to all the variables that you defined when creating the ability, they will have the same names (`target -> $target` in the script).
+  - char - the name of the character who used the ability
+  - channelid - the ID of the channel the command was used in
