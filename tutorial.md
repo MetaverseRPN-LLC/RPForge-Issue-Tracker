@@ -336,6 +336,7 @@ Depending on where this script is run from (from item use, ability use, or on an
   - sleep(time: float) - Wait a number of seconds (up to an hour) before continuing the code
   - give_role(charname: string, rolename: string) - Give a character (and its owner) a role with the given name
   - take_role(charname: string, rolename: string) - Take a role from a character (and its owner) with the given name
+  - has_role(charname: string, rolename: string) - Returns True if the character has the role with the given name, otherwise False
   - give_pocket(charname: string, amount: float) - Put an amount of money into the character's pocket
   - take_pocket(charname: string, amount: float) - Take an amount of money from the character's pocket. Will return False if the character doesn't have enough
   - get_pocket(charname: string) - Get the amount of money a character has in their pocket
