@@ -2283,14 +2283,17 @@
     "de": "Sie müssen einen Charakter annehmen um diesen Befehl verwenden zu können! Erstellen Sie einen mit `rp!char create` und lesen Sie sich das Tutorial durch um weitere Informationen zur Annahme von Charakteren zu finden."
   },
   "There's no shop with that name in this channel!": {
+    "pt": "Não existe uma loja com este nome nesse canal!"
     "es": "¡No hay ninguna tienda con ese nombre en este canal!",
     "de": "Es gibt keinen Laden mit diesem Namen in diesem Kanal!"
   },
   "See {} for subcommands": {
+    "pt": "Consulte {} para subcomandos"
     "es": "Consulta {} para subcomandos",
     "de": "Siehe {} für unterbefehle"
   },
   "See the item tags for the server": {
+    "pt": "Consulte a lista de tags para o servidor"
     "es": "Consulta la lista de tags del servidor",
     "de": "Liste alle Gegenstand Tags auf diesem Server auf"
   }
