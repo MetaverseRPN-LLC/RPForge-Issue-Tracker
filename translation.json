@@ -2296,5 +2296,179 @@
     "pt": "Veja a lista de tags do servidor",
     "es": "Consulta la lista de tags del servidor",
     "de": "Liste alle Gegenstand Tags auf diesem Server auf"
+  },	
+  "Type the number of the page you wish to jump to.\n1. Description\n2. Picture\n3. Prefix": {	
+  },	
+  "Type the number of the page you wish to jump to.\n1.Description\n2.Picture\n3. Prefix\n4. Template\n5. Owner": {	
+  },	
+  "Who should this character belong to?": {	
+  },	
+  "Is this character a template (yes/no)? Type \"no\" if you don't know what this means.": {	
+    "Translators_Note": "Do not translate the 'yes' and 'no' they need to remain in english for the bot to work"	
+  },	
+  "Describe the character (description). (3995 chars max)": {	
+  },	
+  "If you would like to provide a picture for the character, paste one here. (Leave blank for no picture).": {	
+  },	
+  "If you would like to provide a custom prefix for the character that you can use instead of `rp!character assume`, specify one here (Leave blank for no prefix).": {	
+  },	
+  "Invalid mode!": {	
+  },	
+  "Finished? Click \u2705 to submit!": {	
+  },	
+  "Menu": {	
+  },	
+  "Picture": {	
+  },	
+  "Template": {	
+  },	
+  "Character submitted!": {	
+  },	
+  "Character creation cancelled!": {	
+  },	
+  "URL not valid! Try again!": {	
+  },	
+  "Locked: templates belong to the server as a whole.": {	
+  },	
+  "**Invalid input! Please answer 'yes' or 'no'**": {	
+  },	
+  "**Invalid input! Please target a user**": {	
+  },	
+  "False": {	
+  },	
+  "What enemies should appear in this encounter?": {	
+  },	
+  "How many points should this encounter be allowed to allocate? (Higher = more enemies)": {	
+  },	
+  "Enemey List": {	
+  },	
+  "Describe the guild (description). (3995 chars max)": {	
+  },	
+  "If you would like to provide a picture for the guild, paste one here. (Leave blank for no picture).": {	
+  },	
+  "Type the number of the page you wish to jump to.\n1. Description\n2. Picture": {	
+  },	
+  "Your description is too large! Please start over": {	
+  },	
+  "URI not valid! Try again!": {	
+  },	
+  "Describe the item (description). (3995 chars max)": {	
+  },	
+  "If you would like to provide a picture for the item, paste one here. (Leave blank for no picture).": {	
+  },	
+  "If you would like to add modifiers to this item, provide one or more of the following attributes, comma separated\nValid modifiers:\n\t- `unique` This item cannot be stacked\n\t- `equippable` This item may be equipped\n\t- `quest` This item is special item for a quest\n\t- `nontransfer` This item cannot be transferred to another player or sold / bought.\n\t- `container` This item can be used to store other items (premium)\n\t- `usable` This item can be used with a custom effect or message": {	
+  },	
+  "How many items should this container be able to store?": {	
+  },	
+  "When this item is used, you may have a script invoked or send a message.\nPut either the message you want to send or the name of a script you've created.\nSee `rp!help script` for more information on custom scripts. $name will be replaced with the character's name.": {	
+  },	
+  "Are there any tags you'd like to apply to the item? Tags can be used to mark item types, for example you might create 3 varieties of apples, Green Apples, Red Apples, and Yellow Apples, and apply the `apple` tag to each": {	
+  },	
+  "Capacity": {	
+  },	
+  "Invalid Type": {	
+  },	
+  "Type the number of the page you wish to jump to.": {	
+  },	
+  "The capacity cannot be 0!": {	
+  },	
+  "Type the number of the page you wish to jump to.\n1. Content\n2. Key\n3. Item": {	
+  },	
+  "List the items that will go into the lootbox and the weighted chance of each set of items. Each new message will be counted as a new entry. Format lines as follows: `weight Itemx1, Itemx2, ...`, for example `15 Applex3 Bananax5`. This will create a new possible reward in the lootbox of both these items, with a weighted chance of 15.": {	
+  },	
+  "Choose which item will be used as this box's key": {	
+  },	
+  "Choose which item will be used to represent this box as an item in the character's inventory.": {	
+  },	
+  "Type the number of the page you wish to jump to.\n1. Duration\n2. Prize Money\n3. Prize Items": {	
+  },	
+  "How long should the lottery last (in minutes)": {	
+  },	
+  "How much money should the winner receive?": {	
+  },	
+  "What items should the winner receive? (Format: Itemx1, Itemx2, Itemx3)": {	
+  },	
+  "Select a number for the authority or ranking of this rank. Lower number means higher authority. (0 is reserved for the owner of the guild)\nNOTE: You cannot create a rank with authority higher than or equal to your own' rank's authority.": {	
+  },	
+  "Set this rank's salary. (Cannot be less than 0)": {	
+  },	
+  "Type the number of the page you wish to jump to.\n1. Authority\n2. Permissions\n3. Salary": {	
+  },	
+  "Set permissions by typing in the name of the permission followed by the value. (I.E. invite_members false).  \nAvailable permissions are:": {	
+  },	
+  "List the ingredients and their quantities. Use this format: `Orangex4 Applex3`\nSet the quantity for an item to 0 to make it required but non-consumed, such as for tools.": {	
+  },	
+  "Define the method by which this recipe is crafted. If you don't understand what this is, skip it": {	
+  },	
+  "Set the time it takes for this recipe to be crafted in seconds.": {	
+  },	
+  "List the products and their quantities using the same format as the ingredients `Orangex5 Applex3`": {	
+  },	
+  "Should this recipe be hidden? [yes/no] (i.e. only craftable with rp!craft attempt)`": {	
+  },	
+  "Type the number of the page you wish to jump to.\n1. Ingredients\n2. Method\n3. Time\n4. Product\n5. Hidden": {	
+  },	
+  "Describe the shop (description). (3995 chars max)": {	
+  },	
+  "If you would like to provide a icon for the shop, paste one here. (Leave blank for no icon).": {	
+  },	
+  "Which channels should this be available in? Provide any combination of individual channels and channel categories. If none are selected, the shop will be available in all channels.": {	
+  },	
+  "Type the number of the page you wish to jump to.\n1. Description\n2. Icon\n3. Channels": {	
+  },	
+  "Script deleted!": {	
+  },	
+  "Successfully renamed lootbox": {	
+  },	
+  "Set a character attribute\nUsage: rp!character attribute set description \"John likes bananas!\"\n\nBot Admin is required to edit other people's characters' attributes": {	
+  },	
+  "Delete a character attribute\nUsage: rp!character attribute delete hair-color\n\nBot Admin is required to remove other people's characters' attributes": {	
+  },	
+  "Give an item from your inventory to another character.\nUsage:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 charname charname2": {	
+  },	
+  "Open / view a container. See rp!containers to see the container numbers in your inventory.\nUsage: rp!container open 1": {	
+  },	
+  "Give multiple items to the list of users. Look carefully at syntax\nUsage:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 mycharacter character2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone": {	
+  },	
+  "Give an item to a number of characters as an administrator, rather than from your inventory. You may\nalso target item tags.\nUsage:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 mycharacter character2": {	
+  },	
+  "Take multiple items from the list of users. Look carefully at syntax\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 mycharacter character2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone": {	
+  },	
+  "Use an item in your inventory": {	
+    "fr": "Utiliser un item dans votre inventaire"	
+  },	
+  "Wipe all listed inventories. Must be administrator. To wipe ALL inventories do `rp!wipeinv everyone`": {	
+  },	
+  "Take money from users, same syntax as rp!givemoney": {	
+  },	
+  "See all current guilds": {	
+    "fr": "Voir les guildes du serveur"	
+  },	
+  "Roll a number of dice with given sides (ndx notation)\nExample: rp!rtd 3d7 2d4\nOptional Additions:\nTest for success by adding a >/<#\nGrab the top n rolls by adding ^n\nGrab the bottom n rolls by adding _n\nAdd to the final roll by just adding a number (pos or neg)\n\nExamples of all:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Roll failed (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Grabbed top 4 out of 8)": {	
+  },	
+  "View server regions": {	
+    "fr": "Voir les regions du serveur"	
+  },	
+  "Sync the roles of all characters in the server": {	
+  },	
+  "Explicitly enable a command for a role for the server. Will override the setting for lower roles\nEx: rp!s enable character.create @Bot Admin": {	
+  },	
+  "Set the currency for the server. Part appears before the number, part after\nExample:\n`rp!setcurrency $` before - money will appear like `$20`\n`rp!setcurrency gold` after - money will appear like `20 gold`": {	
+  },	
+  "Set default / starting region for the server": {	
+  },	
+  "Set the language for the server\nValid Languages:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl": {	
+  },	
+  "Set the prefix for the server": {	
+  },	
+  "Set the amount of money characters start with": {	
+  },	
+  "Set whether adding/removing a role to a user will sync it with all the user's characters (yes/no)": {	
+  },	
+  "Export data from RPGBot-V2\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds": {	
+  },	
+  "Subcommands for importing data\nRequires attached file\nValid datatypes to import:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things": {	
+  },	
+  "Import data from old RPGBot.\nValid datatypes to wipe:\n- items\n- characters\n- settings\n- guilds\n- lootboxes\n- recipes\n- shops": {
   }
 }
