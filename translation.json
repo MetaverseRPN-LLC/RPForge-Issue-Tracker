@@ -2298,8 +2298,10 @@
     "de": "Liste alle Gegenstand Tags auf diesem Server auf"
   },	
   "Type the number of the page you wish to jump to.\n1. Description\n2. Picture\n3. Prefix": {	
+    "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Imagem\n3. Prefixo"
   },	
   "Type the number of the page you wish to jump to.\n1.Description\n2.Picture\n3. Prefix\n4. Template\n5. Owner": {	
+    "pt": "Digite o número da página para qual você deseja ir.\n1.Descrição\n2.Imagem\n3. Prefixo\n4. Molde\n5. Dono"
   },	
   "Who should this character belong to?": {	
     "pt": "A quem este personagem deve pertencer?"
@@ -2312,10 +2314,10 @@
     "pt": "Descreva o personagem (descrição)"
   },	
   "If you would like to provide a picture for the character, paste one here. (Leave blank for no picture).": {
-    "pt": "Se você gostaria de adicionar uma imagem ao personagem, cole uma aqui. (deixe em branco para nenhuma imagen)
+    "pt": "Se você gostaria de adicionar uma imagem ao personagem, cole uma aqui. (deixe em branco para deixar sem imagem)"
   },	
   "If you would like to provide a custom prefix for the character that you can use instead of `rp!character assume`, specify one here (Leave blank for no prefix).": {	
-    "pt": "Se você gostaria de adicionar um prefixo personalizado para o personagem que você pode usar ao invés de `rp!character assume`, especifique um aqui (deixe em branco para nenhum prefixo)"
+    "pt": "Se você gostaria de adicionar um prefixo personalizado para o personagem que você pode usar ao invés de `rp!character assume`, especifique um aqui (deixe em branco para deixar sem prefixo)"
   },	
   "Invalid mode!": {	
     "pt": "modo inválido!"
@@ -2360,26 +2362,36 @@
     "pt": "Quantos pontos esse encontro deve ser permitido alocar? (Maior =  mais inimigos)"
   },	
   "Enemey List": {	
+    "pt": "Lista de inimigos"
   },	
   "Describe the guild (description). (3995 chars max)": {	
+    "pt": "Descreva a guilda (descrição). (Máximo de 3995 caracteres)"
   },	
   "If you would like to provide a picture for the guild, paste one here. (Leave blank for no picture).": {	
+    "pt": "Se você gostaria de adicionar uma imagem para a guilda, cole uma aqui. (deixe em branco para deixar sem imagem)"
   },	
   "Type the number of the page you wish to jump to.\n1. Description\n2. Picture": {	
+    "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Imagem"
   },	
   "Your description is too large! Please start over": {	
+    "pt": "Sua descrição é muito grande! Por favor, faça de novo"
   },	
   "URI not valid! Try again!": {	
   },	
   "Describe the item (description). (3995 chars max)": {	
+    "pt": "Descreva o item (descrição). (Máximo de 3995 caracteres)"
   },	
   "If you would like to provide a picture for the item, paste one here. (Leave blank for no picture).": {	
+    "pt": "Se você gostaria de adicionar uma imagem ao item, cole uma aqui. (deixe em branco para deixar sem imagem)"
   },	
   "If you would like to add modifiers to this item, provide one or more of the following attributes, comma separated\nValid modifiers:\n\t- `unique` This item cannot be stacked\n\t- `equippable` This item may be equipped\n\t- `quest` This item is special item for a quest\n\t- `nontransfer` This item cannot be transferred to another player or sold / bought.\n\t- `container` This item can be used to store other items (premium)\n\t- `usable` This item can be used with a custom effect or message": {	
+    "pt": "Se você gostaria de adicionar modificadores ao item, providencie um ou mais dos seguintes atributos, separados por virgula\nModificadores válidos:\n\t- `unique` Esse item não pode ser empilhado\n\t- `equippable` Esse item não pode ser equipado\n\t- `quest` Esse item é especial para uma missão\n\t- `nontransfer` Esse item não pode ser transferido para outro jogador ou vendido / comprado. \n\t- `container` Esse item pode ser usado para armazenar outros items (premium)\n\t- `usable` Esse item pode ser usado com um efeito ou mensagem personalizada"
   },	
   "How many items should this container be able to store?": {	
+    "pt": "Quantos items esse recipiente deve ser capaz de armazenar"
   },	
   "When this item is used, you may have a script invoked or send a message.\nPut either the message you want to send or the name of a script you've created.\nSee `rp!help script` for more information on custom scripts. $name will be replaced with the character's name.": {	
+    "pt": "Quando esse item é usado, você pode executar script ou enviar uma mensagem. \nColoque uma mensagem que você deseja enviar ou o nome de um script que você criou. .\nVeja `rp!help script` para mais informações sobre scripts personalizados. $name será substituído pelo nome do personagem"
   },	
   "Are there any tags you'd like to apply to the item? Tags can be used to mark item types, for example you might create 3 varieties of apples, Green Apples, Red Apples, and Yellow Apples, and apply the `apple` tag to each": {	
   },	
