@@ -2302,9 +2302,11 @@
   "Type the number of the page you wish to jump to.\n1.Description\n2.Picture\n3. Prefix\n4. Template\n5. Owner": {	
   },	
   "Who should this character belong to?": {	
+    "pt": "A quem este personagem deve pertencer?"
   },	
   "Is this character a template (yes/no)? Type \"no\" if you don't know what this means.": {	
-    "Translators_Note": "Do not translate the 'yes' and 'no' they need to remain in english for the bot to work"	
+    "Translators_Note": "Do not translate the 'yes' and 'no' they need to remain in english for the bot to work"
+    "pt": "Esse personagem é um exemplo (yes/no?) Digite \"no\" se não souber o que isso significa "
   },	
   "Describe the character (description). (3995 chars max)": {	
   },	
