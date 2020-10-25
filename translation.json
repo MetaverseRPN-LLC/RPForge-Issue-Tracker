@@ -2306,43 +2306,58 @@
   },	
   "Is this character a template (yes/no)? Type \"no\" if you don't know what this means.": {	
     "Translators_Note": "Do not translate the 'yes' and 'no' they need to remain in english for the bot to work"
-    "pt": "Esse personagem é um exemplo (yes/no?) Digite \"no\" se não souber o que isso significa "
+    "pt": "Esse personagem é um molde (yes/no?) Digite \"no\" se não souber o que isso significa "
   },	
   "Describe the character (description). (3995 chars max)": {	
     "pt": "Descreva o personagem (descrição)"
   },	
   "If you would like to provide a picture for the character, paste one here. (Leave blank for no picture).": {
-    "pt": "Se você gostaria de fornecer uma imagem para o personagem, cole uma aqui. (deixe em branco 
+    "pt": "Se você gostaria de adicionar uma imagem ao personagem, cole uma aqui. (deixe em branco para nenhuma imagen)
   },	
   "If you would like to provide a custom prefix for the character that you can use instead of `rp!character assume`, specify one here (Leave blank for no prefix).": {	
+    "pt": "Se você gostaria de adicionar um prefixo personalizado para o personagem que você pode usar ao invés de `rp!character assume`, especifique um aqui (deixe em branco para nenhum prefixo)"
   },	
   "Invalid mode!": {	
+    "pt": "modo inválido!"
   },	
   "Finished? Click \u2705 to submit!": {	
+    "pt": "Acabou? clique \u2705 para enviar!"
   },	
   "Menu": {	
+    "pt": "Menu"
   },	
   "Picture": {	
+    "pt": "Imagen"
   },	
   "Template": {	
+    "pt": "Molde"
   },	
   "Character submitted!": {	
+    "pt": "Personagem enviado!!"
   },	
   "Character creation cancelled!": {	
+    "pt": "Criação de personagem cancelada!"
   },	
   "URL not valid! Try again!": {	
+    "pt": "URL inválida! Tente novamente!"
   },	
   "Locked: templates belong to the server as a whole.": {	
+    "pt": "Bloqueado: Moldes pertencem ao servidor como um todo"
   },	
   "**Invalid input! Please answer 'yes' or 'no'**": {	
+    "pt": "**Entrada inválida! Por favor, responda 'yes' ou 'no'**"
   },	
   "**Invalid input! Please target a user**": {	
+    "pt": "**Entrada inválida! Por favor determine um usuário**"
   },	
   "False": {	
+    "pt": "Falso"
   },	
   "What enemies should appear in this encounter?": {	
+    "pt": "Quais inimigos devem aparecer nesse encontro?"
   },	
   "How many points should this encounter be allowed to allocate? (Higher = more enemies)": {	
+    "pt": "Quantos pontos esse encontro deve ser permitido alocar? (Maior =  mais inimigos)"
   },	
   "Enemey List": {	
   },	
