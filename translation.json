@@ -2309,8 +2309,10 @@
     "pt": "Esse personagem é um exemplo (yes/no?) Digite \"no\" se não souber o que isso significa "
   },	
   "Describe the character (description). (3995 chars max)": {	
+    "pt": "Descreva o personagem (descrição)"
   },	
-  "If you would like to provide a picture for the character, paste one here. (Leave blank for no picture).": {	
+  "If you would like to provide a picture for the character, paste one here. (Leave blank for no picture).": {
+    "pt": "Se você gostaria de fornecer uma imagem para o personagem, cole uma aqui. (deixe em branco 
   },	
   "If you would like to provide a custom prefix for the character that you can use instead of `rp!character assume`, specify one here (Leave blank for no prefix).": {	
   },	
