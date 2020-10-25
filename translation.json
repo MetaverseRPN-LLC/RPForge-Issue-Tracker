@@ -2382,28 +2382,34 @@
     "pt": "Descreva o item (descrição). (Máximo de 3995 caracteres)"
   },	
   "If you would like to provide a picture for the item, paste one here. (Leave blank for no picture).": {	
-    "pt": "Se você gostaria de adicionar uma imagem ao item, cole uma aqui. (deixe em branco para deixar sem imagem)"
+    "pt": "Se você gostaria de adicionar uma imagem ao item, cole uma aqui. (deixe em branco para deixar sem imagem)."
   },	
   "If you would like to add modifiers to this item, provide one or more of the following attributes, comma separated\nValid modifiers:\n\t- `unique` This item cannot be stacked\n\t- `equippable` This item may be equipped\n\t- `quest` This item is special item for a quest\n\t- `nontransfer` This item cannot be transferred to another player or sold / bought.\n\t- `container` This item can be used to store other items (premium)\n\t- `usable` This item can be used with a custom effect or message": {	
     "pt": "Se você gostaria de adicionar modificadores ao item, providencie um ou mais dos seguintes atributos, separados por virgula\nModificadores válidos:\n\t- `unique` Esse item não pode ser empilhado\n\t- `equippable` Esse item não pode ser equipado\n\t- `quest` Esse item é especial para uma missão\n\t- `nontransfer` Esse item não pode ser transferido para outro jogador ou vendido / comprado. \n\t- `container` Esse item pode ser usado para armazenar outros items (premium)\n\t- `usable` Esse item pode ser usado com um efeito ou mensagem personalizada"
   },	
   "How many items should this container be able to store?": {	
-    "pt": "Quantos items esse recipiente deve ser capaz de armazenar"
+    "pt": "Quantos items esse recipiente deve ser capaz de armazenar?"
   },	
   "When this item is used, you may have a script invoked or send a message.\nPut either the message you want to send or the name of a script you've created.\nSee `rp!help script` for more information on custom scripts. $name will be replaced with the character's name.": {	
-    "pt": "Quando esse item é usado, você pode executar script ou enviar uma mensagem. \nColoque uma mensagem que você deseja enviar ou o nome de um script que você criou. .\nVeja `rp!help script` para mais informações sobre scripts personalizados. $name será substituído pelo nome do personagem"
+    "pt": "Quando esse item é usado, você pode executar script ou enviar uma mensagem. \nColoque uma mensagem que você deseja enviar ou o nome de um script que você criou. .\nVeja `rp!help script` para mais informações sobre scripts personalizados. $name será substituído pelo nome do personagem."
   },	
   "Are there any tags you'd like to apply to the item? Tags can be used to mark item types, for example you might create 3 varieties of apples, Green Apples, Red Apples, and Yellow Apples, and apply the `apple` tag to each": {	
+    "pt": "Existe alguma tag que você gostaria de aplicar ao item? Tags podem ser usadas para marcar os tipos de item, por exemplo você pode criar 3 variedades de maçã, Maçã verde, Maçã vermelha e Maçã amarela, e aplicar a tag `maçã` a cada uma"
   },	
   "Capacity": {	
+    "pt": "Capacidade"
   },	
   "Invalid Type": {	
+    "pt": "Tipo inválido"
   },	
   "Type the number of the page you wish to jump to.": {	
+    "pt": "Digite o número da página para qual você deseja ir."
   },	
   "The capacity cannot be 0!": {	
+    "pt": "A capacidade não pode ser 0!"
   },	
   "Type the number of the page you wish to jump to.\n1. Content\n2. Key\n3. Item": {	
+    "pt": "Digite o número da página para qual você deseja ir.\n1. Conteúdo\n2. Chave\n3. Item"
   },	
   "List the items that will go into the lootbox and the weighted chance of each set of items. Each new message will be counted as a new entry. Format lines as follows: `weight Itemx1, Itemx2, ...`, for example `15 Applex3 Bananax5`. This will create a new possible reward in the lootbox of both these items, with a weighted chance of 15.": {	
   },	
