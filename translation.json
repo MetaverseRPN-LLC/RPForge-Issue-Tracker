@@ -242,12 +242,12 @@
     "pl": "Nie możesz wpłacić więcej pieniędzy niż masz przy sobie!”",
     "de": "Sie können nicht mehr Geld einzahlen, als Sie aktuell besitzen!"
   },
-  "On you:\t\t {}{:.2f}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}": {
-    "fr": "Sur vous:\t\t {}{:.2f}\nEn banque:\t {}{:.2f}\nTotal:\t\t {}{:.2f}",
-    "pt": "Com você:\t\t {}{:.2f}\nNo banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}",
-    "es": "En el bolsillo:\t\t {}{:.2f}\nEn el banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}",
-    "pl": "Przy tobie:\t\t {}{:.2f}\nW banku:\t {}{:.2f}\nŁacznie:\t\t {}{:.2f}",
-    "de": "Auf der Hand:\t\t {:.2f}€\nAuf der Bank:\t {:.2f}€\nInsgesamt:\t\t {:.2f}€"
+  "On you:\t\t {cb}{:.2f} {ca}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}": {
+    "fr": "Sur vous:\t\t {cb}{:.2f} {ca}\nEn banque:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
+    "pt": "Com você:\t\t {cb}{:.2f} {ca}\nNo banco:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
+    "es": "En el bolsillo:\t\t {cb}{:.2f} {ca}\nEn el banco:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
+    "pl": "Przy tobie:\t\t {cb}{:.2f} {ca}\nW banku:\t {cb}{:.2f} {ca}\nŁacznie:\t\t {cb}{:.2f} {ca}",
+    "de": "Auf der Hand:\t\t {cb}{:.2f} {ca}\nAuf der Bank:\t {cb}{:.2f} {ca}\nInsgesamt:\t\t {cb}{:.2f} {ca}"
   },
   "This command is disabled!": {
     "fr": "Cette commande est désactivée",
@@ -908,12 +908,12 @@
     "pl": "Komendy dotyczące pieniędzy i ekonomii",
     "de": "Befehle für Geld und Wirtschaft"
   },
-  "\nOn you:\t\t {}{:.2f}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n        ": {
-    "fr": "\nSur vous:\t\t {}{:.2f}\nEn banque:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n        ",
-    "pt": "\nCom você:\t\t {}{:.2f}\nNo banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n       ",
-    "es": "\nEn el bolsillo:\t\t {}{:.2f}\nEn el banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n       ",
-    "pl": "\nPrzy trobie:\t\t {}{:.2f}\nW banku:\t {}{:.2f}\nŁącznie:\t\t {}{:.2f}\n        ",
-    "de": "\nIn der Tasche:\t\t {}{:.2f}\nIn der Bank:\t {}{:.2f}\nInsgesamt:\t\t {}{:.2f}\n        "
+  "On you:\t\t {cb}{:.2f} {ca}\nIn the bank:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}": {
+    "fr": "\nSur vous:\t\t {cb}{:.2f} {ca}\nEn banque:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
+    "pt": "\nCom você:\t\t {cb}{:.2f} {ca}\nNo banco:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
+    "es": "\nEn el bolsillo:\t\t {cb}{:.2f} {ca}\nEn el banco:\t {cb}{:.2f}\nTotal:\t\t {cb}{:.2f} {ca}",
+    "pl": "\nPrzy trobie:\t\t {cb}{:.2f} {ca}\nW banku:\t {cb}{:.2f}\nŁącznie:\t\t {cb}{:.2f} {ca}",
+    "de": "\nIn der Tasche:\t\t {cb}{:.2f} {ca}\nIn der Bank:\t {cb}{:.2f}\nInsgesamt:\t\t {cb}{:.2f} {ca}"
   },
   "Successfully deposited money!": {
     "fr": "Argent déposé avec succès!",
@@ -972,7 +972,7 @@
     "de": "Sie haben keine Features aktiviert!"
   },
   "Enable a premium feature for the server": {
-    "fr": "Active une fonctionnalité premium pour ce serveur",
+    "fr": "Activer une fonctionnalité premium pour ce serveur",
     "pt": "Habilita um recurso premium para o servidor",
     "es": "Activa una función premium para el servidor",
     "pl": "Włącz funkcje premium na serwerze",
@@ -1216,26 +1216,26 @@
     "pl": "Przejdź na premium aby używać gildyjnych rang! Za małą cene miesięcznie możesz włączyć funkcje premium na twoim serwerze. Umożliwia nam to utrzymanie tak dużego bota jak ten. Zobacz rp!features aby sprawdzić szczegóły",
     "de": "Sie brauchen die Premium Feature, um Gildenränge zu verwenden! Für einen kleinen Betrag monatlich können Sie Premium-Funktionen auf Ihrem Server aktivieren, mit denen wir einen so großen Bot am Laufen halten können. Weitere Informationen finden Sie unter rp!features"
   },
-  "Authority: ": {
+  "Authority:": {
     "fr": "Autorité",
     "pt": "Autoridade",
     "es": "Autoridad",
     "pl": "Władza",
     "de": "Authorität: "
   },
-  "Permissions:\n": {
-    "fr": "Permissions:\n",
-    "pt": "Permissões:\n",
-    "es": "Permisos:\n",
-    "pl": "Uprawnienia:\n",
-    "de": "Berechtigungen:\n"
+  "Permissions:": {
+    "fr": "Permissions:",
+    "pt": "Permissões:",
+    "es": "Permisos:",
+    "pl": "Uprawnienia:",
+    "de": "Berechtigungen:"
   },
-  "Salary: ": {
-    "fr": "Salaire: ",
-    "pt": "Salário: ",
-    "es": "Salario: ",
-    "pl": "Wypłata: ",
-    "de": "Gehalt: "
+  "Salary:": {
+    "fr": "Salaire:",
+    "pt": "Salário:",
+    "es": "Salario:",
+    "pl": "Wypłata:",
+    "de": "Gehalt:"
   },
   "Subcommands for managing guild ranks and viewing ranks": {
     "fr": "Sous-commandes pour gérer les classements de guilde et voir les classements",
@@ -1286,12 +1286,12 @@
     "pl": "Pomyślnie ustawiono range gildyjną!",
     "de": "Gildenrang erfolgreich gesetzt!"
   },
-  "Your guild has: ": {
-    "fr": "Votre guilde a: ",
-    "pt": "Sua guilda tem: ",
-    "es": "Tu gremio tiene: ",
-    "pl": "Twoja gildia ma: ",
-    "de": "Ihre Gilde hat: "
+  "Your guild has:": {
+    "fr": "Votre guilde a:",
+    "pt": "Sua guilda tem:",
+    "es": "Tu gremio tiene:",
+    "pl": "Twoja gildia ma:",
+    "de": "Ihre Gilde hat:"
   },
   "You do not have enough to deposit!": {
     "fr": "Vous n'avez pas assez pour déposer ce montant!",
@@ -1412,12 +1412,12 @@
     "pl": "Brak przedmiotów",
     "de": "Keine Gegenstände"
   },
-  "Deposit the given items into the container with the given number. To see which container has which number, check rp!containers\n        Usage: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ": {
-    "fr": "Dépose les items donnés dans le conteneur avec le numéro donné. Pour voir quel conteneur a quel numéro, faites r!containers\n        Utilisation: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ",
-    "pt": "Deposita os itens informados no contâiner com o número informado. Para ver qual contâiner tem determinado número, verifique rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15\n         ",
-    "es": "Deposita los objetos determinados en el contenedor con el número dado. Para ver que número tiene cada contenedor, consulte rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15\n         ",
-    "pl": "Włóż podane itemy w danej ilości do wybranego pojemnika. Aby sprawdzić jaki numer ma pojemnik, sprawdź rp!containers\n        Użycie: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ",
-    "de": "Legen Sie die angegebenen Gegenstände mit der angegebenen Nummer in den Behälter. Um zu sehen, welcher Behälter welche Nummer hat, überprüfen Sie rp!container\n        Verwendung: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        "
+  "Deposit the given items into the container with the given number. To see which container has which number, check rp!containers\n        Usage: rp!container deposit 1 Applex15, Bananax25, Orangex15": {
+    "fr": "Dépose les items donnés dans le conteneur avec le numéro donné. Pour voir quel conteneur a quel numéro, faites r!containers\n        Utilisation: rp!container deposit 1 Applex15, Bananax25, Orangex15",
+    "pt": "Deposita os itens informados no contâiner com o número informado. Para ver qual contâiner tem determinado número, verifique rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15",
+    "es": "Deposita los objetos determinados en el contenedor con el número dado. Para ver que número tiene cada contenedor, consulte rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15",
+    "pl": "Włóż podane itemy w danej ilości do wybranego pojemnika. Aby sprawdzić jaki numer ma pojemnik, sprawdź rp!containers\n        Użycie: rp!container deposit 1 Applex15, Bananax25, Orangex15",
+    "de": "Legen Sie die angegebenen Gegenstände mit der angegebenen Nummer in den Behälter. Um zu sehen, welcher Behälter welche Nummer hat, überprüfen Sie rp!container\n        Verwendung: rp!container deposit 1 Applex15, Bananax25, Orangex15"
   },
   "You don't have this many items to deposit!": {
     "fr": "Vous n'avez pas autant d'items à déposer!",
@@ -2119,33 +2119,33 @@
     "pl": "Pomyślnie zakupiłeś przedmioty",
     "de": "Gegenstand erfolgreich gekauft!"
   },
-  "How long should the time between salary collection be (in minutes)\n": {
-    "fr": "Combien de temps doit il y avoir entre 2 récupération de salaire (en minutes)\n",
-    "pt": "Quanto deve ser o tempo entre as coletas de salário (em minutos)\n",
-    "es": "Cuanto tiempo debería haber entre cada cobro de salario (en minutos)\n",
-    "pl": "Co jaki czas powinna być możliwość odebrania wypłaty (w minutach)\n",
-    "de": "Wie lang sollte Die Zeit zwischen der Gehaltserhebung sein (in Minuten)\n"
+  "How long should the time between salary collection be (in minutes)": {
+    "fr": "Combien de temps doit il y avoir entre 2 récupération de salaire (en minutes)",
+    "pt": "Quanto deve ser o tempo entre as coletas de salário (em minutos)",
+    "es": "Cuanto tiempo debería haber entre cada cobro de salario (en minutos)",
+    "pl": "Co jaki czas powinna być możliwość odebrania wypłaty (w minutach)",
+    "de": "Wie lang sollte Die Zeit zwischen der Gehaltserhebung sein (in Minuten)"
   },
-  "How much money should the salary give?\n": {
+  "How much money should the salary give?": {
     "fr": "Combien d'argent le salaire doit il donner ?",
-    "pt": "Quando dinheiro o salário deve dar?\n",
-    "es": "Cuanto dinero debería el salario dar\n",
-    "pl": "Jak dużo pieniędzy powinno dostawać się za odebranie wypłaty\n",
-    "de": "Wie viel sollte das Gehelt geben?\n"
+    "pt": "Quando dinheiro o salário deve dar?",
+    "es": "Cuanto dinero debería el salario dar",
+    "pl": "Jak dużo pieniędzy powinno dostawać się za odebranie wypłaty",
+    "de": "Wie viel sollte das Gehelt geben?"
   },
-  "What items should the salary give?\n": {
-    "fr": "Quels items le salaire doit il donner?\n",
-    "pt": "Quais itens o salário deve dar?\n",
-    "es": "Que objetos debería el salario dar?\n",
-    "pl": "Jakie przedmioty powinieneś dostawać jako wypłate?\n",
-    "de": "Welche Gegenstände sollte das Gehalt geben?\n"
+  "What items should the salary give?": {
+    "fr": "Quels items le salaire doit il donner?",
+    "pt": "Quais itens o salário deve dar?",
+    "es": "Que objetos debería el salario dar?",
+    "pl": "Jakie przedmioty powinieneś dostawać jako wypłate?",
+    "de": "Welche Gegenstände sollte das Gehalt geben?"
   },
-  "What type of salary should it be? Automatically given (after the time), or should the player need to collect it manually with rp!salary collect? Choices are `automatic` or `manual`\n": {
+  "What type of salary should it be? Automatically given (after the time), or should the player need to collect it manually with rp!salary collect? Choices are `automatic` or `manual`": {
     "fr": "Quel type de salaire doit il être ? Donné automatiquement (après le temps donné), ou le joueur doit il le collecter manuellement avec rp!salary collect? Les choix sont `automatic` ou `manual`",
-    "pt": "Que tipo de salário deve ser? Automaticamente pago (após o tempo), ou o jogador precisa coletar manualmente com rp!salary collect? Opções são `automatic` ou `manual`\n",
-    "es": "Que tipo de salario debe ser? Dado automáticamente (despues de un tiempo), o el jugador debe cobrarlo manualmente con rp!salary collect? Las opciones son `automatic` o `manual`\n",
+    "pt": "Que tipo de salário deve ser? Automaticamente pago (após o tempo), ou o jogador precisa coletar manualmente com rp!salary collect? Opções são `automatic` ou `manual`",
+    "es": "Que tipo de salario debe ser? Dado automáticamente (despues de un tiempo), o el jugador debe cobrarlo manualmente con rp!salary collect? Las opciones son `automatic` o `manual`",
     "pl": "",
-    "de": "Welche Art von Gehalt sollte es sein? Automatisch gegeben (nach der Zeit), oder sollte der Spieler es manuell mit rp!salary sammeln müssen? Die Auswahlmöglichkeiten sind `automatic` oder `manual`\n"
+    "de": "Welche Art von Gehalt sollte es sein? Automatisch gegeben (nach der Zeit), oder sollte der Spieler es manuell mit rp!salary sammeln müssen? Die Auswahlmöglichkeiten sind `automatic` oder `manual`"
   },
   "Type the number of the page you wish to jump to.\n1. Time Interval\n2. Money\n3. Items\n4. Type": {
     "fr": "tapez le numéro de la page à laquelle vous voulez aller.\n1. Intervalle de temps\n2. Argent\n3. Items\n4. Type",
@@ -2296,216 +2296,216 @@
     "pt": "Veja a lista de tags do servidor",
     "es": "Consulta la lista de tags del servidor",
     "de": "Liste alle Gegenstand Tags auf diesem Server auf"
-  },	
-  "Type the number of the page you wish to jump to.\n1. Description\n2. Picture\n3. Prefix": {	
+  },
+  "Type the number of the page you wish to jump to.\n1. Description\n2. Picture\n3. Prefix": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Imagem\n3. Prefixo"
-  },	
-  "Type the number of the page you wish to jump to.\n1.Description\n2.Picture\n3. Prefix\n4. Template\n5. Owner": {	
+  },
+  "Type the number of the page you wish to jump to.\n1.Description\n2.Picture\n3. Prefix\n4. Template\n5. Owner": {
     "pt": "Digite o número da página para qual você deseja ir.\n1.Descrição\n2.Imagem\n3. Prefixo\n4. Molde\n5. Dono"
-  },	
-  "Who should this character belong to?": {	
+  },
+  "Who should this character belong to?": {
     "pt": "A quem este personagem deve pertencer?"
-  },	
-  "Is this character a template (yes/no)? Type \"no\" if you don't know what this means.": {	
+  },
+  "Is this character a template (yes/no)? Type \"no\" if you don't know what this means.": {
     "Translators_Note": "Do not translate the 'yes' and 'no' they need to remain in english for the bot to work",
     "pt": "Esse personagem é um molde (yes/no?) Digite \"no\" se não souber o que isso significa"
-  },	
-  "Describe the character (description). (3995 chars max)": {	
+  },
+  "Describe the character (description). (3995 chars max)": {
     "pt": "Descreva o personagem (descrição)"
-  },	
+  },
   "If you would like to provide a picture for the character, paste one here. (Leave blank for no picture).": {
     "pt": "Se você gostaria de adicionar uma imagem ao personagem, cole uma aqui. (deixe em branco para deixar sem imagem)"
-  },	
-  "If you would like to provide a custom prefix for the character that you can use instead of `rp!character assume`, specify one here (Leave blank for no prefix).": {	
+  },
+  "If you would like to provide a custom prefix for the character that you can use instead of `rp!character assume`, specify one here (Leave blank for no prefix).": {
     "pt": "Se você gostaria de adicionar um prefixo personalizado para o personagem que você pode usar ao invés de `rp!character assume`, especifique um aqui (deixe em branco para deixar sem prefixo)"
-  },	
-  "Invalid mode!": {	
+  },
+  "Invalid mode!": {
     "pt": "modo inválido!"
-  },	
-  "Finished? Click \u2705 to submit!": {	
+  },
+  "Finished? Click \u2705 to submit!": {
     "pt": "Acabou? clique \u2705 para enviar!"
-  },	
-  "Menu": {	
+  },
+  "Menu": {
     "pt": "Menu"
-  },	
-  "Picture": {	
+  },
+  "Picture": {
     "pt": "Imagen"
-  },	
-  "Template": {	
+  },
+  "Template": {
     "pt": "Molde"
-  },	
-  "Character submitted!": {	
+  },
+  "Character submitted!": {
     "pt": "Personagem enviado!!"
-  },	
-  "Character creation cancelled!": {	
+  },
+  "Character creation cancelled!": {
     "pt": "Criação de personagem cancelada!"
-  },	
-  "URL not valid! Try again!": {	
+  },
+  "URL not valid! Try again!": {
     "pt": "URL inválida! Tente novamente!"
-  },	
-  "Locked: templates belong to the server as a whole.": {	
+  },
+  "Locked: templates belong to the server as a whole.": {
     "pt": "Bloqueado: Moldes pertencem ao servidor como um todo"
-  },	
-  "**Invalid input! Please answer 'yes' or 'no'**": {	
+  },
+  "**Invalid input! Please answer 'yes' or 'no'**": {
     "pt": "**Entrada inválida! Por favor, responda 'yes' ou 'no'**"
-  },	
-  "**Invalid input! Please target a user**": {	
+  },
+  "**Invalid input! Please target a user**": {
     "pt": "**Entrada inválida! Por favor determine um usuário**"
-  },	
-  "False": {	
+  },
+  "False": {
     "pt": "Falso"
-  },	
-  "What enemies should appear in this encounter?": {	
+  },
+  "What enemies should appear in this encounter?": {
     "pt": "Quais inimigos devem aparecer nesse encontro?"
-  },	
-  "How many points should this encounter be allowed to allocate? (Higher = more enemies)": {	
+  },
+  "How many points should this encounter be allowed to allocate? (Higher = more enemies)": {
     "pt": "Quantos pontos esse encontro deve ser permitido alocar? (Maior =  mais inimigos)"
-  },	
-  "Enemey List": {	
+  },
+  "Enemey List": {
     "pt": "Lista de inimigos"
-  },	
-  "Describe the guild (description). (3995 chars max)": {	
+  },
+  "Describe the guild (description). (3995 chars max)": {
     "pt": "Descreva a guilda (descrição). (Máximo de 3995 caracteres)"
-  },	
-  "If you would like to provide a picture for the guild, paste one here. (Leave blank for no picture).": {	
+  },
+  "If you would like to provide a picture for the guild, paste one here. (Leave blank for no picture).": {
     "pt": "Se você gostaria de adicionar uma imagem para a guilda, cole uma aqui. (deixe em branco para deixar sem imagem)"
-  },	
-  "Type the number of the page you wish to jump to.\n1. Description\n2. Picture": {	
+  },
+  "Type the number of the page you wish to jump to.\n1. Description\n2. Picture": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Imagem"
-  },	
-  "Your description is too large! Please start over": {	
+  },
+  "Your description is too large! Please start over": {
     "pt": "Sua descrição é muito grande! Por favor, faça de novo"
-  },	
-  "URI not valid! Try again!": {	
-  },	
-  "Describe the item (description). (3995 chars max)": {	
+  },
+  "URI not valid! Try again!": {
+  },
+  "Describe the item (description). (3995 chars max)": {
     "pt": "Descreva o item (descrição). (Máximo de 3995 caracteres)"
-  },	
-  "If you would like to provide a picture for the item, paste one here. (Leave blank for no picture).": {	
+  },
+  "If you would like to provide a picture for the item, paste one here. (Leave blank for no picture).": {
     "pt": "Se você gostaria de adicionar uma imagem ao item, cole uma aqui. (deixe em branco para deixar sem imagem)."
-  },	
-  "If you would like to add modifiers to this item, provide one or more of the following attributes, comma separated\nValid modifiers:\n\t- `unique` This item cannot be stacked\n\t- `equippable` This item may be equipped\n\t- `quest` This item is special item for a quest\n\t- `nontransfer` This item cannot be transferred to another player or sold / bought.\n\t- `container` This item can be used to store other items (premium)\n\t- `usable` This item can be used with a custom effect or message": {	
+  },
+  "If you would like to add modifiers to this item, provide one or more of the following attributes, comma separated\nValid modifiers:\n\t- `unique` This item cannot be stacked\n\t- `equippable` This item may be equipped\n\t- `quest` This item is special item for a quest\n\t- `nontransfer` This item cannot be transferred to another player or sold / bought.\n\t- `container` This item can be used to store other items (premium)\n\t- `usable` This item can be used with a custom effect or message": {
     "pt": "Se você gostaria de adicionar modificadores ao item, providencie um ou mais dos seguintes atributos, separados por virgula\nModificadores válidos:\n\t- `unique` Esse item não pode ser empilhado\n\t- `equippable` Esse item não pode ser equipado\n\t- `quest` Esse item é especial para uma missão\n\t- `nontransfer` Esse item não pode ser transferido para outro jogador ou vendido / comprado. \n\t- `container` Esse item pode ser usado para armazenar outros items (premium)\n\t- `usable` Esse item pode ser usado com um efeito ou mensagem personalizada"
-  },	
-  "How many items should this container be able to store?": {	
+  },
+  "How many items should this container be able to store?": {
     "pt": "Quantos items esse recipiente deve ser capaz de armazenar?"
-  },	
-  "When this item is used, you may have a script invoked or send a message.\nPut either the message you want to send or the name of a script you've created.\nSee `rp!help script` for more information on custom scripts. $name will be replaced with the character's name.": {	
+  },
+  "When this item is used, you may have a script invoked or send a message.\nPut either the message you want to send or the name of a script you've created.\nSee `rp!help script` for more information on custom scripts. $name will be replaced with the character's name.": {
     "pt": "Quando esse item é usado, você pode executar script ou enviar uma mensagem. \nColoque uma mensagem que você deseja enviar ou o nome de um script que você criou. .\nVeja `rp!help script` para mais informações sobre scripts personalizados. $name será substituído pelo nome do personagem."
-  },	
-  "Are there any tags you'd like to apply to the item? Tags can be used to mark item types, for example you might create 3 varieties of apples, Green Apples, Red Apples, and Yellow Apples, and apply the `apple` tag to each": {	
+  },
+  "Are there any tags you'd like to apply to the item? Tags can be used to mark item types, for example you might create 3 varieties of apples, Green Apples, Red Apples, and Yellow Apples, and apply the `apple` tag to each": {
     "pt": "Existe alguma tag que você gostaria de aplicar ao item? Tags podem ser usadas para marcar os tipos de item, por exemplo você pode criar 3 variedades de maçã, Maçã verde, Maçã vermelha e Maçã amarela, e aplicar a tag `maçã` a cada uma"
-  },	
-  "Capacity": {	
+  },
+  "Capacity": {
     "pt": "Capacidade"
-  },	
-  "Invalid Type": {	
+  },
+  "Invalid Type": {
     "pt": "Tipo inválido"
-  },	
-  "Type the number of the page you wish to jump to.": {	
+  },
+  "Type the number of the page you wish to jump to.": {
     "pt": "Digite o número da página para qual você deseja ir."
-  },	
-  "The capacity cannot be 0!": {	
+  },
+  "The capacity cannot be 0!": {
     "pt": "A capacidade não pode ser 0!"
-  },	
-  "Type the number of the page you wish to jump to.\n1. Content\n2. Key\n3. Item": {	
+  },
+  "Type the number of the page you wish to jump to.\n1. Content\n2. Key\n3. Item": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Conteúdo\n2. Chave\n3. Item"
-  },	
-  "List the items that will go into the lootbox and the weighted chance of each set of items. Each new message will be counted as a new entry. Format lines as follows: `weight Itemx1, Itemx2, ...`, for example `15 Applex3 Bananax5`. This will create a new possible reward in the lootbox of both these items, with a weighted chance of 15.": {	
-  },	
-  "Choose which item will be used as this box's key": {	
-  },	
-  "Choose which item will be used to represent this box as an item in the character's inventory.": {	
-  },	
-  "Type the number of the page you wish to jump to.\n1. Duration\n2. Prize Money\n3. Prize Items": {	
-  },	
-  "How long should the lottery last (in minutes)": {	
-  },	
-  "How much money should the winner receive?": {	
-  },	
-  "What items should the winner receive? (Format: Itemx1, Itemx2, Itemx3)": {	
-  },	
-  "Select a number for the authority or ranking of this rank. Lower number means higher authority. (0 is reserved for the owner of the guild)\nNOTE: You cannot create a rank with authority higher than or equal to your own' rank's authority.": {	
-  },	
-  "Set this rank's salary. (Cannot be less than 0)": {	
-  },	
-  "Type the number of the page you wish to jump to.\n1. Authority\n2. Permissions\n3. Salary": {	
-  },	
-  "Set permissions by typing in the name of the permission followed by the value. (I.E. invite_members false).  \nAvailable permissions are:": {	
-  },	
-  "List the ingredients and their quantities. Use this format: `Orangex4 Applex3`\nSet the quantity for an item to 0 to make it required but non-consumed, such as for tools.": {	
-  },	
-  "Define the method by which this recipe is crafted. If you don't understand what this is, skip it": {	
-  },	
-  "Set the time it takes for this recipe to be crafted in seconds.": {	
-  },	
-  "List the products and their quantities using the same format as the ingredients `Orangex5 Applex3`": {	
-  },	
-  "Should this recipe be hidden? [yes/no] (i.e. only craftable with rp!craft attempt)`": {	
-  },	
-  "Type the number of the page you wish to jump to.\n1. Ingredients\n2. Method\n3. Time\n4. Product\n5. Hidden": {	
-  },	
-  "Describe the shop (description). (3995 chars max)": {	
-  },	
-  "If you would like to provide a icon for the shop, paste one here. (Leave blank for no icon).": {	
-  },	
-  "Which channels should this be available in? Provide any combination of individual channels and channel categories. If none are selected, the shop will be available in all channels.": {	
-  },	
-  "Type the number of the page you wish to jump to.\n1. Description\n2. Icon\n3. Channels": {	
-  },	
-  "Script deleted!": {	
-  },	
-  "Successfully renamed lootbox": {	
-  },	
-  "Set a character attribute\nUsage: rp!character attribute set description \"John likes bananas!\"\n\nBot Admin is required to edit other people's characters' attributes": {	
-  },	
-  "Delete a character attribute\nUsage: rp!character attribute delete hair-color\n\nBot Admin is required to remove other people's characters' attributes": {	
-  },	
-  "Give an item from your inventory to another character.\nUsage:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 charname charname2": {	
-  },	
-  "Open / view a container. See rp!containers to see the container numbers in your inventory.\nUsage: rp!container open 1": {	
-  },	
-  "Give multiple items to the list of users. Look carefully at syntax\nUsage:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 mycharacter character2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone": {	
-  },	
-  "Give an item to a number of characters as an administrator, rather than from your inventory. You may\nalso target item tags.\nUsage:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 mycharacter character2": {	
-  },	
-  "Take multiple items from the list of users. Look carefully at syntax\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 mycharacter character2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone": {	
-  },	
-  "Use an item in your inventory": {	
-    "fr": "Utiliser un item dans votre inventaire"	
-  },	
-  "Wipe all listed inventories. Must be administrator. To wipe ALL inventories do `rp!wipeinv everyone`": {	
-  },	
-  "Take money from users, same syntax as rp!givemoney": {	
-  },	
-  "See all current guilds": {	
-    "fr": "Voir les guildes du serveur"	
-  },	
-  "Roll a number of dice with given sides (ndx notation)\nExample: rp!rtd 3d7 2d4\nOptional Additions:\nTest for success by adding a >/<#\nGrab the top n rolls by adding ^n\nGrab the bottom n rolls by adding _n\nAdd to the final roll by just adding a number (pos or neg)\n\nExamples of all:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Roll failed (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Grabbed top 4 out of 8)": {	
-  },	
-  "View server regions": {	
-    "fr": "Voir les regions du serveur"	
-  },	
-  "Sync the roles of all characters in the server": {	
-  },	
-  "Explicitly enable a command for a role for the server. Will override the setting for lower roles\nEx: rp!s enable character.create @Bot Admin": {	
-  },	
-  "Set the currency for the server. Part appears before the number, part after\nExample:\n`rp!setcurrency $` before - money will appear like `$20`\n`rp!setcurrency gold` after - money will appear like `20 gold`": {	
-  },	
-  "Set default / starting region for the server": {	
-  },	
-  "Set the language for the server\nValid Languages:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl": {	
-  },	
-  "Set the prefix for the server": {	
-  },	
-  "Set the amount of money characters start with": {	
-  },	
-  "Set whether adding/removing a role to a user will sync it with all the user's characters (yes/no)": {	
-  },	
-  "Export data from RPGBot-V2\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds": {	
-  },	
-  "Subcommands for importing data\nRequires attached file\nValid datatypes to import:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things": {	
-  },	
+  },
+  "List the items that will go into the lootbox and the weighted chance of each set of items. Each new message will be counted as a new entry. Format lines as follows: `weight Itemx1, Itemx2, ...`, for example `15 Applex3 Bananax5`. This will create a new possible reward in the lootbox of both these items, with a weighted chance of 15.": {
+  },
+  "Choose which item will be used as this box's key": {
+  },
+  "Choose which item will be used to represent this box as an item in the character's inventory.": {
+  },
+  "Type the number of the page you wish to jump to.\n1. Duration\n2. Prize Money\n3. Prize Items": {
+  },
+  "How long should the lottery last (in minutes)": {
+  },
+  "How much money should the winner receive?": {
+  },
+  "What items should the winner receive? (Format: Itemx1, Itemx2, Itemx3)": {
+  },
+  "Select a number for the authority or ranking of this rank. Lower number means higher authority. (0 is reserved for the owner of the guild)\nNOTE: You cannot create a rank with authority higher than or equal to your own' rank's authority.": {
+  },
+  "Set this rank's salary. (Cannot be less than 0)": {
+  },
+  "Type the number of the page you wish to jump to.\n1. Authority\n2. Permissions\n3. Salary": {
+  },
+  "Set permissions by typing in the name of the permission followed by the value. (I.E. invite_members false).  \nAvailable permissions are:": {
+  },
+  "List the ingredients and their quantities. Use this format: `Orangex4 Applex3`\nSet the quantity for an item to 0 to make it required but non-consumed, such as for tools.": {
+  },
+  "Define the method by which this recipe is crafted. If you don't understand what this is, skip it": {
+  },
+  "Set the time it takes for this recipe to be crafted in seconds.": {
+  },
+  "List the products and their quantities using the same format as the ingredients `Orangex5 Applex3`": {
+  },
+  "Should this recipe be hidden? [yes/no] (i.e. only craftable with rp!craft attempt)`": {
+  },
+  "Type the number of the page you wish to jump to.\n1. Ingredients\n2. Method\n3. Time\n4. Product\n5. Hidden": {
+  },
+  "Describe the shop (description). (3995 chars max)": {
+  },
+  "If you would like to provide a icon for the shop, paste one here. (Leave blank for no icon).": {
+  },
+  "Which channels should this be available in? Provide any combination of individual channels and channel categories. If none are selected, the shop will be available in all channels.": {
+  },
+  "Type the number of the page you wish to jump to.\n1. Description\n2. Icon\n3. Channels": {
+  },
+  "Script deleted!": {
+  },
+  "Successfully renamed lootbox": {
+  },
+  "Set a character attribute\nUsage: rp!character attribute set description \"John likes bananas!\"\n\nBot Admin is required to edit other people's characters' attributes": {
+  },
+  "Delete a character attribute\nUsage: rp!character attribute delete hair-color\n\nBot Admin is required to remove other people's characters' attributes": {
+  },
+  "Give an item from your inventory to another character.\nUsage:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 charname charname2": {
+  },
+  "Open / view a container. See rp!containers to see the container numbers in your inventory.\nUsage: rp!container open 1": {
+  },
+  "Give multiple items to the list of users. Look carefully at syntax\nUsage:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 mycharacter character2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone": {
+  },
+  "Give an item to a number of characters as an administrator, rather than from your inventory. You may\nalso target item tags.\nUsage:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 mycharacter character2": {
+  },
+  "Take multiple items from the list of users. Look carefully at syntax\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 mycharacter character2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone": {
+  },
+  "Use an item in your inventory": {
+    "fr": "Utiliser un item dans votre inventaire"
+  },
+  "Wipe all listed inventories. Must be administrator. To wipe ALL inventories do `rp!wipeinv everyone`": {
+  },
+  "Take money from users, same syntax as rp!givemoney": {
+  },
+  "See all current guilds": {
+    "fr": "Voir les guildes du serveur"
+  },
+  "Roll a number of dice with given sides (ndx notation)\nExample: rp!rtd 3d7 2d4\nOptional Additions:\nTest for success by adding a >/<#\nGrab the top n rolls by adding ^n\nGrab the bottom n rolls by adding _n\nAdd to the final roll by just adding a number (pos or neg)\n\nExamples of all:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Roll failed (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Grabbed top 4 out of 8)": {
+  },
+  "View server regions": {
+    "fr": "Voir les regions du serveur"
+  },
+  "Sync the roles of all characters in the server": {
+  },
+  "Explicitly enable a command for a role for the server. Will override the setting for lower roles\nEx: rp!s enable character.create @Bot Admin": {
+  },
+  "Set the currency for the server. Part appears before the number, part after\nExample:\n`rp!setcurrency $` before - money will appear like `$20`\n`rp!setcurrency gold` after - money will appear like `20 gold`": {
+  },
+  "Set default / starting region for the server": {
+  },
+  "Set the language for the server\nValid Languages:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl": {
+  },
+  "Set the prefix for the server": {
+  },
+  "Set the amount of money characters start with": {
+  },
+  "Set whether adding/removing a role to a user will sync it with all the user's characters (yes/no)": {
+  },
+  "Export data from RPGBot-V2\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds": {
+  },
+  "Subcommands for importing data\nRequires attached file\nValid datatypes to import:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things": {
+  },
   "Import data from old RPGBot.\nValid datatypes to wipe:\n- items\n- characters\n- settings\n- guilds\n- lootboxes\n- recipes\n- shops": {
   }
 }
