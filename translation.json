@@ -2307,8 +2307,8 @@
     "pt": "A quem este personagem deve pertencer?"
   },	
   "Is this character a template (yes/no)? Type \"no\" if you don't know what this means.": {	
-    "Translators_Note": "Do not translate the 'yes' and 'no' they need to remain in english for the bot to work"
-    "pt": "Esse personagem é um molde (yes/no?) Digite \"no\" se não souber o que isso significa "
+    "Translators_Note": "Do not translate the 'yes' and 'no' they need to remain in english for the bot to work",
+    "pt": "Esse personagem é um molde (yes/no?) Digite \"no\" se não souber o que isso significa"
   },	
   "Describe the character (description). (3995 chars max)": {	
     "pt": "Descreva o personagem (descrição)"
