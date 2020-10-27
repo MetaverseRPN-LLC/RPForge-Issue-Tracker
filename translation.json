@@ -2411,101 +2411,148 @@
   "Type the number of the page you wish to jump to.\n1. Content\n2. Key\n3. Item": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Conteúdo\n2. Chave\n3. Item"
   },
-  "List the items that will go into the lootbox and the weighted chance of each set of items. Each new message will be counted as a new entry. Format lines as follows: `weight Itemx1, Itemx2, ...`, for example `15 Applex3 Bananax5`. This will create a new possible reward in the lootbox of both these items, with a weighted chance of 15.": {
-  },
-  "Choose which item will be used as this box's key": {
-  },
-  "Choose which item will be used to represent this box as an item in the character's inventory.": {
-  },
-  "Type the number of the page you wish to jump to.\n1. Duration\n2. Prize Money\n3. Prize Items": {
-  },
-  "How long should the lottery last (in minutes)": {
-  },
-  "How much money should the winner receive?": {
-  },
-  "What items should the winner receive? (Format: Itemx1, Itemx2, Itemx3)": {
-  },
-  "Select a number for the authority or ranking of this rank. Lower number means higher authority. (0 is reserved for the owner of the guild)\nNOTE: You cannot create a rank with authority higher than or equal to your own' rank's authority.": {
-  },
-  "Set this rank's salary. (Cannot be less than 0)": {
-  },
-  "Type the number of the page you wish to jump to.\n1. Authority\n2. Permissions\n3. Salary": {
-  },
-  "Set permissions by typing in the name of the permission followed by the value. (I.E. invite_members false).  \nAvailable permissions are:": {
-  },
-  "List the ingredients and their quantities. Use this format: `Orangex4 Applex3`\nSet the quantity for an item to 0 to make it required but non-consumed, such as for tools.": {
-  },
-  "Define the method by which this recipe is crafted. If you don't understand what this is, skip it": {
-  },
-  "Set the time it takes for this recipe to be crafted in seconds.": {
-  },
-  "List the products and their quantities using the same format as the ingredients `Orangex5 Applex3`": {
-  },
-  "Should this recipe be hidden? [yes/no] (i.e. only craftable with rp!craft attempt)`": {
-  },
-  "Type the number of the page you wish to jump to.\n1. Ingredients\n2. Method\n3. Time\n4. Product\n5. Hidden": {
-  },
-  "Describe the shop (description). (3995 chars max)": {
-  },
-  "If you would like to provide a icon for the shop, paste one here. (Leave blank for no icon).": {
-  },
-  "Which channels should this be available in? Provide any combination of individual channels and channel categories. If none are selected, the shop will be available in all channels.": {
-  },
-  "Type the number of the page you wish to jump to.\n1. Description\n2. Icon\n3. Channels": {
-  },
-  "Script deleted!": {
-  },
-  "Successfully renamed lootbox": {
-  },
-  "Set a character attribute\nUsage: rp!character attribute set description \"John likes bananas!\"\n\nBot Admin is required to edit other people's characters' attributes": {
-  },
-  "Delete a character attribute\nUsage: rp!character attribute delete hair-color\n\nBot Admin is required to remove other people's characters' attributes": {
-  },
-  "Give an item from your inventory to another character.\nUsage:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 charname charname2": {
-  },
-  "Open / view a container. See rp!containers to see the container numbers in your inventory.\nUsage: rp!container open 1": {
-  },
-  "Give multiple items to the list of users. Look carefully at syntax\nUsage:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 mycharacter character2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone": {
-  },
-  "Give an item to a number of characters as an administrator, rather than from your inventory. You may\nalso target item tags.\nUsage:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 mycharacter character2": {
-  },
-  "Take multiple items from the list of users. Look carefully at syntax\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 mycharacter character2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone": {
-  },
-  "Use an item in your inventory": {
-    "fr": "Utiliser un item dans votre inventaire"
-  },
-  "Wipe all listed inventories. Must be administrator. To wipe ALL inventories do `rp!wipeinv everyone`": {
-  },
+  "List the items that will go into the lootbox and the weighted chance of each set of items. Each new message will be counted as a new entry. Format lines as follows: `weight Itemx1, Itemx2, ...`, for example `15 Applex3 Bananax5`. This will create a new possible reward in the lootbox of both these items, with a weighted chance of 15.": {	
+    "pt": "Liste os itens que estarão dentro da lootbox e as chances ponderadas de cada conjunto de itens. Cada nova mensagem será contada como uma nova entrada. Formate as linhas da seguinte maneira: `weight Itemx1, Itemx2, ...`, por exemplo `15 Applex3, Bananax5`. Isso irá criar uma nova possibilidade de recompensa no lootbox para cada um desses itens, com a change ponderada de 15."
+  },	
+  "Choose which item will be used as this box's key": {	
+    "pt": "Escolha qual item será usado como chave desta caixa"
+  },	
+  "Choose which item will be used to represent this box as an item in the character's inventory.": {	
+    "pt": "Escolha qual item será usado para representar essa caixa como um item no inventário do personagem."
+  },	
+  "Type the number of the page you wish to jump to.\n1. Duration\n2. Prize Money\n3. Prize Items": {	
+    "pt": "Digite o número da página para qual você deseja ir.\n1. Duraçào\n2. Prêmio em Dinheiro\n3. Itens de Prêmio"
+  },	
+  "How long should the lottery last (in minutes)": {	
+    "pt": "Quanto tempo deve durar a loteria(em minutos)"
+  },	
+  "How much money should the winner receive?": {	
+    "pt": "Quando dinheiro o vencedor deve receber?"
+  },	
+  "What items should the winner receive? (Format: Itemx1, Itemx2, Itemx3)": {	
+    "pt": "Quais items o vencedor deve receber? (Formato: Itemx1, Itemx2, Itemx3)"
+  },	
+  "Select a number for the authority or ranking of this rank. Lower number means higher authority. (0 is reserved for the owner of the guild)\nNOTE: You cannot create a rank with authority higher than or equal to your own' rank's authority.": {	
+    "pt": "Selecione um número para a autoridade ou classificação dessa classificação. Números menores significam maior autoridade. (0 é reservado para o proprietário da guilda)\nNOTA: Você não pode criar uma classificação com autoridade maior que ou igual a autoridade da sua classificação."
+  },	
+  "Set this rank's salary. (Cannot be less than 0)": {	
+    "pt": "Define o salário desta classificação. (Não pode ser menor que 0)"
+  },	
+  "Type the number of the page you wish to jump to.\n1. Authority\n2. Permissions\n3. Salary": {	
+    "pt": "Digite o número da página para qual você deseja ir.\n1. Autoridade\n2. Permissões\n3. Salário"
+  },	
+  "Set permissions by typing in the name of the permission followed by the value. (I.E. invite_members false).  \nAvailable permissions are:": {	
+    "pt": "Defina permissões ao digitar o nome da permissão seguida pelo valor. (Exemplo invite_members false).  \nAs permissões disponíveis são:"
+  },	
+  "List the ingredients and their quantities. Use this format: `Orangex4 Applex3`\nSet the quantity for an item to 0 to make it required but non-consumed, such as for tools.": {	
+    "pt": "Liste os infredientes e suas quantidades. Use o formato: `Orangex4 Applex3`\nDefina a quantiadde de um item como 0 para torná-lo obrigatório mas não consumido, como para ferramentas."
+  },	
+  "Define the method by which this recipe is crafted. If you don't understand what this is, skip it": {	
+    "pt": "Defina o método pelo qual esta receita é fabricada. Se você não entende o que é isso, pule essa parte"
+  },	
+  "Set the time it takes for this recipe to be crafted in seconds.": {	
+    "pt": "Defina o tempo, em segundos, que leva para essa receita ser fabricada."
+  },	
+  "List the products and their quantities using the same format as the ingredients `Orangex5 Applex3`": {	
+    "pt": "Liste os produtos e suas quantidades usando o mesmo formato dos ingredientes `Orangex5 Applex3`"
+  },	
+  "Should this recipe be hidden? [yes/no] (i.e. only craftable with rp!craft attempt)`": {	
+    "pt": "Esta receita deve ser escondida? [yes/no] (ou seja, somente fabricável com rp!craft attempt)"
+  },	
+  "Type the number of the page you wish to jump to.\n1. Ingredients\n2. Method\n3. Time\n4. Product\n5. Hidden": {	
+    "pt": "Digite o número da página para qual você deseja ir.\n1. Ingredientes\n2. Método\n3. Tempo\n4. Produto\n5. Escondido"
+  },	
+  "Describe the shop (description). (3995 chars max)": {	
+    "pt": "Descreva a loja (descrição). (max 3995 caracteres)"
+  },	
+  "If you would like to provide a icon for the shop, paste one here. (Leave blank for no icon).": {	
+     "pt": "Se você quiser definir um ícone para a loja, cole um aqui. (Deixe em branco para não ter ícone)."
+  },	
+  "Which channels should this be available in? Provide any combination of individual channels and channel categories. If none are selected, the shop will be available in all channels.": {	
+    "pt": "Em quais canais isto deve estar disponível? Forneça qualquer combinação de canais individuais e categorias de canais. Se nenhum for selecionado, a loja estará disponível em todos os canais."
+  },	
+  "Type the number of the page you wish to jump to.\n1. Description\n2. Icon\n3. Channels": {	
+    "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Ícone\n3. Canais"
+  },	
+  "Script deleted!": {	
+    "pt": "Script removido!"
+  },	
+  "Successfully renamed lootbox": {	
+    "pt": "Lootbox renomeada com sucesso"
+  },	
+  "Set a character attribute\nUsage: rp!character attribute set description \"John likes bananas!\"\n\nBot Admin is required to edit other people's characters' attributes": {	
+    "pt": "Defina um atributo de personagem\nUtilização:  rp!character attribute set description \"João gosta de bananas!\"\n\nCargo Bot Admin é necessário para editar atributos de personagens de outras pessoas"
+  },	
+  "Delete a character attribute\nUsage: rp!character attribute delete hair-color\n\nBot Admin is required to remove other people's characters' attributes": {	
+    "pt": "Remove um atributo de personagem\nUtilização: rp!character attribute delete hair-color\n\nCargo Bot Admin é necessário para editar atributos de personagens de outras pessoas"
+  },	
+  "Give an item from your inventory to another character.\nUsage:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 charname charname2": {	
+    "pt": "Dá um item do seu inventário para outro personagem.\nUtilização:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 nomeDoPersonagem nomeDoPersonagem2"
+  },	
+  "Open / view a container. See rp!containers to see the container numbers in your inventory.\nUsage: rp!container open 1": {	
+    "pt": "Abra / visualize um contêiner. Veja rp!containers para visualizar os números de contêiner no seu inventário.\nUtilização: rp!container open 1"
+  },	
+  "Give multiple items to the list of users. Look carefully at syntax\nUsage:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 mycharacter character2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone": {	
+    "pt": "Dê vários itens para uma lista de usuários. Preste atenção à sintaxe\nUtilização:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 meuPersonagem personagem2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone"
+  },	
+  "Give an item to a number of characters as an administrator, rather than from your inventory. You may\nalso target item tags.\nUsage:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 mycharacter character2": {	
+    "pt": "Dê um item para um número de personagems como um administrador, ao invés de dar o item do seu inventário. Você também pode utilizar tags de itens.\nUtilização:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 meuPersonagem personagem2"
+  },	
+  "Take multiple items from the list of users. Look carefully at syntax\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 mycharacter character2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone": {	
+    "pt": "Pegue vários items de uma lista de usuários. Preste atenção à sintaxe\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 meuPersonagem personagem2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone"
+  },	
+  "Use an item in your inventory": {	
+    "fr": "Utiliser un item dans votre inventaire",
+    "pt": "Utilize um item do seu inventário"
+  },	
+  "Wipe all listed inventories. Must be administrator. To wipe ALL inventories do `rp!wipeinv everyone`": {	
+    "pt": "Limpe todos os inventários listados. Precisa ser administrador. Para limpar TODOS os inventários faça `rp!wipeinv everyone`"
+  },	
   "Take money from users, same syntax as rp!givemoney": {
-  },
-  "See all current guilds": {
-    "fr": "Voir les guildes du serveur"
-  },
-  "Roll a number of dice with given sides (ndx notation)\nExample: rp!rtd 3d7 2d4\nOptional Additions:\nTest for success by adding a >/<#\nGrab the top n rolls by adding ^n\nGrab the bottom n rolls by adding _n\nAdd to the final roll by just adding a number (pos or neg)\n\nExamples of all:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Roll failed (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Grabbed top 4 out of 8)": {
-  },
-  "View server regions": {
-    "fr": "Voir les regions du serveur"
-  },
-  "Sync the roles of all characters in the server": {
-  },
-  "Explicitly enable a command for a role for the server. Will override the setting for lower roles\nEx: rp!s enable character.create @Bot Admin": {
-  },
-  "Set the currency for the server. Part appears before the number, part after\nExample:\n`rp!setcurrency $` before - money will appear like `$20`\n`rp!setcurrency gold` after - money will appear like `20 gold`": {
-  },
-  "Set default / starting region for the server": {
-  },
-  "Set the language for the server\nValid Languages:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl": {
-  },
-  "Set the prefix for the server": {
-  },
-  "Set the amount of money characters start with": {
-  },
-  "Set whether adding/removing a role to a user will sync it with all the user's characters (yes/no)": {
-  },
-  "Export data from RPGBot-V2\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds": {
-  },
-  "Subcommands for importing data\nRequires attached file\nValid datatypes to import:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things": {
-  },
+    "pt": "Pegue dinheiro de usuários, mesma sintaxe de rp!givemoney"
+  },	
+  "See all current guilds": {	
+    "fr": "Voir les guildes du serveur",
+    "pt": "Veja as guildas atuais"
+  },	
+  "Roll a number of dice with given sides (ndx notation)\nExample: rp!rtd 3d7 2d4\nOptional Additions:\nTest for success by adding a >/<#\nGrab the top n rolls by adding ^n\nGrab the bottom n rolls by adding _n\nAdd to the final roll by just adding a number (pos or neg)\n\nExamples of all:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Roll failed (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Grabbed top 4 out of 8)": {	
+    "pt": "Role um número de dados com uma dada quantidade de lados (notação ndx)\nExamplo: rp!rtd 3d7 2d4\nAdições opicionais:\nTeste de sucesso adicionando >/<#\nPegue o top n jogadas adicionando ^n\nPegue as n menores jogadas adicionando _n\nAdicione um valor ao resultado final somente informando um número (pos ou neg)\n\nTodos os exemplos:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Rolagem falhou (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Pegou o Top 4 das 8 rolagens)"
+  },	
+  "View server regions": {	
+    "fr": "Voir les regions du serveur"	,
+    "pt": "Ver as regiões do servidor"
+  },	
+  "Sync the roles of all characters in the server": {	
+    "pt": "Sicnronize os cargos de todos os personagens no servidor"
+  },	
+  "Explicitly enable a command for a role for the server. Will override the setting for lower roles\nEx: rp!s enable character.create @Bot Admin": {	
+    "pt": "Habilite explicitamente um comando para um cargo do servidor. Irá sobrescrever as configurações para gargos inferiores\nEx: rp!s enable character.create @Bot Admin"
+  },	
+  "Set the currency for the server. Part appears before the number, part after\nExample:\n`rp!setcurrency $` before - money will appear like `$20`\n`rp!setcurrency gold` after - money will appear like `20 gold`": {	
+    "pt": "Defina a moeda do servidor. Parte aparece antes do número, parte depois\nExamplo:\n`rp!setcurrency $` before - dinheiro sera exibido como `$20`\n`rp!setcurrency gold` after - dinheiro sera exibido como `20 gold`"
+  },	
+  "Set default / starting region for the server": {	
+    "pt": "Defina a região padrão / inicial do servidor"
+  },	
+  "Set the language for the server\nValid Languages:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl": {	
+     "pt": "Defina o idioma do servidor\nIdiomas válidos:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl"
+  },	
+  "Set the prefix for the server": {	
+    "pt": "Defina o prefixo do servidor"
+  },	
+  "Set the amount of money characters start with": {	
+    "pt": "Defina a quantidade de dinheiro com a qual um personagem inicia."
+  },	
+  "Set whether adding/removing a role to a user will sync it with all the user's characters (yes/no)": {	
+    "pt": "Defina se adicionar/remover um cargo para um usuário irá sincronizar com todos os personagens deste usuário (yes/no)"
+  },	
+  "Export data from RPGBot-V2\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds": {	
+    "pt": "Exporte os dados do RPGBot-V2\nTipos de dados válidos para exportar:\n- items\n- characters\n- settings\n- guilds"
+  },	
+  "Subcommands for importing data\nRequires attached file\nValid datatypes to import:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things": {	
+    "pt": "Subcomandos para importar dados\nRequer arquivo anexado\nTipos de dados válidos para importar:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nEspecifique \"overwrite\" no final para substituir qualquer coisa já existente"
+  },	
   "Import data from old RPGBot.\nValid datatypes to wipe:\n- items\n- characters\n- settings\n- guilds\n- lootboxes\n- recipes\n- shops": {
+    "pt": "Importe dados do antigo RPGBot.\n Tipos de dados válidos para limpar:\n- items\n- characters\n- settings\n- guilds\n- lootboxes\n- recipes\n- shops"
   }
 }
