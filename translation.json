@@ -5,7 +5,8 @@
     "pt": "Idioma atualizado!",
     "es": "¡Idioma actualizado!",
     "pl": "Język zaktualizowany!",
-    "de": "Sprache aktualisiert!"
+    "de": "Sprache aktualisiert!",
+    "ru": "Язык изменён!"
   },
   "View server settings": {
     "fr": "Voir les réglages du serveur",
@@ -13,7 +14,8 @@
     "pt": "Exibir configurações do servidor",
     "es": "Mostrar ajustes del servidor",
     "pl": "Sprawdź ustawienia serwera",
-    "de": "Server Einstellungen ansehen"
+    "de": "Server Einstellungen ansehen",
+    "ru": "Посмотреть настройки сервера"
   },
   "Display information about a character": {
     "fr": "Montrer les informations sur un personnage",
@@ -21,7 +23,8 @@
     "pt": "Exibir informações sobre um personagem",
     "es": "Mostrar información sobre un personaje",
     "pl": "Wyświetl informacje o postaci",
-    "de": "Charakterinformation anzeigen"
+    "de": "Charakterinformation anzeigen",
+    "ru": "Показать информацию о персонаже"
   },
   "View all the characters for the server": {
     "fr": "Voir tous les personnages du serveur",
@@ -29,14 +32,16 @@
     "pt": "Exibir todos os personagens do servidor",
     "es": "Ver todos los personajes del servidor",
     "pl": "Sprawdź wszystkie postacie na serwerze",
-    "de": "Alle Charaktere auf diesem Server anzeigen"
+    "de": "Alle Charaktere auf diesem Server anzeigen",
+    "ru": "Посмотреть всех персонажей на сервере"
   },
   "Give an item from your inventory to another character.\nUsage:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 charname": {
     "fr": "Donner un item de votre inventaire à une autre personnage.\nUtilisation:\n    - rp!give Banane 5 @Henry#8808\n    - rp!give Banane 6 nom",
     "pt": "Dar um item do seu inventário para outro personagem.\nUso:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 nomeDoPersonagem",
     "es": "Dar un objeto de tu inventario a otro personaje.\nUso:\n    - rp!give Plátano 5 @Henry#8808\n    - rp!give Plátano 6 nombreDelPersonaje",
     "pl": "Daj przedmiot z ekwipunku innej osobie.\nUżycie:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 nazwaosoby",
-    "de": "Gibt ein item von deinem Inventar einem anderem Charakter.\nBenutz:\n    - rp!give Banane 5 @Henry#8808\n    - rp!give Banane 6 nom"
+    "de": "Gibt ein item von deinem Inventar einem anderem Charakter.\nBenutz:\n    - rp!give Banane 5 @Henry#8808\n    - rp!give Banane 6 nom",
+    "ru": "Передать предмет из своего инвентаря другому персонажу\nИспользование:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 nickname"
   },
   "View your or another user's inventory": {
     "fr": "Voir votre inventaire ou l'inventaire d'un autre personnage.",
@@ -44,14 +49,16 @@
     "pt": "Exibir seu inventário ou o de outro jogador",
     "es": "Ver tu inventario o el de otro personaje",
     "pl": "Wyświetl ekwipunek swój lub innego użytkownika",
-    "de": "Schau dein eigenes oder das Inventar eines anderen Charakters an"
+    "de": "Schau dein eigenes oder das Inventar eines anderen Charakters an",
+    "ru": "Посмотреть ваш инвентарь или инвентарь другого пользователя"
   },
   "Give an item to a number of characters as an administrator, rather than from your inventory\nUsage:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 mycharacter character2\n    - rp!giveitem Banana 14 @Administrators @​everyone": {
     "fr": "Donner un item à quelques personnages en tant qu'administrateur, pas de votre inventaire\nUtilisation:\n    - rp!giveitem Banane 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banane 13 perso1 perso2\n    - rp!giveitem Banane 14 @Administrateurs @​everyone",
     "pt": "Dar um item a um número de personagem como administrador, e não a partir do seu inventário\nUso:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 personagem1 personagem2\n    - rp!giveitem Banana 14 @Administrators @​everyone",
     "es": "Dar un objeto a un número de personajes como administrador, y no desde vuestro inventario\nUso:\n    - rp!giveitem Plátano 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Plátano 13 personaje1 personaje2\n    - rp!giveitem Banana 14 @Administrators @​everyone",
     "pl": "Daj przedmiot wielu osobom jako administrator (nie z twojego ekwipunku)\nUżycie:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 ossoba1 osoba2\n    - rp!giveitem Banana 14 @Administrators @​everyone",
-    "de": "Gib einen Gegenstand als Administrator anstatt von deinem eigenem Inventar\nVerwendung:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 meinCharakter meinCharakter2\n    - rp!giveitem Banana 14 @Administrators @\u200Beveryone\""
+    "de": "Gib einen Gegenstand als Administrator anstatt von deinem eigenem Inventar\nVerwendung:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 meinCharakter meinCharakter2\n    - rp!giveitem Banana 14 @Administrators @​everyone\"",
+    "ru": "Выдать одинаковые предметы нескольким пользователям (как администратор)\nИспользование:\n    - rp!giveitem Банан 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Банан 13 имяПерсонажа имяПерсонажа2\n    - rp!giveitem Банан 14 @Administrators @​everyone"
   },
   "See the items for the server": {
     "fr": "Voir les items du serveur",
@@ -59,14 +66,16 @@
     "pt": "Ver os items do servidor",
     "es": "Ver los objetos del servidor",
     "pl": "Sprawdź przedmioty dostępne na serwerze",
-    "de": "Siehe die Gegenstände für den Server"
+    "de": "Siehe die Gegenstände für den Server",
+    "ru": "Посмотреть список предметов на сервере"
   },
   "Subcommands for items and view info about an item\nUsage: rp!item Banana": {
     "fr": "Sous-commandes pour les items et voir les informations sur un item\nUtilisation: rp!item Banane",
     "pt": "Subcomandos para itens e exibir informações sobre um item\nUso: rp!item Banana",
     "es": "Subcomandos para objetos y ver información sobre un objeto\nUso: rp!item Plátano",
     "pl": "Sprawdź komendy dotyczące przedmiotów oraz sprawdź informacje o danym przedmiocie Użycie: rp!item Banana",
-    "de": "Unterbefehle für Gegenstände und Informationen zu einem Gegenstand anzeigen\nVerwendung: rp!item Banane"
+    "de": "Unterbefehle für Gegenstände und Informationen zu einem Gegenstand anzeigen\nVerwendung: rp!item Banane",
+    "ru": "Дополнительные команды для предметов и просмотр информации о предмете\nИспользование: rp!item Banana"
   },
   "View your money": {
     "fr": "Voir votre argent",
@@ -74,7 +83,8 @@
     "pt": "Exibir seu dinheiro",
     "es": "Ver tu dinero",
     "pl": "Sprawdź stan swojego konta",
-    "de": "Siehe dein Geld"
+    "de": "Siehe dein Geld",
+    "ru": "Посмотреть, сколько у вас денег"
   },
   "Subcommands for economy": {
     "fr": "Sous-commandes pour l'économie",
@@ -82,21 +92,24 @@
     "pt": "Subcomandos para economia",
     "es": "Subcomandos para la economia",
     "pl": "Sprawdź komendy dotyczące ekonomii",
-    "de": "Unterbefehle für Geld"
+    "de": "Unterbefehle für Geld",
+    "ru": "Дополнительные команды для экономики"
   },
   "Give money to users, same syntax as rp!giveitem": {
     "fr": "Donner de l'argent aux utilisateurs, même syntaxe que rp!giveitem",
     "pt": "Dar dinheiro para usuários, mesma sintaxe de rp!giveitem",
     "es": "Dar dinero a usuarios, misma sintaxis que rp!giveitem",
     "pl": "Daj pieniądze danym osobom, taka sama składania jak rp!giveitem",
-    "de": "Geben Sie den Benutzern Geld, die gleiche Syntax wie bei rp!giveitem"
+    "de": "Geben Sie den Benutzern Geld, die gleiche Syntax wie bei rp!giveitem",
+    "ru": "Выдать деньги пользователю, синтаксис аналогичен команде rp!giveitem"
   },
   "Pay money from your pocket to another user": {
     "fr": "Donner de l'argent de votre poche à un autre personnage",
     "pt": "Pagar dinheiro do seu bolso para outro usuário",
     "es": "Pagar dinero de tu bolsillo a otro usuario",
     "pl": "Daj pieniądze z twojego konta innej osobie",
-    "de": "Zahlen Sie Geld aus Ihrer Tasche an einen anderen Benutzer"
+    "de": "Zahlen Sie Geld aus Ihrer Tasche an einen anderen Benutzer",
+    "ru": "Передать деньги другому пользователю из своего кошелька"
   },
   "View all the guilds for a server": {
     "fr": "Voir toutes les guildes du serveur",
@@ -104,7 +117,8 @@
     "pt": "Exibir todas as guildas do servidor",
     "es": "Ver todos los gremios del servidor",
     "pl": "Sprawdź wszystkie gildie dostępne na serwerze",
-    "de": "Zeige alle Gilden für einen Server an"
+    "de": "Zeige alle Gilden für einen Server an",
+    "ru": "Посмотреть все гильдии на сервере"
   },
   "Deposit money from your pocket into the bank": {
     "fr": "Déposer de l'argent de votre poche dans la banque",
@@ -112,7 +126,8 @@
     "pt": "Depositar dinheiro do seu bolso no banco",
     "es": "Depositar dinero de tu bolsillo en el banco",
     "pl": "Zdepozytuj pieniądze z portfela na konto bankowe",
-    "de": "Zahlen Sie Geld aus Ihrer Tasche auf die Bank ein"
+    "de": "Zahlen Sie Geld aus Ihrer Tasche auf die Bank ein",
+    "ru": "Положить деньги из вашего кошелька на счет в банке"
   },
   "Withdraw money from the bank into your pocket": {
     "fr": "Retirer de l'argent de la banque dans votre poche",
@@ -120,14 +135,16 @@
     "pt": "Retirar dinheiro do banco para o seu bolso",
     "es": "Retirar dinero del banco en tu bolsillo",
     "pl": "Wypłać pieniądze z banku",
-    "de": "Ziehen Sie Geld von der Bank in Ihre Tasche"
+    "de": "Ziehen Sie Geld von der Bank in Ihre Tasche",
+    "ru": "Вывести деньги из банка (в ваш кошелёк)"
   },
   "You are not assumed!": {
     "fr": "Vous n'êtes pas associé à un personnage.",
     "pt": "Você não associou um personagem.",
     "es": "No has asumido ningún personaje",
     "pl": "Nie powiązałeś postaci",
-    "de": "Du bist nicht Angenommen"
+    "de": "Du bist nicht Angenommen",
+    "ru": "Вы не связаны с персонажем!"
   },
   "That is not a valid lottery!": {
     "fr": "Ce n'est pas une loterie valide",
@@ -135,7 +152,8 @@
     "pt": "Esta não é uma loteria válida!",
     "es": "Esta no es una lotería válida",
     "pl": "Taka loteria nie istnieje",
-    "de": "Das ist keine gültige Lotterie!"
+    "de": "Das ist keine gültige Lotterie!",
+    "ru": "Такой лотереи не существует!"
   },
   "You're already in this lottery!": {
     "fr": "Vous avez déjà rejoint cette loterie",
@@ -143,7 +161,8 @@
     "pt": "Você já entrou dessa loteria!",
     "es": "Ya estás dentro de esta lotería",
     "pl": "Już bierzesz udział w tej loterii",
-    "de": "Du bist schon in dieser Lotterie!"
+    "de": "Du bist schon in dieser Lotterie!",
+    "ru": "Вы уже присоединились к этой лотерее!"
   },
   "Successfully joined the lottery!": {
     "fr": "Loterie rejointe avec succès !",
@@ -151,14 +170,16 @@
     "pt": "Entrou com sucesso na loteria!",
     "es": "¡Entraste con éxito en la lotería!",
     "pl": "Pomyślnie dołączyłeś do loterii",
-    "de": "Erfolgreich an der Lotterie teilgenommen!"
+    "de": "Erfolgreich an der Lotterie teilgenommen!",
+    "ru": "Вы успешно присоединились к лотерее!"
   },
   "Money: {}{:.2f}\nItems: {}\nTime Left: {}\nEntrants: {}": {
     "fr": "Argent: {}{:.2f}\nItems: {}\nTemps Restant: {}\nParticipants: {}",
     "pt": "Dinheiro: {}{:.2f}\nItens: {}\nTempo Restante: {}\nParticipantes: {}",
     "es": "Dinero: {}{:.2f}\nObjetos: {}\nTiempo Restante: {}\nParticipantes: {}",
     "pl": "Pieniądze: {}{:.2f}\nPrzedmiot: {}\nPozostały czas: {}\nUczestnicy: {}",
-    "de": "Geld: {}{:.2f}\nGegenstände: {}\nÜbrige Zeit: {}\nTeilnehmerInnen: {}"
+    "de": "Geld: {}{:.2f}\nGegenstände: {}\nÜbrige Zeit: {}\nTeilnehmerInnen: {}",
+    "ru": "Деньги: {}{:.2f}\nПредметы: {}\nОставшееся время: {}\nУчастники: {}"
   },
   "No active lotteries!": {
     "fr": "Aucune loterie active",
@@ -166,14 +187,16 @@
     "pt": "Sem loterias ativas!",
     "es": "No hay ninguna lotería activa",
     "pl": "Brak aktywnych loterii",
-    "de": "Keine aktiven Lotterien!"
+    "de": "Keine aktiven Lotterien!",
+    "ru": "Нет активных лотерей!"
   },
   "Holds subcommands for lottery. See currently running lotteries": {
     "fr": "Voir les sous-commandes pour la loterie et les loteries en cours.",
     "pt": "Visualize os subcomandos para loteria e as loterias que estão acontecendo.",
     "es": "Ver los subcomandos de loteria y las loterías que están en curso.",
     "pl": "Sprawdź komendy dotyczące loterii. Sprawdź aktualnie aktywne loterie",
-    "de": "Enthält Unterbefehle für die Lotterie. Siehe aktuell laufende Lotterien"
+    "de": "Enthält Unterbefehle für die Lotterie. Siehe aktuell laufende Lotterien",
+    "ru": "Содержит дополнительные команды для лотереи. Смотрите текущие лотереи"
   },
   "Create a lottery": {
     "fr": "Créer une loterie",
@@ -181,7 +204,8 @@
     "pt": "Crie uma loteria",
     "es": "Crear una lotería",
     "pl": "Stwórz loterię",
-    "de": "Erstelle eine Lotterie"
+    "de": "Erstelle eine Lotterie",
+    "ru": "Создать лотерею"
   },
   "Enter the lottery with the given name": {
     "fr": "Rejoindre la loterie avec le nom donné",
@@ -189,7 +213,8 @@
     "pt": "Participe da loteria com o nome informado",
     "es": "Participar en una lotería con un determinado nombre",
     "pl": "Weź udział w loterii z podaną nazwą",
-    "de": "Nehmen Sie an der Lotterie mit dem angegebenen Namen teil"
+    "de": "Nehmen Sie an der Lotterie mit dem angegebenen Namen teil",
+    "ru": "Принять участие в лотерее с указанным названием"
   },
   "Successfully gave money": {
     "fr": "Argent donné avec succès",
@@ -197,7 +222,8 @@
     "pt": "Dinheiro fornecido com sucesso",
     "es": "Dinero dado con éxito",
     "pl": "Pieniądze przekazane pomyślnie",
-    "de": "Geld erfolgreich gegeben"
+    "de": "Geld erfolgreich gegeben",
+    "ru": "Деньги успешно получены!"
   },
   "Character {} does not exist!": {
     "fr": "Le personnage {} n'existe pas !",
@@ -205,63 +231,72 @@
     "pt": "Personagem {} não existe!",
     "es": "¡El personaje {} no existe!",
     "pl": "Postać {} nie istnieje!",
-    "de": "Charakter {} existiert nicht!"
+    "de": "Charakter {} existiert nicht!",
+    "ru": "Персонаж {} не существует!"
   },
   "{} is not currently assumed!": {
     "fr": "{} n'est pas associé actuellement",
     "pt": "{} não está atualmente associado.",
     "es": "{} no está siendo asumido ahora mismo.",
     "pl": "{} nie jest aktualnie przypisany / przypisana",
-    "de": "{} ist derzeit nicht angenommen!"
+    "de": "{} ist derzeit nicht angenommen!",
+    "ru": "{} не связан с персонажем в данный момент!"
   },
   "You don't have enough money to pay!": {
     "fr": "Vous n'avez pas assez d'argent pour payer !",
     "pt": "Você não tem dinheiro suficiente para pagar!",
     "es": "¡No tienes suficiente dinero para pagar!",
     "pl": "Nie masz wystarczającej ilości pieniędzy aby zapłacić",
-    "de": "Sie haben nicht genug Geld, um zu bezahlen!"
+    "de": "Sie haben nicht genug Geld, um zu bezahlen!",
+    "ru": "У вас недостаточно денег!"
   },
   "You are not currently assumed!": {
     "fr": "Vous n'êtes pas associé avec un personnage actuellement!",
     "pt": "Você não está atualmente associado!",
     "es": "¡No estás asumiendo ningún personaje!",
     "pl": "Nie jesteś obecnie powiązany z postacią!",
-    "de": "Sie sind derzeit nicht angenommen"
+    "de": "Sie sind derzeit nicht angenommen",
+    "ru": "Вы не связаны с персонажем в данный момент!"
   },
   "You cannot withdraw more money than you have in the bank!": {
     "fr": "Vous ne pouvez pas retirer plus d'argent que vous n'en avez dans la banque.",
     "pt": "Você não pode retirar mais dinheiro do que você possui no banco!",
     "es": "¡No puedes retirar más dinero del que tienes en el banco!",
     "pl": "Nie możesz wypłacić więcej pieniędzy niż masz w banku!",
-    "de": "Sie können nicht mehr Geld abheben als Sie auf der Bank haben!"
+    "de": "Sie können nicht mehr Geld abheben als Sie auf der Bank haben!",
+    "ru": "На вашем банковском счёте нет запрашиваемой суммы!"
   },
   "You cannot deposit more money than you have on you!": {
     "fr": "Vous ne pouvez pas déposer plus d'argent que vous avez sur vous.",
     "pt": "Você não pode depositar mais dinheiro do que tem com você!",
     "es": "¡No puedes depositar más dinero del que tienes!",
     "pl": "Nie możesz wpłacić więcej pieniędzy niż masz przy sobie!”",
-    "de": "Sie können nicht mehr Geld einzahlen, als Sie aktuell besitzen!"
+    "de": "Sie können nicht mehr Geld einzahlen, als Sie aktuell besitzen!",
+    "ru": "В вашем кошельке нет запрашиваемой суммы!"
   },
-  "On you:\t\t {cb}{:.2f} {ca}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}": {
-    "fr": "Sur vous:\t\t {cb}{:.2f} {ca}\nEn banque:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
-    "pt": "Com você:\t\t {cb}{:.2f} {ca}\nNo banco:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
-    "es": "En el bolsillo:\t\t {cb}{:.2f} {ca}\nEn el banco:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
-    "pl": "Przy tobie:\t\t {cb}{:.2f} {ca}\nW banku:\t {cb}{:.2f} {ca}\nŁacznie:\t\t {cb}{:.2f} {ca}",
-    "de": "Auf der Hand:\t\t {cb}{:.2f} {ca}\nAuf der Bank:\t {cb}{:.2f} {ca}\nInsgesamt:\t\t {cb}{:.2f} {ca}"
+  "On you:\t\t {}{:.2f}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}": {
+    "fr": "Sur vous:\t\t {}{:.2f}\nEn banque:\t {}{:.2f}\nTotal:\t\t {}{:.2f}",
+    "pt": "Com você:\t\t {}{:.2f}\nNo banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}",
+    "es": "En el bolsillo:\t\t {}{:.2f}\nEn el banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}",
+    "pl": "Przy tobie:\t\t {}{:.2f}\nW banku:\t {}{:.2f}\nŁacznie:\t\t {}{:.2f}",
+    "de": "Auf der Hand:\t\t {:.2f}€\nAuf der Bank:\t {:.2f}€\nInsgesamt:\t\t {:.2f}€",
+    "ru": "В кошельке:\t\t {}{:.2f}\nВ банке:\t {}{:.2f}\nВсего:\t\t {}{:.2f}"
   },
   "This command is disabled!": {
     "fr": "Cette commande est désactivée",
     "pt": "Este comando está desativado!",
     "es": "¡Este comando está desactivado!",
     "pl": "Ta komenda jest wyłączona!",
-    "de": "Dieser Befehl ist deaktiviert!"
+    "de": "Dieser Befehl ist deaktiviert!",
+    "ru": "Это команда отключена!"
   },
   "Nobody entered the lottery!": {
     "fr": "Personne n'a rejoint la loterie !",
     "pt": "Ninguém participou da loteria!",
     "es": "¡Nadie participó en la lotería!",
     "pl": "Nikt nie dołączył w loterii!",
-    "de": "Keiner hat an der Lotterie teilgenommen!"
+    "de": "Keiner hat an der Lotterie teilgenommen!",
+    "ru": "Никто не принял участие в лотерее!"
   },
   "{} was the winner!": {
     "fr": "{} a été le gagnant !",
@@ -269,7 +304,8 @@
     "pt": "{} foi o vencedor!",
     "es": "¡{} es el ganador!",
     "pl": "{} wygrał / wygrała!",
-    "de": "{} ist der GewinnerIn!"
+    "de": "{} ist der GewinnerIn!",
+    "ru": "{} победил!"
   },
   "Lottery does not exist!": {
     "fr": "Cette loterie n'existe pas !",
@@ -277,7 +313,8 @@
     "pt": "Loteria não existe!",
     "es": "¡Esta lotería no existe!",
     "pl": "Loteria nie istnieje!",
-    "de": "Diese Lotterie existiert nicht!"
+    "de": "Diese Lotterie existiert nicht!",
+    "ru": "Такой лотереи не существует!"
   },
   "No characters!": {
     "fr": "Aucun personnage !",
@@ -285,42 +322,48 @@
     "pt": "Sem personagens!",
     "es": "¡Sin personajes!",
     "pl": "Brak postaci!",
-    "de": "Keine Charaktere!"
+    "de": "Keine Charaktere!",
+    "ru": "Персонажей нет!"
   },
   "No aliases": {
     "fr": "Aucun pseudonyme !",
     "pt": "Sem pseudônimos",
     "es": "Sin pseudónimos",
     "pl": "Brak pseudonimów",
-    "de": "Keine Pseudonyme"
+    "de": "Keine Pseudonyme",
+    "ru": "Нет псевдонимов"
   },
   "No region": {
     "fr": "Aucune région !",
     "pt": "Sem região",
     "es": "Sin región",
     "pl": "Brak regionów",
-    "de": "Keine Region"
+    "de": "Keine Region",
+    "ru": "Нет региона"
   },
   "None": {
     "fr": "Aucun",
     "pt": "Nenhum",
     "es": "Ninguno",
     "pl": "Brak",
-    "de": "Keiner"
+    "de": "Keiner",
+    "ru": "Нет"
   },
   "No attributes": {
     "fr": "Pas d'attributs",
     "pt": "Sem atributos",
     "es": "Sin atributos",
     "pl": "Brak atrybutów",
-    "de": "Keine Attribute"
+    "de": "Keine Attribute",
+    "ru": "Нет атрибутов"
   },
   "Empty": {
     "fr": "Vide",
     "pt": "Vazio",
     "es": "Vacío",
     "pl": "Pusto",
-    "de": "Leer"
+    "de": "Leer",
+    "ru": "Пусто"
   },
   "That character does not exist!": {
     "fr": "Ce personnage n'existe pas !",
@@ -328,7 +371,8 @@
     "pt": "Este personagem não existe!",
     "es": "¡Este personaje no existe!",
     "pl": "Taka postać nie istnieje!",
-    "de": "Dieser Charakter existiert nicht!"
+    "de": "Dieser Charakter existiert nicht!",
+    "ru": "Такого персонажа не существует!"
   },
   "Name": {
     "fr": "Nom",
@@ -336,21 +380,24 @@
     "pt": "Nome",
     "es": "Nombre",
     "pl": "Imię",
-    "de": "Name"
+    "de": "Name",
+    "ru": "Имя"
   },
   "Owner": {
     "fr": "Propriétaire",
     "pt": "Proprietário",
     "es": "Dueño",
     "pl": "Właściciel",
-    "de": "BesitzerIn"
+    "de": "BesitzerIn",
+    "ru": "Владелец"
   },
   "Aliases": {
     "fr": "Pseudonymes",
     "pt": "Pseudônimos",
     "es": "Pseudónimos",
     "pl": "Pseudonimy",
-    "de": "Pseudonyme"
+    "de": "Pseudonyme",
+    "ru": "Псевдонимы"
   },
   "That character does not belong to you!": {
     "fr": "Ce personnage ne vous appartient pas !",
@@ -358,69 +405,79 @@
     "pt": "Este personagem não pertence a você!",
     "es": "¡Este personaje no te pertenece!",
     "pl": "Ta postać nie należy do ciebie!",
-    "de": "Dieser Charakter gehört dir nicht!"
+    "de": "Dieser Charakter gehört dir nicht!",
+    "ru": "Этот персонаж не принадлежит вам!"
   },
   "Character assumed!": {
     "fr": "Personnage associé",
     "pt": "Personagem associado!",
     "es": "¡Personaje asumido!",
     "pl": "Postać przypisana!",
-    "de": "Charakter angenommen!"
+    "de": "Charakter angenommen!",
+    "ru": "Персонаж привязан!"
   },
   "Character unassumed!": {
     "fr": "Personnage non-associé !",
     "pt": "Personagem desassociado",
     "es": "¡Has dejado de asumir a este personaje!",
     "pl": "Postać odłączona!",
-    "de": "Charakter abgenommen!"
+    "de": "Charakter abgenommen!",
+    "ru": "Персонаж отвязан!"
   },
   "Character deleted!": {
     "fr": "Personnage supprimé",
     "pt": "Personagem removido!",
     "es": "¡Personaje eliminado!",
     "pl": "Postać usunięta!",
-    "de": "Charakter gelöscht!"
+    "de": "Charakter gelöscht!",
+    "ru": "Персонаж удалён!"
   },
   "A character with that name already exists!": {
     "fr": "Un personnage avec ce nom existe déja !",
     "pt": "Um personagem com esse nome já existe!",
     "es": "¡Ya existe un personaje con ese nombre!",
     "pl": "Postać z takim imieniem już istnieje!",
-    "de": "Ein Charakter mit diesem existiert bereits!"
+    "de": "Ein Charakter mit diesem existiert bereits!",
+    "ru": "Персонаж с таким именем уже существует!"
   },
   "Character aliased!": {
     "fr": "Pseudonyme défini pour ce personnage!",
     "pt": "Pseudônimo defindo para o personagem!",
     "es": "¡Pseudónimo establecido para este personaje!",
     "pl": "Nadano pseudonim postaci!",
-    "de": "Charakter Pseudonym erstellt!!"
+    "de": "Charakter Pseudonym erstellt!!",
+    "ru": "Псевдоним для персонажа установлен!"
   },
   "There is no character associated with this alias": {
     "fr": "Il n'y a pas de personnage associé avec ce pseudonyme",
     "pt": "Não há personagem associado com esse pseudônimo",
     "es": "No hay ningún personaje asociado con este pseudónimo",
     "pl": "Nie ma postaci powiązanej z tym pseudonimem",
-    "de": "Diesem Pseudonym ist kein Charakter zugeordnet"
+    "de": "Diesem Pseudonym ist kein Charakter zugeordnet",
+    "ru": "Ни один персонаж не имеет такого псевдонима"
   },
   "That alias belongs to another character!": {
     "fr": "Ce pseudo appartient à un autre personnage",
     "pt": "Este pseudônimo pertence a outro personagem!",
     "es": "¡Este pseudónimo pertenece a otro personaje!",
     "pl": "Ten pseudonim należy do innej postaci!",
-    "de": "Dieses Pseudonym gehört zu einem anderen Charakter!"
+    "de": "Dieses Pseudonym gehört zu einem anderen Charakter!",
+    "ru": "Этот псевдоним уже принадлежит другому персонажу!"
   },
   "Character alias removed!": {
     "fr": "Pseudo supprimé !",
     "pt": "Pseudônimo do personagem removido!",
     "es": "¡Pseudónimo del personaje eliminado!",
     "pl": "Pseudonim postaci usunięty!",
-    "de": "Charakter Alias entfernt!"
+    "de": "Charakter Alias entfernt!",
+    "ru": "Псевдоним удален!"
   },
   "Subcommands for importing data\n        Requires attached file\n        Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
     "fr": "Sous-commandes pour importer vos données\n        Requiert un fichier attaché\n        Importer les données de l'ancien RPGBot.\n        Types des données valides à exporter:\n        - items\n        - personnages\n        - réglages\n        - guildes\n        - userdata",
     "pt": "Subcomandos para importação de dados\n        Requer arquivo anexado\n        Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - iten\n        - personagens\n        - configuracoes\n        - guildas\n        - userdata",
     "es": "Subcomandos para importar de datos\n        Requiere archivo adjunto\n        Importa datos del antiguo RPGBot.\n        Tipos de datos válidos para exportar:\n        - objetos\n        - personajes\n        - configuracion\n        - gremios\n        - userdata",
-    "de": "Unterbefehle zum Importieren von Daten\n        Erfordert angehängte Datei\n        Daten aus dem altem RPGBot importieren.\n        Gültige Datentypen zum Exportieren:\n        -Gegenstände\n        -Charakter\n        -Einstellungen\n    -Gilden\n        -Benutzerdaten"
+    "de": "Unterbefehle zum Importieren von Daten\n        Erfordert angehängte Datei\n        Daten aus dem altem RPGBot importieren.\n        Gültige Datentypen zum Exportieren:\n        -Gegenstände\n        -Charakter\n        -Einstellungen\n    -Gilden\n        -Benutzerdaten",
+    "ru": "Дополнительные команды для импорта данных\n        Требуется прикрепленный файл\n        Перенос данных из старой версии RPGBot.\n        Поддерживаемые категории (datatype):\n        - предметы\n        - персонажи\n        - настройки\n        - гильдии\n        - пользовательские данные"
   },
   "You must attach a file!": {
     "jp": "ファイルをメッセージに付けなければいけない！",
@@ -428,2131 +485,2148 @@
     "pt": "Você deve anexar um arquivo!",
     "es": "¡Debes adjuntar un archivo!",
     "pl": "Musisz dołączyć plik!",
-    "de": "Sie müssen eine Datei anhängen!"
+    "de": "Sie müssen eine Datei anhängen!",
+    "ru": "Вы не прикрепили файл!"
   },
   "Invalid choice!": {
     "fr": "Choix invalide !",
     "pt": "Escolha inválida!",
     "es": "¡Opción inválida!",
     "pl": "Niepoprawny wybór!",
-    "de": "Ungültige Wahl!"
+    "de": "Ungültige Wahl!",
+    "ru": "Неверный выбор"
   },
   "Data loaded!": {
     "fr": "Données chargées !",
     "pt": "Dados carregados!",
     "es": "¡Datos cargados!",
     "pl": "Dane załadowane!",
-    "de": "Daten geladen!"
+    "de": "Daten geladen!",
+    "ru": "Данные загружены!"
   },
   "Import data from old RPGBot.\n        Valid datatypes to import:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO": {
     "fr": "Importer des données de l'ancien RPGBot.\n        Types de données valides à importer:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO",
     "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para importar:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO",
     "es": "Importa datos del antiguo RPGBot.\n        Tipos de datos válidos para importar:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO",
-    "de": "Importieren Sie Daten aus dem alten RPGBot.\n        Gültige Datentypen zum Importieren:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO"
+    "de": "Importieren Sie Daten aus dem alten RPGBot.\n        Gültige Datentypen zum Importieren:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO",
+    "ru": "Перенести данные из старой версии RPGBot.\n        Поддерживаемые категории (datatype):\n        - предметы\n        - персонажи\n        - настройки TODO\n        - зарплаты TODO\n        - лутбоксы TODO\n        - магазин TODO"
   },
   "Invalid datatype!": {
     "fr": "Type de données invalide!",
     "pt": "Tipo de dado inválido!",
     "es": "¡Dato inválido!",
     "pl": "Niepoprawny typ danych!",
-    "de": "Ungültiger Datentyp!"
+    "de": "Ungültiger Datentyp!",
+    "ru": "Неподдерживаемый тип данных"
   },
   "Invalid Type!": {
     "fr": "Type invalide!",
     "pt": "Tipo inválido!",
     "es": "¡Tipo inválido!",
     "pl": "Niepoprawny typ!",
-    "de": "Ungültige Typ!"
+    "de": "Ungültige Typ!",
+    "ru": "Неверный тип"
   },
   "Data imported!": {
     "fr": "Données importées",
     "pt": "Dados importados!",
     "es": "¡Datos importados!",
     "pl": "Dane zimportowane pomyślnie!",
-    "de": "Daten importiert!"
+    "de": "Daten importiert!",
+    "ru": "Данные импортированы!"
   },
   "Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
     "fr": "Importer les données de l'ancien RPGBot.\n        Types de données valides pour exporter:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "es": "Importa datos del antiguo RPGBot.\n        Tipos de datos válidos para exportar:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "pl": "Importuj dane ze starego RPGBot.\n Prawidłowe typy danych do eksportu:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
-    "de": "Importiere Daten vom alten RPGBot.\nGültige datentypen zum exportieren:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata"
+    "de": "Importiere Daten vom alten RPGBot.\nGültige datentypen zum exportieren:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
+    "ru": "Перенос данных из старой версии RPGBot.\n        Поддерживаемые категории (datatype):\n        - предметы\n        - персонажи\n        - настройки\n        - гильдии\n        - пользовательские данные"
   },
   "No items!": {
     "fr": "Aucun item !",
     "pt": "Sem itens!",
     "es": "¡Sin objetos!",
     "pl": "Brak przedmiotów!",
-    "de": "Keine Gegenstände!"
+    "de": "Keine Gegenstände!",
+    "ru": "Предметов нет!"
   },
   "No guilds!": {
     "fr": "Aucune guilde !",
     "pt": "Sem guildas",
     "es": "¡Sin gremios!",
     "pl": "Brak gildii",
-    "de": "Keine Gilden!"
+    "de": "Keine Gilden!",
+    "ru": "Гильдий нет!"
   },
   "You have no containers in your inventory!": {
     "fr": "Vous n'avez pas de contenant dans votre inventaire !",
     "pt": "Você não possui contêineres no seu inventário!",
     "es": "¡No tienes ningún contenedor en tu inventario!",
     "pl": "Nie posiadasz żadnych pojemników w swoim ekwipunku",
-    "de": "Du hast keine Behälter in deinem Inventar!"
+    "de": "Du hast keine Behälter in deinem Inventar!",
+    "ru": "В вашем инвентаре нет контейнеров!"
   },
   "'Subcommands for importing data\nRequires attached file\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things\nFor more information, see the section in the tutorial\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'": {
     "fr": "'Sous-commandes pour importer des données\nNécessite un fichier attaché\nTypes de données valides pour l'exportation:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nMettez \"overwrite\" à la fin pour écraser toutes les choses existantes\nPour plus d'informations, allez voir la section dans le tutoriel\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'",
     "pt": "'Subcomandos para importação de dados\nRequer arquivo anexado\nTipos de dados válidos para exportar:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nEspecifique \"overwrite\" no final para sobrescrever as informacoes existentes\nPara mais informações, veja a seção do tutorial\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'",
     "es": "'Subcomandos para importar datos\nRequiere un archivo adjunto\nTipos de datos válidos para exportar:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nEspecifique \"overwrite\" al final para sobrescribir la información existente\nPara más información, ver la sección en el tutorial\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'",
     "pl": "'Podkomendy do importowania danych\n Wymagany plik dołączony\n Rodzaje prawidłowych danych do eksportu:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nOkreśl \"overwrite\" na końcu, aby zastąpić istniejące informacje \nAby uzyskać więcej informacji, zobacz sekcję samouczka\n https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'",
-    "de": "'Unterbefehle zum Importieren von Daten\nErfordert angehängte Datei\nGültige Datentypen zum Exportieren:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nGib \"overwrite\" am Ende an, um vorhandene Dinge zu überschreiben\nWeitere Informationen finden Sie im Abschnitt im Tutorial\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'"
+    "de": "'Unterbefehle zum Importieren von Daten\nErfordert angehängte Datei\nGültige Datentypen zum Exportieren:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nGib \"overwrite\" am Ende an, um vorhandene Dinge zu überschreiben\nWeitere Informationen finden Sie im Abschnitt im Tutorial\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'",
+    "ru": "'Дополнительные команды для импорта данных\nТребуется прикрепленный файл\nПоддерживаемые категории (datatype):\n- предметы\n- персонажи\n- настройки\n- гильдии\n- рецепты\n- магазины\n\nУкажите \"overwrite\" в конце для перезаписи текущих данных\nБольше информации вы найдете в туториале:\nhttps://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/tutorial.md#importing-data-with-spreadsheets\n'"
   },
   "Import data from old RPGBot.\n        Valid datatypes to import:\n        - items\n        - guilds TODO\n        - characters\n        - salaries TODO\n        - lootboxes TODO\n        - shops\n        Imports should occur in that order if you want characters to have items, and if you want guilds to have items.\n        Salaries must happen after items.": {
     "fr": "Importer les données de l'ancien RPGBot.\n        Types de données valides pour l'importation:\n        - items\n        - guilds TODO\n        - characters\n        - salaries TODO\n        - lootboxes TODO\n        - shops\n        L'importation doit se faire dans cet ordre si vous voulez que les personnages aient les items, et si vous voulez que les guildes aient des items.\n        Les salaires doivent arriver apès les items.",
     "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para importar:\n        - items\n        - guilds TODO\n        - characters\n        - salaries TODO\n        - lootboxes TODO\n        - shops\n        Importação deve ser feita nessa ordem se você quer que os personagens tenham itens, e que as guildas tenham itens.\n        Salários devem vir depois dos itens.",
     "es": "Importa datos del antiguo RPGBot.\n        Tipos de datos válidos para importar:\n        - items\n        - guilds TODO\n        - characters\n        - salaries TODO\n        - lootboxes TODO\n        - shops\n        La importación debe ser hecha en ese orden si quieres que los personajes tengan objetos, y si quieres que los gremios tengan objetos.\n        Los sueldos deben ir después de los objetos.",
     "pl": "Importuj dane ze starego RPGBot.\n Prawidłowe typy danych do eksportu:\n        - items\n        - guilds TODO\n        - characters\n        - salaries TODO\n        - lootboxes TODO\n        - shops\n        Importowanie powinno odbywać się w tej kolejności, jeśli chcesz, aby postacie miały przedmioty, a także jeśli chcesz, aby gildie miały przedmioty.\n Importowanie wypłat musi nastąpić po przedmiotach.",
-    "de": "Daten aus dem alten RPGBot importieren.\nGültige Datentypen zum Importieren:\n        - items\n        - guilds TODO\n        - characters\n        - salaries TODO\n        - lootboxes TODO\n        - shops\n        Importe sollten in dieser Reihenfolge erfolgen, wenn Sie möchte, dass Charaktere Gegenstände haben, und wenn Gilden Gegenstände haben sollen.\nDie Gehälter müssen nach Gegenständen erfolgen."
+    "de": "Daten aus dem alten RPGBot importieren.\nGültige Datentypen zum Importieren:\n        - items\n        - guilds TODO\n        - characters\n        - salaries TODO\n        - lootboxes TODO\n        - shops\n        Importe sollten in dieser Reihenfolge erfolgen, wenn Sie möchte, dass Charaktere Gegenstände haben, und wenn Gilden Gegenstände haben sollen.\nDie Gehälter müssen nach Gegenständen erfolgen.",
+    "ru": "Перенос данных из старой версии RPGBot.\n        Поддерживаемые категории (datatype):\n        - предметы\n        - гильдии (в будущем)\n        - персонажи\n        - зарплаты (в будущем)\n        - лутбоксы (в будущем)\n        - магазины\n        Импорт должен производиться в таком порядке, если вы хотите, чтобы персонажи и гильдии имели предметы.\n        Зарплаты должны идти после объектов."
   },
   "Shop items must have a shop name!": {
     "fr": "Les items en vente doivent avoir un nom de boutique en tant que destination!",
     "pt": "Itens de loja devem ter um nome de loja!",
     "es": "¡Los objetos de la tienda deben tener un nombre!",
     "pl": "Produkty w sklepie muszą mieć nazwę sklepu!",
-    "de": "Shop-Gegenstände müssen einen Shop-Namen haben!"
+    "de": "Shop-Gegenstände müssen einen Shop-Namen haben!",
+    "ru": "Товары магазина должны принадлежать определенному магазину"
   },
   "Please upgrade to create more than 3 characters per user! For a small amount monthly you can enable premium features on your server which allows us to keep a bot as large as this running. See rp!features for details": {
     "fr": "S'il vous plait augmentez le serveur pour créer plus de 3 personnages par utilisateur! Pour une petite somme chaque mois vous pouvez activer les fonctionnalités premium du bot sur votre serveur ce qui nous permet de garder un aussi gros bot actif. Allez voir rp!features pour les détails",
     "pt": "Por favor, atualize para criar mais que 3 personagens por usuário. Por uma pequena quantia mensal você pode habilitar recursos premium no servidor, o que nos permite manter um bot tão grande quanto este rodando. Veja rp!features para mais detalhes",
     "es": "Por favor, mejore el servidor para crear más de 3 personajes por usuario. Por una pequeña cantidad mensual tú puedes activar funciones premium del bot en el servidor, estas nos permiten mantener un bot tan grande como este funcionando. Consulta rp!features para más detalles",
     "pl": "Prosimy o uaktualnienie do wersji premium, aby utworzyć więcej niż 3 postacie na użytkownika! Za niewielką kwotę miesięcznie możesz włączyć funkcje Premium na swoim serwerze, co pozwala nam utrzymać bota tak dużego jak ten działający. Zobacz rp! features, aby dowiedzieć się więcej",
-    "de": "Bitte kaufen sie die Premium Funktion, um mehr als 3 Charaktere pro Benutzer zu erstellen! Für einen kleinen Betrag monatlich können Sie Premium-Funktionen auf Ihrem Server aktivieren, mit denen wir einen so großen Bot am Laufen halten können. Weitere Informationen finden Sie unter rp!features"
+    "de": "Bitte kaufen sie die Premium Funktion, um mehr als 3 Charaktere pro Benutzer zu erstellen! Für einen kleinen Betrag monatlich können Sie Premium-Funktionen auf Ihrem Server aktivieren, mit denen wir einen so großen Bot am Laufen halten können. Weitere Informationen finden Sie unter rp!features",
+    "ru": "Купите премиум, чтобы иметь больше 3 персонажей у пользователя! За небольшую сумму ежемесячно вы можете включить премиальные функции на вашем сервере, что позволяет нам поддерживать работу такого большого бота, как этот. Используйте rp!features чтобы узнать больше."
   },
   "Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds": {
     "fr": "Importer les données de l'ancien RPGBot.\n        Types de données valides pour l'exportation:\n        - items\n        - characters\n        - settings\n        - guilds",
     "pt": "Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - items\n        - characters\n        - settings\n        - guilds",
     "es": "Importa datos del antiguo RPGBot.\n        Tipos de datos válidos para exportar:\n        - items\n        - characters\n        - settings\n        - guilds",
     "pl": "Importuj dane ze starego RPGBot.\n Prawidłowe typy danych do eksportu:\n        - items\n        - characters\n        - settings\n        - guilds",
-    "de": "Importieren Sie Daten aus dem alten RPGBot.\nGültige Datentypen füe den Export:\n        - items\n        - characters\n        - settings\n        - guilds"
+    "de": "Importieren Sie Daten aus dem alten RPGBot.\nGültige Datentypen füe den Export:\n        - items\n        - characters\n        - settings\n        - guilds",
+    "ru": "Перенос данных из старой версии RPGBot.\n        Поддерживаемые категории (datatype):\n        - предметы\n        - персонажи\n        - настройки\n        - гильдии"
   },
   "Continuing!": {
     "fr": "Continuation!",
     "pt": "Continuando!",
     "es": "¡Continuando!",
     "pl": "Kontynuowanie!",
-    "de": "Setze fort!"
+    "de": "Setze fort!",
+    "ru": "Продолжаем!"
   },
   "Cancelling!": {
     "fr": "Annulation!",
     "pt": "Cancelando!",
     "es": "¡Cancelando!",
     "pl": "Anulowanie!",
-    "de": "Storniere!"
+    "de": "Storniere!",
+    "ru": "Действие отменено!"
   },
   "Confirmation timed out, cancelling!": {
     "fr": "Temps de confirmation expiré, annulation!",
     "pt": "Tempo excedido confirmado, cancelando!",
     "es": "¡Tiempo de confirmación excedido, cancelando!",
     "pl": "Czas na potwierdzenie się skończył, anulowanie!",
-    "de": "Zeitüberschreitung bei Bestätigung, breche ab!"
+    "de": "Zeitüberschreitung bei Bestätigung, breche ab!",
+    "ru": "Время подтверждения действия истекло!"
   },
   "Successfully wiped {}": {
     "fr": "{} supprimé avec succès",
     "pt": "{} limpado com sucesso",
     "es": "{} vaciado con éxito",
     "pl": "{} pomyślnie wyczyszczone",
-    "de": "{} erfolgreich geleert!"
+    "de": "{} erfolgreich geleert!",
+    "ru": "Категория {} успешно очищена!"
   },
   "No lootboxes!": {
     "fr": "Pas de lootboxes!",
     "pt": "Sem lootboxes!",
     "es": "¡Sin lootboxes!",
     "pl": "Brak lootboxów!",
-    "de": "Keine Lootboxen!"
+    "de": "Keine Lootboxen!",
+    "ru": "Лутбоксов нет!"
   },
   "That lootbox doesn't exist!": {
     "fr": "Cette lootbox n'existe pas!",
     "pt": "Esta lootbox nao existe!",
     "es": "¡Esta lootbox no existe!",
     "pl": "Taki lootbox nie istnieje!",
-    "de": "Diese Lootbox existiert nicht!"
+    "de": "Diese Lootbox existiert nicht!",
+    "ru": "Такой лутбокс не существует!"
   },
   "Subcommands for lootboxes. rp!lootbox <name> to see data on the lootbox with the given name": {
     "fr": "Sous commande pour les lootboxes. rp!lootbox <nom> pour voir les informations sur la lootbox donnée",
     "pt": "Subcomandos para lootboxes. rp!lootbox <nome> para ver informações da lootbox com o nome informado",
     "es": "Subcomandos para lootboxes. rp!lootbox <nombre> para ver información de la lootbox con este nombre",
     "pl": "Komendy dotyczące lootboxów. rp!lootbox <nazwa> aby sprawdzić informacje o lootboxie o podanej nazwie",
-    "de": "Unterbefehle für Lootboxen. rp!lootbox <name> um Daten von der Lootbox mit dem angegebenen Namen zu sehen"
+    "de": "Unterbefehle für Lootboxen. rp!lootbox <name> um Daten von der Lootbox mit dem angegebenen Namen zu sehen",
+    "ru": "Дополнительные команды для лутбоксов. Используйте rp!lootbox <название> чтобы посмотреть информацию о лутбоксе"
   },
   "List all server lootboxes": {
     "fr": "Liste toutes les lootboxes du serveur",
     "pt": "Lista todas as lootboxes do servidor",
     "es": "Lista de todas las lootboxes del servidor",
     "pl": "Lista wszystkich lootboxów na serwerze",
-    "de": "Liste alle Server Lootboxen auf"
+    "de": "Liste alle Server Lootboxen auf",
+    "ru": "Показывает все лутбоксы на сервере"
   },
   "Create a lootbox with the given name.\n        You will need to have items set that you want to act as the box and key in the user's inventory.\n        Requires Bot Admin": {
     "fr": "Crée une lootbox avec le nom donné.\n        Vous aurez besoin des items de la lootbox ainsi que la clé dans l'inventaire de l'utilisateur.\n        Nécessite Bot Admin",
     "pt": "Cria uma lootbox com o nome informado.\n        Você precisará ter definido os itens que deseja ser a box e a chave no inventário do usuário.\n        Requer Bot Admin",
     "es": "Crea una lootbox con el nombre dado.\n        Necesitarás tener los objetos que quieres que sean la lootbox así como la llave en el inventario.\n        Requiere Bot Admin",
     "pl": "Stwórz lootbox o podanej nazwie.\n        Będziesz musiał / musiała ustawić przedmioty które mają się w nim znajdować oraz klucz do tego lootboxa.\n        Wymaga rangi Bot Admin",
-    "de": "Erstellen Sie eine Lootbox mit dem angegebenen Namen.\n        Sie müssen Gegenstände festlegen, die als Box und Schlüssel für das Inventar des Benutzers dienen sollen.\n        Erfordert Bot Admin"
+    "de": "Erstellen Sie eine Lootbox mit dem angegebenen Namen.\n        Sie müssen Gegenstände festlegen, die als Box und Schlüssel für das Inventar des Benutzers dienen sollen.\n        Erfordert Bot Admin",
+    "ru": "Создать лутбокс с заданным названием.\n        Вам необходимо будет указать, предмет, который станет лутбоксом и предмет-ключ для него."
   },
   "Open a lootbox you have in your inventory with the given name": {
     "fr": "Ouvre une lootbox dans votre inventaire avec le nom donné",
     "pt": "Abre uma lootbox que você tem em seu inventário com o nome informado",
     "es": "Abre una lootbox que tengas en tu inventario con el nombre dado",
     "pl": "Otwórz lootbox który posiadasz w ekwipunku o podanej nazwie",
-    "de": "Öffne eine Lootbox in deinem Inventar mit dem angegebenem Namen"
+    "de": "Öffne eine Lootbox in deinem Inventar mit dem angegebenem Namen",
+    "ru": "Открыть лутбокс с указанным именем из вашего инвентаря"
   },
   "You can't afford to open this lootbox! Make sure you have both the box and key": {
     "fr": "Vous ne pouvez pas ouvrir cette lootbox! Soyez sûr d'avoir la box et la clé",
     "pt": "Você não pode abrir essa lootbox! Verifique se você tem tanto a box quanto a chave.",
     "es": "No puedes abrir esta lootbox! Revisa que tienes tanto la llave como la lootbox.",
     "pl": "Nie masz wystarczającej ilości pieniędzy aby zakupić ten lootbox! Sprawdź czy posiadasz lootbox oraz klucz",
-    "de": "Sie können diese Lootbox nicht öffnen! Stellen Sie sicher dass Sie die Box und den Schlüssel haben!"
+    "de": "Sie können diese Lootbox nicht öffnen! Stellen Sie sicher dass Sie die Box und den Schlüssel haben!",
+    "ru": "Вы не можете открыть этот лутбокс! Убедитесь, что у вас есть сам лутбокс и ключ для него"
   },
   "You won {}!": {
     "fr": "Vous avez gagné {}!",
     "pt": "Você ganhou {}!",
     "es": "¡Enhorabuena, ganaste {}!",
     "pl": "Wygrałeś {}!",
-    "de": "Du gewinnst {}!"
+    "de": "Du gewinnst {}!",
+    "ru": "Вы выиграли {}!"
   },
   "Delete a lootbox with the given name. Requires Bot Admin": {
     "fr": "Supprime une lootbox avec le nom donné. Nécessite Bot Admin",
     "pt": "Remove uma lootbox com o nome informado. Requer Bot Admin",
     "es": "Elimina una lootbox con el nombre dado. Requiere Bot Admin",
     "pl": "Usuń lootbox o podanej nazwie. Wymaga rangi Bot Admin",
-    "de": "Löscht eine Lootbox mit dem angegebenem Namen. Erfordert Bot Admin"
+    "de": "Löscht eine Lootbox mit dem angegebenem Namen. Erfordert Bot Admin",
+    "ru": "Удалить лутбокс с указанным именем."
   },
   "Successfully deleted lootbox": {
     "fr": "Lootbox supprimée avec succès",
     "pt": "Lootbox removida com sucesso",
     "es": "Lootbox eliminada con éxito",
     "pl": "Pomyślnie usunięto lootbox",
-    "de": "Lootbox erfolgreich gelöscht"
+    "de": "Lootbox erfolgreich gelöscht",
+    "ru": "Лутбокс успешно удалён!"
   },
   "View all of your own characters on this server": {
     "fr": "Voir tous vos personnages sur le serveur",
     "pt": "Exibe todos os seus personagens nesse servidor",
     "es": "Muestra todos tus personajes en este servidor",
     "pl": "Sprawdź wszystkie swoje postacie na tym serwerze",
-    "de": "Zeigen Sie alle Ihre eigenen Charaktere auf diesem Server an"
+    "de": "Zeigen Sie alle Ihre eigenen Charaktere auf diesem Server an",
+    "ru": "Посмотреть всех ваших персонажей на этом сервере"
   },
   "Prefix": {
     "fr": "Préfixe",
     "pt": "Prefixo",
     "es": "Prefijo",
     "pl": "Prefiks",
-    "de": "Präfix"
+    "de": "Präfix",
+    "ru": "Префикс"
   },
   "Description": {
     "fr": "Description",
     "pt": "Descrição",
     "es": "Descripción",
     "pl": "Opis",
-    "de": "Beschreibung"
+    "de": "Beschreibung",
+    "ru": "Описание"
   },
   "Attributes": {
     "fr": "Attributs",
     "pt": "Atributos",
     "es": "Atributos",
     "pl": "Atrybuty",
-    "de": "Attribute"
+    "de": "Attribute",
+    "ru": "Атрибуты"
   },
   "Inventory": {
     "fr": "Inventaire",
     "pt": "Inventório",
     "es": "Inventario",
     "pl": "Ekwipunek",
-    "de": "Inventar"
+    "de": "Inventar",
+    "ru": "Инвентарь"
   },
   "Guild": {
     "fr": "Guilde",
     "pt": "Guilda",
     "es": "Gremio",
     "pl": "Gildie",
-    "de": "Gilde"
+    "de": "Gilde",
+    "ru": "Гильдия"
   },
   "Guild Rank": {
     "fr": "Classement de Guilde",
     "pt": "Classificação da Guilda",
     "es": "Clasificación del Gremio",
     "pl": "Klasyfikacja gildii",
-    "de": "Gilden Rang"
+    "de": "Gilden Rang",
+    "ru": "Ранг гильдии"
   },
   "Roles": {
     "fr": "Rôles",
     "pt": "Cargos",
     "es": "Roles",
     "pl": "Role",
-    "de": "Rolle"
+    "de": "Rolle",
+    "ru": "Роли"
   },
   "Content": {
     "fr": "Contenu",
     "pt": "Conteúdo",
     "es": "Contenido",
     "pl": "Zawartość",
-    "de": "Inhalt"
+    "de": "Inhalt",
+    "ru": "Содержимое"
   },
   "Key": {
     "fr": "Clé",
     "pt": "Chave",
     "es": "Llave",
     "pl": "Klucz",
-    "de": "Schlüssel"
+    "de": "Schlüssel",
+    "ru": "Ключ"
   },
   "Item": {
     "fr": "Item",
     "pt": "Item",
     "es": "Objeto",
     "pl": "Przedmiot",
-    "de": "Gegenstand"
+    "de": "Gegenstand",
+    "ru": "Предмет"
   },
   "That character doesn't exist!": {
     "fr": "Ce personnage n'existe pas!",
     "pt": "Este personagem não existe!",
     "es": "¡Este personaje no existe!",
     "pl": "Podana postać nie istnieje!",
-    "de": "Dieser Charakter existiert nicht!"
+    "de": "Dieser Charakter existiert nicht!",
+    "ru": "Такого персонажа не существует!"
   },
   "Create a character with the given name": {
     "fr": "Créer un personnage avec le nom donné",
     "pt": "Cria um personagem com o nome informado",
     "es": "Crea un personaje con el nombre dado",
     "pl": "Stwórz postać o podanej nazwie",
-    "de": "Erstellen Sie ein Charakter mit dem angegebenen Namen"
+    "de": "Erstellen Sie ein Charakter mit dem angegebenen Namen",
+    "ru": "Создать персонажа с указанным именем"
   },
   "Edit a character with the given name": {
     "fr": "Editer le personnage avec le nom donné",
     "pt": "Altera um personagem com o nome informado",
     "es": "Edita un personaje con el nombre dado",
     "pl": "Edytuj postać o podanej nazwie",
-    "de": "Bearbeiten Sie einen Charakter mit dem angegebenen Namen"
+    "de": "Bearbeiten Sie einen Charakter mit dem angegebenen Namen",
+    "ru": "Изменить персонажа с указанным именем"
   },
   "Rename a character with the given name": {
     "fr": "Renommer le personnage avec le nom donné",
     "pt": "Renomeia um personagem com o nome informado",
     "es": "Renombra un personaje con el nombre dado",
     "pl": "Zmień imię podanej postaci",
-    "de": "Benennen Sie einen Charakter mit dem angegebenen Namen um"
+    "de": "Benennen Sie einen Charakter mit dem angegebenen Namen um",
+    "ru": "Переименовать персонажа с указанным именем"
   },
   "Assume a character with the given name": {
     "fr": "S'associer avec le personnage donné",
     "pt": "Associa um personagem com o nome informado",
     "es": "Asume un personaje con el nombre dado",
     "pl": "Przypisz postać o podanej nazwie",
-    "de": "Nehmen Sie einen Charakter mit dem angegebenen Namen an"
+    "de": "Nehmen Sie einen Charakter mit dem angegebenen Namen an",
+    "ru": "Связать себя с данным персонажем"
   },
   "Unassume a character": {
     "fr": "Désassocier un personnage",
     "pt": "Desassume um personagem",
     "es": "Deja de asumir un personaje",
     "pl": "Odłącz postać o podanej nazwie",
-    "de": "Charakter annehmen beenden"
+    "de": "Charakter annehmen beenden",
+    "ru": "Отвязать персонажа"
   },
   "Region": {
     "fr": "Région",
     "pt": "Região",
     "es": "Región",
     "pl": "Region",
-    "de": "Region"
+    "de": "Region",
+    "ru": "Регион"
   },
   "Delete a character with the given name": {
     "fr": "Supprimer le personnage avec le nom donné",
     "pt": "Remove um personagem com o nome informado",
     "es": "Elimina un personaje con el nombre dado",
     "pl": "Usuń postać o podanej nazwie",
-    "de": "Einen Charakter mit dem angegebenem Namen löschen"
+    "de": "Einen Charakter mit dem angegebenem Namen löschen",
+    "ru": "Удалить персонажа с указанным именем"
   },
   "Give a character a role": {
     "fr": "Donner un rôle à un personnage",
     "pt": "Define um cargo para um personagem",
     "es": "Da un rol a un personaje",
     "pl": "Dodaj rolę danej postaci",
-    "de": "Gib einem Charakter eine Rolle"
+    "de": "Gib einem Charakter eine Rolle",
+    "ru": "Дать персонажу роль"
   },
   "You must be assumed or provide a character!": {
     "fr": "Vous devez être associé ou fournir un personnage!",
     "pt": "Você deve estar associado ou fornecer um personagem!",
     "es": "¡Debes estar asumiendo un personaje o dar un personaje!",
     "pl": "Musisz być powiązany z postacią lub podać postać!",
-    "de": "Sie müssen angenommen sein oder einen Charakter angeben!"
+    "de": "Sie müssen angenommen sein oder einen Charakter angeben!",
+    "ru": "Вы должны были указать персонажа или быть связанным с ним!"
   },
   "Remove a role from a character": {
     "fr": "Enlever un rôle àun personnage",
     "pt": "Remove um cargo de um personagem",
     "es": "Quitar un rol a un personaje",
     "pl": "Usuń rolę podanej postaci",
-    "de": "Entfernen Sie eine Rolle eines Charakters"
+    "de": "Entfernen Sie eine Rolle eines Charakters",
+    "ru": "Удалить роль у персонажа"
   },
   "Role removed!": {
     "fr": "Rôle enlevé!",
     "pt": "Cargo removido!",
     "es": "¡Rol quitado!",
     "pl": "Rola usunięta!",
-    "de": "Rolle entfernt!"
+    "de": "Rolle entfernt!",
+    "ru": "Роль удалена"
   },
   "Crafts the given recipe": {
     "fr": "Fabrique le recette donnée",
     "pt": "Constrói a receita informada.",
     "es": "Prepara la receta dada.",
     "pl": "Użyj podanej receptury aby stworzyć przedmiot",
-    "de": "Fertigt das gegebene Rezept"
+    "de": "Fertigt das gegebene Rezept",
+    "ru": "Создает предмет по указанному рецепту"
   },
   "No such recipe!": {
     "fr": "Aucune recette correspondante",
     "pt": "Nenhuma receita!",
     "es": "¡No existe esta receta!",
     "pl": "Podana receptura nie istnieje",
-    "de": "Kein solches Rezept"
+    "de": "Kein solches Rezept",
+    "ru": "Такого рецепта нет!"
   },
   "You can't afford to craft this!": {
     "fr": "Vous ne pouvez pas fabriquer ça!",
     "pt": "Você não pode arcar com as despesas da construção disto!",
     "es": "¡No puedes permitirte crear esto!",
     "pl": "Nie posiadasz wystarczającej ilości zasobów aby to stworzyć",
-    "de": "Sie können es sich nicht leisten, dies herzustellen!"
+    "de": "Sie können es sich nicht leisten, dies herzustellen!",
+    "ru": "У вас недостаточно ресурсов, чтобы создать это!"
   },
   "Beginning crafting of {}": {
     "fr": "Début de fabrication de {}",
     "pt": "Iniciando construção de {}",
     "es": "Iniciando creación de {}",
     "pl": "Rozpoczynanie tworzenia {}",
-    "de": "Beginn der Herstellung von {}"
+    "de": "Beginn der Herstellung von {}",
+    "ru": "Начинаем создавать {}"
   },
   "You have no assumed character!": {
     "fr": "Vous n'êtes pas associé à un personnage!",
     "pt": "Você não tem personagem associado!",
     "es": "¡No has asumido ningún personaje!",
     "pl": "Nie masz przypisanej postaci!",
-    "de": "Du hast keinen angenommenen Charakter"
+    "de": "Du hast keinen angenommenen Charakter",
+    "ru": "У вас нет связанных персонажей!"
   },
   "Crafting failed!": {
     "fr": "Fabrication échouée!",
     "pt": "A contrução falhou!",
     "es": "¡La creación falló!",
     "pl": "Tworzenie przedmiotu nieudane!",
-    "de": "Herstellung fehlgeschlagen!"
+    "de": "Herstellung fehlgeschlagen!",
+    "ru": "Не удалось ничего создать!"
   },
   "Looks up a recipe. Subcommands for recipes": {
     "fr": "Affiche une recette. Sous-commandes pour les recettes",
     "pt": "Procura uma receita. Subcomandos para receitas",
     "es": "Consulta una receta. Subcomandos de recetas",
     "pl": "Poszukaj receptury. Podkomendy dotyczące receptur",
-    "de": "Schlägt ein Rezept nach. Unterbefehle für Rezepte"
+    "de": "Schlägt ein Rezept nach. Unterbefehle für Rezepte",
+    "ru": "Отображает рецепт."
   },
   "No recipes to display": {
-    "de": "Es gibt keine anzeigbaren Rezepte"
+    "de": "Es gibt keine anzeigbaren Rezepte",
+    "ru": "Нет рецептов для отображения"
   },
   "Try out a method and ingredients to potentially discover a recipe": {
     "fr": "Essayer une méthode et des ingrédients pour potentiellement découvrir une recette",
     "pt": "Experimente um método e ingredientes para descobrir potencialmente uma receita",
     "es": "Pruebe un método e ingredientes para tratar de descubrir una receta",
     "pl": "Wypróbuj metodę i składniki, aby potencjalnie odkryć nową recepture",
-    "de": "Probieren Sie eine Methode und Zutaten aus, um möglicherweise ein Rezept zu entdecken"
+    "de": "Probieren Sie eine Methode und Zutaten aus, um möglicherweise ein Rezept zu entdecken",
+    "ru": "Смешайте ингредиенты, чтобы попытаться узнать скрытый рецепт"
   },
   "Creates a recipe": {
     "fr": "Crée une recette",
     "pt": "Cria uma receita",
     "es": "Crea una receta",
     "pl": "Stworzenie nowej receptury",
-    "de": "Erstelle ein Rezept"
+    "de": "Erstelle ein Rezept",
+    "ru": "Создать рецепт"
   },
   "Edits an existing recipe": {
     "fr": "Modifie une recette existante",
     "pt": "Altera uma receita existente",
     "es": "Edita una receta existente",
     "pl": "Edytowanie istniejącej już receptury",
-    "de": "Bearbeite ein existierendes Rezept"
+    "de": "Bearbeite ein existierendes Rezept",
+    "ru": "Изменить существующий рецепт"
   },
   "Invalid recipe name!": {
     "fr": "Nom de recette invalide!",
     "pt": "Nome de receita inválido!",
     "es": "¡Nombre de receta inválido!",
     "pl": "Niepoprawna nazwa receptury!",
-    "de": "Ungültiger Rezept Name!"
+    "de": "Ungültiger Rezept Name!",
+    "ru": "Неверное название рецепта!"
   },
   "Delete a recipe": {
     "fr": "Supprime une recette",
     "pt": "Remove uma receita",
     "es": "Elimina una receta",
     "pl": "Usuń podaną recepture",
-    "de": "Lösche ein Rezept"
+    "de": "Lösche ein Rezept",
+    "ru": "Удалить рецепт"
   },
   "A recipe with that name does not exist!": {
     "fr": "Aucune recette avec ce nom n'existe!",
     "pt": "Uma receita com este nome não existe!",
     "es": "¡No existe ninguna receta con ese nombre!",
     "pl": "Receptura o takiej nazwie nie istnieje!",
-    "de": "Ein Rezept mit diesem Namen existiert nicht!"
+    "de": "Ein Rezept mit diesem Namen existiert nicht!",
+    "ru": "Рецепта с таким названием не существует!"
   },
   "A recipe with that name already exists!": {
     "fr": "Une recette porte déjà ce nom!",
     "pt": "Uma receita com este nome já existe!",
     "es": "¡Ya existe una receta con ese nombre!",
     "pl": "Receptura o podanej nazwie już istnieje!",
-    "de": "Ein Rezept mit diesem Namen existiert bereits!"
+    "de": "Ein Rezept mit diesem Namen existiert bereits!",
+    "ru": "Рецепт с таким названием уже существует!"
   },
   "Recipe deleted!": {
     "fr": "recette supprimée!",
     "pt": "Receita removida!",
     "es": "¡Receta eliminada!",
     "pl": "Receptura pomyślnie usunięta!",
-    "de": "Rezept gelöscht!"
+    "de": "Rezept gelöscht!",
+    "ru": "Рецепт удалён!"
   },
   "Commands for money and economy": {
     "fr": "Commandes pour l'argent et l'économie",
     "pt": "Comandos para dinheiro e economia",
     "es": "Comandos para el dinero y la economía",
     "pl": "Komendy dotyczące pieniędzy i ekonomii",
-    "de": "Befehle für Geld und Wirtschaft"
+    "de": "Befehle für Geld und Wirtschaft",
+    "ru": "Команды про деньги и экономику"
   },
-  "On you:\t\t {cb}{:.2f} {ca}\nIn the bank:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}": {
-    "fr": "\nSur vous:\t\t {cb}{:.2f} {ca}\nEn banque:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
-    "pt": "\nCom você:\t\t {cb}{:.2f} {ca}\nNo banco:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
-    "es": "\nEn el bolsillo:\t\t {cb}{:.2f} {ca}\nEn el banco:\t {cb}{:.2f}\nTotal:\t\t {cb}{:.2f} {ca}",
-    "pl": "\nPrzy trobie:\t\t {cb}{:.2f} {ca}\nW banku:\t {cb}{:.2f}\nŁącznie:\t\t {cb}{:.2f} {ca}",
-    "de": "\nIn der Tasche:\t\t {cb}{:.2f} {ca}\nIn der Bank:\t {cb}{:.2f}\nInsgesamt:\t\t {cb}{:.2f} {ca}"
+  "\nOn you:\t\t {}{:.2f}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n        ": {
+    "fr": "\nSur vous:\t\t {}{:.2f}\nEn banque:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n        ",
+    "pt": "\nCom você:\t\t {}{:.2f}\nNo banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n       ",
+    "es": "\nEn el bolsillo:\t\t {}{:.2f}\nEn el banco:\t {}{:.2f}\nTotal:\t\t {}{:.2f}\n       ",
+    "pl": "\nPrzy trobie:\t\t {}{:.2f}\nW banku:\t {}{:.2f}\nŁącznie:\t\t {}{:.2f}\n        ",
+    "de": "\nIn der Tasche:\t\t {}{:.2f}\nIn der Bank:\t {}{:.2f}\nInsgesamt:\t\t {}{:.2f}\n        ",
+    "ru": "\nВ кошельке:\t\t {}{:.2f}\nВ банке:\t {}{:.2f}\nВсего:\t\t {}{:.2f}\n        "
   },
   "Successfully deposited money!": {
     "fr": "Argent déposé avec succès!",
     "pt": "Dinheiro depositado com sucesso!",
     "es": "¡Dinero depositado con éxito!",
     "pl": "Pomyśle zdepozytowano pieniądze!",
-    "de": "Erfolgreich Geld eingezahlt!"
+    "de": "Erfolgreich Geld eingezahlt!",
+    "ru": "Деньги успешно зачислены!"
   },
   "Successfully withdrew money!": {
     "fr": "Argent retiré avec succès!",
     "pt": "Dinheiro retirado com sucesso!",
     "es": "¡Dinero retirado con éxito!",
     "pl": "Pomyślnie wypłacono pieniądze!",
-    "de": "Erfolgreich Geld abgehoben!"
+    "de": "Erfolgreich Geld abgehoben!",
+    "ru": "Деньги успешно сняты!"
   },
   "Successfully paid money!": {
     "fr": "Argent payé avec succès!",
     "pt": "Dinheiro pago com sucesso!",
     "es": "¡Se ha pagado con éxito!",
     "pl": "Pomyślnie zapłacono!",
-    "de": "Erfolgreich Geld bezahlt!"
+    "de": "Erfolgreich Geld bezahlt!",
+    "ru": "Деньги успешно переданы!"
   },
   "Successfully gave {} / {}": {
     "fr": "{} / {} Donné avec succès",
     "pt": "Forneceu {} / {} com sucesso",
     "es": "Se dió {} / {} con éxito",
     "pl": "Pomyślnie przekazano {} / {}",
-    "de": "Erfolgreich {} / {} vergeben"
+    "de": "Erfolgreich {} / {} vergeben",
+    "ru": ""
   },
   "See the characters with the 10 highest balances": {
     "fr": "Voir les 10 personnages avec les plus gros soldes.",
     "pt": "Veja os personagens com os 10 mais altos saldos",
     "es": "Consulta los 10 personajes con los saldos más altos",
     "pl": "Sprawdź 10 najbogatszych użytkowników",
-    "de": "Zeigt die Charaktere mit den 10 höchsten Kontoständen"
+    "de": "Zeigt die Charaktere mit den 10 höchsten Kontoständen",
+    "ru": "Посмотреть 10 самых богатых персонажей"
   },
   "No characters": {
     "fr": "Pas de personnages",
     "pt": "Nenhum personagem",
     "es": "Sin personajes",
     "pl": "Brak postaci",
-    "de": "Keine Charaktere"
+    "de": "Keine Charaktere",
+    "ru": "Персонажей нет"
   },
   "See which premium features are enabled for the server or see more information about a feature": {
     "fr": "Voir quelles fonctionnalités premium sont activées sur ce serveur ou voir plus d'informations à propos d'une fonctionnalité",
     "pt": "Veja quais recursos premium estão disponíveis nesse servidor ou veja mais informações sobre um recurso",
     "es": "Consulta que funciones premium están disponibles en este servidor o consulta más información sobre una funcionalidad",
     "pl": "Sprawdź jakie funkcje premium są włączone na tym serwerze, lub sprawdź informacje o tych funkcjach",
-    "de": "Sehen Sie, welche Premium-Funktionen für den Server aktiviert sind, oder sehen Sie sich weitere Informationenzu einer Funktion an"
+    "de": "Sehen Sie, welche Premium-Funktionen für den Server aktiviert sind, oder sehen Sie sich weitere Informationenzu einer Funktion an",
+    "ru": "Посмотреть, какие премиум-функции активны на сервере или узнать больше информации о премиум-функциях"
   },
   "You have no features enabled!": {
     "fr": "Vous n'avez pas de fonctionnalités activées",
     "pt": "Você não tem recursos disponíveis!",
     "es": "¡No tienes ninguna función premium activada!",
     "pl": "Na tym serwerze nie ma żadnych funkcji premium!",
-    "de": "Sie haben keine Features aktiviert!"
+    "de": "Sie haben keine Features aktiviert!",
+    "ru": "На этом сервере нет активных премиум-функций"
   },
   "Enable a premium feature for the server": {
-    "fr": "Activer une fonctionnalité premium pour ce serveur",
+    "fr": "Active une fonctionnalité premium pour ce serveur",
     "pt": "Habilita um recurso premium para o servidor",
     "es": "Activa una función premium para el servidor",
     "pl": "Włącz funkcje premium na serwerze",
-    "de": "Aktivieren Sie ein Premium-Feature für den Server"
+    "de": "Aktivieren Sie ein Premium-Feature für den Server",
+    "ru": "Активировать премиум-функцию на сервере"
   },
   "That feature doesn't exist!": {
     "fr": "Cette fonctionnalité n'existe pas!",
     "pt": "Este recurso não existe!",
     "es": "¡Esta función no existe!",
     "pl": "Taka funkcja nie istnieje!",
-    "de": "Dieses Feature existiert nicht!"
+    "de": "Dieses Feature existiert nicht!",
+    "ru": "Такой премиум-функции не существует!"
   },
   "You do not have enough tokens to enable this feature! See rp!feature balance for details.": {
     "fr": "Vous n'avez pas assez de jetons pour activer cette fonctionnalité! Voyez rp!feature balance pour les détails",
     "pt": "Você não tem tokens suficientes para habilitar este recurso! See rp!feature balance para detalhes.",
     "es": "¡No tienes suficientes tokens para activar esta función! Consulta rp!feature balance para más detalles.",
     "pl": "Nie masz wystarczającej ilości tokenów aby włączyć tą funkcje! Sprawdż rp!feature balance aby zobaczyć szczegóły.",
-    "de": "Sie haben nicht genügend Token, um diese Funktion zu aktivieren! Weitere Informationen finden Sie unter rp!feature balance."
+    "de": "Sie haben nicht genügend Token, um diese Funktion zu aktivieren! Weitere Informationen finden Sie unter rp!feature balance.",
+    "ru": "У вас недостаточно токенов для оплаты этой премиум-функции! Введите rp!feature balance чтобы узнать больше информации."
   },
   "Updated enabled features for this server! This will cost {} tokens ({}).": {
     "fr": "Fonctionnalités activées sur le serveur mises à jour! Ca vous coûtera {} jetons ({}).",
     "pt": "Recursos ativos atualizados para este servidor! Isso ira custar {} tokens ({}).",
     "es": "Funciones activas actualizadas para este servidor! Esto va a costar {} tokens ({}).",
     "pl": "Włącz funkcje premium dla tego serwera! To będzie kosztowało {} tokenów ({}).",
-    "de": "Aktualisierte, aktivierte Funkrionen für diesen Server! Dies kostet {} Token ({})."
+    "de": "Aktualisierte, aktivierte Funkrionen für diesen Server! Dies kostet {} Token ({}).",
+    "ru": "Обновить включённые премиум-функции для этого сервера. Это будет стоить {} токенов ({})."
   },
   "Updated enabled features for this server!": {
     "fr": "Fonctionnalités activées sur ce serveur mises à jour!",
     "pt": "Recursos ativos atualizados para este servidor!",
     "es": "¡Funciones activas para este servidor actualizadas!",
     "pl": "Zaktualizowano aktywne funkcje dla tego serwera!",
-    "de": "Aktualisierte, aktivierte Funktionen für diesen Server!"
+    "de": "Aktualisierte, aktivierte Funktionen für diesen Server!",
+    "ru": "Премиум-функции обновлены!"
   },
   "See your token balance for enabling premium features.": {
     "fr": "Voir votre solde de jetons pour les fonctionnalités premium.",
     "pt": "Veja seu saldo de tokens para habilitar recursos premium.",
     "es": "Consulta tu saldo de tokens para activar funciones premium.",
     "pl": "Sprawdź ile tokenów do aktywacji funkcji premium posiadasz.",
-    "de": "Informationen zum Aktivieren von Premium-Funktionen finden Sie in Ihrem Token-Guthaben."
+    "de": "Informationen zum Aktivieren von Premium-Funktionen finden Sie in Ihrem Token-Guthaben.",
+    "ru": "Посмотреть, сколько у вас есть токенов для оплаты премиум-функций"
   },
   "Click here to see the shop": {
     "fr": "Cliquez ici pour voir la boutique",
     "pt": "Clique aqui para ver a loja",
     "es": "Cliqueé aquí para ver la tienda",
     "pl": "Kliknij tutaj aby zobaczyć sklep",
-    "de": "Klicke hier, um das Geschäftzu sehen"
+    "de": "Klicke hier, um das Geschäftzu sehen",
+    "ru": "Нажмите тут для просмотра магазина"
   },
   "You have {} tokens and the following features enabled: \n{}": {
     "fr": "Vous avez {} jetons et les fonctionnalités suivantes sont activées:\n{}",
     "pt": "Você tem {} tokens e os seguntes recursos habilitados: \n{}",
     "es": "Tienes {} tokens y las siguientes funciones activadas: \n{}",
     "pl": "Posiadasz {} tokenów i masz aktywowane podane funkcje: \n{}",
-    "de": "Du hast {} tokens und die folgenden Features aktiviert: \n{}"
+    "de": "Du hast {} tokens und die folgenden Features aktiviert: \n{}",
+    "ru": "У вас {} токенов. Активные премиум-функции:\n{}"
   },
   "Allows creation of more than 3 characters per user": {
     "fr": "Autorise la création de plus de 3 personnages par utilisateur",
     "pt": "Permite a criação de mais de 3 personagens por usuário",
     "es": "Permite la creación de más de 3 personajes por usuario",
     "pl": "Pozwala na stworzenie więcej niż 3 postaci na użytkownika",
-    "de": "Ermöglicht die Erstellung von mehr als 3 Charakteren pro Benutzer"
+    "de": "Ermöglicht die Erstellung von mehr als 3 Charakteren pro Benutzer",
+    "ru": "Позволяет создавать более 3 персонажей для одного пользователя"
   },
   "Allows creation of special container items": {
     "fr": "Autorise la création de conteneur spéciaux d'items",
     "pt": "Permite a criação de contâiners especiais de itens",
     "es": "Permite la creación de contenedores especiales de objetos",
     "pl": "Pozwala na stworzenie specjalnego pojemnika na przedmioty",
-    "de": "Ermöglicht die Erstellung spezieller Containergegenstände"
+    "de": "Ermöglicht die Erstellung spezieller Containergegenstände",
+    "ru": "Позволяет создавать предметы-контейнеры"
   },
   "Allows creation of guild shops and custom": {
     "fr": "Autorise la création de boutiques de guildes et boutique personnalisés",
     "pt": "Permite a criação de lojas de guilda e lojas personalizadas",
     "es": "Permite la creación de tiendas de gremios y tiendas personalizadas",
     "pl": "Pozwala na stworzenie sklepu gildyjnego i spersonalizowanie go",
-    "de": "Ermöglicht die Erstellung von gildengeschäften und benutzerdefinierten"
+    "de": "Ermöglicht die Erstellung von gildengeschäften und benutzerdefinierten",
+    "ru": "Позволяет создавать и изменять магазины гильдий"
   },
   "That guild does not exist!": {
     "fr": "Cette guilde n'existe pas!",
     "pt": "Esta guilda não existe!",
     "es": "¡Este gremio no existe!",
     "pl": "Podana gildie nie istnieje!",
-    "de": "Diese Gilde existiert nicht!"
+    "de": "Diese Gilde existiert nicht!",
+    "ru": "Такой гильдии не существует!"
   },
   "Please specify a guild!": {
     "fr": "S'il vous plait spécifiez une guilde!",
     "pt": "Por favor, informe uma guilda!",
     "es": "¡Por favor, especifica un gremio!",
     "pl": "Proszę, sprecyzuj gildie!",
-    "de": "Bitte gib eine Gilde an!"
+    "de": "Bitte gib eine Gilde an!",
+    "ru": "Пожалуйста, укажите гильдию!"
   },
   "You are not in a guild!": {
     "fr": "Vous n'êtes pasdans une guilde!",
     "pt": "Você não está em uma guilda!",
     "es": "¡No perteneces a ningún gremio!",
     "pl": "Nie jesteś w żadnej gildii",
-    "de": "Du bist in keiner Gilde!"
+    "de": "Du bist in keiner Gilde!",
+    "ru": "Вы не состоите в гильдии!"
   },
   "View your own or a particular guild's information": {
     "fr": "Montre les informations sur votre ou une autre guilde",
     "pt": "Exibe as informações da sua guilda ou de uma guilda específica",
     "es": "Muestra la información de tu gremio u otro en particular",
     "pl": "Sprawdź informacje o podanej gildii",
-    "de": "Zeigen Sie Ihre eigenen oder die Informationen einer bestimmten Gilde an"
+    "de": "Zeigen Sie Ihre eigenen oder die Informationen einer bestimmten Gilde an",
+    "ru": "Посмотреть информацию о вашей или какой-либо другой гильдии"
   },
   "Create a new guild with the given name": {
     "fr": "Crée une nouvelle guilde avec le nom donné",
     "pt": "Cria uma guilda com o nome informado",
     "es": "Crea un gremio con el nombre dado",
     "pl": "Stwórz nową gildię o podanej nazwie",
-    "de": "Erstelle eine neue Gilde mit dem angegebenen Namen"
+    "de": "Erstelle eine neue Gilde mit dem angegebenen Namen",
+    "ru": "Создать новую гильдию с указанным названием"
   },
   "A guild with that name already exists!": {
     "fr": "Une guilde avec ce nom existe déjà!",
     "pt": "Já existe uma guilda com este nome!",
     "es": "¡Ya existe un gremio con este nombre!",
     "pl": "Gildia o podanej nazwie już istnieje!",
-    "de": "Eine Gilde mit diesem Namen existiert bereits!"
+    "de": "Eine Gilde mit diesem Namen existiert bereits!",
+    "ru": "Гильдия с таким названием уже существует!"
   },
   "You cannot afford to create the guild!": {
     "fr": "Vous ne pouvez pas créer une guilde!",
     "pt": "Você não pode arcar com a criação da guilda!",
     "es": "¡No puedes permitirte crear un gremio!",
     "pl": "Nie posiadasz wystarczającej ilości środków aby stworzyć gildie!",
-    "de": "Du kannst es dir nicht leisten, die Gilde zu erstellen!"
+    "de": "Du kannst es dir nicht leisten, die Gilde zu erstellen!",
+    "ru": "У вас недостаточно средств для создания гильдии!"
   },
   "You are already in a guild!": {
     "fr": "Vous êtes déjà dans une guilde!",
     "pt": "Você já está em uma guilda!",
     "es": "¡Ya perteneces a un gremio!",
     "pl": "Już jesteś w gildii!",
-    "de": "Du bist schon in einer Gilde!"
+    "de": "Du bist schon in einer Gilde!",
+    "ru": "Вы уже состоите в гильдии!"
   },
   "Edit your guild": {
     "fr": "Modifier votre guilde",
     "pt": "Altere sua guilda",
     "es": "Edita tu gremio",
     "pl": "Eydtuj swoją gildie",
-    "de": "Bearbeite deine Gilde"
+    "de": "Bearbeite deine Gilde",
+    "ru": "Изменить что-то в вашей гильдии"
   },
   "Your character lacks a guild!": {
     "fr": "Votre personnage n'est pasdans une guilde!",
     "pt": "Seu personagem não tem uma guilda!",
     "es": "¡Tu personaje no tiene gremio!",
     "pl": "Twoja postać nie znajduje się lub nie posiada gildii!",
-    "de": "Deinem Charakter fehlt eine Gilde!"
+    "de": "Deinem Charakter fehlt eine Gilde!",
+    "ru": "Ваш персонаж не состоит в гильдии!"
   },
   "Your character lacks a guild rank!": {
     "fr": "Votre personnage ne possède pas de classement de guilde!",
     "pt": "Seu personagem não possui uma classificação na guilda!",
     "es": "¡Tu personaje no tiene rango en el gremio!",
     "pl": "Twoja postać nie posiada rangi gildyjnej!",
-    "de": "Deinem Charakter fehlt ein Gilden Rang!"
+    "de": "Deinem Charakter fehlt ein Gilden Rang!",
+    "ru": "Ваш персонаж не имеет звания в гильдии!"
   },
   "Your rank is invalid!": {
     "fr": "Votre rang est invalide!",
     "pt": "Sua classificação é inválida!",
     "es": "¡Tu rango es inválido!",
     "pl": "Twoja ranga jest niepoprawna!",
-    "de": "Dein Rang ist ungültig!"
+    "de": "Dein Rang ist ungültig!",
+    "ru": "Ваше звание недействительно!"
   },
   "Your character lacks guild data editing permissions!": {
     "fr": "Votre personnage n'a pas les permissions d'éditer les données de guilde!",
     "pt": "Seu personagem não possui permissão para alterar informações da guilda!",
     "es": "¡Tu personaje no tiene permisos para editar los datos del gremio!",
     "pl": "Twoja postać nie posiada uprawnień do zmiany informacji o gildii",
-    "de": "Deinem Charakter fehlen Berechtigungen zum Bearbeiten von Gildendaten!"
+    "de": "Deinem Charakter fehlen Berechtigungen zum Bearbeiten von Gildendaten!",
+    "ru": "У вашего персонажа нет прав на редактирование гильдии!"
   },
   "Invite a user to your closed Guild": {
     "fr": "Inviter un utilisateur à votre guilde fermée",
     "pt": "Convida um usuário para sua guilda fechada",
     "es": "Invita un usuario a tu gremio cerrado",
     "pl": "Zaproś podaną osobe do twojej gildii",
-    "de": "Lade einen Benutzer zu deiner geschlossenen Gilde ein"
+    "de": "Lade einen Benutzer zu deiner geschlossenen Gilde ein",
+    "ru": "Пригласить пользователя в вашу закрытую гильдию"
   },
   "Your character lacks guild invite permissions!": {
     "fr": "Votre personnage n'a pas les permissions d'inviter desmembres dans la guilde!",
     "pt": "Seu personagem não possui permissão de convidar para a guilda!",
     "es": "¡Tu personaje no tiene permisos para invitar a nuevos miembros!",
     "pl": "Twoja postać nie posiada uprawnień aby zapraszać ludzi do gildii",
-    "de": "Deinem Charakter fehlen Berechrigungen um andere in die Gilde einzuladen!"
+    "de": "Deinem Charakter fehlen Berechrigungen um andere in die Gilde einzuladen!",
+    "ru": "У вашего персонажа нет прав на приглашение игроков в гильдию!"
   },
   "Kick a user from your guild (requires guild kick permissions)": {
     "fr": "Exclue un utilisateur de votre guilde (nécessite les permissions d'exclusion)",
     "pt": "Kicka um usuário da sua guilda (requer permissão para kickar na guilda",
     "es": "Expulsa a un usuario de tu gremio (requiere permisos para expulsar del gremio)",
     "pl": "Wyrzuć daną osobe z twojej gildii (wymaga uprawnień do wyrzucania ludzi z gildii)",
-    "de": "Kick einen Benutzer aus deiner Gilde(erfordert Gildenkick-Berechtigungen"
+    "de": "Kick einen Benutzer aus deiner Gilde(erfordert Gildenkick-Berechtigungen",
+    "ru": "Выгнать пользователя из вашей гильдии (вы должны иметь право на исключение членов гильдии)"
   },
   "Your character lacks guild kick permissions!": {
     "fr": "Votre personnage n'a pas les permissions d'exclusion!",
     "pt": "Seu personagem não possui permissão de kickar na guilda!",
     "es": "¡Tu personaje no tiene permisos para expulsar miembros del gremio!",
     "pl": "Twoja postać nie posiada uprawnień do wyrzucania ludzi z gildii!",
-    "de": "Deinem Charakter fehlen Gildenkick-Berechtigungen!"
+    "de": "Deinem Charakter fehlen Gildenkick-Berechtigungen!",
+    "ru": "У вас нет прав на исключение других членов гильдии!"
   },
   "That character is not in your guild!": {
     "fr": "Ce personnage n'est pas dans votre guilde",
     "pt": "Este personagem não está na sua guilda!",
     "es": "¡Este personaje no está en tu gremio!",
     "pl": "Ta osoba nie jest w twojej gildii",
-    "de": "Dieser Charakter ist nicht in deiner Gilde!"
+    "de": "Dieser Charakter ist nicht in deiner Gilde!",
+    "ru": "Этот персонаж не в вашей гильдии!"
   },
   "You do not have the authority to kick that character!": {
     "fr": "Vous n'avez pas la permission de guilde pour exclure ce personnage!",
     "pt": "Você não tem autorização para kickar este personagem!",
     "es": "¡No tienes la autoridad para expulsar a este personaje del gremio!",
     "pl": "Nie posiadasz pozwolenia aby wyrzucić tą osobe!",
-    "de": "Sie haben nicht die Autorität, diesen Charakter zu kicken!"
+    "de": "Sie haben nicht die Autorität, diesen Charakter zu kicken!",
+    "ru": "У вас недостаточно прав для исключения этого члена гильдии!"
   },
   "Set a setting for the guild": {
     "fr": "Défini des paramètres pour la guilde",
     "pt": "Define as configurações da guilda",
     "es": "Establece la configuración del gremio",
     "pl": "Zmień ustawienia gildii",
-    "de": "Legen Sie eine Einstellung für die Gilde fest"
+    "de": "Legen Sie eine Einstellung für die Gilde fest",
+    "ru": "Настройка параметров гильдии"
   },
   "You lack the edit guild settings permission!": {
     "fr": "Vous n'avez pas la permission de modifier les paramètres de la guilde",
     "pt": "Você não possui permissão para alterar as configurações da guilda!",
     "es": "¡No posees los permisos para modificar la configuración del gremio!",
     "pl": "Nie posiadasz uprawnień do edycji gildii",
-    "de": "Ihnen fehlt die Berechtigung zum Bearbeiten der Gildeneinstellungen!"
+    "de": "Ihnen fehlt die Berechtigung zum Bearbeiten der Gildeneinstellungen!",
+    "ru": "У вас не хватает прав для редактирования гильдии!"
   },
   "Setting name invalid!": {
     "fr": "Nom de confguration invalide!",
     "pt": "Nome de configuração inválido!",
     "es": "Nombre de configuración inválido!",
     "pl": "Niepoprawna nazwa ustawienia!",
-    "de": "Einstellungsname ungültig!"
+    "de": "Einstellungsname ungültig!",
+    "ru": "Неверное название параметра"
   },
   "See the ranks for a guild": {
     "fr": "Affiche les classements d'une guilde",
     "pt": "Vejas as classificações de uma guilda",
     "es": "Consulta los rangos de un gremio",
     "pl": "Sprawdź rangi gildyjne",
-    "de": "Siehe die Ränge für eine Gilde"
+    "de": "Siehe die Ränge für eine Gilde",
+    "ru": "Посмотреть ранги в гильдии"
   },
   "Please upgrade to use guild ranks! For a small amount monthly you can enable premium features on your server which allows us to keep a bot as large as this running. See rp!features for details": {
     "fr": "S'il vous plait mettez à niveau le serveur pour avoir les classements des guilds! Pour une petite somme mensuelle vous pouvez activer les fonctionnalités premium sur votre serveur ce qui nous aide à garder un bot aussi gros actif. Allez voir rp!features pour les détails",
     "pt": "Por favor, atualize para utilizar classificações de guildas. Por uma pequena quantia ao mês você pode habilitar recursos premium no seu servidor, o que nos permite manter um bot tão grande quanto este rodando. Veja rp!features para mais detalhes",
     "es": "Por favor, mejore el servidor para usar los rangos de gremio. Por una pequeña cantidad mensual puedes activar funciones premium, esto nos permite mantener un bot tan grande como este en funcionamiento. Consulte rp!features para más detalles",
     "pl": "Przejdź na premium aby używać gildyjnych rang! Za małą cene miesięcznie możesz włączyć funkcje premium na twoim serwerze. Umożliwia nam to utrzymanie tak dużego bota jak ten. Zobacz rp!features aby sprawdzić szczegóły",
-    "de": "Sie brauchen die Premium Feature, um Gildenränge zu verwenden! Für einen kleinen Betrag monatlich können Sie Premium-Funktionen auf Ihrem Server aktivieren, mit denen wir einen so großen Bot am Laufen halten können. Weitere Informationen finden Sie unter rp!features"
+    "de": "Sie brauchen die Premium Feature, um Gildenränge zu verwenden! Für einen kleinen Betrag monatlich können Sie Premium-Funktionen auf Ihrem Server aktivieren, mit denen wir einen so großen Bot am Laufen halten können. Weitere Informationen finden Sie unter rp!features",
+    "ru": "Купите премиум, чтобы иметь возможность создавать ранги в гильдиях! За небольшую сумму ежемесячно вы можете включить премиальные функции на вашем сервере, что позволяет нам поддерживать работу такого большого бота, как этот. Используйте rp!features чтобы узнать больше."
   },
-  "Authority:": {
+  "Authority: ": {
     "fr": "Autorité",
     "pt": "Autoridade",
     "es": "Autoridad",
     "pl": "Władza",
-    "de": "Authorität: "
+    "de": "Authorität: ",
+    "ru": "Авторитет"
   },
-  "Permissions:": {
-    "fr": "Permissions:",
-    "pt": "Permissões:",
-    "es": "Permisos:",
-    "pl": "Uprawnienia:",
-    "de": "Berechtigungen:"
+  "Permissions:\n": {
+    "fr": "Permissions:\n",
+    "pt": "Permissões:\n",
+    "es": "Permisos:\n",
+    "pl": "Uprawnienia:\n",
+    "de": "Berechtigungen:\n",
+    "ru": "Полномочия:\n"
   },
-  "Salary:": {
-    "fr": "Salaire:",
-    "pt": "Salário:",
-    "es": "Salario:",
-    "pl": "Wypłata:",
-    "de": "Gehalt:"
+  "Salary: ": {
+    "fr": "Salaire: ",
+    "pt": "Salário: ",
+    "es": "Salario: ",
+    "pl": "Wypłata: ",
+    "de": "Gehalt: ",
+    "ru": "Зарплата: "
   },
   "Subcommands for managing guild ranks and viewing ranks": {
     "fr": "Sous-commandes pour gérer les classements de guilde et voir les classements",
     "pt": "Subcomandos para gerenciar classificações de guildas e visualizar classificações",
     "es": "Subcomandos para administrar rangos de gremios y ver rangos",
     "pl": "Komendy związane z zarządzaniem gildyjnymi rangami oraz sprawdzenie rang",
-    "de": "Unterbefehle zum Verwalten von Gildenrängen und Anzeigen von Rängen"
+    "de": "Unterbefehle zum Verwalten von Gildenrängen und Anzeigen von Rängen",
+    "ru": "Дополнительные команды для просмотра и настроек рангов в гильдии"
   },
   "That rank doesn't exist!": {
     "fr": "Ce classement n'existe pas!",
     "pt": "Esta classificação não existe!",
     "es": "¡Este rango no existe!",
     "pl": "Podana ranga nie istnieje!",
-    "de": "Dieser Rang existiert nicht!"
+    "de": "Dieser Rang existiert nicht!",
+    "ru": "Такого ранга не существует!"
   },
   "That rank already exists!": {
     "fr": "Ce classement existe déjà!",
     "pt": "Esta classificação já existe!",
     "es": "¡Este rango ya existe!",
     "pl": "Podana ranga już istnieje!",
-    "de": "Dieser Rang existiert bereits!"
+    "de": "Dieser Rang existiert bereits!",
+    "ru": "Такой ранг уже существует!"
   },
   "You do not have the authority to edit that rank!": {
     "fr": "Vous n'avez pas les permissions de guilde pour modifier ce classement!",
     "pt": "Você não tem autoridade para editar esta classificação!",
     "es": "¡No tienes la autoridad para editar ese rango!",
     "pl": "Nie posiadasz możliwości aby edytować tą range!",
-    "de": "Sie haben nicht die Berechtigungen, diesen Rang zu bearbeiten!"
+    "de": "Sie haben nicht die Berechtigungen, diesen Rang zu bearbeiten!",
+    "ru": "У вас недостаточно полномочий для изменения этого ранга!"
   },
   "Invalid rank name!": {
     "fr": "Nom de classement invalide!",
     "pt": "Nome de classificação inválido!",
     "es": "¡Nombre de rango invalido!",
     "pl": "Niepoprawna nazwa rangi!",
-    "de": "Ungültiger Rangname!"
+    "de": "Ungültiger Rangname!",
+    "ru": "Неверное название ранга!"
   },
   "You do not have the authority to assign that rank!": {
     "fr": "Vous n'avez pas la permission de guilde pour assigner ce classement!",
     "pt": "Você não tem permissão para associar esta classificação!",
     "es": "¡No tienes la autoridad de asignar ese rango!",
     "pl": "Nie posiadasz możliwości aby przypisać tą range!",
-    "de": "Sie haben nicht die Berechtigung, diesen Rang zuzuweisen!"
+    "de": "Sie haben nicht die Berechtigung, diesen Rang zuzuweisen!",
+    "ru": "У вас недостаточно полномочий для выдачи этого ранга!"
   },
   "Successfully set guild rank!": {
     "fr": "Classement de guilde définie avec succès!",
     "pt": "Classificação de guilda definida com sucesso!",
     "es": "¡Rango de gremio establecido con éxito!",
     "pl": "Pomyślnie ustawiono range gildyjną!",
-    "de": "Gildenrang erfolgreich gesetzt!"
+    "de": "Gildenrang erfolgreich gesetzt!",
+    "ru": "Ранг успешно создан"
   },
-  "Your guild has:": {
-    "fr": "Votre guilde a:",
-    "pt": "Sua guilda tem:",
-    "es": "Tu gremio tiene:",
-    "pl": "Twoja gildia ma:",
-    "de": "Ihre Gilde hat:"
+  "Your guild has: ": {
+    "fr": "Votre guilde a: ",
+    "pt": "Sua guilda tem: ",
+    "es": "Tu gremio tiene: ",
+    "pl": "Twoja gildia ma: ",
+    "de": "Ihre Gilde hat: ",
+    "ru": "У вашей гильдии есть:"
   },
   "You do not have enough to deposit!": {
     "fr": "Vous n'avez pas assez pour déposer ce montant!",
     "pt": "Você não tem o suficiente para depositar!",
     "es": "¡No tienes suficiente para despositar!",
     "pl": "Nie posiadasz wystarczającej ilości aby zdepozytować!",
-    "de": "Sie haben nicht genug zu hinterlegen!"
+    "de": "Sie haben nicht genug zu hinterlegen!",
+    "ru": "У вас недостаточно предметов для депозита!"
   },
   "Please upgrade to use item containers! For a small amount monthly you can enable premium features on your server which allows us to keep a bot as large as this running. See rp!features for details": {
     "fr": "S'il vous plait mettez à niveau le serveur pour utiliser les conteneurs à item! Pour un petit montant par mois vous pouvez activer les fonctionnalités premium sur votre serveur et nous aider à garder un bot aussi gros actif. Allez voir rp!features pour les détails",
     "pt": "Por favor, atualize para utilizar contâineres de itens. Por uma pequena quantia ao mês você pode habilitar recursos premium no seu servidor, o que nos permite manter um bot tão grande quanto este rodando. Veja rp!features para mais detalhes",
     "es": "Por favor, mejore el servidor para utilizar contenedores de items. Por una pequeña cantidad mensual puedes activar funciones premium en tu servidor que nos permiten mantener un bot tan grande como este funcionando. Consulta rp!features para más detalles",
     "pl": "Przejdź na premium aby używać pojemników na przedmioty! Za małą cene miesięcznie możesz włączyć funkcje premium na twoim serwerze. Umożliwia nam to utrzymanie tak dużego bota jak ten. Zobacz rp!features aby sprawdzić szczegóły",
-    "de": "Sie müssen die Premium-Funktion aktivieren um Gegenstandsbehälter zu verwenden! Für einen kleinen Betrag monatlich können Sie Premium-Funktionen auf Ihrem Server aktivieren,  mit denen wir einen so großen Bot am laufen halten können. Weitere Informationen finden Sie unter rp!features"
+    "de": "Sie müssen die Premium-Funktion aktivieren um Gegenstandsbehälter zu verwenden! Für einen kleinen Betrag monatlich können Sie Premium-Funktionen auf Ihrem Server aktivieren,  mit denen wir einen so großen Bot am laufen halten können. Weitere Informationen finden Sie unter rp!features",
+    "ru": "Купите премиум, чтобы иметь возможность создавать предметы-контейнеры! За небольшую сумму ежемесячно вы можете включить премиальные функции на вашем сервере, что позволяет нам поддерживать работу такого большого бота, как этот. Используйте rp!features чтобы узнать больше."
   },
   "Give multiple items to the list of users. Look carefully at syntax\n        Usage:\n            - rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 mycharacter character2\n            - rp!giveitems Bananax14 Applex9 @Administrators @everyone": {
     "fr": "Doonner plusieurs items à la liste d'utilisateurs. Faites attention à la syntaxe\n        Utilisation:\n            - rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 monpersonnage personnage2\n            - rp!giveitems Bananax14 Applex9 @Administrators @everyone",
     "pt": "Dar múltiplos itens para a lista de usuários. Fique atento à sintaxe\n        Uso:\n            - rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 meuPersonagem personagem2\n            - rp!giveitems Bananax14 Applex9 @Administrators @everyone",
     "es": "Dar múltiples objetos a la lista de usuarios. Preste atención a la sintaxis\n        Uso:\n            - rp!giveitems Plátanox12 Manzanax15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 meuPersonagem personagem2\n            - rp!giveitems Plátanox14 Manzanax9 @Administrators @everyone",
     "pl": "Daj przedmioty danym użytkownikom. Patrz uważnie na składnie\n        Użycie:\n            - rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            - rp!giveitems Bananax13 Applex12 osoba1 osoba2\n            - rp!giveitems Bananax14 Applex9 @Administrators @everyone",
-    "de": "Geben Sie der Benutzerliste mehrere Gegenstände. Schauen Sie sich die Syntax genau an.\n        Verwendung:\n            -rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            -rp!giveitems Bananax13 Applex15 mycharacter character2\n            -rp!giveitem Bananax14 Applex9 @Administrators @everyone"
+    "de": "Geben Sie der Benutzerliste mehrere Gegenstände. Schauen Sie sich die Syntax genau an.\n        Verwendung:\n            -rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n            -rp!giveitems Bananax13 Applex15 mycharacter character2\n            -rp!giveitem Bananax14 Applex9 @Administrators @everyone",
+    "ru": "Выдать несколько предметов нескольким пользователям (как администратор). Повнимательнее с синтаксисом! Указывайте количество сразу после названия предмета (xКоличество), x-это английская буква!\n        Использование:\n            - rp!giveitems Бананx12 Яблокоx15 @Henry#8808 @terabix#0001\n            - rp!giveitems Бананx13 Яблокоx12 имяПерсонажа имяПерсонажа2\n            - rp!giveitems Бананx14 Яблокоx9 @Administrators @everyone"
   },
   "Successfully gave items": {
     "fr": "Items donnés avec succès",
     "pt": "Itens fornecidos com sucesso",
     "es": "Objetos dados con éxito",
     "pl": "Pomyślnie przekazano przedmioty",
-    "de": "Gegenstände erfolgreich gegeben"
+    "de": "Gegenstände erfolgreich gegeben",
+    "ru": "Предметы успешно выданы"
   },
   "Give an item to a number of characters as an administrator, rather than from your inventory\n        Usage:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 mycharacter character2\n            - rp!giveitem Banana 14 @Administrators @​everyone": {
     "fr": "Donne un item à un certain nombre de personnages en tant qu'administrateur, plutôt que de votre inventaire\n        Utilisation:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 monpersonnage personnage2\n            - rp!giveitem Banana 14 @Administrators @​everyone",
     "pt": "Dar um item para um número de personagens como um administrador, e não a partir do seu inventário\n        Uso:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 meuPersonagem personagem2\n            - rp!giveitem Banana 14 @Administrators @​everyone",
     "es": "Dar un objeto a un número de personajes como administrador, en vez de a partir de tu inventario\n        Uso:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 miPersonaje personaje2\n            - rp!giveitem Banana 14 @Administrators @​everyone",
     "pl": "Daj przedmioty danym użytkownikom (nie z twojego ekwipunku, wymaga rangi Bot Admin)\n        Użycie:\n            - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Banana 13 mycharacter character2\n            - rp!giveitem Banana 14 @Administrators @​everyone",
-    "de": "Geben Sie einem oder mehreren Charakteren als Administrator Gegenstände anstatt aus Ihrem eigenem Inventar.\n        Verwendung:\n            -rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            -rp!giveitem Banana 13 mycharacter character2\n            -rp!giveitem Banana 14 @Administrators @everyone"
+    "de": "Geben Sie einem oder mehreren Charakteren als Administrator Gegenstände anstatt aus Ihrem eigenem Inventar.\n        Verwendung:\n            -rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n            -rp!giveitem Banana 13 mycharacter character2\n            -rp!giveitem Banana 14 @Administrators @everyone",
+    "ru": "Выдать одинаковые предметы нескольким пользователям (как администратор)\n        Использование:\n            - rp!giveitem Банан 12 @Henry#8808 @terabix#0001\n            - rp!giveitem Банан 13 имяПерсонажа имяПерсонажа2\n            - rp!giveitem Банан 14 @Administrators @​everyone"
   },
   "Take an item from a number of characters. You may\n        also target item tags.\n        Usage:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 mycharacter character2": {
     "fr": "Donne un item à un certain nombre de personnages en tant qu'administrateur, plutôt que de votre inventaire.\n        Vous pouvez aussi utilisez des tags d'items.\n        Utilisation:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 monpersonnage personnage2",
     "pt": "Dar um item para um número de personagens como um administrador, e não a partir do seu inventário.\n        Você também pode utiliazr tags de itens.\n        Uso:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 meuPersonagem personagem2",
     "es": "Quita un objeto a un número de personajes como administrador, en vez de a partir de tu inventario.\n        También puedes usar tags de objetos.\n        Uso:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 miPersonaje personaje2",
     "pl": "Daj przedmioty danym użytkownikom (nie z twojego ekwipunku, wymaga rangi Bot Admin). Możesz użyć\n         także tagów przedmiotów.\n        Użycie:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 osoba1 osoba2",
-    "de": "Nehmen Sie einem oder mehreren Charakteren Gegenstände weg. Sie können\nauch Gegenstand-Tags verwenden.\n       Verwendung:\n            -rp!takeitem Banana 12 @Henry#8808 @terbix#0001\n            -rp!takeitem Banana 13 mycharacter character2"
+    "de": "Nehmen Sie einem oder mehreren Charakteren Gegenstände weg. Sie können\nauch Gegenstand-Tags verwenden.\n       Verwendung:\n            -rp!takeitem Banana 12 @Henry#8808 @terbix#0001\n            -rp!takeitem Banana 13 mycharacter character2",
+    "ru": "Забрать (удалить из инвентаря) предмет у нескольких пользователей (можно указать тэг предмета вместо его названия).\n        Использование:\n            - rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n            - rp!takeitem Banana 13 mycharacter character2"
   },
   "That isn't a valid item!": {
     "fr": "Ce n'est pas un item valide!",
     "pt": "Esté não é um item válido!",
     "es": "¡Este no es un objeto válido!",
     "pl": "To nie jest poprawny przedmiot!",
-    "de": "Dies ist kein gültiger Gegenstand!"
+    "de": "Dies ist kein gültiger Gegenstand!",
+    "ru": "Такой предмет не существует!"
   },
   "Give an item from your inventory to another character.\n        Usage:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 charname charname2": {
     "fr": "Donne un item de votre inventaire à un autre personnage.\n        Utilisation:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 nomdepersonnage nomdepersonnage2",
     "pt": "Dar um item do seu inventário para outro personagem.\n        Uso:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 nomeDoPersonagem1 nomeDoPersonagem2",
     "es": "Dar un objeto de tu inventario a otro personaje.\n        Uso:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 nombreDelPersonaje1 nombreDelPersonaje2",
     "pl": "",
-    "de": "Gib einen Gegenstand aus deinem Inventar einem anderen Charakter\n        Verwendung:\n            -rp!give Bananax5 Applex13 @Henry#8808\n            -rp!give Bananax6 Applex23 charname charname2"
+    "de": "Gib einen Gegenstand aus deinem Inventar einem anderen Charakter\n        Verwendung:\n            -rp!give Bananax5 Applex13 @Henry#8808\n            -rp!give Bananax6 Applex23 charname charname2",
+    "ru": "Передать предмет другому пользователю.\n        Использование:\n            - rp!give Бананx5 Яблокоx13 @Henry#8808\n            - rp!give Бананx6 Яблокоx23 имяПерсонажа имяПерсонажа2"
   },
   "You do not have that many to give away!": {
     "fr": "Vous n'avez pas autant à donner!",
     "pt": "Você não tem essa quantidade para dar!",
     "es": "¡No tienes tantos objetos para dar!",
     "pl": "Nie posiadasz takiej ilości do rozdania!",
-    "de": "Sie haben nicht genügend Gegenstände zu vergeben!!"
+    "de": "Sie haben nicht genügend Gegenstände zu vergeben!!",
+    "ru": "У вас нет такого количества предметов!"
   },
   "{} is not tranferrable!": {
     "fr": "{} n'est pas tranférable!",
     "pt": "{} não é transferível!",
     "es": "¡{} es intransferible!",
     "pl": "{} nie jest możliwe do wymiany!",
-    "de": "{} ist nicht übertragbar!"
+    "de": "{} ist nicht übertragbar!",
+    "ru": "{} нельзя передать!"
   },
   "Items given!": {
     "fr": "Items donnés!",
     "pt": "Itens fornecidos!",
     "es": "¡Objetos dados!",
     "pl": "Przedmioty przekazane!",
-    "de": "Gegenstände gegeben!"
+    "de": "Gegenstände gegeben!",
+    "ru": "Предметы переданы!"
   },
   "Accept a trade": {
     "fr": "Accepter un échange",
     "pt": "Aceitar uma negociação",
     "es": "Aceptar intercambio",
     "pl": "Zaakceptuj wymianę",
-    "de": "Einen Handel annehmen"
+    "de": "Einen Handel annehmen",
+    "ru": "Принять предложение об обмене"
   },
   "Decline a trade": {
     "fr": "Refuser un échange",
     "pt": "Rejeitar uma negociação",
     "es": "Rechazar intercambio",
     "pl": "Odrzuć wymiane",
-    "de": "Einen Handel ablehnen"
+    "de": "Einen Handel ablehnen",
+    "ru": "Отклонить предложение об обмене"
   },
   "Starts a trade between you and someone else": {
     "fr": "Commence un échange avec vous et quelqu'un d'autre",
     "pt": "Inicie uma negociação entre você e outra pessoa",
     "es": "Inicia un intercambio entre otra persona y tú",
     "pl": "Rozpocznij wymianę między tobą a innym użytkownikiem",
-    "de": "Startet einen Handel zwischen Ihnen und jemand anderen"
+    "de": "Startet einen Handel zwischen Ihnen und jemand anderen",
+    "ru": "Начать обмен между вами и кем-то ещё"
   },
   "Cancel a trade": {
     "fr": "Annule un échange",
     "pt": "Cancelar uma negociação",
     "es": "Cancela un intercambio",
     "pl": "Anuluj wymianę",
-    "de": "Einen Handel stornieren"
+    "de": "Einen Handel stornieren",
+    "ru": "Отменить обмен"
   },
   "View the containers that are in your inventory and their numbers.": {
     "fr": "Montre les conteneurs présents dans votre inventaire et leurs numéros.",
     "pt": "Exibe os contâineres que estão no seu inventório e seus números.",
     "es": "Muestra los contenedores que están en tu inventario y sus números.",
     "pl": "Sprawdź pojemniki na przedmioty które masz w swoim ekwipunku, a także sprawdź ich ilość",
-    "de": "Zeigen Sie die Container in Ihrem Inventar und ihre Nummern an."
+    "de": "Zeigen Sie die Container in Ihrem Inventar und ihre Nummern an.",
+    "ru": "Посмотреть, какие контейнеры есть в вашем инвентаре. (Также показывает номера контейнеров)"
   },
   "No items": {
     "fr": "Pas d'items",
     "pt": "Nenhum item",
     "es": "Sin objetos",
     "pl": "Brak przedmiotów",
-    "de": "Keine Gegenstände"
+    "de": "Keine Gegenstände",
+    "ru": "Нет предметов"
   },
-  "Deposit the given items into the container with the given number. To see which container has which number, check rp!containers\n        Usage: rp!container deposit 1 Applex15, Bananax25, Orangex15": {
-    "fr": "Dépose les items donnés dans le conteneur avec le numéro donné. Pour voir quel conteneur a quel numéro, faites r!containers\n        Utilisation: rp!container deposit 1 Applex15, Bananax25, Orangex15",
-    "pt": "Deposita os itens informados no contâiner com o número informado. Para ver qual contâiner tem determinado número, verifique rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15",
-    "es": "Deposita los objetos determinados en el contenedor con el número dado. Para ver que número tiene cada contenedor, consulte rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15",
-    "pl": "Włóż podane itemy w danej ilości do wybranego pojemnika. Aby sprawdzić jaki numer ma pojemnik, sprawdź rp!containers\n        Użycie: rp!container deposit 1 Applex15, Bananax25, Orangex15",
-    "de": "Legen Sie die angegebenen Gegenstände mit der angegebenen Nummer in den Behälter. Um zu sehen, welcher Behälter welche Nummer hat, überprüfen Sie rp!container\n        Verwendung: rp!container deposit 1 Applex15, Bananax25, Orangex15"
+  "Deposit the given items into the container with the given number. To see which container has which number, check rp!containers\n        Usage: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ": {
+    "fr": "Dépose les items donnés dans le conteneur avec le numéro donné. Pour voir quel conteneur a quel numéro, faites r!containers\n        Utilisation: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ",
+    "pt": "Deposita os itens informados no contâiner com o número informado. Para ver qual contâiner tem determinado número, verifique rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15\n         ",
+    "es": "Deposita los objetos determinados en el contenedor con el número dado. Para ver que número tiene cada contenedor, consulte rp!containers\n        Uso: rp!container deposit 1 Applex15, Bananax25, Orangex15\n         ",
+    "pl": "Włóż podane itemy w danej ilości do wybranego pojemnika. Aby sprawdzić jaki numer ma pojemnik, sprawdź rp!containers\n        Użycie: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ",
+    "de": "Legen Sie die angegebenen Gegenstände mit der angegebenen Nummer in den Behälter. Um zu sehen, welcher Behälter welche Nummer hat, überprüfen Sie rp!container\n        Verwendung: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        ",
+    "ru": "Положить вещи в контейнер с указанным номером. Для просмотра номеров контейнеров используйте rp!containers\n        Использование: rp!container deposit 1 Applex15, Bananax25, Orangex15\n        "
   },
   "You don't have this many items to deposit!": {
     "fr": "Vous n'avez pas autant d'items à déposer!",
     "pt": "Você não tem essa quantidade de itens para depositar!",
     "es": "¡No tienes tantos objetos para depositar!",
     "pl": "Nie masz tak dużej ilości przedmiotów do zdepozytowania!",
-    "de": "Sie müssen nicht genügend Gegenstände um so viele einzuzahlen!"
+    "de": "Sie müssen nicht genügend Gegenstände um so viele einzuzahlen!",
+    "ru": "У вас нет указанного количества предметов!"
   },
   "You cannot put containers in other containers!": {
     "fr": "Vous ne pouvez pas mettre un contaneur dans un autre conteneur!",
     "pt": "Você não pode colocar um contâiner dentro de outro contâiner!",
     "es": "¡No puedes meter contenedores dentro de otros contenedores!",
     "pl": "Nie możesz schować pojemnika w kolejny pojemnik",
-    "de": "Sie können keine Behälter in andere Behälter stellen!"
+    "de": "Sie können keine Behälter in andere Behälter stellen!",
+    "ru": "Нельзя помещать контейнер внутрь другого контейнера!"
   },
   "That is not a valid container number!": {
     "fr": "Ce n'est pas un numérode conteneur valide!",
     "pt": "Este não é um número de contâiner válido!",
     "es": "¡Este no es un número de contenedor válido!",
     "pl": "Nie ma pojemnika z podanym numerem!",
-    "de": "Dies ist keine gültige Behälternummer!"
+    "de": "Dies ist keine gültige Behälternummer!",
+    "ru": "Неверный номер контейнера!"
   },
   "Successfully deposited items!": {
     "fr": "Items déposés avec succès!",
     "pt": "Itens depositados com sucesso!",
     "es": "¡Objetos depositados con éxito!",
     "pl": "Pomyślnie zdepozytowano przedmioty",
-    "de": "Gegenstände erfolgreich abgelegt!"
+    "de": "Gegenstände erfolgreich abgelegt!",
+    "ru": "Вы успешно поместили предметы в контейнер!"
   },
   "Withdraw the given items from the container with the given number. To see which container has which number, check rp!containers\n        Usage: rp!container withdraw 1 Applex15, Bananax25, Orangex15": {
     "fr": "Retire les items donnés du conteneur avec le numéro donné. Pour voir quel conteneur a quel numéro, faites rp!containers\n        Utilisation: rp!container withdraw 1 Applex15, Bananax25, Orangex15",
     "pt": "Retira os itens informados de um contâiner com o número informado. Para ver qual contâiner tem determinado número, verifique rp!containers\n        Uso: rp!container withdraw 1 Applex15, Bananax25, Orangex15",
     "es": "Retira los objetos determinados de un contenedor con el número dado. Para ver que número tiene cada contenedor, consulte rp!containers\n        Uso: rp!container withdraw 1 Applex15, Bananax25, Orangex15",
     "pl": "Wyjmij dane przedmioty z wybranego pojemnika. Aby sprawdzić numer pojemnika, sprawdź rp!containers\n         Użycie: rp!container withdraw 1 Applex15, Bananax25, Orangex15",
-    "de": "Ziehen Sie die angegebenen Gegenstände mit der angegebenen Nummer aus dem Behälter. Um zu sehen, welcher Behälter welche Nummer hat, überprüfen Sie rp!container\n        Verwendung: rp!container 1 Applex15, Bananax25, Orangex15"
+    "de": "Ziehen Sie die angegebenen Gegenstände mit der angegebenen Nummer aus dem Behälter. Um zu sehen, welcher Behälter welche Nummer hat, überprüfen Sie rp!container\n        Verwendung: rp!container 1 Applex15, Bananax25, Orangex15",
+    "ru": "Достать указанные предметы из контейнера с указанным номером. Для просмотра номеров контейнеров используйте rp!containers\n        Использование: rp!container withdraw 1 Applex15, Bananax25, Orangex15"
   },
   "There are not this many items in the container!": {
     "fr": "Il n'y a pas autant d'items dans ce conteneur!",
     "pt": "Não há essa quantidade de itens no contâiner!",
     "es": "¡No hay tantos objetos en el contenedor!",
     "pl": "Nie ma tak dużej ilości przedmiotów w pojemniku",
-    "de": "Es sind nicht so viele Gegenstände im Behälter!"
+    "de": "Es sind nicht so viele Gegenstände im Behälter!",
+    "ru": "В контейнере нет указанного количества предметов!"
   },
   "Successfully withdrew items!": {
     "fr": "items retirés avec succès!",
     "pt": "Itens retirados com sucesso!",
     "es": "¡Objetos retirados con éxito!",
     "pl": "Pomyślnie wypłacono przedmioty!",
-    "de": "Gegenstände erfolgreich zurückgezogen!"
+    "de": "Gegenstände erfolgreich zurückgezogen!",
+    "ru": "Вы успешно достали предметы из контейнера!"
   },
   "Subcommands for items and view info about an item\n        Usage: rp!item Banana": {
     "fr": "Sous-commandes pour lesitems et voir les infos à propos d'un item\n        Utilisation: rp!item Banana",
     "pt": "Subcomandos para itens e exibir informações a respeito de um item\n        Uso: rp!item Banana",
     "es": "Subcomandos para objetos y ver información de un determinado objeto\n        Uso: rp!item Banana",
     "pl": "Komendy związane z itemami, a także sprawdzenie informacji o przedmiocie\n        Użycie: rp!item Banana",
-    "de": "Unterbefehle für Gegenstände und Informationen zu einem Gegenstand anzeigen\n        Verwendung: rp!item Banana"
+    "de": "Unterbefehle für Gegenstände und Informationen zu einem Gegenstand anzeigen\n        Verwendung: rp!item Banana",
+    "ru": "Посмотреть информацию о предмете\n        Использование: rp!item Banana"
   },
   "That item does not exist!": {
     "fr": "Cet item n'existe pas!",
     "pt": "Este item não existe!",
     "es": "¡Este objeto no existe!",
     "pl": "Taki przedmiot nie istnieje",
-    "de": "Dieser Gegenstand existiert nicht!"
+    "de": "Dieser Gegenstand existiert nicht!",
+    "ru": "Такого предмета не существует!"
   },
   "Type": {
     "fr": "Type",
     "pt": "Tipo",
     "es": "Tipo",
     "pl": "Typ",
-    "de": "Art"
+    "de": "Art",
+    "ru": "Тип"
   },
   "That item doesn't exist!": {
     "fr": "Cet item n'existe pas!",
     "pt": "Este item não existe!",
     "es": "¡Este objeto no existe!",
     "pl": "Taki przedmiot nie istnieje",
-    "de": "Dieser Gegenstand existiert nicht!"
+    "de": "Dieser Gegenstand existiert nicht!",
+    "ru": "Такого предмета не существует!"
   },
   "Rename an item with the given name": {
     "fr": "Renomme un item avec le nom donné",
     "pt": "Renomei um item para o nome informado",
     "es": "Renombra un objeto con el nombre dado",
     "pl": "Zmień nazwę danego przedmiotu",
-    "de": "Benennen Sie ein Gegenstand mit dem angegebenen Namen um"
+    "de": "Benennen Sie ein Gegenstand mit dem angegebenen Namen um",
+    "ru": "Изменить название предмета"
   },
   "Edit an item with the given name": {
     "fr": "Modifie l'item avec le nom donné",
     "pt": "Altere um item com o nome informado",
     "es": "Edita un objeto con el nombre dado",
     "pl": "Edytuj dany przedmiot",
-    "de": "Bearbeiten Sie einen Gegenstand mit dem angegebenen Namen"
+    "de": "Bearbeiten Sie einen Gegenstand mit dem angegebenen Namen",
+    "ru": "Изменить предмет с указанным названием"
   },
   "Updated name!": {
     "fr": "Nom mis à jour!",
     "pt": "Nome atualizado!",
     "es": "¡Nombre actualizado!",
     "pl": "Nazwa zaktualizowana",
-    "de": "Name aktualisiert!"
+    "de": "Name aktualisiert!",
+    "ru": "Название изменено!"
   },
   "An item with that name already exists!": {
     "fr": "Un item a déjà ce nom!",
     "pt": "Um item como este nome já existe!",
     "es": "¡Ya existe un objeto con este nombre!",
     "pl": "Przedmiot z taką nazwą już istnieje",
-    "de": "Ein Gegenstand mit diesem Namen existiert bereits!"
+    "de": "Ein Gegenstand mit diesem Namen existiert bereits!",
+    "ru": "Предмет с таким названием уже существует!"
   },
   "Delete an item with the given name": {
     "fr": "Supprime un item avec le nom donné",
     "pt": "Remove um item com o nome informado",
     "es": "Elimina un objeto con el nombre dado",
     "pl": "Usuń przedmiot o podanej nazwie",
-    "de": "Lösche einen Gegenstand mit dem angegebenen Namen"
+    "de": "Lösche einen Gegenstand mit dem angegebenen Namen",
+    "ru": "Удалить предмет с указанным названием"
   },
   "Create an item with the given name": {
     "fr": "Crée un item avec le nom donné",
     "pt": "Cria um item com o nome informado",
     "es": "Crea un objeto con el nombre dado",
     "pl": "Stwórz przedmiot o podanej nazwie",
-    "de": "Erstelle ein Gegenstand mit dem angegebenen Namen"
+    "de": "Erstelle ein Gegenstand mit dem angegebenen Namen",
+    "ru": "Создать предмет с указанным названием"
   },
   "Item deleted!": {
     "fr": "Item supprimé!",
     "pt": "Item removido!",
     "es": "¡Objeto eliminado!",
     "pl": "Przedmiot usunięty!",
-    "de": "Gegenstand gelöscht!"
+    "de": "Gegenstand gelöscht!",
+    "ru": "Предмет удалён!"
   },
   "View information for the given region": {
     "fr": "Voir les informations pour la région donnée",
     "pt": "Exibe informações para a região informada",
     "es": "Muestra la información de una determinada región",
     "pl": "Sprawdź informacje o danym regionie",
-    "de": "Zeige Informationen für die angegebene Region"
+    "de": "Zeige Informationen für die angegebene Region",
+    "ru": "Посмотреть информацию об указанном регионе"
   },
   "That region does not exist!": {
     "fr": "Cette région n'existe pas!",
     "pt": "Esta região não existe!",
     "es": "¡Esta región no existe!",
     "pl": "Podany region nie istnieje",
-    "de": "Diese Region existiert nicht!"
+    "de": "Diese Region existiert nicht!",
+    "ru": "Такого региона не существует!"
   },
   "Channels": {
     "fr": "Channels",
     "pt": "Canais",
     "es": "Canales",
     "pl": "Kanały",
-    "de": "Kanäle"
+    "de": "Kanäle",
+    "ru": "Каналы"
   },
   "Role": {
     "fr": "Rôle",
     "pt": "Cargo",
     "es": "Rol",
     "pl": "Role",
-    "de": "Rolle"
+    "de": "Rolle",
+    "ru": "Роли"
   },
   "Neighbors": {
     "fr": "Voisins",
     "pt": "Vizinhos",
     "es": "Vecinos",
     "pl": "Sąsiedzi",
-    "de": "Nachbarn"
+    "de": "Nachbarn",
+    "ru": "Соседи"
   },
   "Create a region for the given role": {
     "fr": "Crée une région pour le rôle donné",
     "pt": "Cria uma região para o cargo informado",
     "es": "Crea una región para el rol dado",
     "pl": "Stwórz region dla danej roli",
-    "de": "Erstelle eine Region für die angegebene Rolle"
+    "de": "Erstelle eine Region für die angegebene Rolle",
+    "ru": "Создать регион. Можно указать роль, которую будут иметь жители региона."
   },
   "Add a channel to the region": {
     "fr": "Ajoute un channel à la région",
     "pt": "Adiciona um canão à região",
     "es": "Añade un canal a la región",
     "pl": "Dodaj kanał dla danego regionu",
-    "de": "Füge einen Kanal zu dieser Region hinzu"
+    "de": "Füge einen Kanal zu dieser Region hinzu",
+    "ru": "Назначить существующему каналу регион"
   },
   "Added channel!": {
     "fr": "Channel ajouté!",
     "pt": "Canao adicionado!",
     "es": "¡Canal añadido!",
     "pl": "Dodano kanał!",
-    "de": "Kanal hinzugefügt!"
+    "de": "Kanal hinzugefügt!",
+    "ru": "Каналу успешно назначен регион!"
   },
   "Removes a channel from the region": {
     "fr": "Supprime un channel de la région",
     "pt": "Remove um canal de uma região",
     "es": "Elimina un canal de una región",
     "pl": "Usuń kanał dla danego regionu",
-    "de": "Entferne einen Kanal von der Region"
+    "de": "Entferne einen Kanal von der Region",
+    "ru": "Убрать регион у канала"
   },
   "Removed channel!": {
     "fr": "Channel supprimé",
     "pt": "Canal removido",
     "es": "Canal eliminado",
     "pl": "Usunięto kanał!",
-    "de": "Kanal entfernt!"
+    "de": "Kanal entfernt!",
+    "ru": "У канала успешно убран регион!"
   },
   "Add another Region as a neighbor to this one": {
     "fr": "Ajoute une autre Région en tant que voisin de celle là",
     "pt": "Adiciona outra Região como vizinha desta",
     "es": "Añade otra Región como vecina de esta",
     "pl": "Dodaj kolejny region jako sąsiad dla danego regionu",
-    "de": "Fügen Sie dieser Region eine weitere Region als Nachbarn hinzu"
+    "de": "Fügen Sie dieser Region eine weitere Region als Nachbarn hinzu",
+    "ru": "Сделать регионы соседями"
   },
   "Target region does not exist!": {
     "fr": "La région ciblée n'existe pas",
     "pt": "Região alvo não existe!",
     "es": "¡Esta región no existe!",
     "pl": "Docelowy region nie istnieje",
-    "de": "Zielregion existiert nicht!"
+    "de": "Zielregion existiert nicht!",
+    "ru": "Указанный регион не существует!"
   },
   "Remove a region neighbor from this region": {
     "fr": "Supprime une région comme voisin de cette région",
     "pt": "Remove uma região vizinha desta região",
     "es": "Elimina una región vecina de esta región",
     "pl": "Usuń region który sąsiaduje z danym regionem",
-    "de": "Entfernen Sie einen Regionsnachbarn von dieser Region"
+    "de": "Entfernen Sie einen Regionsnachbarn von dieser Region",
+    "ru": "Перестать считать регионы соседями"
   },
   "Contains subcommands for salary creation and management": {
     "fr": "Contient les sous-commandes pour la création et la gestion des salaires",
     "pt": "Contém subcomandos para criação e gerenciamento de salário",
     "es": "Contiene subcomandos para la creación de salarios y su configuración",
     "pl": "Komendy związane z tworzeniem wypłat i ich zarządzaniem",
-    "de": "Enthält Unterbefehle für die Gehaltserstellung und -verwaltung"
+    "de": "Enthält Unterbefehle für die Gehaltserstellung und -verwaltung",
+    "ru": "Содержит дополнительные команды для управления зарплатами и их создания"
   },
   "No salaries!": {
     "fr": "Pas de salaire!",
     "pt": "Nenhum salário!",
     "es": "¡Sin salarios!",
     "pl": "Brak wypłat!",
-    "de": "Keine Gehälter!"
+    "de": "Keine Gehälter!",
+    "ru": "Зарплат нет!"
   },
   "Create a new salary": {
     "fr": "Crée un nouveau salaire",
     "pt": "Cria um novo salário",
     "es": "Crea un nuevo salario",
     "pl": "Tworzenie nowej wypłaty",
-    "de": "Erstelle ein neues Gehalt"
+    "de": "Erstelle ein neues Gehalt",
+    "ru": "Создать новую зарплату"
   },
   "Role \"{}\" not found.": {
     "fr": "Rôle \"{}\" pas trouvé.",
     "pt": "Cargo \"{}\" não encontrado.",
     "es": "Rol \"{}\" no encontrado.",
     "pl": "Rola \"{}\" nie istnieje",
-    "de": "Rolle \"{}\" nicht gefunden."
+    "de": "Rolle \"{}\" nicht gefunden.",
+    "ru": "Роль \"{}\" не найдена."
   },
   "Delete a salary for the given role": {
     "fr": "Supprime un salaire pour le role donné",
     "pt": "Remove o salário para o cargo informado",
     "es": "Elimina el salario para el rol dado",
     "pl": "Usuń wypłate dla danej roli",
-    "de": "Löschen Sie ein Gehalt für die angegebene Rolle"
+    "de": "Löschen Sie ein Gehalt für die angegebene Rolle",
+    "ru": "Удалить зарплату для заданной роли"
   },
   "Salary deleted!": {
     "fr": "Salaire supprimé!",
     "pt": "Salário removido!",
     "es": "¡Salario eliminado!",
     "pl": "Wypłata usunięta!",
-    "de": "Gehalt gelöscht!"
+    "de": "Gehalt gelöscht!",
+    "ru": "Зарплата удалена!"
   },
   "Salary for {} cannot be collected for another {}": {
     "fr": "Salaire pour {} ne peut pas etre collecté par un autre {}",
     "pt": "Salário para {} não pode ser coletado por outro {}",
     "es": "El salario para {} no puede ser cobrado por otro {}",
     "pl": "Wypłata dla {} nie może być odebrana w ciągu następnych {}",
-    "de": "Das Gehalt für {} kann nicht für weitere {} gesammelt werden"
+    "de": "Das Gehalt für {} kann nicht für weitere {} gesammelt werden",
+    "ru": "До следующего получения зарплаты для роли {} осталось {}"
   },
   "Collected salary for {}": {
     "fr": "Salaire collecté pour {}",
     "pt": "Salário coletado por {}",
     "es": "Salario cobrado por {}",
     "pl": "Odebrano wypłate dla {}",
-    "de": "Sammle Gehalt für {}"
+    "de": "Sammle Gehalt für {}",
+    "ru": "Получена зарплата за роль {}"
   },
   "Use Webhooks": {
     "fr": "Utiliser les Webhooks",
     "pt": "Utilize Webhooks",
     "es": "Usar Webhooks",
     "pl": "Użyj Webhooków",
-    "de": "Webhook Nutzung"
+    "de": "Webhook Nutzung",
+    "ru": "Использование вебхуков"
   },
   "Items": {
     "fr": "Items",
     "pt": "Itens",
     "es": "Objetos",
     "pl": "Przedmioty",
-    "de": "Gegenstände"
+    "de": "Gegenstände",
+    "ru": "Предметы"
   },
   "Characters": {
     "fr": "Personnages",
     "pt": "Personagens",
     "es": "Personajes",
     "pl": "Postacie",
-    "de": "Charaktere"
+    "de": "Charaktere",
+    "ru": "Персонажи"
   },
   "Language": {
     "fr": "Langue",
     "pt": "Idioma",
     "es": "Idioma",
     "pl": "Język",
-    "de": "Sprache"
+    "de": "Sprache",
+    "ru": "Язык"
   },
   "Regions": {
     "fr": "Régions",
     "pt": "Regiões",
     "es": "Regiones",
     "pl": "Regiony",
-    "de": "Regionen"
+    "de": "Regionen",
+    "ru": "Регионы"
   },
   "Guild Cost": {
     "fr": "Coût de guilde",
     "pt": "Custo da guilda",
     "es": "Coste del gremio",
     "pl": "Koszt gildi",
-    "de": "Gilden kosten"
+    "de": "Gilden kosten",
+    "ru": "Стоимость создания гильдии"
   },
   "Set the cost of making a guild for the server. (0 for no cost)": {
     "fr": "Voir le coût de création de guilde sur le serveur. (0 pour aucun coût)",
     "pt": "Veja os custos de criar uma guilda no servidor. (0 para sem custo)",
     "es": "Establece el coste de crear un gremio en el servidor. (0 para que sea gratis)",
     "pl": "Ustaw cenę stworzenia gildi na tym serwerze. (0 aby nie było kosztu)",
-    "de": "Legen Sie die Kosten für die Erstellung einer Gilde für den Server fest. (0 für Kostenlos)"
+    "de": "Legen Sie die Kosten für die Erstellung einer Gilde für den Server fest. (0 für Kostenlos)",
+    "ru": "Задать стоимость создания гильдии. (0 для бесплатного создания)"
   },
   "Amount must be greater than 0!": {
     "fr": "La somme doit être supérieure à 0!",
     "pt": "Valor deve ser maior que 0!",
     "es": "¡La cantidad debe ser mayor que 0!",
     "pl": "Ilośc musi być większa niż 0!",
-    "de": "Betrag muss größer als 0 sein!"
+    "de": "Betrag muss größer als 0 sein!",
+    "ru": "Сумма должна быть больше 0"
   },
   "Updated guild cost": {
     "fr": "Prix de guilde mis à jour",
     "pt": "Custo da guilda atualizado",
     "es": "Coste de gremio actualizado",
     "pl": "Zaktualizowano koszt stworzenia gildii",
-    "de": "Gilden Kosten aktualisiert"
+    "de": "Gilden Kosten aktualisiert",
+    "ru": "Стоимость создания гильдии изменена"
   },
   "Disable a command for the server. Ex: rp!s disable character everyone": {
     "fr": "Désactive une commande pour le serveur. Ex: rp!s disable character everyone",
     "pt": "Desabilita um comando para o servidor. Ex: rp!s disable character everyone",
     "es": "Desactiva un comando para el servidor. Ex: rp!s disable character everyone",
     "pl": "Wyłącz daną komende na serwerze. Przykład: rp!s disable character everyone",
-    "de": "Deaktivieren Sie einen Befehl für den Server. Beispiel: rp!s disable character everyone"
+    "de": "Deaktivieren Sie einen Befehl für den Server. Beispiel: rp!s disable character everyone",
+    "ru": "Отключение команды. Пример: rp!s disable character everyone"
   },
   "Could not find the command ": {
     "fr": "Commande introuvable",
     "pt": "Não foi possível encontrar o comando",
     "es": "No se encontró el comando",
     "pl": "Nie można odnaleźć komendy",
-    "de": "Befehl konnte nicht gefunden werden"
+    "de": "Befehl konnte nicht gefunden werden",
+    "ru": "Не удалось такую найти команду"
   },
   "{0.name} command has no subcommands": {
     "fr": "La commande {0.name} n'a pas de sous-commandes",
     "pt": "Comando {0.name} não tem subcomandos",
     "es": "El comando {0.name} no tiene subcomandos",
     "pl": "Komenda {0.name} nie ma żadnych podkomend",
-    "de": "Der Befehl {0.name} hat keine Unterbefehle"
+    "de": "Der Befehl {0.name} hat keine Unterbefehle",
+    "ru": "Команда {0.name} не имеет дополнительных команд"
   },
   "Settings commands cannot be disabled!": {
     "fr": "Les paramètres ne peuvent pas être désactivés!",
     "pt": "Comandos de configuração não podem ser desabilitados!",
     "es": "¡Los comandos de configuración no pueden ser desactivados!",
     "pl": "Komendy dotyczące ustawień nie mogą być wyłączone!",
-    "de": "Einstellungsbefehle können nicht deaktiviert werden!"
+    "de": "Einstellungsbefehle können nicht deaktiviert werden!",
+    "ru": "Команды настроек не могут быть отключены!"
   },
   "Disabled command for role {}": {
     "fr": "Commande désactivée pour le rôle {}",
     "pt": "Comando para cargo {} desabilitado",
     "es": "Comando desactivado para el rol {}",
     "pl": "Wyłączono komende dla roli {}",
-    "de": "Befehl für Rolle {} deaktiviert"
+    "de": "Befehl für Rolle {} deaktiviert",
+    "ru": "Команда отключена для роли {}"
   },
   "Explicitly enable a command for a role for the server. Will override the setting for lower roles\n        Ex: rp!s enable character.create @Bot Admin": {
     "fr": "Active une commande spécifiquement pour un rôle pour le serveur. Ca va surpasser les options pour les rôles plus bas\n        Ex: rp!s enable character.create @Bot Admin",
     "pt": "Habilita um comando explicitamente para um cargo do servidor. Substituirá a configuração para cargos mais baixos\n        Ex: rp!s enable character.create @Bot Admin",
     "es": "Activa un comando específicamente para un rol del servidor. Ignorará la configuración para cargos más bajos\n        Ex: rp!s enable character.create @Bot Admin",
     "pl": "Włącza jawnie polecenie dla roli serwera. Zastąpi to ustawienie dla niższych ról.\n        Np: rp!s enable character.create @Bot Admin",
-    "de": "Aktivieren Sie explizit einen Befehl für eine Rolle auf dem Server. Überschreibt die Einstellung für niedrigere Rollen.\n        Beispiel: rp!s enable character.create @Bot Admin"
+    "de": "Aktivieren Sie explizit einen Befehl für eine Rolle auf dem Server. Überschreibt die Einstellung für niedrigere Rollen.\n        Beispiel: rp!s enable character.create @Bot Admin",
+    "ru": "Дает определенной роли возможность использовать данную команду.\n        Пример: rp!s enable character.create @Bot Admin"
   },
   "Enabled command for role {}": {
     "fr": "Commande activée pour le role {}",
     "pt": "Comando para o cargo {} habilitado",
     "es": "Comando activado para el rol {}",
     "pl": "Włączono komende dla roli {}",
-    "de": "Befehl für Rolle {} aktiviert"
+    "de": "Befehl für Rolle {} aktiviert",
+    "ru": "Команда включена для роли {}"
   },
   "Clear the setting for a command for a role. Ex: rp!s clearcommand character @Bot Admin": {
     "fr": "Enlève les paramètres pour un rôle. Ex: rp!s clearcommand character @Bot Admin",
     "pt": "Limpa a configuração de um comando para um cargo. Ex: rp!s clearcommand character @Bot Admin",
     "es": "Limpia la configuración de un comando para un rol. Ex: rp!s clearcommand character @Bot Admin",
     "pl": "Wyczyść ustawienia danej komendy dla podanej roli. Np: rp!s clearcommand character @Bot Admin",
-    "de": "Löschen Sie die Einstellung für einen Befehl für eine Rolle. Beispiel: rp!s clearcommand character @Bot Admin"
+    "de": "Löschen Sie die Einstellung für einen Befehl für eine Rolle. Beispiel: rp!s clearcommand character @Bot Admin",
+    "ru": "Удаляет ранее выданную команду для определенной роли. Пример: rp!s clearcommand character @Bot Admin"
   },
   "Cleared command for role {}": {
     "fr": "Commande enlevée pour le role {}",
     "pt": "Comando para o cargo {} limpo",
     "es": "Comando limpiado para el rol {}",
     "pl": "Wyczyszczono ustawienia komendy dla roli {}",
-    "de": "Befehl für Rolle {} gelöscht"
+    "de": "Befehl für Rolle {} gelöscht",
+    "ru": "Команда удалена для роли {}"
   },
   "Set whether assuming a character makes the user send messages as that character (yes/no)": {
     "fr": "Défini le fait qu'un personnage associé fait que l'utilisateur envoie des messages en tant que son personnage (yes/no)",
     "pt": "Define se ao associar um personagem faz com que o usuário envie mensagem como o personagem (yes/no)",
     "es": "Establece si asumir un personaje hace al usuario mandar mensajes como ese personaje (yes/no)",
     "pl": "Określa, czy skojarzenie postaci powoduje, że użytkownik wysyła wiadomość jako ta postać (yes/no)",
-    "de": "Legen Sie fest, ob der Benutzer unter der Annahme eines Charakteren Nachrichten als diesen Charakter senden soll (yes/no)"
+    "de": "Legen Sie fest, ob der Benutzer unter der Annahme eines Charakteren Nachrichten als diesen Charakter senden soll (yes/no)",
+    "ru": "Укажите, будет ли связанный с персонажем пользователь писать от имени персонажа (yes/no)"
   },
   "Invalid choice! (yes/no)": {
     "fr": "Choix invalide! (yes/no)",
     "pt": "Escolha inválida! (yes/no)",
     "es": "¡Opción inválida! (yes/no)",
     "pl": "Niepoprawny wybór! (yes/no)",
-    "de": "Ungültige Wahl! (yes/no)"
+    "de": "Ungültige Wahl! (yes/no)",
+    "ru": "Неверный выбор! (yes/no)"
   },
   "Updated setting!": {
     "fr": "Paramètres mis à jour!",
     "pt": "Configurações atualizadas!",
     "es": "¡Configuración actualizada!",
     "pl": "Zaktualizowano ustawienia!",
-    "de": "Einstellung aktualisiert!"
+    "de": "Einstellung aktualisiert!",
+    "ru": "Настройки изменены!"
   },
   "That is not a valid language!": {
     "fr": "Ce n'est pas une langue valide!",
     "pt": "Este não é um idioma válido!",
     "es": "¡Este no es un idioma válido!",
     "pl": "To nie jest poprawny język!",
-    "de": "Dies ist keine gültige Sprache!"
+    "de": "Dies ist keine gültige Sprache!",
+    "ru": "Данный язык не поддерживается"
   },
   "View a shop": {
     "fr": "Voir une boutique",
     "pt": "Exibe uma loja",
     "es": "Ver la tienda",
     "pl": "Sprawdź sklep",
-    "de": "Zeige ein Geschäft"
+    "de": "Zeige ein Geschäft",
+    "ru": "Заглянуть в магазин"
   },
   "That shop doesn't exist!": {
     "fr": "Cette boutique n'existe pas!",
     "pt": "Esta loja não existe!",
     "es": "¡Esa tienda no existe!",
     "pl": "Taki sklep nie istnieje!",
-    "de": "Dieses Geschäft existiert nicht!"
+    "de": "Dieses Geschäft existiert nicht!",
+    "ru": "Такого магазина не существует!"
   },
   "Buy Price": {
     "fr": "Prix d'achat",
     "pt": "Preço de compra",
     "es": "Precio de compra",
     "pl": "Cena zakupu",
-    "de": "Kaufpreis"
+    "de": "Kaufpreis",
+    "ru": "Цена покупки"
   },
   "Sell Price": {
     "fr": "Prix de vente",
     "pt": "Preço de venda",
     "es": "Precio de venta",
     "pl": "Cena sprzedaży",
-    "de": "Verkaufspreis"
+    "de": "Verkaufspreis",
+    "ru": "Цена продажи"
   },
   "Requires": {
     "fr": "Nécessite",
     "pt": "Requer",
     "es": "Requiere",
     "pl": "Wymagania",
-    "de": "Erfordert"
+    "de": "Erfordert",
+    "ru": "Требует"
   },
   "View info on a shop": {
     "fr": "Voir les informations sur une boutique",
     "pt": "Ver informações de uma loja",
     "es": "Ver información de una tienda",
     "pl": "Sprawdź informacje o sklepie",
-    "de": "Siehe Info von einem Geschäft"
+    "de": "Siehe Info von einem Geschäft",
+    "ru": "Посмотреть информацию о магазине"
   },
   "View the available shops in the given channel": {
     "fr": "Voir les boutiques disponibles dans le channel donné",
     "pt": "Ver as lojas disponíveis no canal informado",
     "es": "Ver las tiendas disponibles en un canal determinado",
     "pl": "Sprawdź dostępne sklepy na danym kanale",
-    "de": "Zeigen Sie die verfügbaren Geschäfte im angegebenen Kanal an"
+    "de": "Zeigen Sie die verfügbaren Geschäfte im angegebenen Kanal an",
+    "ru": "Посмотреть доступные в этом канале магазины"
   },
   "No shops in this channel.": {
     "fr": "Pas de boutiques dans ce channel",
     "pt": "Nenhuma loja neste canal.",
     "es": "No hay tiendas en este canal.",
     "pl": "Brak aktywnych sklepów na tym kanale",
-    "de": "Keine Geschäfte in diesem Kanal."
+    "de": "Keine Geschäfte in diesem Kanal.",
+    "ru": "В этом канале нет доступных магазинов"
   },
   "See rp!shop <shopname> to view an available shop": {
     "fr": "Voir rp!shop <nomdeboutique> pour voir les boutiques disponibles",
     "pt": "Veja rp!shop <shopname> para ver uma loja disponível",
     "es": "Consulta rp!shop <nombretienda> para ver una tienda disponible",
     "pl": "Użyj rp!shop <nazwa sklepu> aby sprawdzić informacje o danym sklepie",
-    "de": "Unter rp!shop <Ladenname> finden Sie ein verfügbares Geschäft"
+    "de": "Unter rp!shop <Ladenname> finden Sie ein verfügbares Geschäft",
+    "ru": "Используйте rp!shop <shopname> чтобы заглянуть в магазин"
   },
   "Create a new shop": {
     "fr": "Crée une nouvelle boutique",
     "pt": "Criar uma nova loja",
     "es": "Crear una nueva tienda",
     "pl": "Stwórz nowy sklep",
-    "de": "Erstelle ein neues Geschäft"
+    "de": "Erstelle ein neues Geschäft",
+    "ru": "Создать новый магазин"
   },
   "Edit an existing new shop": {
     "fr": "Modifie une boutique existante",
     "pt": "Alterar uma loja existente",
     "es": "Edita una tienda existente",
     "pl": "Edytuj istniejący już sklep",
-    "de": "Bearbeite ein existierendes Geschäft"
+    "de": "Bearbeite ein existierendes Geschäft",
+    "ru": "Изменить существующий магазин"
   },
   "Delete a shop": {
     "fr": "Supprime une boutique",
     "pt": "Remover uma loja",
     "es": "Elimina una tienda",
     "pl": "Usuń sklep",
-    "de": "Lösche ein Geschäft"
+    "de": "Lösche ein Geschäft",
+    "ru": "Удалить магазин"
   },
   "Shop deleted!": {
     "fr": "Boutique supprimée!",
     "pt": "Loja removida!",
     "es": "¡Tienda eliminada!",
     "pl": "Sklep usunięty",
-    "de": "Geschäft gelöscht!"
+    "de": "Geschäft gelöscht!",
+    "ru": "Магазин удалён!"
   },
   "Add a new item to the given shop.\n         To make buying the item require having another item, you may specify the <requires> arugment, \\\n        which should target an item name.": {
     "fr": "Ajoute un nouvel item dans la boutique donnée.\n         Pour faire en sorte qu'acheter cet item nécessite un autre item, vous devez spécifier l'argument <requires>, \\\n         ce qui doit viser le nom d'un item",
     "pt": "Adiciona um novo item na loja informada.\n         Para definir que a compra deste item requer ter outro item, você pode definir o argumento <requires>, \\\n        que deve apontar para um nome de item.",
     "es": "Añade un nuevo objeto a la tienda dada.\n         Para hacer que comprar el objeto requiera otro objeto, puedes establecer el argumento <requires>, \\\n        que debe ser el nombre de un objeto.",
     "pl": "Dodaj przedmiot do podanego sklepu.\n         Aby sprawić że kupienie tego przedmiotu wymaga posiadania innego, użyj argumentu <requires>, \\\n        który powinien być ustalony w nazwie przedmiotu.",
-    "de": "Fügen Sie dem angegebenen Geschäft einen neuen Gegenstand hinzu\n         Um für den Kauf eines Gegenstandes einen anderen Gegenstand zu benötigen, können Sie das <erforderliche> Argument\\\n         angeben, das auf einen Gegenstandsnamen abzielen soll."
+    "de": "Fügen Sie dem angegebenen Geschäft einen neuen Gegenstand hinzu\n         Um für den Kauf eines Gegenstandes einen anderen Gegenstand zu benötigen, können Sie das <erforderliche> Argument\\\n         angeben, das auf einen Gegenstandsnamen abzielen soll.",
+    "ru": "Добавить новый предмет в указанный магазин.\n         Чтобы товар мог купить только человек, имеющий определенный предмет, укажите этот предмет в конце (аргумент <requires>)"
   },
   "Added item to shop": {
     "fr": "Item ajouté à la boutique",
     "pt": "Item adicionado à loja",
     "es": "Objeto añadido a la tienda",
     "pl": "Dodano przedmiot do sklepu",
-    "de": "Füge ein Gegenstand dem Geschäft hinzu"
+    "de": "Füge ein Gegenstand dem Geschäft hinzu",
+    "ru": "Предмет добавлен в магазин"
   },
   "Remove an item from the given shop": {
     "fr": "Enlève un item de la boutique donnée",
     "pt": "Remove um item da loja informada",
     "es": "Elimina un objeto de una tienda dada",
     "pl": "Usuń przedmiot z podanego sklepu",
-    "de": "Entferne ein Gegenstand von dem angegebenen Geschäft"
+    "de": "Entferne ein Gegenstand von dem angegebenen Geschäft",
+    "ru": "Убрать предмет из указанного магазина"
   },
   "Removed item from shop": {
     "fr": "Enlève l'item de la boutique",
     "pt": "Item removido da loja",
     "es": "Objeto eliminado de la tienda",
     "pl": "Usunięto przedmiot z sklepu",
-    "de": "Gegenstand vom Geschäft gelöscht"
+    "de": "Gegenstand vom Geschäft gelöscht",
+    "ru": "Предмет убран из магазина"
   },
   "Buy a quantity of an item from the given shop": {
     "fr": "Achète une quatité d'un item d'une boutique donnée",
     "pt": "Compra uma quantidade de um item da loja informada",
     "es": "Compra una cantidad de un objeto de la tienda dada",
     "pl": "Kup daną ilość przedmiotów z podanego sklepu",
-    "de": "Kaufen Sie eine Menge eines Gegenstandes im angegebenen Geschäft"
+    "de": "Kaufen Sie eine Menge eines Gegenstandes im angegebenen Geschäft",
+    "ru": "Купить несколько предметов в указанном магазине"
   },
   "You must have {} to buy this!": {
     "fr": "Vous devez avoir {} pour acheter ça!",
     "pt": "Você deve ter {} para comprar isso!",
     "es": "¡Debes tener {} para comprar esto!",
     "pl": "Musisz posiadać {} aby to zakupić!",
-    "de": "Sie müssen {} haben, um dies zu kaufen!"
+    "de": "Sie müssen {} haben, um dies zu kaufen!",
+    "ru": "Вы должны иметь {} чтобы купить это!"
   },
   "You cannot afford that many!": {
-    "fr": "Vous ne pouvezpas en acheter autant!",
+    "fr": "Vous ne pouvez pas en acheter autant!",
     "pt": "Você não pode arcar com tanto!",
     "es": "¡No puedes permitirte comprar tantos!",
     "pl": "Nie posiadasz wystarczającej ilości pieniędzy aby kupić tyle przedmiotów",
-    "de": "Sie können sich das nicht leisten!"
+    "de": "Sie können sich das nicht leisten!",
+    "ru": "У вас недостаточно денег, чтобы купить столько предметов!"
   },
   "Successfully bought items!": {
     "fr": "Items achetés avec succès!",
     "pt": "Itens comprados com sucesso!",
     "es": "¡Objetos comprados con éxito!",
     "pl": "Pomyślnie zakupiono przedmioty",
-    "de": "Gegenstände erfolgreich gekauft!"
+    "de": "Gegenstände erfolgreich gekauft!",
+    "ru": "Предметы успешно куплены!"
   },
   "Sell a quantity of an item to the given shop": {
     "fr": "Vends une quantité d'un item à la boutique donnée",
     "pt": "Vende uma quantidade de um item na loja informada",
     "es": "Vende una cantidad de objetos a una tienda dada",
     "pl": "Sprzedaj podaną ilość danego przedmiotu do podanego sklepu",
-    "de": "Verkaufe eine Menge eines Gegenstandes an das angegebene Geschäft"
+    "de": "Verkaufe eine Menge eines Gegenstandes an das angegebene Geschäft",
+    "ru": "Продать несколько предметов в указанном магазине"
   },
   "That item isn't sellable": {
     "fr": "Cet objet n'est pas vendable",
     "pt": "Este item não pode ser vendido",
     "es": "Este objeto no puede ser vendido",
     "pl": "Ten przedmiot jest niemożliwy do sprzedania",
-    "de": "Dieser Gegenstand ist nicht verkaufbar"
+    "de": "Dieser Gegenstand ist nicht verkaufbar",
+    "ru": "Этот предмет нельзя продать"
   },
   "That item isn't buyable": {
     "fr": "Cet item n'est pas achetable",
     "pt": "Este item não pode ser comprado",
     "es": "Este objeto no puede ser comprado",
     "pl": "Ten przedmiot jest niemożliwy do zakupu",
-    "de": "Dieser Gegenstand ist nicht kaufbar"
+    "de": "Dieser Gegenstand ist nicht kaufbar",
+    "ru": "Этот предмет нельзя купить"
   },
   "You must have {} to sell this!": {
     "fr": "Vous devez avoir {} pour vendre ça!",
     "pt": "Você deve ter {} para vender isso!",
     "es": "¡Debes tener {} para vender esto!",
     "pl": "Musisz posiadać {} aby to sprzedać!",
-    "de": "Sie müssen {} haben, um dies zu verkaufen!"
+    "de": "Sie müssen {} haben, um dies zu verkaufen!",
+    "ru": "Вы должны иметь {} чтобы продать это!"
   },
   "You don't have that many to sell!": {
     "fr": "Vous n'avez pas autant d'items à vendre!",
     "pt": "Você não tem essa quantidade para vender!",
     "es": "¡No tienes tantos objetos para vender!",
     "pl": "Nie posiadasz takiej ilości przedmiotów do sprzedania!",
-    "de": "Sie haben nicht genügend Gegenstände um so viele zu verkaufen!"
+    "de": "Sie haben nicht genügend Gegenstände um so viele zu verkaufen!",
+    "ru": "У вас нет такого количества для продажи!"
   },
   "Successfully sold items!": {
     "fr": "Items vendus avec succès!",
     "pt": "Itens vendidos com sucesso!",
     "es": "¡Objetos vendidos con éxito!",
     "pl": "Pomyślnie sprzedałeś przedmioty",
-    "de": "Gegenstände erfolgreich verkauft!"
+    "de": "Gegenstände erfolgreich verkauft!",
+    "ru": "Предметы успешно проданы!"
   },
   "Listing ID": {
     "fr": "ID de liste",
     "pt": "Listando ID",
     "es": "Lista de ID",
     "pl": "ID zamówienia",
-    "de": "Listungs ID"
+    "de": "Listungs ID",
+    "ru": "ID товара"
   },
   "Seller": {
     "fr": "Vendeur",
     "pt": "Vendedor",
     "es": "Vendedor",
     "pl": "Sprzedawca",
-    "de": "VerkäuferIn"
+    "de": "VerkäuferIn",
+    "ru": "Продавец"
   },
   "Quantity": {
     "fr": "Quantité",
     "pt": "Quantidade",
     "es": "Cantidad",
     "pl": "Ilość",
-    "de": "Menge"
+    "de": "Menge",
+    "ru": "Количество"
   },
   "List an item on the player market. Unique items must have a quantity of 1": {
-    "fr": "List un item dans le marché du joueur. Les items uniques doivent avoir une quantité de 1",
+    "fr": "Liste un item dans le marché du joueur. Les items uniques doivent avoir une quantité de 1",
     "pt": "Lista um item de um mercado de jogador. Itens únicos devem ter a quantidade de 1",
     "es": "Lista un objeto en el mercado de los jugadores. Los objetos únicos deben tener una cantidad de 1",
     "pl": "Wystaw przedmioty na markecie. Unikalne przedmioty muszą mieć ilość 1",
-    "de": "Listen Sie einen Gegenstand auf dem Spielermarkt auf. Einzigartige Gegenstände müssen eine Menge von 1 haben"
+    "de": "Listen Sie einen Gegenstand auf dem Spielermarkt auf. Einzigartige Gegenstände müssen eine Menge von 1 haben",
+    "ru": "Перечислите предметы для выставления на продажу в магазине. Уникальные предметы должны иметь количество = 1"
   },
   "View the player market": {
     "fr": "Voir le marché du joueur",
     "pt": "Exibe o mercado do jogador",
     "es": "Muestra el mercado de los jugadores",
     "pl": "Sprawdź market danego gracza",
-    "de": "Zeige den Spielermarkt"
+    "de": "Zeige den Spielermarkt",
+    "ru": "Посмотреть магазин игрока"
   },
   "Quantity must be greater than 0!": {
     "fr": "La quantité doit être plus grande que 0!",
     "pt": "Quantidade deve ser maior que 0!",
     "es": "¡La cantidad debe ser mayor a 0!",
     "pl": "Ilość musi być większa niż 0!",
-    "de": "Menge muss größer als 0 sein!"
+    "de": "Menge muss größer als 0 sein!",
+    "ru": "Количество должно быть больше чем 0!"
   },
   "You may only list 1 unique item at a time!": {
     "fr": "Vous devez lister seulement 1 item unique à la fois!",
     "pt": "Você pode listar somente 1 item único por vez!",
     "es": "¡Solo puede listar 1 único objeto único cada vez!",
     "pl": "Możesz mieć wystawiony tylko 1 unikalny przedmiot na raz!",
-    "de": "Sie dürfen jeweils nur 1 Einzelstück auflisten!"
+    "de": "Sie dürfen jeweils nur 1 Einzelstück auflisten!",
+    "ru": "Вы можете выставить на продажу только 1 уникальный предмет за раз!"
   },
   "Item listed on market!": {
-    "fr": "Items listé sur le marché!",
+    "fr": "Items listés sur le marché!",
     "pt": "Itens do mercado listados!",
     "es": "¡Objetos listados en el mercado!",
     "pl": "Przedmioty wystawione na markecie!",
-    "de": "Gegenstand auf dem Markt gelistet!"
+    "de": "Gegenstand auf dem Markt gelistet!",
+    "ru": "Теперь эти предметы можно купить в вашем магазине!"
   },
   "Buy an item from the market with the given ID": {
     "fr": "Acheter un item depuis le marché avec l'ID donné",
     "pt": "Compre um item de um mercado com o ID informado",
     "es": "Compra un objeto del mercado con la ID dada",
     "pl": "Kup przedmiot z marketu o podanym ID",
-    "de": "Kaufen sie einen Gegenstand mit der angegebenen ID vom Markt"
+    "de": "Kaufen sie einen Gegenstand mit der angegebenen ID vom Markt",
+    "ru": "Купить предмет в магазине по заданному ID"
   },
   "You cannot afford to buy this item!": {
     "fr": "Vous ne pouvez pas acheter cet item!",
     "pt": "Você não pode arcar com a compra deste item!",
     "es": "¡No puedes permitirte comprar este objeto!",
     "pl": "Nie masz wystarczającej ilości pieniędzy aby zakupić ten przedmiot",
-    "de": "Sie können es sich nicht leisten, diesen Gegenstand zu kaufen!"
+    "de": "Sie können es sich nicht leisten, diesen Gegenstand zu kaufen!",
+    "ru": "У вас недостаточно денег для покупки!"
   },
   "An item you listed on the market in server '{}' by character '{}' was sold to '{}' for {}{:.2f}": {
-    "fr": "Un item que vous avez listé sur le serveur '{}' par le personnage '{}' a été vendu à '{}' pour {}{:.2f}",
+    "fr": "Un item que vous avez listé dans le marché du serveur '{}' par le personnage '{}' a été vendu à '{}' pour {}{:.2f}",
     "pt": "Um item que você colocou no mercado do servidor '{}' através do personagem '{}' foi vendido para '{}' por {}{:.2f}",
     "es": "Un objeto que tú has listado en el mercado del server '{}' por el personaje '{}' fue vendido a '{}' por {}{:.2f}",
     "pl": "Przedmiot który wystawiłeś na markecie na serwerze '{}' jako postac '{}' został sprzedany '{}' za {}{:.2f}",
-    "de": "Ein Gegenstand, den Sie auf dem Markt im Server '{}' nach Charakter '{}' gelistet haben, wurde für {:.2f}€ an '{}'verkauft."
+    "de": "Ein Gegenstand, den Sie auf dem Markt im Server '{}' nach Charakter '{}' gelistet haben, wurde für {:.2f}€ an '{}'verkauft.",
+    "ru": "Предмет, который вы выставляли на продажу на сервере '{}' будучи персонажем '{}' был продан '{}' за {}{:.2f}"
   },
   "Item successfully purchased!": {
     "fr": "Item acheté avec succès!",
     "pt": "Item comprado com sucesso!",
     "es": "¡Objeto comprado con éxito!",
     "pl": "Pomyślnie zakupiłeś przedmioty",
-    "de": "Gegenstand erfolgreich gekauft!"
+    "de": "Gegenstand erfolgreich gekauft!",
+    "ru": "Предмет успешно куплен!"
   },
-  "How long should the time between salary collection be (in minutes)": {
-    "fr": "Combien de temps doit il y avoir entre 2 récupération de salaire (en minutes)",
-    "pt": "Quanto deve ser o tempo entre as coletas de salário (em minutos)",
-    "es": "Cuanto tiempo debería haber entre cada cobro de salario (en minutos)",
-    "pl": "Co jaki czas powinna być możliwość odebrania wypłaty (w minutach)",
-    "de": "Wie lang sollte Die Zeit zwischen der Gehaltserhebung sein (in Minuten)"
+  "How long should the time between salary collection be (in minutes)\n": {
+    "fr": "Combien de temps doit il y avoir entre 2 récupérations de salaire (en minutes)\n",
+    "pt": "Quanto deve ser o tempo entre as coletas de salário (em minutos)\n",
+    "es": "Cuanto tiempo debería haber entre cada cobro de salario (en minutos)\n",
+    "pl": "Co jaki czas powinna być możliwość odebrania wypłaty (w minutach)\n",
+    "de": "Wie lang sollte Die Zeit zwischen der Gehaltserhebung sein (in Minuten)\n",
+    "ru": "Установите интервал, спустя который игрок сможет получать свою зарплату (в минутах)\n"
   },
-  "How much money should the salary give?": {
+  "How much money should the salary give?\n": {
     "fr": "Combien d'argent le salaire doit il donner ?",
-    "pt": "Quando dinheiro o salário deve dar?",
-    "es": "Cuanto dinero debería el salario dar",
-    "pl": "Jak dużo pieniędzy powinno dostawać się za odebranie wypłaty",
-    "de": "Wie viel sollte das Gehelt geben?"
+    "pt": "Quando dinheiro o salário deve dar?\n",
+    "es": "Cuanto dinero debería el salario dar\n",
+    "pl": "Jak dużo pieniędzy powinno dostawać się za odebranie wypłaty\n",
+    "de": "Wie viel sollte das Gehelt geben?\n",
+    "ru": "Сколько денег должно выдаваться в качестве зарплаты?\n"
   },
-  "What items should the salary give?": {
-    "fr": "Quels items le salaire doit il donner?",
-    "pt": "Quais itens o salário deve dar?",
-    "es": "Que objetos debería el salario dar?",
-    "pl": "Jakie przedmioty powinieneś dostawać jako wypłate?",
-    "de": "Welche Gegenstände sollte das Gehalt geben?"
+  "What items should the salary give?\n": {
+    "fr": "Quels items le salaire doit il donner?\n",
+    "pt": "Quais itens o salário deve dar?\n",
+    "es": "Que objetos debería el salario dar?\n",
+    "pl": "Jakie przedmioty powinieneś dostawać jako wypłate?\n",
+    "de": "Welche Gegenstände sollte das Gehalt geben?\n",
+    "ru": "Какие предметы должны выдаваться при получении зарплаты?\n"
   },
-  "What type of salary should it be? Automatically given (after the time), or should the player need to collect it manually with rp!salary collect? Choices are `automatic` or `manual`": {
-    "fr": "Quel type de salaire doit il être ? Donné automatiquement (après le temps donné), ou le joueur doit il le collecter manuellement avec rp!salary collect? Les choix sont `automatic` ou `manual`",
-    "pt": "Que tipo de salário deve ser? Automaticamente pago (após o tempo), ou o jogador precisa coletar manualmente com rp!salary collect? Opções são `automatic` ou `manual`",
-    "es": "Que tipo de salario debe ser? Dado automáticamente (despues de un tiempo), o el jugador debe cobrarlo manualmente con rp!salary collect? Las opciones son `automatic` o `manual`",
+  "What type of salary should it be? Automatically given (after the time), or should the player need to collect it manually with rp!salary collect? Choices are `automatic` or `manual`\n": {
+    "fr": "Quel type de salaire est ce que a doit-être ? Donné automatiquement (après le temps donné), ou le joueur doit il le collecter manuellement avec `rp!salary collect`? Les choix sont `automatic` ou `manual`",
+    "pt": "Que tipo de salário deve ser? Automaticamente pago (após o tempo), ou o jogador precisa coletar manualmente com rp!salary collect? Opções são `automatic` ou `manual`\n",
+    "es": "Que tipo de salario debe ser? Dado automáticamente (despues de un tiempo), o el jugador debe cobrarlo manualmente con rp!salary collect? Las opciones son `automatic` o `manual`\n",
     "pl": "",
-    "de": "Welche Art von Gehalt sollte es sein? Automatisch gegeben (nach der Zeit), oder sollte der Spieler es manuell mit rp!salary sammeln müssen? Die Auswahlmöglichkeiten sind `automatic` oder `manual`"
+    "de": "Welche Art von Gehalt sollte es sein? Automatisch gegeben (nach der Zeit), oder sollte der Spieler es manuell mit rp!salary sammeln müssen? Die Auswahlmöglichkeiten sind `automatic` oder `manual`\n",
+    "ru": "Как будет выдаваться зарплата: автоматически, или игроку нужно будет использовать rp!salary collect для её получения?\nВыберите `automatic` или `manual` соответственно\n"
   },
   "Type the number of the page you wish to jump to.\n1. Time Interval\n2. Money\n3. Items\n4. Type": {
-    "fr": "tapez le numéro de la page à laquelle vous voulez aller.\n1. Intervalle de temps\n2. Argent\n3. Items\n4. Type",
+    "fr": "Tapez le numéro de la page à laquelle vous voulez aller.\n1. Intervalle de temps\n2. Argent\n3. Items\n4. Type",
     "pt": "Digite o número da página para a qual você quer ir.\n1. Intervalo de Tempo\n2. Dinheiro\n3. Itens\n4. Tipo",
     "es": "Escribe el número de la página a la que  quieres ir.\n1. Intervalo de Tiempo\n2. Dinero\n3. Objetos\n4. Tipo",
     "pl": "Wybierz numer strony do której chcesz przejść.\n1. Okres czasu\n2. Pieniądze\n3. Przedmioty\n4. Typ",
-    "de": "Geben Sie die Nummer der Seite ein, zu der Sie springen möchten.\n1. Zeitintervall\n2. Geld\n3. Gegenstände\n4. Art"
+    "de": "Geben Sie die Nummer der Seite ein, zu der Sie springen möchten.\n1. Zeitintervall\n2. Geld\n3. Gegenstände\n4. Art",
+    "ru": "Введите номер нужной страницы для быстрого перемещения.\n1. Временной интервал\n2. Деньги\n3. Предметы\n4. Тип"
   },
   "Time Interval": {
     "fr": "Intervalle de temps",
     "pt": "Intervalo de tempo",
     "es": "Intervalo de tiempo",
     "pl": "Okres czasu",
-    "de": "Zeitintervall"
+    "de": "Zeitintervall",
+    "ru": "Временной интервал"
   },
   "Money": {
     "fr": "Argent",
     "pt": "Dinheiro",
     "es": "Dinero",
     "pl": "Pieniądze",
-    "de": "Geld"
+    "de": "Geld",
+    "ru": "Деньги"
   },
   "Final Review": {
     "fr": "Dernière vérification",
     "pt": "Revisão final",
     "es": "Revisión final",
     "pl": "Przegląd końcowy",
-    "de": "Letzte Bestätigung"
+    "de": "Letzte Bestätigung",
+    "ru": "Подтверждение создания"
   },
   "Not a valid number! Try again!": {
-    "fr": "Pas un nombre valide! Essayez encore!",
+    "fr": "Ce n'est pas un nombre valide! Essayez encore!",
     "pt": "Número inválido! Tente novamente!",
     "es": "¡Número inválido! ¡Inténtalo de nuevo!",
     "pl": "To nie jest poprawny numer! Spróbuj ponownie!",
-    "de": "Keine gültige Nummer! Versuchen Sie es erneut!"
+    "de": "Keine gültige Nummer! Versuchen Sie es erneut!",
+    "ru": "Неправильный номер! Попробуйте еще раз!"
   },
   "Not a number! Try again!": {
-    "fr": "Pas un nombre! Essayez encore!",
+    "fr": "Ce n'est pas un nombre! Essayez encore!",
     "pt": "Não é um número! Tente novamente!",
     "es": "¡No es un número! ¡Inténtalo de nuevo!",
     "pl": "To nie numer! Spróbuj ponownie!",
-    "de": "Das ist keine Nummer! Versuchen Sie es erneut!"
+    "de": "Das ist keine Nummer! Versuchen Sie es erneut!",
+    "ru": "Это не число! Попробуйте еще раз!"
   },
   "minutes": {
     "fr": "minutes",
     "pt": "minutos",
     "es": "minutos",
     "pl": "minuty",
-    "de": "minuten"
+    "de": "minuten",
+    "ru": "минут"
   },
   "Failed to parse item list!": {
     "fr": "Impossible d'analyser la liste d'items!",
     "pt": "Falha ao analisar lista de itens!",
     "es": "¡Imposible analizar la lista de objetos!",
     "pl": "Nie udało się przeanalizować listy przedmiotów!",
-    "de": "Gegenstandsliste konnte nicht geparst werden!"
+    "de": "Gegenstandsliste konnte nicht geparst werden!",
+    "ru": "Не удалось считать список предметов!"
   },
   "Failed to find role with that name!": {
     "fr": "Impossible de trouver un rôle avec ce nom!",
     "pt": "Falha ao procurar cargo com este nome!",
     "es": "¡Imposible encontrar un rol con ese nombre!",
     "pl": "Nie znaleziono roli o takiej nazwie!",
-    "de": "Rolle mit diesem Namen konnte nicht gefunden werden!"
+    "de": "Rolle mit diesem Namen konnte nicht gefunden werden!",
+    "ru": "Не удалось найти такую роль!"
   },
   "Please set a time interval!": {
-    "fr": "Spécifiez une intervalle de temps s'il vous plait!",
+    "fr": "Spécifiez une intervalle de temps s'il vous plaît!",
     "pt": "Por favor, defina um intervalo de tempo!",
     "es": "¡Por favor, defina un intervalo de tiempo!",
     "pl": "Proszę, ustaw czas!",
-    "de": "Bitte legen Sie einen Zeitintervall fest!"
+    "de": "Bitte legen Sie einen Zeitintervall fest!",
+    "ru": "Пожалуйста, установите временной интервал"
   },
   "Please set a role!": {
-    "fr": "Spécifiez un rôle s'il vous plait!",
+    "fr": "Spécifiez un rôle s'il vous plaît!",
     "pt": "Por favor, defina o cargo!",
     "es": "¡Por favor, especifique un rol!",
     "pl": "Proszę, ustaw role!",
-    "de": "Bitte legen Sie eine Rolle fest!"
+    "de": "Bitte legen Sie eine Rolle fest!",
+    "ru": "Пожалуйста, установите роль"
   },
   "You need to set either money or items or both!": {
     "fr": "Vous devez définir au moins l'argent ou les items ou les deux!",
     "pt": "Você precisa definor o dinheiro, os items ou âmbos!",
     "es": "¡Debes definir al menos el dinero o los objetos, o ambos!",
     "pl": "Musisz ustawić pieniądze, przedmiot albo oba!",
-    "de": "Sie müssen entweder Geld, Gegenstände oder beides einstellen!"
+    "de": "Sie müssen entweder Geld, Gegenstände oder beides einstellen!",
+    "ru": "Вам необходимо указать величину зарплаты и(или) выбрать выдаваемые предметы!"
   },
   "Salary successfully created!": {
     "fr": "Salaire créé avec succès!",
     "pt": "Salário criado com sucesso!",
     "es": "¡Salario creado con éxito!",
     "pl": "Wypłata pomyślnie stworzona",
-    "de": "Gehalt erfolgreich erstellt!"
+    "de": "Gehalt erfolgreich erstellt!",
+    "ru": "Зарплата успешно создана!"
   },
   "Not set": {
     "fr": "Non défini",
     "pt": "Não definido",
     "es": "No definido",
     "pl": "Nie ustawiono",
-    "de": "Nicht gesetzt"
+    "de": "Nicht gesetzt",
+    "ru": "Не установлен"
   },
   "No tags!": {
     "fr": "Pas de tags!",
     "pt": "Sem tags!",
     "es": "¡Sin tags!",
     "pl": "Brak tagów!",
-    "de": "Keine Tags!"
+    "de": "Keine Tags!",
+    "ru": "Нет тэгов"
   },
   "Delete a lottery": {
+    "fr": "Supprime une loterie",
     "pt": "Remove uma loteria",
     "es": "Elimina una lotería",
     "pl": "Usuń loterię",
-    "de": "Lösche eine Lotterie"
+    "de": "Lösche eine Lotterie",
+    "ru": "Удалить лотерею"
   },
   "That lottery already exists!": {
+    "fr": "Cette loterie existe déjà!",
     "pt": "Esta loteria já existe!",
     "es": "¡Esta lotería ya existe!",
     "pl": "Taka loteria już istnieje!",
-    "de": "Diese Lotterie existiert bereits!"
+    "de": "Diese Lotterie existiert bereits!",
+    "ru": "Такая лотерея уже существует!"
   },
   "Lottery deleted!": {
+    "fr": "Loterie supprimée!",
     "pt": "Loteria removida!",
     "es": "¡Lotería eliminada!",
     "pl": "Loteria usunięta!",
-    "de": "Lotterie gelöscht!"
+    "de": "Lotterie gelöscht!",
+    "ru": "Лотерея удалена!"
   },
   "{} does not have enough money to take!": {
+    "fr": "{} n'a pas assez d'argent à prendre!",
     "pt": "{} não tem dinheiro suficiente para pegar!",
     "es": "¡{} no tiene tanto dinero que quitar!",
     "pl": "{} nie ma wystarczająco dużo pieniędzy do wzięcia!",
-    "de": "{} hat nicht genug Geld zum wegnehmen!"
+    "de": "{} hat nicht genug Geld zum wegnehmen!",
+    "ru": "У {} недостаточно денег!"
   },
   "You must be assumed to use this command! Create a character with `rp!char create` and see the tutorial for information on assuming characters.": {
+    "fr": "Vous devez être associé pour utiliser cette commande! Créez un personnage avec `rp!char create` and regardez le tutoriel pour les informations sur l'association de personnage.",
     "pt": "Você deve estar associado a um personagem para usar este comando! Crie um personagem com `rp!char create` e consulte o tutorial para obter informações sobre como associar personagens.",
     "es": "¡Debes estar asumiendo un personaje para usar este comando! Crea un personaje con `rp!char create` y consulta el tutorial para obtener más información sobre como asumir personajes.",
     "pl": "Musisz być uprawiony aby użyć ten komendy! Stwórz postać przy użyciu `rp!char creater` i zobacz poradnik o tym jak przypisać postać.",
-    "de": "Sie müssen einen Charakter annehmen um diesen Befehl verwenden zu können! Erstellen Sie einen mit `rp!char create` und lesen Sie sich das Tutorial durch um weitere Informationen zur Annahme von Charakteren zu finden."
+    "de": "Sie müssen einen Charakter annehmen um diesen Befehl verwenden zu können! Erstellen Sie einen mit `rp!char create` und lesen Sie sich das Tutorial durch um weitere Informationen zur Annahme von Charakteren zu finden.",
+    "ru": "Вы должны быть связаны с персонажем, чтобы использовать эту команду! Создайте персонажа, используя `rp!char create` и посмотрите, как связать себя с персонажем."
   },
   "There's no shop with that name in this channel!": {
-    "pt": "Não existe nenhuma loja com esse nome neste canal",
+    "fr": "Il n'y a aucune boutique de ce nom dans le salon!",
     "es": "¡No hay ninguna tienda con ese nombre en este canal!",
-    "de": "Es gibt keinen Laden mit diesem Namen in diesem Kanal!"
+    "de": "Es gibt keinen Laden mit diesem Namen in diesem Kanal!",
+    "ru": "Указанный магазин недоступен в этом канале!"
   },
   "See {} for subcommands": {
-    "pt": "Veja {} para subcomandos",
+    "fr": "Consulter {} pour les sous-commandes",
     "es": "Consulta {} para subcomandos",
-    "de": "Siehe {} für unterbefehle"
+    "de": "Siehe {} für unterbefehle",
+    "ru": "Используйте {} для просмотра дополнительных команд"
   },
   "See the item tags for the server": {
-    "pt": "Veja a lista de tags do servidor",
+    "fr": "Consulter la liste des tags du serveur",
     "es": "Consulta la lista de tags del servidor",
-    "de": "Liste alle Gegenstand Tags auf diesem Server auf"
-  },
-  "Type the number of the page you wish to jump to.\n1. Description\n2. Picture\n3. Prefix": {
-    "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Imagem\n3. Prefixo"
-  },
-  "Type the number of the page you wish to jump to.\n1.Description\n2.Picture\n3. Prefix\n4. Template\n5. Owner": {
-    "pt": "Digite o número da página para qual você deseja ir.\n1.Descrição\n2.Imagem\n3. Prefixo\n4. Molde\n5. Dono"
-  },
-  "Who should this character belong to?": {
-    "pt": "A quem este personagem deve pertencer?"
-  },
-  "Is this character a template (yes/no)? Type \"no\" if you don't know what this means.": {
-    "Translators_Note": "Do not translate the 'yes' and 'no' they need to remain in english for the bot to work",
-    "pt": "Esse personagem é um molde (yes/no?) Digite \"no\" se não souber o que isso significa"
-  },
-  "Describe the character (description). (3995 chars max)": {
-    "pt": "Descreva o personagem (descrição)"
-  },
-  "If you would like to provide a picture for the character, paste one here. (Leave blank for no picture).": {
-    "pt": "Se você gostaria de adicionar uma imagem ao personagem, cole uma aqui. (deixe em branco para deixar sem imagem)"
-  },
-  "If you would like to provide a custom prefix for the character that you can use instead of `rp!character assume`, specify one here (Leave blank for no prefix).": {
-    "pt": "Se você gostaria de adicionar um prefixo personalizado para o personagem que você pode usar ao invés de `rp!character assume`, especifique um aqui (deixe em branco para deixar sem prefixo)"
-  },
-  "Invalid mode!": {
-    "pt": "modo inválido!"
-  },
-  "Finished? Click \u2705 to submit!": {
-    "pt": "Acabou? clique \u2705 para enviar!"
-  },
-  "Menu": {
-    "pt": "Menu"
-  },
-  "Picture": {
-    "pt": "Imagen"
-  },
-  "Template": {
-    "pt": "Molde"
-  },
-  "Character submitted!": {
-    "pt": "Personagem enviado!!"
-  },
-  "Character creation cancelled!": {
-    "pt": "Criação de personagem cancelada!"
-  },
-  "URL not valid! Try again!": {
-    "pt": "URL inválida! Tente novamente!"
-  },
-  "Locked: templates belong to the server as a whole.": {
-    "pt": "Bloqueado: Moldes pertencem ao servidor como um todo"
-  },
-  "**Invalid input! Please answer 'yes' or 'no'**": {
-    "pt": "**Entrada inválida! Por favor, responda 'yes' ou 'no'**"
-  },
-  "**Invalid input! Please target a user**": {
-    "pt": "**Entrada inválida! Por favor determine um usuário**"
-  },
-  "False": {
-    "pt": "Falso"
-  },
-  "What enemies should appear in this encounter?": {
-    "pt": "Quais inimigos devem aparecer nesse encontro?"
-  },
-  "How many points should this encounter be allowed to allocate? (Higher = more enemies)": {
-    "pt": "Quantos pontos esse encontro deve ser permitido alocar? (Maior =  mais inimigos)"
-  },
-  "Enemey List": {
-    "pt": "Lista de inimigos"
-  },
-  "Describe the guild (description). (3995 chars max)": {
-    "pt": "Descreva a guilda (descrição). (Máximo de 3995 caracteres)"
-  },
-  "If you would like to provide a picture for the guild, paste one here. (Leave blank for no picture).": {
-    "pt": "Se você gostaria de adicionar uma imagem para a guilda, cole uma aqui. (deixe em branco para deixar sem imagem)"
-  },
-  "Type the number of the page you wish to jump to.\n1. Description\n2. Picture": {
-    "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Imagem"
-  },
-  "Your description is too large! Please start over": {
-    "pt": "Sua descrição é muito grande! Por favor, faça de novo"
-  },
-  "URI not valid! Try again!": {
-  },
-  "Describe the item (description). (3995 chars max)": {
-    "pt": "Descreva o item (descrição). (Máximo de 3995 caracteres)"
-  },
-  "If you would like to provide a picture for the item, paste one here. (Leave blank for no picture).": {
-    "pt": "Se você gostaria de adicionar uma imagem ao item, cole uma aqui. (deixe em branco para deixar sem imagem)."
-  },
-  "If you would like to add modifiers to this item, provide one or more of the following attributes, comma separated\nValid modifiers:\n\t- `unique` This item cannot be stacked\n\t- `equippable` This item may be equipped\n\t- `quest` This item is special item for a quest\n\t- `nontransfer` This item cannot be transferred to another player or sold / bought.\n\t- `container` This item can be used to store other items (premium)\n\t- `usable` This item can be used with a custom effect or message": {
-    "pt": "Se você gostaria de adicionar modificadores ao item, providencie um ou mais dos seguintes atributos, separados por virgula\nModificadores válidos:\n\t- `unique` Esse item não pode ser empilhado\n\t- `equippable` Esse item não pode ser equipado\n\t- `quest` Esse item é especial para uma missão\n\t- `nontransfer` Esse item não pode ser transferido para outro jogador ou vendido / comprado. \n\t- `container` Esse item pode ser usado para armazenar outros items (premium)\n\t- `usable` Esse item pode ser usado com um efeito ou mensagem personalizada"
-  },
-  "How many items should this container be able to store?": {
-    "pt": "Quantos items esse recipiente deve ser capaz de armazenar?"
-  },
-  "When this item is used, you may have a script invoked or send a message.\nPut either the message you want to send or the name of a script you've created.\nSee `rp!help script` for more information on custom scripts. $name will be replaced with the character's name.": {
-    "pt": "Quando esse item é usado, você pode executar script ou enviar uma mensagem. \nColoque uma mensagem que você deseja enviar ou o nome de um script que você criou. .\nVeja `rp!help script` para mais informações sobre scripts personalizados. $name será substituído pelo nome do personagem."
-  },
-  "Are there any tags you'd like to apply to the item? Tags can be used to mark item types, for example you might create 3 varieties of apples, Green Apples, Red Apples, and Yellow Apples, and apply the `apple` tag to each": {
-    "pt": "Existe alguma tag que você gostaria de aplicar ao item? Tags podem ser usadas para marcar os tipos de item, por exemplo você pode criar 3 variedades de maçã, Maçã verde, Maçã vermelha e Maçã amarela, e aplicar a tag `maçã` a cada uma"
-  },
-  "Capacity": {
-    "pt": "Capacidade"
-  },
-  "Invalid Type": {
-    "pt": "Tipo inválido"
-  },
-  "Type the number of the page you wish to jump to.": {
-    "pt": "Digite o número da página para qual você deseja ir."
-  },
-  "The capacity cannot be 0!": {
-    "pt": "A capacidade não pode ser 0!"
-  },
-  "Type the number of the page you wish to jump to.\n1. Content\n2. Key\n3. Item": {
-    "pt": "Digite o número da página para qual você deseja ir.\n1. Conteúdo\n2. Chave\n3. Item"
-  },
-  "List the items that will go into the lootbox and the weighted chance of each set of items. Each new message will be counted as a new entry. Format lines as follows: `weight Itemx1, Itemx2, ...`, for example `15 Applex3 Bananax5`. This will create a new possible reward in the lootbox of both these items, with a weighted chance of 15.": {	
-    "pt": "Liste os itens que estarão dentro da lootbox e as chances ponderadas de cada conjunto de itens. Cada nova mensagem será contada como uma nova entrada. Formate as linhas da seguinte maneira: `weight Itemx1, Itemx2, ...`, por exemplo `15 Applex3, Bananax5`. Isso irá criar uma nova possibilidade de recompensa no lootbox para cada um desses itens, com a change ponderada de 15."
-  },	
-  "Choose which item will be used as this box's key": {	
-    "pt": "Escolha qual item será usado como chave desta caixa"
-  },	
-  "Choose which item will be used to represent this box as an item in the character's inventory.": {	
-    "pt": "Escolha qual item será usado para representar essa caixa como um item no inventário do personagem."
-  },	
-  "Type the number of the page you wish to jump to.\n1. Duration\n2. Prize Money\n3. Prize Items": {	
-    "pt": "Digite o número da página para qual você deseja ir.\n1. Duraçào\n2. Prêmio em Dinheiro\n3. Itens de Prêmio"
-  },	
-  "How long should the lottery last (in minutes)": {	
-    "pt": "Quanto tempo deve durar a loteria(em minutos)"
-  },	
-  "How much money should the winner receive?": {	
-    "pt": "Quando dinheiro o vencedor deve receber?"
-  },	
-  "What items should the winner receive? (Format: Itemx1, Itemx2, Itemx3)": {	
-    "pt": "Quais items o vencedor deve receber? (Formato: Itemx1, Itemx2, Itemx3)"
-  },	
-  "Select a number for the authority or ranking of this rank. Lower number means higher authority. (0 is reserved for the owner of the guild)\nNOTE: You cannot create a rank with authority higher than or equal to your own' rank's authority.": {	
-    "pt": "Selecione um número para a autoridade ou classificação dessa classificação. Números menores significam maior autoridade. (0 é reservado para o proprietário da guilda)\nNOTA: Você não pode criar uma classificação com autoridade maior que ou igual a autoridade da sua classificação."
-  },	
-  "Set this rank's salary. (Cannot be less than 0)": {	
-    "pt": "Define o salário desta classificação. (Não pode ser menor que 0)"
-  },	
-  "Type the number of the page you wish to jump to.\n1. Authority\n2. Permissions\n3. Salary": {	
-    "pt": "Digite o número da página para qual você deseja ir.\n1. Autoridade\n2. Permissões\n3. Salário"
-  },	
-  "Set permissions by typing in the name of the permission followed by the value. (I.E. invite_members false).  \nAvailable permissions are:": {	
-    "pt": "Defina permissões ao digitar o nome da permissão seguida pelo valor. (Exemplo invite_members false).  \nAs permissões disponíveis são:"
-  },	
-  "List the ingredients and their quantities. Use this format: `Orangex4 Applex3`\nSet the quantity for an item to 0 to make it required but non-consumed, such as for tools.": {	
-    "pt": "Liste os infredientes e suas quantidades. Use o formato: `Orangex4 Applex3`\nDefina a quantiadde de um item como 0 para torná-lo obrigatório mas não consumido, como para ferramentas."
-  },	
-  "Define the method by which this recipe is crafted. If you don't understand what this is, skip it": {	
-    "pt": "Defina o método pelo qual esta receita é fabricada. Se você não entende o que é isso, pule essa parte"
-  },	
-  "Set the time it takes for this recipe to be crafted in seconds.": {	
-    "pt": "Defina o tempo, em segundos, que leva para essa receita ser fabricada."
-  },	
-  "List the products and their quantities using the same format as the ingredients `Orangex5 Applex3`": {	
-    "pt": "Liste os produtos e suas quantidades usando o mesmo formato dos ingredientes `Orangex5 Applex3`"
-  },	
-  "Should this recipe be hidden? [yes/no] (i.e. only craftable with rp!craft attempt)`": {	
-    "pt": "Esta receita deve ser escondida? [yes/no] (ou seja, somente fabricável com rp!craft attempt)"
-  },	
-  "Type the number of the page you wish to jump to.\n1. Ingredients\n2. Method\n3. Time\n4. Product\n5. Hidden": {	
-    "pt": "Digite o número da página para qual você deseja ir.\n1. Ingredientes\n2. Método\n3. Tempo\n4. Produto\n5. Escondido"
-  },	
-  "Describe the shop (description). (3995 chars max)": {	
-    "pt": "Descreva a loja (descrição). (max 3995 caracteres)"
-  },	
-  "If you would like to provide a icon for the shop, paste one here. (Leave blank for no icon).": {	
-     "pt": "Se você quiser definir um ícone para a loja, cole um aqui. (Deixe em branco para não ter ícone)."
-  },	
-  "Which channels should this be available in? Provide any combination of individual channels and channel categories. If none are selected, the shop will be available in all channels.": {	
-    "pt": "Em quais canais isto deve estar disponível? Forneça qualquer combinação de canais individuais e categorias de canais. Se nenhum for selecionado, a loja estará disponível em todos os canais."
-  },	
-  "Type the number of the page you wish to jump to.\n1. Description\n2. Icon\n3. Channels": {	
-    "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Ícone\n3. Canais"
-  },	
-  "Script deleted!": {	
-    "pt": "Script removido!"
-  },	
-  "Successfully renamed lootbox": {	
-    "pt": "Lootbox renomeada com sucesso"
-  },	
-  "Set a character attribute\nUsage: rp!character attribute set description \"John likes bananas!\"\n\nBot Admin is required to edit other people's characters' attributes": {	
-    "pt": "Defina um atributo de personagem\nUtilização:  rp!character attribute set description \"João gosta de bananas!\"\n\nCargo Bot Admin é necessário para editar atributos de personagens de outras pessoas"
-  },	
-  "Delete a character attribute\nUsage: rp!character attribute delete hair-color\n\nBot Admin is required to remove other people's characters' attributes": {	
-    "pt": "Remove um atributo de personagem\nUtilização: rp!character attribute delete hair-color\n\nCargo Bot Admin é necessário para editar atributos de personagens de outras pessoas"
-  },	
-  "Give an item from your inventory to another character.\nUsage:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 charname charname2": {	
-    "pt": "Dá um item do seu inventário para outro personagem.\nUtilização:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 nomeDoPersonagem nomeDoPersonagem2"
-  },	
-  "Open / view a container. See rp!containers to see the container numbers in your inventory.\nUsage: rp!container open 1": {	
-    "pt": "Abra / visualize um contêiner. Veja rp!containers para visualizar os números de contêiner no seu inventário.\nUtilização: rp!container open 1"
-  },	
-  "Give multiple items to the list of users. Look carefully at syntax\nUsage:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 mycharacter character2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone": {	
-    "pt": "Dê vários itens para uma lista de usuários. Preste atenção à sintaxe\nUtilização:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 meuPersonagem personagem2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone"
-  },	
-  "Give an item to a number of characters as an administrator, rather than from your inventory. You may\nalso target item tags.\nUsage:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 mycharacter character2": {	
-    "pt": "Dê um item para um número de personagems como um administrador, ao invés de dar o item do seu inventário. Você também pode utilizar tags de itens.\nUtilização:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 meuPersonagem personagem2"
-  },	
-  "Take multiple items from the list of users. Look carefully at syntax\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 mycharacter character2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone": {	
-    "pt": "Pegue vários items de uma lista de usuários. Preste atenção à sintaxe\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 meuPersonagem personagem2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone"
-  },	
-  "Use an item in your inventory": {	
-    "fr": "Utiliser un item dans votre inventaire",
-    "pt": "Utilize um item do seu inventário"
-  },	
-  "Wipe all listed inventories. Must be administrator. To wipe ALL inventories do `rp!wipeinv everyone`": {	
-    "pt": "Limpe todos os inventários listados. Precisa ser administrador. Para limpar TODOS os inventários faça `rp!wipeinv everyone`"
-  },	
-  "Take money from users, same syntax as rp!givemoney": {
-    "pt": "Pegue dinheiro de usuários, mesma sintaxe de rp!givemoney"
-  },	
-  "See all current guilds": {	
-    "fr": "Voir les guildes du serveur",
-    "pt": "Veja as guildas atuais"
-  },	
-  "Roll a number of dice with given sides (ndx notation)\nExample: rp!rtd 3d7 2d4\nOptional Additions:\nTest for success by adding a >/<#\nGrab the top n rolls by adding ^n\nGrab the bottom n rolls by adding _n\nAdd to the final roll by just adding a number (pos or neg)\n\nExamples of all:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Roll failed (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Grabbed top 4 out of 8)": {	
-    "pt": "Role um número de dados com uma dada quantidade de lados (notação ndx)\nExamplo: rp!rtd 3d7 2d4\nAdições opicionais:\nTeste de sucesso adicionando >/<#\nPegue o top n jogadas adicionando ^n\nPegue as n menores jogadas adicionando _n\nAdicione um valor ao resultado final somente informando um número (pos ou neg)\n\nTodos os exemplos:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Rolagem falhou (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Pegou o Top 4 das 8 rolagens)"
-  },	
-  "View server regions": {	
-    "fr": "Voir les regions du serveur"	,
-    "pt": "Ver as regiões do servidor"
-  },	
-  "Sync the roles of all characters in the server": {	
-    "pt": "Sicnronize os cargos de todos os personagens no servidor"
-  },	
-  "Explicitly enable a command for a role for the server. Will override the setting for lower roles\nEx: rp!s enable character.create @Bot Admin": {	
-    "pt": "Habilite explicitamente um comando para um cargo do servidor. Irá sobrescrever as configurações para gargos inferiores\nEx: rp!s enable character.create @Bot Admin"
-  },	
-  "Set the currency for the server. Part appears before the number, part after\nExample:\n`rp!setcurrency $` before - money will appear like `$20`\n`rp!setcurrency gold` after - money will appear like `20 gold`": {	
-    "pt": "Defina a moeda do servidor. Parte aparece antes do número, parte depois\nExamplo:\n`rp!setcurrency $` before - dinheiro sera exibido como `$20`\n`rp!setcurrency gold` after - dinheiro sera exibido como `20 gold`"
-  },	
-  "Set default / starting region for the server": {	
-    "pt": "Defina a região padrão / inicial do servidor"
-  },	
-  "Set the language for the server\nValid Languages:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl": {	
-     "pt": "Defina o idioma do servidor\nIdiomas válidos:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl"
-  },	
-  "Set the prefix for the server": {	
-    "pt": "Defina o prefixo do servidor"
-  },	
-  "Set the amount of money characters start with": {	
-    "pt": "Defina a quantidade de dinheiro com a qual um personagem inicia."
-  },	
-  "Set whether adding/removing a role to a user will sync it with all the user's characters (yes/no)": {	
-    "pt": "Defina se adicionar/remover um cargo para um usuário irá sincronizar com todos os personagens deste usuário (yes/no)"
-  },	
-  "Export data from RPGBot-V2\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds": {	
-    "pt": "Exporte os dados do RPGBot-V2\nTipos de dados válidos para exportar:\n- items\n- characters\n- settings\n- guilds"
-  },	
-  "Subcommands for importing data\nRequires attached file\nValid datatypes to import:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things": {	
-    "pt": "Subcomandos para importar dados\nRequer arquivo anexado\nTipos de dados válidos para importar:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nEspecifique \"overwrite\" no final para substituir qualquer coisa já existente"
-  },	
-  "Import data from old RPGBot.\nValid datatypes to wipe:\n- items\n- characters\n- settings\n- guilds\n- lootboxes\n- recipes\n- shops": {
-    "pt": "Importe dados do antigo RPGBot.\n Tipos de dados válidos para limpar:\n- items\n- characters\n- settings\n- guilds\n- lootboxes\n- recipes\n- shops"
+    "de": "Liste alle Gegenstand Tags auf diesem Server auf",
+    "ru": "Список всех тегов предметов на этом сервере"
   }
 }
