@@ -2884,5 +2884,6 @@
   "Delete a region": {},
   "Set the character's region": {},
   "Set the role of a region": {},
-  "Move the currently assumed character to a neighboring region": {}
+  "Move the currently assumed character to a neighboring region": {},
+  "Roll": {}
 }
