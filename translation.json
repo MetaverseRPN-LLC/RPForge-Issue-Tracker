@@ -2885,5 +2885,25 @@
   "Set the character's region": {},
   "Set the role of a region": {},
   "Move the currently assumed character to a neighboring region": {},
-  "Roll": {}
+  "Roll": {},
+  "Show which character attributes are displayed with rp!c. Subcommands for which character attributes should be displayed.": {
+  },
+  "Enable a character attribute to be shown.": {},
+  "Disable a character attribute from being shown.": {},
+  "Added attribute!": {},
+  "Removed attribute!": {},
+  "View the default attributes supplied to new characters": {},
+  "Invalid type! Must be `int, string or float`": {},
+  "Invalid attribute! See `rp!settings charattr defaults` for a list of current defaults": {},
+  "Set a default attribute that will be provided for new characters.\n        Usage: rp!settings charattr defaults set health 500 int\n        This will create a new default attribute for all new characters that is named health with a default value of the integer 500.\n        Valid builtin attributes to target include `prefix, aliases, region, guild, guildrank, roles`. \n        Any attributes that are not included by default will cover custom attributes.\n        Specify `attribute` to show all attributes regardless of whether they are explicitly listed.": {},
+  "Set a default attribute that will be provided for new characters.\n        Usage: rp!settings charattr defaults del health\n        This will remove the default attribute health for new characters.\n        Valid builtin attributes to target include `prefix, aliases, region, guild, guildrank, roles`.\n        Any attributes that are not included by default will cover custom attributes.\n        Specify `attribute` to hide all attributes unless explicitly specified.": {},
+  "Removed variable!": {},
+  "Variable set!": {},
+  "Remove a global variable for server scripts.\n        Usage: rp!settings globalvars remove year\n        This will remove the `year` variable for the server.": {},
+  "Set a global variable for server scripts.\n        Usage: rp!settings globalvars set year 2021\n        This will update the global variable `year` to have the integer value 2021": {},
+  "Show which global variables used for the server scripts. Subcommands for managing these variables.": {},
+  "Automatically Generate Chars": {},
+  "Set whether to automatically generate characters for players who don't have one (yes/no)": {},
+  "Inventories linked!": {},
+
 }
