@@ -1,11 +1,11 @@
+.. image:: https://discord.com/api/guilds/303307934774067210/embed.png
+   :target: https://discord.gg/mXZg2mk
+   :alt: Discord server invite
+
 # RPGBot-V2-Issue-Tracker
 A Github page for storing public data for RPGBot and tracking issues
 
 This repository is for recording and reporting issues with the bot, crowd sourced translations, and hosting the tutorial. If you'd like to contribute, please message Henry or open a pull request!
-
-.. image:: https://discord.com/api/guilds/303307934774067210/embed.png
-   :target: https://discord.gg/mXZg2mk
-   :alt: Discord server invite
 
 Hello and welcome to RPGBot!
 
