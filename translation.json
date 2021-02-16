@@ -2836,7 +2836,7 @@
 	"ru": "Укажите, какие предметы получит победитель (Формат: Itemx1, Itemx2, Itemx3)"
   },
   "Select a number for the authority or ranking of this rank. Lower number means higher authority. (0 is reserved for the owner of the guild)\nNOTE: You cannot create a rank with authority higher than or equal to your own' rank's authority.": {
-    "pt": "Selecione um número para a autoridade ou classificação dessa classificação. Números menores significam maior autoridade. (0 é reservado para o proprietário da guilda)\nNOTA: Você não pode criar uma classificação com autoridade maior que ou igual a autoridade da sua classificação."
+    "pt": "Selecione um número para a autoridade ou classificação dessa classificação. Números menores significam maior autoridade. (0 é reservado para o proprietário da guilda)\nNOTA: Você não pode criar uma classificação com autoridade maior que ou igual a autoridade da sua classificação.",
     "de": "Gib das Authoritätslevel dieses Ranges an( als Zahl). Höhere Zahlen bedeuten höhere Authorität. (0 ist für den Gildenbesitzer reserviert)\nAchtung: Du kannst nur Ränge erstellen deren Authoritätslevel niedriger ist als das deines eigenen Ranges."
   },
   "Set this rank's salary. (Cannot be less than 0)": {
@@ -2973,9 +2973,8 @@
 	"ru": "Посмотреть информацию обо всех гильдиях на сервере"
   },
   "Roll a number of dice with given sides (ndx notation)\nExample: rp!rtd 3d7 2d4\nOptional Additions:\nTest for success by adding a >/<#\nGrab the top n rolls by adding ^n\nGrab the bottom n rolls by adding _n\nAdd to the final roll by just adding a number (pos or neg)\n\nExamples of all:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Roll failed (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Grabbed top 4 out of 8)": {
-    "pt": "Role um número de dados com uma dada quantidade de lados (notação ndx)\nExamplo: rp!rtd 3d7 2d4\nAdições opicionais:\nTeste de sucesso adicionando >/<#\nPegue o top n jogadas adicionando ^n\nPegue as n menores jogadas adicionando _n\nAdicione um valor ao resultado final somente informando um número (pos ou neg)\n\nTodos os exemplos:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Rolagem falhou (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Pegou o Top 4 das 8 rolagens)"
+    "pt": "Role um número de dados com uma dada quantidade de lados (notação ndx)\nExamplo: rp!rtd 3d7 2d4\nAdições opicionais:\nTeste de sucesso adicionando >/<#\nPegue o top n jogadas adicionando ^n\nPegue as n menores jogadas adicionando _n\nAdicione um valor ao resultado final somente informando um número (pos ou neg)\n\nTodos os exemplos:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Rolagem falhou (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Pegou o Top 4 das 8 rolagens)",
     "de": "Wirf eine Anzahl an Würfeln mit der angegeben Seitenzahl (Notation: ndx)\nBeispiel: rp!rtd 3d7 2d4\nOptional:\nTeste einen Erfolg mit >/<#\nZeige die höchste n Ergebnisse mit ^n\nZeige die niedrigsten n Ergebnisse mit _n\nAddiere oder subtrahiere Zahlen indem du eine Zahl mit Vorzeichen hinten anfügst\n\nBeispiel:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Roll failed (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Grabbed top 4 out of 8)"
-
   },
   "View server regions": {
     "fr": "Voir les regions du serveur",
