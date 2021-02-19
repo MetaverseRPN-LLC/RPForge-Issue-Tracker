@@ -7,7 +7,7 @@
     "pl": "Język zaktualizowany!",
     "de": "Sprache aktualisiert!",
     "ru": "Язык изменён!",
-	"hu": "Nyelv frissítve!"
+    "hu": "Nyelv frissítve!"
   },
   "View server settings": {
     "fr": "Voir les réglages du serveur",
@@ -17,7 +17,7 @@
     "pl": "Sprawdź ustawienia serwera",
     "de": "Server Einstellungen ansehen",
     "ru": "Посмотреть настройки сервера",
-	"hu": "Szerver beállítások megjelenítése"
+    "hu": "Szerver beállítások megjelenítése"
   },
   "Display information about a character": {
     "fr": "Montrer les informations sur un personnage",
@@ -27,7 +27,7 @@
     "pl": "Wyświetl informacje o postaci",
     "de": "Charakterinformation anzeigen",
     "ru": "Показать информацию о персонаже",
-	"hu": "Egy karakter információinak megjelenítése"
+    "hu": "Egy karakter információinak megjelenítése"
   },
   "View all the characters for the server": {
     "fr": "Voir tous les personnages du serveur",
@@ -37,7 +37,7 @@
     "pl": "Sprawdź wszystkie postacie na serwerze",
     "de": "Liste aller Charaktere auf dem Server anzeigen",
     "ru": "Посмотреть всех персонажей на сервере",
-	"hu": "Az összes szerveren lévő karakter megjelenítése"
+    "hu": "Az összes szerveren lévő karakter megjelenítése"
   },
   "Give an item from your inventory to another character.\nUsage:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 charname": {
     "fr": "Donner un item de votre inventaire à une autre personnage.\nUtilisation:\n    - rp!give Banane 5 @Henry#8808\n    - rp!give Banane 6 nom",
@@ -46,7 +46,7 @@
     "pl": "Daj przedmiot z ekwipunku innej osobie.\nUżycie:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 nazwaosoby",
     "de": "Gib einem anderen Charakter ein Item aus deinem Inventar.\nBefehle:\n    - rp!give Banane 5 @Henry#8808\n    - rp!give Banane 6 name",
     "ru": "Передать предмет из своего инвентаря другому персонажу\nИспользование:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 nickname",
-	"hu": "Tárgy átadása a saját tárgyaid közül egy másik karakternek.\nHasználat:\n    - rp!give Banán 5 @Henry#8808\n    - rp!give Banán 6 karakter_név"
+    "hu": "Tárgy átadása a saját tárgyaid közül egy másik karakternek.\nHasználat:\n    - rp!give Banán 5 @Henry#8808\n    - rp!give Banán 6 karakter_név"
   },
   "View your or another user's inventory": {
     "fr": "Voir votre inventaire ou l'inventaire d'un autre personnage.",
@@ -56,7 +56,7 @@
     "pl": "Wyświetl ekwipunek swój lub innego użytkownika",
     "de": "Schau dein eigenes oder das Inventar eines anderen Charakters an",
     "ru": "Посмотреть ваш инвентарь или инвентарь другого пользователя",
-	"hu": "Saját vagy másik karakter tárgyainak megtekintése"
+    "hu": "Saját vagy másik karakter tárgyainak megtekintése"
   },
   "Give an item to a number of characters as an administrator, rather than from your inventory\nUsage:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 mycharacter character2\n    - rp!giveitem Banana 14 @Administrators @​everyone": {
     "fr": "Donner un item à quelques personnages en tant qu'administrateur, pas de votre inventaire\nUtilisation:\n    - rp!giveitem Banane 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banane 13 perso1 perso2\n    - rp!giveitem Banane 14 @Administrateurs @​everyone",
@@ -65,7 +65,7 @@
     "pl": "Daj przedmiot wielu osobom jako administrator (nie z twojego ekwipunku)\nUżycie:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 ossoba1 osoba2\n    - rp!giveitem Banana 14 @Administrators @​everyone",
     "de": "Jemandem als Administrator Items geben.  \nBefehle:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 meinCharakter deinCharakter\n    - rp!giveitem Banana 14 @Administrators @​everyone\"",
     "ru": "Выдать предмет в указанном количестве нескольким пользователям (как администратор)\nИспользование:\n    - rp!giveitem Банан 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Банан 13 имяПерсонажа имяПерсонажа2\n    - rp!giveitem Банан 14 @Administrators @​everyone",
-	"hu": "Tárgyak adása több karakternek adminisztrátorként, nem a saját tárgyaid közül\nHasználat:\n    - rp!giveitem Banán 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banán 13 saját_karakter másik_karakter\n    - rp!giveitem Banán 14 @Adminok @​everyone"
+    "hu": "Tárgyak adása több karakternek adminisztrátorként, nem a saját tárgyaid közül\nHasználat:\n    - rp!giveitem Banán 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banán 13 saját_karakter másik_karakter\n    - rp!giveitem Banán 14 @Adminok @​everyone"
   },
   "See the items for the server": {
     "fr": "Voir les items du serveur",
@@ -75,7 +75,7 @@
     "pl": "Sprawdź przedmioty dostępne na serwerze",
     "de": "Zeige eine Liste aller Items auf dem Server:",
     "ru": "Посмотреть список предметов на сервере",
-	"hu": "A szerver összes tárgyának megjelenítése"
+    "hu": "A szerver összes tárgyának megjelenítése"
   },
   "Subcommands for items and view info about an item\nUsage: rp!item Banana": {
     "fr": "Sous-commandes pour les items et voir les informations sur un item\nUtilisation: rp!item Banane",
@@ -84,7 +84,7 @@
     "pl": "Sprawdź komendy dotyczące przedmiotów oraz sprawdź informacje o danym przedmiocie Użycie: rp!item Banana",
     "de": "Zeige Informationen und Unterbefehle zu einem Gegenstand\nBefehl: rp!item Banane",
     "ru": "Дополнительные команды для предметов и просмотр информации о предмете\nИспользование: rp!item Banana",
-	"hu": "Tárgyakkal kapcsolatos parancsok, és egy tárggyal kapcsolatos információ megjelenítése\nHasználat: rp!item Banán"
+    "hu": "Tárgyakkal kapcsolatos parancsok, és egy tárggyal kapcsolatos információ megjelenítése\nHasználat: rp!item Banán"
   },
   "View your money": {
     "fr": "Voir votre argent",
@@ -94,7 +94,7 @@
     "pl": "Sprawdź stan swojego konta",
     "de": "Zeige wieviel Geld du hast",
     "ru": "Посмотреть, сколько у вас денег",
-	"hu": "Saját pénzösszeg megjelenítése"
+    "hu": "Saját pénzösszeg megjelenítése"
   },
   "Subcommands for economy": {
     "fr": "Sous-commandes pour l'économie",
@@ -104,7 +104,7 @@
     "pl": "Sprawdź komendy dotyczące ekonomii",
     "de": "Unterbefehle für Geld",
     "ru": "Дополнительные команды для экономики",
-	"hu": "Pénzügyekkel kapcsolatos parancsok"
+    "hu": "Pénzügyekkel kapcsolatos parancsok"
   },
   "Give money to users, same syntax as rp!giveitem": {
     "fr": "Donner de l'argent aux utilisateurs, même syntaxe que rp!giveitem",
@@ -113,7 +113,7 @@
     "pl": "Daj pieniądze danym osobom, taka sama składania jak rp!giveitem",
     "de": "Jemandem als Administrator Geld geben. Gleiche Befehle wie bei rp!giveitem",
     "ru": "Выдать деньги пользователю, синтаксис аналогичен команде rp!giveitem",
-	"hu": "Pénz adása felhasználóknak. Hasonló módon használandó, mint az rp!giveitem parancs"
+    "hu": "Pénz adása felhasználóknak. Hasonló módon használandó, mint az rp!giveitem parancs"
   },
   "Pay money from your pocket to another user": {
     "fr": "Donner de l'argent de votre poche à un autre personnage",
@@ -122,7 +122,7 @@
     "pl": "Daj pieniądze z twojego konta innej osobie",
     "de": "Bezahle jemanden mit deinem Geld",
     "ru": "Передать деньги другому пользователю из своего кошелька",
-	"hu": "Pénz átadása a karakternél lévő készpénzből egy másik karakternek"
+    "hu": "Pénz átadása a karakternél lévő készpénzből egy másik karakternek"
   },
   "View all the guilds for a server": {
     "fr": "Voir toutes les guildes du serveur",
@@ -132,7 +132,7 @@
     "pl": "Sprawdź wszystkie gildie dostępne na serwerze",
     "de": "Zeige alle Gilden auf dem Server an",
     "ru": "Посмотреть все гильдии на сервере",
-	"hu": "A szerver összes céhének megtekintése"
+    "hu": "A szerver összes céhének megtekintése"
   },
   "Deposit money from your pocket into the bank": {
     "fr": "Déposer de l'argent de votre poche dans la banque",
@@ -142,7 +142,7 @@
     "pl": "Zdepozytuj pieniądze z portfela na konto bankowe",
     "de": "Geld auf die Bank einzahlen",
     "ru": "Положить деньги из вашего кошелька на счет в банке",
-	"hu": "Készpénz letétele a bankba"
+    "hu": "Készpénz letétele a bankba"
   },
   "Withdraw money from the bank into your pocket": {
     "fr": "Retirer de l'argent de la banque dans votre poche",
@@ -152,7 +152,7 @@
     "pl": "Wypłać pieniądze z banku",
     "de": "Geld von der Bank abheben",
     "ru": "Вывести деньги из банка (в ваш кошелёк)",
-	"hu": "Készpénz felvétele a bankból"
+    "hu": "Készpénz felvétele a bankból"
   },
   "You are not assumed!": {
     "fr": "Vous n'êtes pas associé à un personnage.",
@@ -161,7 +161,7 @@
     "pl": "Nie powiązałeś postaci",
     "de": "Du hast keinen Charakter angenommen",
     "ru": "Вы не связаны с персонажем!",
-	"hu": "Jelenleg nem személyesítesz meg karaktert!"
+    "hu": "Jelenleg nem személyesítesz meg karaktert!"
   },
   "That is not a valid lottery!": {
     "fr": "Ce n'est pas une loterie valide",
@@ -171,7 +171,7 @@
     "pl": "Taka loteria nie istnieje",
     "de": "Das ist keine gültige Lotterie!",
     "ru": "Такой лотереи не существует!",
-	"hu": "Érvénytelen sorsolás!"
+    "hu": "Érvénytelen sorsolás!"
   },
   "You're already in this lottery!": {
     "fr": "Vous avez déjà rejoint cette loterie",
@@ -181,7 +181,7 @@
     "pl": "Już bierzesz udział w tej loterii",
     "de": "Du bist schon in dieser Lotterie!",
     "ru": "Вы уже присоединились к этой лотерее!",
-	"hu": "Már részt veszel ezen a sorsoláson!"
+    "hu": "Már részt veszel ezen a sorsoláson!"
   },
   "Successfully joined the lottery!": {
     "fr": "Loterie rejointe avec succès !",
@@ -191,7 +191,7 @@
     "pl": "Pomyślnie dołączyłeś do loterii",
     "de": "Erfolgreich an der Lotterie teilgenommen!",
     "ru": "Вы успешно присоединились к лотерее!",
-	"hu": "Sikeresen csatlakoztál a sorsoláshoz!"
+    "hu": "Sikeresen csatlakoztál a sorsoláshoz!"
   },
   "Money: {}{:.2f}\nItems: {}\nTime Left: {}\nEntrants: {}": {
     "fr": "Argent: {}{:.2f}\nItems: {}\nTemps Restant: {}\nParticipants: {}",
@@ -200,7 +200,7 @@
     "pl": "Pieniądze: {}{:.2f}\nPrzedmiot: {}\nPozostały czas: {}\nUczestnicy: {}",
     "de": "Geld: {}{:.2f}\nGegenstände: {}\nÜbrige Zeit: {}\nTeilnehmerInnen: {}",
     "ru": "Деньги: {}{:.2f}\nПредметы: {}\nОставшееся время: {}\nУчастники: {}",
-	"hu": "Pénz: {}{:.2f}\nTárgyak: {}\nHátralévő idő: {}\nRésztvevők: {}""
+    "hu": "Pénz: {}{:.2f}\nTárgyak: {}\nHátralévő idő: {}\nRésztvevők: {}""
   },
   "No active lotteries!": {
     "fr": "Aucune loterie active",
@@ -210,7 +210,7 @@
     "pl": "Brak aktywnych loterii",
     "de": "Keine aktiven Lotterien!",
     "ru": "Нет активных лотерей!",
-	"hu": "Nincs folyamatban lévő sorsolás!"
+    "hu": "Nincs folyamatban lévő sorsolás!"
   },
   "Holds subcommands for lottery. See currently running lotteries": {
     "fr": "Voir les sous-commandes pour la loterie et les loteries en cours.",
@@ -219,7 +219,7 @@
     "pl": "Sprawdź komendy dotyczące loterii. Sprawdź aktualnie aktywne loterie",
     "de": "Enthält Unterbefehle für die Lotterie. Siehe aktuell laufende Lotterien",
     "ru": "Показывает текущие лотереи (Также содержит дополнительные команды)",
-	"hu": "Sorsolással kapcsolatos parancsok. Folyamatban lévő sorsolások megtekintése."
+    "hu": "Sorsolással kapcsolatos parancsok. Folyamatban lévő sorsolások megtekintése."
   },
   "Create a lottery": {
     "fr": "Créer une loterie",
@@ -229,7 +229,7 @@
     "pl": "Stwórz loterię",
     "de": "Erstelle eine Lotterie",
     "ru": "Создать лотерею",
-	"hu": "Sorsolás létrehozása"
+    "hu": "Sorsolás létrehozása"
   },
   "Enter the lottery with the given name": {
     "fr": "Rejoindre la loterie avec le nom donné",
@@ -239,7 +239,7 @@
     "pl": "Weź udział w loterii z podaną nazwą",
     "de": "Nimm mit dem angegeben Namen an der Lotterie teil",
     "ru": "Принять участие в лотерее с указанным названием",
-	"hu": "Megadott nevű sorsolás létrehozása"
+    "hu": "Megadott nevű sorsolás létrehozása"
   },
   "Successfully gave money": {
     "fr": "Argent donné avec succès",
@@ -249,7 +249,7 @@
     "pl": "Pieniądze przekazane pomyślnie",
     "de": "Erfolgreich Geld gegeben",
     "ru": "Деньги успешно получены!",
-	"hu": "Sikeres pénzátadás"
+    "hu": "Sikeres pénzátadás"
   },
   "Character {} does not exist!": {
     "fr": "Le personnage {} n'existe pas !",
@@ -259,7 +259,7 @@
     "pl": "Postać {} nie istnieje!",
     "de": "Charakter {} existiert nicht!",
     "ru": "Персонаж {} не существует!",
-	"hu": "A {} nevű karakter nem létezik!"
+    "hu": "A {} nevű karakter nem létezik!"
   },
   "{} is not currently assumed!": {
     "fr": "{} n'est pas associé actuellement",
@@ -268,7 +268,7 @@
     "pl": "{} nie jest aktualnie przypisany / przypisana",
     "de": "{} ist derzeit nicht angenommen!",
     "ru": "{} не связан с персонажем в данный момент!",
-	"hu": "A {} nevű karakter nincs megszemélyesítve!"
+    "hu": "A {} nevű karakter nincs megszemélyesítve!"
   },
   "You don't have enough money to pay!": {
     "fr": "Vous n'avez pas assez d'argent pour payer !",
@@ -277,7 +277,7 @@
     "pl": "Nie masz wystarczającej ilości pieniędzy aby zapłacić",
     "de": "Sie haben nicht genug Geld, um zu bezahlen!",
     "ru": "У вас недостаточно денег!",
-	"hu": "Nincs elég pénzed kifizetni!"
+    "hu": "Nincs elég pénzed kifizetni!"
   },
   "You are not currently assumed!": {
     "fr": "Vous n'êtes pas associé avec un personnage actuellement!",
@@ -286,7 +286,7 @@
     "pl": "Nie jesteś obecnie powiązany z postacią!",
     "de": "Sie sind derzeit nicht angenommen",
     "ru": "Вы не связаны с персонажем в данный момент!",
-	"hu": "Jelenleg nem személyesítesz meg karaktert!"
+    "hu": "Jelenleg nem személyesítesz meg karaktert!"
   },
   "You cannot withdraw more money than you have in the bank!": {
     "fr": "Vous ne pouvez pas retirer plus d'argent que vous n'en avez dans la banque.",
@@ -295,7 +295,7 @@
     "pl": "Nie możesz wypłacić więcej pieniędzy niż masz w banku!",
     "de": "Sie können nicht mehr Geld abheben als Sie auf der Bank haben!",
     "ru": "На вашем банковском счёте нет запрашиваемой суммы!",
-	"hu": "Nem vehetsz ki több pénzt a bankból, mint amennyi ott van!"
+    "hu": "Nem vehetsz ki több pénzt a bankból, mint amennyi ott van!"
   },
   "You cannot deposit more money than you have on you!": {
     "fr": "Vous ne pouvez pas déposer plus d'argent que vous avez sur vous.",
@@ -304,7 +304,7 @@
     "pl": "Nie możesz wpłacić więcej pieniędzy niż masz przy sobie!”",
     "de": "Sie können nicht mehr Geld einzahlen, als Sie aktuell besitzen!",
     "ru": "В вашем кошельке нет запрашиваемой суммы!",
-	"hu": "Nem tehetsz le több pénzt a bankba, mint amennyi készpénz nálad van!"
+    "hu": "Nem tehetsz le több pénzt a bankba, mint amennyi készpénz nálad van!"
   },
   "On you:\t\t {cb}{:.2f} {ca}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}": {
     "fr": "Sur vous:\t\t {cb}{:.2f} {ca}\nEn banque:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
@@ -313,7 +313,7 @@
     "pl": "Przy tobie:\t\t {cb}{:.2f} {ca}\nW banku:\t {cb}{:.2f} {ca}\nŁacznie:\t\t {cb}{:.2f} {ca}",
     "de": "Auf der Hand:\t\t {cb}{:.2f} {ca}\nAuf der Bank:\t {cb}{:.2f} {ca}\nInsgesamt:\t\t {cb}{:.2f} {ca}",
     "ru": "В кошельке:\t\t {cb}{:.2f} {ca}\nВ банке:\t {cb}{:.2f} {ca}\nВсего:\t\t {cb}{:.2f} {ca}",
-	"hu": "Készpénz:\t\t {cb}{:.2f} {ca}\nBankban:\t {}{:.2f}\nÖsszesen:\t\t {}{:.2f}"
+    "hu": "Készpénz:\t\t {cb}{:.2f} {ca}\nBankban:\t {}{:.2f}\nÖsszesen:\t\t {}{:.2f}"
   },
   "This command is disabled!": {
     "fr": "Cette commande est désactivée",
@@ -322,7 +322,7 @@
     "pl": "Ta komenda jest wyłączona!",
     "de": "Dieser Befehl ist deaktiviert!",
     "ru": "Это команда отключена!",
-	"hu": "Ez a parancs ki van kapcsolva!"
+    "hu": "Ez a parancs ki van kapcsolva!"
   },
   "Nobody entered the lottery!": {
     "fr": "Personne n'a rejoint la loterie !",
@@ -331,7 +331,7 @@
     "pl": "Nikt nie dołączył w loterii!",
     "de": "Keiner hat an der Lotterie teilgenommen!",
     "ru": "Никто не принял участие в лотерее!",
-	"hu": "Senki sem csatlakozott a sorsoláshoz!"
+    "hu": "Senki sem csatlakozott a sorsoláshoz!"
   },
   "{} was the winner!": {
     "fr": "{} a été le gagnant !",
@@ -341,7 +341,7 @@
     "pl": "{} wygrał / wygrała!",
     "de": "{} hat die Lotterie gewonnen!",
     "ru": "{} победил!",
-	"hu": "A sorsolás nyertese {}!"
+    "hu": "A sorsolás nyertese {}!"
   },
   "Lottery does not exist!": {
     "fr": "Cette loterie n'existe pas !",
@@ -351,7 +351,7 @@
     "pl": "Loteria nie istnieje!",
     "de": "Diese Lotterie existiert nicht!",
     "ru": "Такой лотереи не существует!",
-	"hu": "Nem létező sorsolás!"
+    "hu": "Nem létező sorsolás!"
   },
   "No characters!": {
     "fr": "Aucun personnage !",
@@ -361,7 +361,7 @@
     "pl": "Brak postaci!",
     "de": "Keine Charaktere!",
     "ru": "Персонажей нет!",
-	"hu": "Nincs karakter!"
+    "hu": "Nincs karakter!"
   },
   "No aliases": {
     "fr": "Aucun pseudonyme !",
@@ -370,7 +370,7 @@
     "pl": "Brak pseudonimów",
     "de": "Keine Pseudonyme",
     "ru": "Нет псевдонимов",
-	"hu": "Nincs álnév!"
+    "hu": "Nincs álnév!"
   },
   "No region": {
     "fr": "Aucune région !",
@@ -379,7 +379,7 @@
     "pl": "Brak regionów",
     "de": "Keine Region",
     "ru": "Нет региона",
-	"hu": "Nincs régió!"
+    "hu": "Nincs régió!"
   },
   "None": {
     "fr": "Aucun",
@@ -388,7 +388,7 @@
     "pl": "Brak",
     "de": "Keiner",
     "ru": "Нет",
-	"hu": "Nincs"
+    "hu": "Nincs"
   },
   "No attributes": {
     "fr": "Pas d'attributs",
@@ -397,7 +397,7 @@
     "pl": "Brak atrybutów",
     "de": "Keine Attribute",
     "ru": "Нет атрибутов",
-	"hu": "Nincs tulajdonság"
+    "hu": "Nincs tulajdonság"
   },
   "Empty": {
     "fr": "Vide",
@@ -406,7 +406,7 @@
     "pl": "Pusto",
     "de": "Leer",
     "ru": "Пусто",
-	"hu": "Üres"
+    "hu": "Üres"
   },
   "That character does not exist!": {
     "fr": "Ce personnage n'existe pas !",
@@ -416,7 +416,7 @@
     "pl": "Taka postać nie istnieje!",
     "de": "Dieser Charakter existiert nicht!",
     "ru": "Такого персонажа не существует!",
-	"hu": "Ez a karakter nem létezik!"
+    "hu": "Ez a karakter nem létezik!"
   },
   "Name": {
     "fr": "Nom",
@@ -426,7 +426,7 @@
     "pl": "Imię",
     "de": "Name",
     "ru": "Имя",
-	"hu": "Név"
+    "hu": "Név"
   },
   "Owner": {
     "fr": "Propriétaire",
@@ -435,7 +435,7 @@
     "pl": "Właściciel",
     "de": "BesitzerIn",
     "ru": "Владелец",
-	"hu": "Tulajdonos"
+    "hu": "Tulajdonos"
   },
   "Aliases": {
     "fr": "Pseudonymes",
@@ -444,7 +444,7 @@
     "pl": "Pseudonimy",
     "de": "Pseudonyme",
     "ru": "Псевдонимы",
-	"hu": "Álnevek"
+    "hu": "Álnevek"
   },
   "That character does not belong to you!": {
     "fr": "Ce personnage ne vous appartient pas !",
@@ -454,7 +454,7 @@
     "pl": "Ta postać nie należy do ciebie!",
     "de": "Dieser Charakter gehört dir nicht!",
     "ru": "Этот персонаж не принадлежит вам!",
-	"hu": "Ez a karakter nem tartozik hozzád!"
+    "hu": "Ez a karakter nem tartozik hozzád!"
   },
   "Character assumed!": {
     "fr": "Personnage associé",
@@ -463,7 +463,7 @@
     "pl": "Postać przypisana!",
     "de": "Charakter angenommen!",
     "ru": "Персонаж привязан!",
-	"hu": "Karakter megszemélyesítve!"
+    "hu": "Karakter megszemélyesítve!"
   },
   "Character unassumed!": {
     "fr": "Personnage non-associé !",
@@ -472,7 +472,7 @@
     "pl": "Postać odłączona!",
     "de": "Charakter nicht mehr angenommen!",
     "ru": "Персонаж отвязан!",
-	"hu": "Karakter megszemélyesítése abbahagyva!"
+    "hu": "Karakter megszemélyesítése abbahagyva!"
   },
   "Character deleted!": {
     "fr": "Personnage supprimé",
@@ -481,7 +481,7 @@
     "pl": "Postać usunięta!",
     "de": "Charakter gelöscht!",
     "ru": "Персонаж удалён!",
-	"hu": "Karakter kitörölve!"
+    "hu": "Karakter kitörölve!"
   },
   "A character with that name already exists!": {
     "fr": "Un personnage avec ce nom existe déja !",
@@ -490,7 +490,7 @@
     "pl": "Postać z takim imieniem już istnieje!",
     "de": "Ein Charakter mit diesem Namen existiert bereits!",
     "ru": "Персонаж с таким именем уже существует!",
-	"hu": "Már létezik ilyen nevű karakter!"
+    "hu": "Már létezik ilyen nevű karakter!"
   },
   "Character aliased!": {
     "fr": "Pseudonyme défini pour ce personnage!",
@@ -499,7 +499,7 @@
     "pl": "Nadano pseudonim postaci!",
     "de": "Pseudonym für deinen Charakter erstellt!!",
     "ru": "Псевдоним для персонажа установлен!",
-	"hu": "Karakter álneve beállítva!"
+    "hu": "Karakter álneve beállítva!"
   },
   "There is no character associated with this alias": {
     "fr": "Il n'y a pas de personnage associé avec ce pseudonyme",
@@ -508,7 +508,7 @@
     "pl": "Nie ma postaci powiązanej z tym pseudonimem",
     "de": "Diesem Pseudonym ist kein Charakter zugeordnet",
     "ru": "Ни один персонаж не имеет такого псевдонима",
-	"hu": "Nincs ilyen álnevű karakter!"
+    "hu": "Nincs ilyen álnevű karakter!"
   },
   "That alias belongs to another character!": {
     "fr": "Ce pseudo appartient à un autre personnage",
@@ -517,7 +517,7 @@
     "pl": "Ten pseudonim należy do innej postaci!",
     "de": "Dieses Pseudonym gehört zu einem anderen Charakter!",
     "ru": "Этот псевдоним уже принадлежит другому персонажу!",
-	"hu": "Ez az álnév egy másik karakterhez tartozik!"
+    "hu": "Ez az álnév egy másik karakterhez tartozik!"
   },
   "Character alias removed!": {
     "fr": "Pseudo supprimé !",
@@ -526,7 +526,7 @@
     "pl": "Pseudonim postaci usunięty!",
     "de": "Pseudonym entfernt!",
     "ru": "Псевдоним удален!",
-	"hu": "Karakter álnév eltávolítva!"
+    "hu": "Karakter álnév eltávolítva!"
   },
   "Subcommands for importing data\n        Requires attached file\n        Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
     "fr": "Sous-commandes pour importer vos données\n        Requiert un fichier attaché\n        Importer les données de l'ancien RPGBot.\n        Types des données valides à exporter:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata":,
@@ -534,7 +534,7 @@
     "es": "Subcomandos para importar de datos\n        Requiere archivo adjunto\n        Importa datos del antiguo RPGBot.\n        Tipos de datos válidos para exportar\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "de": "Unterbefehle zum Importieren von Daten\n        Erfordert angehängte Datei\n        Daten aus dem altem RPGBot importieren.\n        Gültige Datentypen zum Exportieren:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "ru": "Дополнительные команды для импорта данных\n        Требуется прикрепленный файл\n        Перенос данных из старой версии RPGBot.\n        Поддерживаемые категории (datatype):\n        - предметы\n        - персонажи\n        - настройки\n        - гильдии\n        - пользовательские данные",
-	"hu": "Parancsok adat betöltéséhez\n        Csatolt fájl szükséges\n        Régebbi RPGBot adatok betöltése.\n        Betöltésre alkalmas adattípusok:\n        - tárgyak\n        - karakterek\n        - beállítások\n        - céhek\n        - felhasználói adatok"
+    "hu": "Parancsok adat betöltéséhez\n        Csatolt fájl szükséges\n        Régebbi RPGBot adatok betöltése.\n        Betöltésre alkalmas adattípusok:\n        - tárgyak\n        - karakterek\n        - beállítások\n        - céhek\n        - felhasználói adatok"
   },
   "You must attach a file!": {
     "jp": "ファイルをメッセージに付けなければいけない！",
@@ -544,7 +544,7 @@
     "pl": "Musisz dołączyć plik!",
     "de": "Sie müssen eine Datei anhängen!",
     "ru": "Вы не прикрепили файл!",
-	"hu": "Csatolt fájl szükséges!"
+    "hu": "Csatolt fájl szükséges!"
   },
   "Invalid choice!": {
     "fr": "Choix invalide !",
@@ -553,7 +553,7 @@
     "pl": "Niepoprawny wybór!",
     "de": "Ungültige Wahl!",
     "ru": "Неверный выбор",
-	"hu": "Érvénytelen választás!"
+    "hu": "Érvénytelen választás!"
   },
   "Data loaded!": {
     "fr": "Données chargées !",
@@ -562,7 +562,7 @@
     "pl": "Dane załadowane!",
     "de": "Daten geladen!",
     "ru": "Данные загружены!",
-	"hu": "Adat betöltve!"
+    "hu": "Adat betöltve!"
   },
   "Import data from old RPGBot.\n        Valid datatypes to import:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO": {
     "fr": "Importer des données de l'ancien RPGBot.\n        Types de données valides à importer:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO",
@@ -570,7 +570,7 @@
     "es": "Importa datos del antiguo RPGBot.\n        Tipos de datos válidos para importar:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO",
     "de": "Importieren von Daten aus dem alten RPGBot.\n        Gültige Datentypen zum Importieren:\n        - items\n        - characters\n        - settings TODO\n        - salaries TODO\n        - lootboxes TODO\n        - shop TODO",
     "ru": "Перенести данные из старой версии RPGBot.\n        Поддерживаемые категории (datatype):\n        - предметы\n        - персонажи\n        - настройки TODO\n        - зарплаты TODO\n        - лутбоксы TODO\n        - магазин TODO",
-	"hu": "Régebbi RPGBot adatok betöltése.\n        Betöltésre alkalmas adattípusok:\n        - tárgyak\n        - karakterek\n        - beállítások TODO\n        - fizetések TODO\n        - nyereményládák TODO\n        - boltok TODO"
+    "hu": "Régebbi RPGBot adatok betöltése.\n        Betöltésre alkalmas adattípusok:\n        - tárgyak\n        - karakterek\n        - beállítások TODO\n        - fizetések TODO\n        - nyereményládák TODO\n        - boltok TODO"
   },
   "Invalid datatype!": {
     "fr": "Type de données invalide!",
@@ -579,7 +579,7 @@
     "pl": "Niepoprawny typ danych!",
     "de": "Ungültiger Datentyp!",
     "ru": "Неподдерживаемый тип данных",
-	"hu": "Érvénytelen adattípus!"
+    "hu": "Érvénytelen adattípus!"
   },
   "Invalid Type!": {
     "fr": "Type invalide!",
@@ -588,7 +588,7 @@
     "pl": "Niepoprawny typ!",
     "de": "Ungültiger Typ!",
     "ru": "Неверный тип",
-	"hu": "Érvénytelen típus!"
+    "hu": "Érvénytelen típus!"
   },
   "Data imported!": {
     "fr": "Données importées",
@@ -597,7 +597,7 @@
     "pl": "Dane zimportowane pomyślnie!",
     "de": "Daten importiert!",
     "ru": "Данные импортированы!",
-	"hu": "Adat betöltve!"
+    "hu": "Adat betöltve!"
   },
   "Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
     "fr": "Importer les données de l'ancien RPGBot.\n        Types de données valides pour exporter:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
@@ -606,7 +606,7 @@
     "pl": "Importuj dane ze starego RPGBot.\n Prawidłowe typy danych do eksportu:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "de": "Importiere Daten vom alten RPGBot.\nGültige datentypen zum exportieren:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "ru": "Перенос данных из старой версии RPGBot.\n        Поддерживаемые категории (datatype):\n        - предметы\n        - персонажи\n        - настройки\n        - гильдии\n        - пользовательские данные",
-	"hu": "Régebbi RPGBot adatok betöltése.\n        Betöltésre alkalmas adattípusok:\n        - tárgyak\n        - karakterek\n        - beállítások\n        - céhek \n        - felhasználói adatok"
+    "hu": "Régebbi RPGBot adatok betöltése.\n        Betöltésre alkalmas adattípusok:\n        - tárgyak\n        - karakterek\n        - beállítások\n        - céhek \n        - felhasználói adatok"
   },
   "No items!": {
     "fr": "Aucun item !",
@@ -615,7 +615,7 @@
     "pl": "Brak przedmiotów!",
     "de": "Keine Gegenstände!",
     "ru": "Предметов нет!",
-	"hu": "Nincs tárgy!"
+    "hu": "Nincs tárgy!"
   },
   "No guilds!": {
     "fr": "Aucune guilde !",
@@ -624,7 +624,7 @@
     "pl": "Brak gildii",
     "de": "Keine Gilden!",
     "ru": "Гильдий нет!",
-	"hu": "Nincs céh!"
+    "hu": "Nincs céh!"
   },
   "You have no containers in your inventory!": {
     "fr": "Vous n'avez pas de contenant dans votre inventaire !",
@@ -2691,17 +2691,17 @@
   "Type the number of the page you wish to jump to.\n1. Description\n2. Picture\n3. Prefix": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Imagem\n3. Prefixo",
     "de": "Gib die Nummer der Seite ein, zu der du springen möchtest.\n1. Beschreibung\n2. Bild\n3. Präfix",
-	"ru": "Введите номер нужной страницы для быстрого перемещения.\n1. Описание\n2. Изображение\n3. Префикс"
+    "ru": "Введите номер нужной страницы для быстрого перемещения.\n1. Описание\n2. Изображение\n3. Префикс"
   },
   "Type the number of the page you wish to jump to.\n1.Description\n2.Picture\n3. Prefix\n4. Template\n5. Owner": {
     "pt": "Digite o número da página para qual você deseja ir.\n1.Descrição\n2.Imagem\n3. Prefixo\n4. Molde\n5. Dono",
     "de": "Gib die Nummer der Seite ein, zu der du springen möchtest.\n1. Beschreibung\n2. Bild\n3. Präfix\n4. Template\n5. Besitzer",
-	"ru": "Введите номер нужной страницы для быстрого перемещения.\n1. Описание\n2. Изображение\n3. Префикс\n4. Template\n5. Владелец"
+    "ru": "Введите номер нужной страницы для быстрого перемещения.\n1. Описание\n2. Изображение\n3. Префикс\n4. Template\n5. Владелец"
   },
   "Who should this character belong to?": {
     "pt": "A quem este personagem deve pertencer?",
     "de": "Wem gehört dieser Charakter?",
-	"ru": "Кому должен принадлежать персонаж?"
+    "ru": "Кому должен принадлежать персонаж?"
   },
   "Is this character a template (yes/no)? Type \"no\" if you don't know what this means.": {
     "Translators_Note": "Do not translate the 'yes' and 'no' they need to remain in english for the bot to work",
@@ -2711,17 +2711,17 @@
   "Describe the character (description). (3995 chars max)": {
     "pt": "Descreva o personagem (descrição)",
     "de": "Beschreibe den Charakter (description) (3995 Zeichen max.)",
-	"ru": "Задайте описание персонажа (description). (максимум 3995 знаков)"
+    "ru": "Задайте описание персонажа (description). (максимум 3995 знаков)"
   },
   "If you would like to provide a picture for the character, paste one here. (Leave blank for no picture).": {
     "pt": "Se você gostaria de adicionar uma imagem ao personagem, cole uma aqui. (deixe em branco para deixar sem imagem)",
     "de": "Falls du ein Bild für den Charakter willst, hänge es an deine Nachricht an. (Leer lassen für kein Bild)",
-	"ru": "Прикрепите изображение для персонажа (оставьте поле пустым, если хотите создать без изображения)"
+    "ru": "Прикрепите изображение для персонажа (оставьте поле пустым, если хотите создать без изображения)"
   },
   "If you would like to provide a custom prefix for the character that you can use instead of `rp!character assume`, specify one here (Leave blank for no prefix).": {
     "pt": "Se você gostaria de adicionar um prefixo personalizado para o personagem que você pode usar ao invés de `rp!character assume`, especifique um aqui (deixe em branco para deixar sem prefixo)",
     "de": "Falls du ein eigenes Präfix für den Charakter statt `rp!character assume` willst, schreibe es hier rein (Leer lassen für kein Präfix)",
-	"ru": "Задайте специальный префикс для персонажа, который вы сможете использовать вместо основного имени персонажа в командах (оставьте поле пустым, если хотите создать без специальных префиксов)"
+    "ru": "Задайте специальный префикс для персонажа, который вы сможете использовать вместо основного имени персонажа в командах (оставьте поле пустым, если хотите создать без специальных префиксов)"
   },
   "Invalid mode!": {
     "pt": "modo inválido!",
@@ -2730,37 +2730,37 @@
   "Finished? Click \u2705 to submit!": {
     "pt": "Acabou? clique \u2705 para enviar!",
     "de": "Fertig? Klick auf \u2705 !",
-	"ru": "Закончили? Нажмите \u2705 чтобы подтвердить создание!"
+    "ru": "Закончили? Нажмите \u2705 чтобы подтвердить создание!"
   },
   "Menu": {
     "pt": "Menu",
     "de": "Menü",
-	"ru": "Меню"
+    "ru": "Меню"
   },
   "Picture": {
     "pt": "Imagen",
     "de": "Bild",
-	"ru": "Изображение"
+    "ru": "Изображение"
   },
   "Template": {
     "pt": "Molde",
     "de": "Template",
-	"ru": "Образец"
+    "ru": "Образец"
   },
   "Character submitted!": {
     "pt": "Personagem enviado!!",
     "de": "Charakter erstellt!",
-	"ru": "Персонаж создан!"
+    "ru": "Персонаж создан!"
   },
   "Character creation cancelled!": {
     "pt": "Criação de personagem cancelada!",
     "de": "Charaktererstellung abgebrochen",
-	"ru": "Создание персонажа прервано!"
+    "ru": "Создание персонажа прервано!"
   },
   "URL not valid! Try again!": {
     "pt": "URL inválida! Tente novamente!",
     "de": "Falsche URL! Versuch es noch einmal!",
-	"ru": "Не удалось найти изображение по ссылке! Попробуйте снова!"
+    "ru": "Не удалось найти изображение по ссылке! Попробуйте снова!"
   },
   "Locked: templates belong to the server as a whole.": {
     "pt": "Bloqueado: Moldes pertencem ao servidor como um todo",
@@ -2769,12 +2769,12 @@
   "**Invalid input! Please answer 'yes' or 'no'**": {
     "pt": "**Entrada inválida! Por favor, responda 'yes' ou 'no'**",
     "de": "**Falsche Eingabe! Bitte antworte mit'yes' oder 'no'**",
-	"ru": "**Неверный выбор! Пожалуйста, выберите 'yes' или 'no'**"
+    "ru": "**Неверный выбор! Пожалуйста, выберите 'yes' или 'no'**"
   },
   "**Invalid input! Please target a user**": {
     "pt": "**Entrada inválida! Por favor determine um usuário**",
     "de": "**Falsche Eingabe! Bitte gib einen Nutzer an**",
-	"ru": "Неверный ввод! Пожалуйста, укажите пользователя"
+    "ru": "Неверный ввод! Пожалуйста, укажите пользователя"
   },
   "False": {
     "pt": "Falso",
@@ -2795,34 +2795,34 @@
   "Describe the guild (description). (3995 chars max)": {
     "pt": "Descreva a guilda (descrição). (Máximo de 3995 caracteres)",
     "de": "Beschreibe deine Gilde (Beschreibung). (Max. 3995 Zeichen)",
-	"ru": "Задайте описание гильдии (description). (максимум 3995 знаков)"
+    "ru": "Задайте описание гильдии (description). (максимум 3995 знаков)"
   },
   "If you would like to provide a picture for the guild, paste one here. (Leave blank for no picture).": {
     "pt": "Se você gostaria de adicionar uma imagem para a guilda, cole uma aqui. (deixe em branco para deixar sem imagem)",
     "de": "Falls du deiner Gilde ein Bild hinzufügen willst, lade es jetzt hoch. (Leerlassen für kein Bild)",
-	"ru": "Прикрепите изображение для гильдии (оставьте поле пустым, если хотите создать без изображения)"
+    "ru": "Прикрепите изображение для гильдии (оставьте поле пустым, если хотите создать без изображения)"
   },
   "Type the number of the page you wish to jump to.\n1. Description\n2. Picture": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Imagem",
     "de": "Schreibe die Zahl zu der du springen möchtest.\n1. Beschreibung\n2. Bilder",
-	"ru": "Введите номер нужной страницы для быстрого перемещения.\n1. Описание\n2. Изображение"
+    "ru": "Введите номер нужной страницы для быстрого перемещения.\n1. Описание\n2. Изображение"
   },
   "Your description is too large! Please start over": {
     "pt": "Sua descrição é muito grande! Por favor, faça de novo",
     "de": "Deine Beschreibung ist zu lang! Bitte beginne von vorn",
-	"ru": "Ваше описание слишком длинное! Пожалуйста, напишите более короткое"
+    "ru": "Ваше описание слишком длинное! Пожалуйста, напишите более короткое"
   },
   "URI not valid! Try again!": {
   },
   "Describe the item (description). (3995 chars max)": {
     "pt": "Descreva o item (descrição). (Máximo de 3995 caracteres)",
     "de": "Beschreibe den Gegenstand (Beschreibung). (Max. 3995 Zeichen)",
-	"ru": "Задайте описание предмета (description). (максимум 3995 знаков)"
+    "ru": "Задайте описание предмета (description). (максимум 3995 знаков)"
   },
   "If you would like to provide a picture for the item, paste one here. (Leave blank for no picture).": {
     "pt": "Se você gostaria de adicionar uma imagem ao item, cole uma aqui. (deixe em branco para deixar sem imagem).",
     "de": "Falls du dem Gegenstand ein Bild hinzufügen willst, lade es jetzt hoch. (Leerlassen für kein Bild)",
-	"ru": "Прикрепите изображение для предмета (оставьте поле пустым, если хотите создать без изображения)"
+    "ru": "Прикрепите изображение для предмета (оставьте поле пустым, если хотите создать без изображения)"
   },
   "If you would like to add modifiers to this item, provide one or more of the following attributes, comma separated\nValid modifiers:\n\t- `unique` This item cannot be stacked\n\t- `equippable` This item may be equipped\n\t- `quest` This item is special item for a quest\n\t- `nontransfer` This item cannot be transferred to another player or sold / bought.\n\t- `container` This item can be used to store other items (premium)\n\t- `usable` This item can be used with a custom effect or message": {
     "pt": "Se você gostaria de adicionar modificadores ao item, providencie um ou mais dos seguintes atributos, separados por virgula\nModificadores válidos:\n\t- `unique` Esse item não pode ser empilhado\n\t- `equippable` Esse item não pode ser equipado\n\t- `quest` Esse item é especial para uma missão\n\t- `nontransfer` Esse item não pode ser transferido para outro jogador ou vendido / comprado. \n\t- `container` Esse item pode ser usado para armazenar outros items (premium)\n\t- `usable` Esse item pode ser usado com um efeito ou mensagem personalizada",
@@ -2831,7 +2831,7 @@
   "How many items should this container be able to store?": {
     "pt": "Quantos items esse recipiente deve ser capaz de armazenar?",
     "de": "Wieviele Gegenstände sollen in diesen Behälter passen?",
-	"ru": "Укажите, сколько предметов сможет вмещать этот контейнер"
+    "ru": "Укажите, сколько предметов сможет вмещать этот контейнер"
   },
   "When this item is used, you may have a script invoked or send a message.\nPut either the message you want to send or the name of a script you've created.\nSee `rp!help script` for more information on custom scripts. $name in a message will be replaced with the character's name.": {
     "pt": "Quando esse item é usado, você pode executar script ou enviar uma mensagem. \nColoque uma mensagem que você deseja enviar ou o nome de um script que você criou. .\nVeja `rp!help script` para mais informações sobre scripts personalizados. $name será substituído pelo nome do personagem.",
@@ -2840,67 +2840,67 @@
   "Are there any tags you'd like to apply to the item? Tags can be used to mark item types, for example you might create 3 varieties of apples, Green Apples, Red Apples, and Yellow Apples, and apply the `apple` tag to each": {
     "pt": "Existe alguma tag que você gostaria de aplicar ao item? Tags podem ser usadas para marcar os tipos de item, por exemplo você pode criar 3 variedades de maçã, Maçã verde, Maçã vermelha e Maçã amarela, e aplicar a tag `maçã` a cada uma",
     "de": "Möchtest du dem Gegenstand Tags hinzufügen? Tags können verwendet werden um Gegenständen Typen zu geben. Du kannst z.B 3 verschiedene Arten von Äpfeln erstellen, Grüner Apfel, Roter Apfel, Gelber Apfel und jedem den Tag `Apfel` geben ",
-	"ru": "Можете добавить какие-нибудь теги к этому предмету. Их можно использовать для обозначения типов элементов, например, вы можете создать 3 сорта яблок: Зеленые яблоки, Красные яблоки и Желтые яблоки и применить тег "яблоко" к каждому из них"
+    "ru": "Можете добавить какие-нибудь теги к этому предмету. Их можно использовать для обозначения типов элементов, например, вы можете создать 3 сорта яблок: Зеленые яблоки, Красные яблоки и Желтые яблоки и применить тег "яблоко" к каждому из них"
   },
   "Capacity": {
     "pt": "Capacidade",
     "de": "Kapazität",
-	"ru": "Вместимость"
+    "ru": "Вместимость"
   },
   "Invalid Type": {
     "pt": "Tipo inválido",
     "de": "Ungültiger Typ",
-	"ru": "Неверный тип"
+    "ru": "Неверный тип"
   },
   "Type the number of the page you wish to jump to.": {
     "pt": "Digite o número da página para qual você deseja ir.",
     "de": "Schreibe die Seitenzahl zu der du springen möchtest.",
-	"ru": "Введите номер нужной страницы для быстрого перемещения"
+    "ru": "Введите номер нужной страницы для быстрого перемещения"
   },
   "The capacity cannot be 0!": {
     "pt": "A capacidade não pode ser 0!",
     "de": "Die Kapazität kann nicht 0 sein!",
-	"ru": "Вместимость не может быть равной нулю!"
+    "ru": "Вместимость не может быть равной нулю!"
   },
   "Type the number of the page you wish to jump to.\n1. Content\n2. Key\n3. Item": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Conteúdo\n2. Chave\n3. Item",
     "de": "Schreibe die Seitenzahl zu der du springen möchtest.\n1. Inhalt\n2. Schlüssel\n3. Gegenstand",
-	"ru": "Введите номер нужной страницы для быстрого перемещения\n1. Предметы внутри\n2. Ключ\n3. Предмет-контейнер"
+    "ru": "Введите номер нужной страницы для быстрого перемещения\n1. Предметы внутри\n2. Ключ\n3. Предмет-контейнер"
   },
   "List the items that will go into the lootbox and the weighted chance of each set of items. Each new message will be counted as a new entry. Format lines as follows: `weight Itemx1, Itemx2, ...`, for example `15 Applex3 Bananax5`. This will create a new possible reward in the lootbox of both these items, with a weighted chance of 15.": {
     "pt": "Liste os itens que estarão dentro da lootbox e as chances ponderadas de cada conjunto de itens. Cada nova mensagem será contada como uma nova entrada. Formate as linhas da seguinte maneira: `weight Itemx1, Itemx2, ...`, por exemplo `15 Applex3, Bananax5`. Isso irá criar uma nova possibilidade de recompensa no lootbox para cada um desses itens, com a change ponderada de 15.",
     "de": "Liste alle Gegenstände und ihre gewichtete Wahrscheinlichkeit auf, die in der Lootbox vorkommen sollen. Jede neue Nachricht wird als eigener Eintrag eingespeichert. Formattiere die Nachrichten so: `weight Itemx1, Itemx2, ...`, zum Beispiel `15 Applex3, Bananax5`. Dies erstellt einen Eintrag bei dem man 3x Apple und 5x Banana erhält mit der gewichteten Wahrscheinlichkeit 15.",
-	"ru": "Перечислите награды, которые будут содержаться в этом лутбоксе и их шанс выпадения. Каждое новое сообщение будет засчитано как новая награда.\nФормат ввода: `шанс Itemx1, Itemx2, ...`.\nПример ввода: `15 Applex3 Bananax5` (Это создаст новую награду, состоящую из этих двух предметов с шансом выпадения в 15%)"    
+    "ru": "Перечислите награды, которые будут содержаться в этом лутбоксе и их шанс выпадения. Каждое новое сообщение будет засчитано как новая награда.\nФормат ввода: `шанс Itemx1, Itemx2, ...`.\nПример ввода: `15 Applex3 Bananax5` (Это создаст новую награду, состоящую из этих двух предметов с шансом выпадения в 15%)"    
   },
   "Choose which item will be used as this box's key": {
     "pt": "Escolha qual item será usado como chave desta caixa",
     "de": "Wähle welcher Gegenstand als Schlüssel fungieren soll",
-	"ru": "Укажите предмет, который будет использоваться для открытия лутбокса"
+    "ru": "Укажите предмет, который будет использоваться для открытия лутбокса"
   },
   "Choose which item will be used to represent this box as an item in the character's inventory.": {
     "pt": "Escolha qual item será usado para representar essa caixa como um item no inventário do personagem.",
     "de": "Wähle welcher Gegenstand die Lootbox im Inventar repräsentieren soll.",
-	"ru": "Укажите предмет, который будет этим лутбоксом"
+    "ru": "Укажите предмет, который будет этим лутбоксом"
   },
   "Type the number of the page you wish to jump to.\n1. Duration\n2. Prize Money\n3. Prize Items": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Duraçào\n2. Prêmio em Dinheiro\n3. Itens de Prêmio",
     "de": "Schreibe die Seitenzahl zu der du springen möchtest.\n1. Dauer\n2. Preisgeld \n3. Preisgegenstände",
-	"ru": "Введите номер нужной страницы для быстрого перемещения\n1. Продолжительность\n2. Выигрыш (деньги)\n3. Выигрыш (предметы)"
+    "ru": "Введите номер нужной страницы для быстрого перемещения\n1. Продолжительность\n2. Выигрыш (деньги)\n3. Выигрыш (предметы)"
   },
   "How long should the lottery last (in minutes)": {
     "pt": "Quanto tempo deve durar a loteria(em minutos)",
     "de": "Wie lange soll die Lotterie dauern?(in Minuten)",
-	"ru": "Укажите, сколько будет длиться лотерея (в минутах)"
+    "ru": "Укажите, сколько будет длиться лотерея (в минутах)"
   },
   "How much money should the winner receive?": {
     "pt": "Quando dinheiro o vencedor deve receber?",
     "de": "Wieviel Geld erhält der Gewinner?",
-	"ru": "Укажите, сколько денег получит победитель"
+    "ru": "Укажите, сколько денег получит победитель"
   },
   "What items should the winner receive? (Format: Itemx1, Itemx2, Itemx3)": {
     "pt": "Quais items o vencedor deve receber? (Formato: Itemx1, Itemx2, Itemx3)",
     "de": "Welche Gegenstände erhält der Gewinner?(Format: Itemx1, Itemx2, Itemx3)",
-	"ru": "Укажите, какие предметы получит победитель (Формат: Itemx1, Itemx2, Itemx3)"
+    "ru": "Укажите, какие предметы получит победитель (Формат: Itemx1, Itemx2, Itemx3)"
   },
   "Select a number for the authority or ranking of this rank. Lower number means higher authority. (0 is reserved for the owner of the guild)\nNOTE: You cannot create a rank with authority higher than or equal to your own' rank's authority.": {
     "pt": "Selecione um número para a autoridade ou classificação dessa classificação. Números menores significam maior autoridade. (0 é reservado para o proprietário da guilda)\nNOTA: Você não pode criar uma classificação com autoridade maior que ou igual a autoridade da sua classificação.",
@@ -2909,135 +2909,135 @@
   "Set this rank's salary. (Cannot be less than 0)": {
     "pt": "Define o salário desta classificação. (Não pode ser menor que 0)",
     "de": "Gehalt dieses Ranges festlegen. (Kann nicht negativ sein)",
-	"ru": "Задать зарплату для этого ранга (не может быть меньше нуля)"
+    "ru": "Задать зарплату для этого ранга (не может быть меньше нуля)"
   },
   "Type the number of the page you wish to jump to.\n1. Authority\n2. Permissions\n3. Salary": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Autoridade\n2. Permissões\n3. Salário",
     "de": "Schreibe die Seitenzahl zu der du springen möchtest.\n1. Authorität \n2. Berechtigungen\n3. Gehalt",
-	"ru": "Введите номер нужной страницы для быстрого перемещения\n1. Авторитет\n2. Полномочия\n3. Зарплата"
+    "ru": "Введите номер нужной страницы для быстрого перемещения\n1. Авторитет\n2. Полномочия\n3. Зарплата"
   },
   "Set permissions by typing in the name of the permission followed by the value. (I.E. invite_members false).  \nAvailable permissions are:": {
     "pt": "Defina permissões ao digitar o nome da permissão seguida pelo valor. (Exemplo invite_members false).  \nAs permissões disponíveis são:",
     "de": "Setze die Berechtigungen, indem du sie in den Chat schreibst. (Beispiel: invite_members false).  \nDie möglichen Berechtigungen sind:",
-	"ru": "Задайте полномочия, указав название и значение каждого необходимого. (Пример: invite_members false).  \nДоступные полномочия:"
+    "ru": "Задайте полномочия, указав название и значение каждого необходимого. (Пример: invite_members false).  \nДоступные полномочия:"
   },
   "List the ingredients and their quantities. Use this format: `Orangex4 Applex3`\nSet the quantity for an item to 0 to make it required but non-consumed, such as for tools.": {
     "pt": "Liste os infredientes e suas quantidades. Use o formato: `Orangex4 Applex3`\nDefina a quantiadde de um item como 0 para torná-lo obrigatório mas não consumido, como para ferramentas.",
     "de": "Nenne die benötigten Gegenstände und ihre Menge. Format: `Orangex4 Applex3`\n Setze die Anzahl eines Gegenstandes auf 0, falls er für das Rezept benötigt, aber nicht aufgebraucht wird (z.B Werkzeuge)",
-	"ru": "Укажите ингредиенты и их количество. Формат: `Orangex4 Applex3`\nМожете указать количество предмета = 0, чтобы он требовался, но не использовался (например-для инструментов)."
+    "ru": "Укажите ингредиенты и их количество. Формат: `Orangex4 Applex3`\nМожете указать количество предмета = 0, чтобы он требовался, но не использовался (например-для инструментов)."
   },
   "Define the method by which this recipe is crafted. If you don't understand what this is, skip it": {
     "pt": "Defina o método pelo qual esta receita é fabricada. Se você não entende o que é isso, pule essa parte",
     "de": "Definiere die Methode in der ein Gegenstand hergestellt wird. Überspringe diesen Schritt, falls du nicht weißt was das bedeutet",
-	"ru": "Укажите метод использования рецепта. (пропустите, если не знаете, что выбрать)"
+    "ru": "Укажите метод использования рецепта. (пропустите, если не знаете, что выбрать)"
   },
   "Set the time it takes for this recipe to be crafted in seconds.": {
     "pt": "Defina o tempo, em segundos, que leva para essa receita ser fabricada.",
     "de": "Wie lange dauert es diesen Gegenstand herzustellen? (In Sekunden) ",
-	"ru": "Укажите время, которое потребуется для создания предмета (в секундах)"
+    "ru": "Укажите время, которое потребуется для создания предмета (в секундах)"
   },
   "List the products and their quantities using the same format as the ingredients `Orangex5 Applex3`": {
     "pt": "Liste os produtos e suas quantidades usando o mesmo formato dos ingredientes `Orangex5 Applex3`",
     "de": "Liste die erzeugten Gegenstände und ihre Anzahl auf (gleiches Format wie bei benötigten Gegenständen) `Orangex5 Applex3`",
-	"ru": "Укажите, какие предметы будут созданы и из количество. Формат: `Orangex5 Applex3` (как и у ингредиентов)"
+    "ru": "Укажите, какие предметы будут созданы и из количество. Формат: `Orangex5 Applex3` (как и у ингредиентов)"
   },
   "Should this recipe be hidden? [yes/no] (i.e. only craftable with rp!craft attempt)`": {
     "pt": "Esta receita deve ser escondida? [yes/no] (ou seja, somente fabricável com rp!craft attempt)",
     "de": "Soll dieses Rezept versteckt sein? [yes/no] (Kann nur mit dem Befehl rp!craft attempt erstellt werden)",
-	"ru": "Укажите, должен ли рецепт быть скрытым (скрытый рецепт можно использовать только с помощью команды rp!craft attempt, угадав ингредиенты) [yes/no]"
+    "ru": "Укажите, должен ли рецепт быть скрытым (скрытый рецепт можно использовать только с помощью команды rp!craft attempt, угадав ингредиенты) [yes/no]"
   },
   "Type the number of the page you wish to jump to.\n1. Ingredients\n2. Method\n3. Time\n4. Product\n5. Hidden": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Ingredientes\n2. Método\n3. Tempo\n4. Produto\n5. Escondido",
     "de": "Schreibe die Seitenzahl zu der du springen möchtest.\n1. Zutaten\n2. Methode\n3. Dauer\n4. Erzeugnis\n5. Versteckt",
-	"ru": "Введите номер нужной страницы для быстрого перемещения\n1. Ингредиенты\n2. Метод\n3. Время\n4. Результат\n5. Скрытость"
+    "ru": "Введите номер нужной страницы для быстрого перемещения\n1. Ингредиенты\n2. Метод\n3. Время\n4. Результат\n5. Скрытость"
   },
   "Describe the shop (description). (3995 chars max)": {
     "pt": "Descreva a loja (descrição). (max 3995 caracteres)",
     "de": "Beschreibe den Shop (Beschreibung). (max. 3995 Zeichen)",
-	"ru": "Задайте описание магазина (description). (максимум 3995 знаков)"
+    "ru": "Задайте описание магазина (description). (максимум 3995 знаков)"
   },
   "If you would like to provide a icon for the shop, paste one here. (Leave blank for no icon).": {
     "pt": "Se você quiser definir um ícone para a loja, cole um aqui. (Deixe em branco para não ter ícone).",
     "de": "Falls du ein Icon für den Shop verwenden willst, lade es jetzt hoch. (Leer lassen für kein Icon).",
-	"ru": "Прикрепите иконку для магазина (оставьте поле пустым, если хотите создать без иконки)"
+    "ru": "Прикрепите иконку для магазина (оставьте поле пустым, если хотите создать без иконки)"
   },
   "Which channels should this be available in? Provide any combination of individual channels and channel categories. If none are selected, the shop will be available in all channels.": {
     "pt": "Em quais canais isto deve estar disponível? Forneça qualquer combinação de canais individuais e categorias de canais. Se nenhum for selecionado, a loja estará disponível em todos os canais.",
     "de": "Aus welchen Kanälen soll dieser Shop erreichbar sein ? Nenne einen Kanal, eine Liste von Kanälen oder Kanalkategorien. Falls keine genannt werden, kann der Shop in allen Kanälen verwendet werden.",
-	"ru": "Укажите, в каких каналах магазин будет доступен. (можно указывать как название каналов, так и их категории). По умолчанию магазин доступен из любого канала!"
+    "ru": "Укажите, в каких каналах магазин будет доступен. (можно указывать как название каналов, так и их категории). По умолчанию магазин доступен из любого канала!"
   },
   "Type the number of the page you wish to jump to.\n1. Description\n2. Icon\n3. Channels": {
     "pt": "Digite o número da página para qual você deseja ir.\n1. Descrição\n2. Ícone\n3. Canais",
     "de": "Schreibe die Seitenzahl zu der du springen möchtest.\n1. Beschreibung\n2. Icon\n3. Kanäle",
-	"ru": "Введите номер нужной страницы для быстрого перемещения\n1. Описание\n2. Иконка\n3. Каналы"
+    "ru": "Введите номер нужной страницы для быстрого перемещения\n1. Описание\n2. Иконка\n3. Каналы"
   },
   "Script deleted!": {
     "pt": "Script removido!",
     "de": "Skript gelöscht!",
-	"ru": "Скрипт удалён!"
+    "ru": "Скрипт удалён!"
   },
   "Successfully renamed lootbox": {
     "pt": "Lootbox renomeada com sucesso",
     "de": "Lootbox erfolgreich umbenannt",
-	"ru": "Лутбокс успешно переименован"
+    "ru": "Лутбокс успешно переименован"
   },
   "Set a character attribute\nUsage: rp!character attribute set description \"John likes bananas!\"\n\nBot Admin is required to edit other people's characters' attributes": {
     "pt": "Defina um atributo de personagem\nUtilização:  rp!character attribute set description \"João gosta de bananas!\"\n\nCargo Bot Admin é necessário para editar atributos de personagens de outras pessoas",
     "de": "Definiere ein Attribut deines Charakteres \nBefehl:  rp!character attribute set description \"John mag Bananen\"\n\nDie Rolle Bot Admin wird benötigt um Attribute von anderen Leuten zu ändern",
-	"ru": "Добавить атрибут персонажу\nИспользование: rp!character attribute set description \"Джон любит бананы!\"\n\nДля применения к чужому персонажу требуется роль Bot Admin."
+    "ru": "Добавить атрибут персонажу\nИспользование: rp!character attribute set description \"Джон любит бананы!\"\n\nДля применения к чужому персонажу требуется роль Bot Admin."
   },
   "Delete a character attribute\nUsage: rp!character attribute delete hair-color\n\nBot Admin is required to remove other people's characters' attributes": {
     "pt": "Remove um atributo de personagem\nUtilização: rp!character attribute delete hair-color\n\nCargo Bot Admin é necessário para editar atributos de personagens de outras pessoas",
     "de": "Lösche ein Attribut eines Charakters \nBefehl: rp!character attribute delete hair-color\n\nDie Rolle Bot Admin wird benötigt um Attribute von anderen Leuten zu entfernen",
-	"ru": "Удалить атрибут у персонажа\nИспользование: rp!character attribute delete hair-color\n\nДля применения к чужому персонажу требуется роль Bot Admin."
+    "ru": "Удалить атрибут у персонажа\nИспользование: rp!character attribute delete hair-color\n\nДля применения к чужому персонажу требуется роль Bot Admin."
   },
   "Give an item from your inventory to another character.\nUsage:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 charname charname2": {
     "pt": "Dá um item do seu inventário para outro personagem.\nUtilização:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 nomeDoPersonagem nomeDoPersonagem2",
     "de": "Gib einem einen Charakter einen Gegenstand aus deinem Inventar\nBefehl:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 deinName andererName",
-	"ru": "Передать предмет из своего инвентаря другому персонажу\nИспользование:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 charname charname2"  
+    "ru": "Передать предмет из своего инвентаря другому персонажу\nИспользование:\n- rp!give Bananax5 Applex13 @Henry#8808\n- rp!give Bananax6 Applex23 charname charname2"  
   },
   "Open / view a container. See rp!containers to see the container numbers in your inventory.\nUsage: rp!container open 1": {
     "pt": "Abra / visualize um contêiner. Veja rp!containers para visualizar os números de contêiner no seu inventário.\nUtilização: rp!container open 1",
     "de": "Öffne/Betrachte einen Behälter. Benutze rp!containers um die Zahlen der Behälter in deinem Inventar anzuzeigen.\nBefehl: rp!container open 1",
-	"ru": "Открыть / посмотреть контейнер. Используйте rp!containers чтобы увидеть все контейнеры в вашем инвентаре\nИспользование: rp!container open 1"
+    "ru": "Открыть / посмотреть контейнер. Используйте rp!containers чтобы увидеть все контейнеры в вашем инвентаре\nИспользование: rp!container open 1"
   },
   "Give multiple items to the list of users. Look carefully at syntax\nUsage:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 mycharacter character2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone": {
     "pt": "Dê vários itens para uma lista de usuários. Preste atenção à sintaxe\nUtilização:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 meuPersonagem personagem2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone",
     "de": "Gib mehrere Gegenstände an eine Liste von Benutzern. Beachte die Syntax.\nBefehl:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 deinCharakter andererCharakter\n- rp!giveitems Bananax14 Applex9 @Administrators everyone",
-	"ru": "Выдать несколько предметов нескольким пользователям (как администратор). Повнимательнее с синтаксисом!\nИспользование:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 mycharacter character2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone"
+    "ru": "Выдать несколько предметов нескольким пользователям (как администратор). Повнимательнее с синтаксисом!\nИспользование:\n- rp!giveitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!giveitems Bananax13 Applex12 mycharacter character2\n- rp!giveitems Bananax14 Applex9 @Administrators everyone"
   },
   "Give an item to a number of characters as an administrator, rather than from your inventory. You may\nalso target item tags.\nUsage:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 mycharacter character2": {
     "pt": "Dê um item para um número de personagems como um administrador, ao invés de dar o item do seu inventário. Você também pode utilizar tags de itens.\nUtilização:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 meuPersonagem personagem2",
     "de": "Gib mehreren Charakteren einen Gegenstand als Administrator.Du kannst auch Item-Tags verwenden.\nBefehl:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 deinName andererName",
-	"ru": "Забрать предметы в указанном количестве у нескольких пользователей. (Можете указать тэг предмета вместо названия)\nИспользование:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 mycharacter character2"
+    "ru": "Забрать предметы в указанном количестве у нескольких пользователей. (Можете указать тэг предмета вместо названия)\nИспользование:\n- rp!takeitem Banana 12 @Henry#8808 @terabix#0001\n- rp!takeitem Banana 13 mycharacter character2"
 
   },
   "Take multiple items from the list of users. Look carefully at syntax\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 mycharacter character2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone": {
     "pt": "Pegue vários items de uma lista de usuários. Preste atenção à sintaxe\nUsage:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 meuPersonagem personagem2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone",
     "de": "Nimm mehrere Gegenstände von den genannten Spielern. Achte auf die Syntax.\nBefehl:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 deinNam andererName\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone",
-	"ru": "Забрать несколько видов предметов у нескольких пользователей.\nИспользование:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 mycharacter character2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone"
+    "ru": "Забрать несколько видов предметов у нескольких пользователей.\nИспользование:\n- rp!takeitems Bananax12 Applex15 @Henry#8808 @terabix#0001\n- rp!takeitems Bananax13 Applex12 mycharacter character2\n- rp!takeitems Bananax14 Applex9 @Administrators @\u200Beveryone"
   },
   "Use an item in your inventory": {
     "fr": "Utiliser un item dans votre inventaire",
     "pt": "Utilize um item do seu inventário",
     "de": "Benutze einen Gegenstand aus deinem Inventar",
-	"ru": "Использовать предмет из вавшего инвентаря"
+    "ru": "Использовать предмет из вавшего инвентаря"
   },
   "Wipe all listed inventories. Must be administrator. To wipe ALL inventories do `rp!wipeinv everyone`": {
     "pt": "Limpe todos os inventários listados. Precisa ser administrador. Para limpar TODOS os inventários faça `rp!wipeinv everyone`",
     "de": "Lösche alle Items aus den genannten Inventaren. Du musst Administrator sein. Um alle Inventare zu löschen benutze `rp!wipeinv everyone`",
-	"ru": "Очистить инвентарь у указанных пользователей. Чтобы очистить все инвентари, используйте `rp!wipeinv everyone`"
+    "ru": "Очистить инвентарь у указанных пользователей. Чтобы очистить все инвентари, используйте `rp!wipeinv everyone`"
   },
   "Take money from users, same syntax as rp!givemoney": {
     "pt": "Pegue dinheiro de usuários, mesma sintaxe de rp!givemoney",
     "de": "Nimm Geld von einem Benutzer, gleiche Syntax wie rp!givemoney",
-	"ru": "Забрать указанную сумму у указанных пользователей (Синтаксис схож с командой rp!givemoney)"
+    "ru": "Забрать указанную сумму у указанных пользователей (Синтаксис схож с командой rp!givemoney)"
   },
   "See all current guilds": {
     "fr": "Voir les guildes du serveur",
     "pt": "Veja as guildas atuais",
     "de": "Zeige eine Liste aller Gilden",
-	"ru": "Посмотреть информацию обо всех гильдиях на сервере"
+    "ru": "Посмотреть информацию обо всех гильдиях на сервере"
   },
   "Roll a number of dice with given sides (ndx notation)\nExample: rp!rtd 3d7 2d4\nOptional Additions:\nTest for success by adding a >/<#\nGrab the top n rolls by adding ^n\nGrab the bottom n rolls by adding _n\nAdd to the final roll by just adding a number (pos or neg)\n\nExamples of all:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Roll failed (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Grabbed top 4 out of 8)": {
     "pt": "Role um número de dados com uma dada quantidade de lados (notação ndx)\nExamplo: rp!rtd 3d7 2d4\nAdições opicionais:\nTeste de sucesso adicionando >/<#\nPegue o top n jogadas adicionando ^n\nPegue as n menores jogadas adicionando _n\nAdicione um valor ao resultado final somente informando um número (pos ou neg)\n\nTodos os exemplos:\nrp!rtd 8d8 -12 15 ^4 >32\n\n-> Rolagem falhou (30 > 32) ([8 + 7 + 6 + 6] + -12 + 15) (Pegou o Top 4 das 8 rolagens)",
@@ -3047,82 +3047,82 @@
     "fr": "Voir les regions du serveur",
     "pt": "Ver as regiões do servidor",
     "de": "Zeige eine Liste aller Regionen",
-	"ru": "Посмотреть регионы на сервере"
+    "ru": "Посмотреть регионы на сервере"
   },
   "Sync the roles of all characters in the server": {
     "pt": "Sicnronize os cargos de todos os personagens no servidor",
     "de": "Synchronisiere die Rollen aller Charaktere auf dem Server",
-	"ru": "Синхронизировать роли для всех персонажей на сервере"
+    "ru": "Синхронизировать роли для всех персонажей на сервере"
   },
   "Explicitly enable a command for a role for the server. Will override the setting for lower roles\nEx: rp!s enable character.create @Bot Admin": {
     "pt": "Habilite explicitamente um comando para um cargo do servidor. Irá sobrescrever as configurações para gargos inferiores\nEx: rp!s enable character.create @Bot Admin",
     "de": "Erlaubt explizit einen Befehl für eine Rolle. Überschreibt die Einstellungen für niedrigere Rollen \nBsp.: rp!s enable character.create @Bot Admin",
-	"ru": "Дает определенной роли возможность использовать данную команду. Должно изменить настройки у более низких рангов (но это не точно)\nПример: rp!s enable character.create @Bot Admin"
+    "ru": "Дает определенной роли возможность использовать данную команду. Должно изменить настройки у более низких рангов (но это не точно)\nПример: rp!s enable character.create @Bot Admin"
   },
   "Set the currency for the server. Part appears before the number, part after\nExample:\n`rp!setcurrency $` before - money will appear like `$20`\n`rp!setcurrency gold` after - money will appear like `20 gold`": {
     "pt": "Defina a moeda do servidor. Parte aparece antes do número, parte depois\nExamplo:\n`rp!setcurrency $` before - dinheiro sera exibido como `$20`\n`rp!setcurrency gold` after - dinheiro sera exibido como `20 gold`",
     "de": "Ändere die Währung für den Servers. Bestimme ob die Währung vor(before) oder nach(after) der Zahl angezeigt wird\nBeispiel:\n`rp!setcurrency $` before -Das Geld wird so angezeigt:  `$20`\n`rp!setcurrency gold` after - Das Geld wird so angezeigt:`20 gold`",
-	"ru": "Установить валюту на сервере. Она может отображаться до или после числа.\nПример:\n`rp!setcurrency $` before - валюта отобразится до числа: `$20`\n`rp!setcurrency gold` after - валюта отобразится после числа: `20 gold`"
+    "ru": "Установить валюту на сервере. Она может отображаться до или после числа.\nПример:\n`rp!setcurrency $` before - валюта отобразится до числа: `$20`\n`rp!setcurrency gold` after - валюта отобразится после числа: `20 gold`"
   },
   "Set default / starting region for the server": {
     "pt": "Defina a região padrão / inicial do servidor",
     "de": "Wähle die Startregion für den Server",
-	"ru": "Установить стандартный / стартовый регион на сервере"
+    "ru": "Установить стандартный / стартовый регион на сервере"
   },
   "Set the language for the server\nValid Languages:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl": {
     "pt": "Defina o idioma do servidor\nIdiomas válidos:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl",
     "de": "Ändere die Sprache des Bots:\nSprachen:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl",
-	"ru": "Установить язык бота на сервере\nПоддерживаемые языки:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl\n- russian, русский, ru"
+    "ru": "Установить язык бота на сервере\nПоддерживаемые языки:\n- english, en\n- spanish, espanol, español, es\n- french, francais, français, fr\n- german, deutsch, de\n- portuguese, portugues, português, pt\n- japanese, にほんご, 日本語, jp\n- polish, polski, pl\n- russian, русский, ru"
   },
   "Set the prefix for the server": {
     "pt": "Defina o prefixo do servidor",
     "de": "Ändere den Bot-Präfix für den Server:",
-	"ru": "Установить префикс бота на сервере"
+    "ru": "Установить префикс бота на сервере"
   },
   "Set the amount of money characters start with": {
     "pt": "Defina a quantidade de dinheiro com a qual um personagem inicia.",
     "de": "Bestimme mit wieviel Geld ein neuer Charakter anfängt",
-	"ru": "Установить стартовый (начальный) капитал на сервере"
+    "ru": "Установить стартовый (начальный) капитал на сервере"
   },
   "Set whether adding/removing a role to a user will sync it with all the user's characters (yes/no)": {
     "pt": "Defina se adicionar/remover um cargo para um usuário irá sincronizar com todos os personagens deste usuário (yes/no)",
     "pt": "Bestimme ob Rollen die einem Nutzer gegeben werden, mit seinen Charakteren synchronisieren (yes/no)",
-	"ru": "Установить, будет ли удаление / добавление роли пользователю отражаться и на всех его персонажах (yes/no)"
+    "ru": "Установить, будет ли удаление / добавление роли пользователю отражаться и на всех его персонажах (yes/no)"
   },
   "Export data from RPGBot-V2\nValid datatypes to export:\n- items\n- characters\n- settings\n- guilds": {
     "pt": "Exporte os dados do RPGBot-V2\nTipos de dados válidos para exportar:\n- items\n- characters\n- settings\n- guilds",
     "de": "Exportiere Daten aus RPGBot-V2\nGültige Datentypen:\n- items\n- characters\n- settings\n- guilds",
-	"ru": "Экспорт данных из RPGBot-V2\nПоддерживаемые категории (datatype):\n- предметы\n- персонажи\n- настройки\n- гильдии"
+    "ru": "Экспорт данных из RPGBot-V2\nПоддерживаемые категории (datatype):\n- предметы\n- персонажи\n- настройки\n- гильдии"
   },
   "Subcommands for importing data\nRequires attached file\nValid datatypes to import:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nSpecify \"overwrite\" at the end to overwrite any existing things": {
     "pt": "Subcomandos para importar dados\nRequer arquivo anexado\nTipos de dados válidos para importar:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nEspecifique \"overwrite\" no final para substituir qualquer coisa já existente",
     "pt": "Unterbefehle zum Importieren von Daten\nBenötigt angehängte Datei\nGültige Datentypen:\n- items\n- characters\n- settings\n- guilds\n- recipes\n- shops\n\nNenne am Ende \"overwrite\" um vorhandene Daten zu überschreiben",
-	"ru": "Дополнительные команды для импорта данных\nТребуется прикрепленный файл\nПоддерживаемые категории:\n- предметы\n- персонажи\n- настройки\n- гильдии\n- рецепты\n- магазины\n\nУкажите \"overwrite\" в конце для перезаписи текущих данных"
+    "ru": "Дополнительные команды для импорта данных\nТребуется прикрепленный файл\nПоддерживаемые категории:\n- предметы\n- персонажи\n- настройки\n- гильдии\n- рецепты\n- магазины\n\nУкажите \"overwrite\" в конце для перезаписи текущих данных"
   },
   "Import data from old RPGBot.\nValid datatypes to wipe:\n- items\n- characters\n- settings\n- guilds\n- lootboxes\n- recipes\n- shops": {
     "pt": "Importe dados do antigo RPGBot.\n Tipos de dados válidos para limpar:\n- items\n- characters\n- settings\n- guilds\n- lootboxes\n- recipes\n- shops",
     "de": "Importiere Daten vom alten RPGBot.\n Gültige Datentypen:\n- items\n- characters\n- settings\n- guilds\n- lootboxes\n- recipes\n- shops",
-	"ru": "Перенос данных из старой версии RPGBot.\n Поддерживаемые категории (datatype):\n- предметы\n - гильдии\n- персонажи\n- настройки\n- рецепты\n- лутбоксы\n- магазины"
+    "ru": "Перенос данных из старой версии RPGBot.\n Поддерживаемые категории (datatype):\n- предметы\n - гильдии\n- персонажи\n- настройки\n- рецепты\n- лутбоксы\n- магазины"
   },
   "Region successfully set!": {
     "de": "Region erfolgreich erstellt!",
-	"ru": "Регион успешно установлен!"
+    "ru": "Регион успешно установлен!"
   },
   "Delete a region": {
     "de": "Lösche eine Region",
-	"ru": "Удалить регион"
+    "ru": "Удалить регион"
   },
   "Set the character's region": {
     "de": "Region des Charakteres ändern",
-	"ru": "Установить регион персонажа"
+    "ru": "Установить регион персонажа"
   },
   "Set the role of a region": {
     "de": "Rolle für die Region setzen",
-	"ru": "Установить роль для региона"
+    "ru": "Установить роль для региона"
   },
   "Move the currently assumed character to a neighboring region": {
     "de": "Bewege den zurzeit angenommenen Charakter zu einer benachbarten Region",
-	"ru": "Переместить текущего связанного персонажа в соседний регион"
+    "ru": "Переместить текущего связанного персонажа в соседний регион"
   },
   "Roll": {
     "de": "Würfelwurf"
