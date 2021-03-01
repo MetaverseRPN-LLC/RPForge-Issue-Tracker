@@ -3127,7 +3127,7 @@
   "Are there any tags you'd like to apply to the item? Tags can be used to mark item types, for example you might create 3 varieties of apples, Green Apples, Red Apples, and Yellow Apples, and apply the `apple` tag to each": {
     "pt": "Existe alguma tag que você gostaria de aplicar ao item? Tags podem ser usadas para marcar os tipos de item, por exemplo você pode criar 3 variedades de maçã, Maçã verde, Maçã vermelha e Maçã amarela, e aplicar a tag `maçã` a cada uma",
     "de": "Möchtest du dem Gegenstand Tags hinzufügen? Tags können verwendet werden um Gegenständen Typen zu geben. Du kannst z.B 3 verschiedene Arten von Äpfeln erstellen, Grüner Apfel, Roter Apfel, Gelber Apfel und jedem den Tag `Apfel` geben ",
-    "ru": "Можете добавить какие-нибудь теги к этому предмету. Их можно использовать для обозначения типов элементов, например, вы можете создать 3 сорта яблок: Зеленые яблоки, Красные яблоки и Желтые яблоки и применить тег "яблоко" к каждому из них",
+    "ru": "Можете добавить какие-нибудь теги к этому предмету. Их можно использовать для обозначения типов элементов, например, вы можете создать 3 сорта яблок: Зеленые яблоки, Красные яблоки и Желтые яблоки и применить тег \"яблоко\" к каждому из них",
     "hu": "Itt adhatóak meg címkék a tárgyhoz. Címkékkel jelölhetőek meg különböző tárgytípusok. Lehet tárgy például 3 féle alma, piros, zöld és sárga színű, és adható mindháromnak az 'alma' címke, így kategorizálva őket."
   },
   "Capacity": {
