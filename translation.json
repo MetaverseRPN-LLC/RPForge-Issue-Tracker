@@ -200,7 +200,7 @@
     "pl": "Pieniądze: {}{:.2f}\nPrzedmiot: {}\nPozostały czas: {}\nUczestnicy: {}",
     "de": "Geld: {}{:.2f}\nGegenstände: {}\nÜbrige Zeit: {}\nTeilnehmerInnen: {}",
     "ru": "Деньги: {}{:.2f}\nПредметы: {}\nОставшееся время: {}\nУчастники: {}",
-    "hu": "Pénz: {}{:.2f}\nTárgyak: {}\nHátralévő idő: {}\nRésztvevők: {}""
+    "hu": "Pénz: {}{:.2f}\nTárgyak: {}\nHátralévő idő: {}\nRésztvevők: {}"
   },
   "No active lotteries!": {
     "fr": "Aucune loterie active",
@@ -1195,7 +1195,6 @@
     "es": "Se dió {} / {} con éxito",
     "pl": "Pomyślnie przekazano {} / {}",
     "de": "Erfolgreich {} / {} gegeben",
-    "ru": "",
     "hu": "{} / {} sikeresen átadva"
   },
   "See the characters with the 10 highest balances": {
@@ -1714,7 +1713,6 @@
     "fr": "Donne un item de votre inventaire à un autre personnage.\n        Utilisation:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 nomdepersonnage nomdepersonnage2",
     "pt": "Dar um item do seu inventário para outro personagem.\n        Uso:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 nomeDoPersonagem1 nomeDoPersonagem2",
     "es": "Dar un objeto de tu inventario a otro personaje.\n        Uso:\n            - rp!give Bananax5 Applex13 @Henry#8808\n            - rp!give Bananax6 Applex23 nombreDelPersonaje1 nombreDelPersonaje2",
-    "pl": "",
     "de": "Gib einen Gegenstand aus deinem Inventar einem anderen Charakter\n        Verwendung:\n            -rp!give Bananax5 Applex13 @Henry#8808\n            -rp!give Bananax6 Applex23 charname charname2",
     "ru": "Передать предмет другому пользователю.\n        Использование:\n            - rp!give Бананx5 Яблокоx13 @Henry#8808\n            - rp!give Бананx6 Яблокоx23 имяПерсонажа имяПерсонажа2",
     "hu": "Saját tárgyak közül tárgyak átadása egy másik karakternek.\n        Használat:\n            - rp!give Banánx5 Almax13 @Henry#8808\n            - rp!give Banánx6 Almax23 saját_karakter másik_karakter"
@@ -2740,7 +2738,6 @@
     "fr": "Quel type de salaire est ce que a doit-être ? Donné automatiquement (après le temps donné), ou le joueur doit il le collecter manuellement avec `rp!salary collect`? Les choix sont `automatic` ou `manual`",
     "pt": "Que tipo de salário deve ser? Automaticamente pago (após o tempo), ou o jogador precisa coletar manualmente com rp!salary collect? Opções são `automatic` ou `manual`",
     "es": "Que tipo de salario debe ser? Dado automáticamente (despues de un tiempo), o el jugador debe cobrarlo manualmente con rp!salary collect? Las opciones son `automatic` o `manual`",
-    "pl": "",
     "de": "Welche Art von Gehalt sollte es sein? Automatisch jedes Zeitintervall, oder müssen die Spieler es manuell mit rp!salary einsammeln? Die Auswahlmöglichkeiten sind `automatic` oder `manual`",
     "ru": "Как будет выдаваться зарплата: автоматически, или игроку нужно будет использовать rp!salary collect для её получения?\nВыберите `automatic` или `manual` соответственно",
     "hu": "Automatikus (a megadott időközönként begyűjtődik), vagy manuálisan kérendő (az 'rp!salary collect' parancs használatával) fizetés legyen? Előbbihez 'automatic', utóbbihoz 'manual' választ írj." 
