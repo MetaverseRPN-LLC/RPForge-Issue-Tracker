@@ -529,7 +529,7 @@
     "hu": "Karakter álnév eltávolítva!"
   },
   "Subcommands for importing data\n        Requires attached file\n        Import data from old RPGBot.\n        Valid datatypes to export:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata": {
-    "fr": "Sous-commandes pour importer vos données\n        Requiert un fichier attaché\n        Importer les données de l'ancien RPGBot.\n        Types des données valides à exporter:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata":,
+    "fr": "Sous-commandes pour importer vos données\n        Requiert un fichier attaché\n        Importer les données de l'ancien RPGBot.\n        Types des données valides à exporter:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "pt": "Subcomandos para importação de dados\n        Requer arquivo anexado\n        Importa dados do antigo RPGBot.\n        Tipos de dados válidos para exportar:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "es": "Subcomandos para importar de datos\n        Requiere archivo adjunto\n        Importa datos del antiguo RPGBot.\n        Tipos de datos válidos para exportar\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
     "de": "Unterbefehle zum Importieren von Daten\n        Erfordert angehängte Datei\n        Daten aus dem altem RPGBot importieren.\n        Gültige Datentypen zum Exportieren:\n        - items\n        - characters\n        - settings\n        - guilds\n        - userdata",
