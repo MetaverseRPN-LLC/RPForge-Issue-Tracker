@@ -351,11 +351,11 @@ Depending on where this script is run from (from item use, ability use, or on an
   
   Example:
   ```
-  reply("You used one" + $item)
-  give_role($char, "Fishing Master")
+  reply("You used one" + item)
+  give_role(char, "Fishing Master")
   ```
 
 ## Abilities
-  When using a custom command through an ability, you will have access to all the variables that you defined when creating the ability, they will have the same names (`target -> $target` in the script).
+  When using a custom command through an ability, you will have access to all the variables that you defined when creating the ability, they will have the same names (`target -> target` in the script).
   - char - the name of the character who used the ability
   - channelid - the ID of the channel the command was used in
