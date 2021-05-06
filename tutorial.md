@@ -307,11 +307,11 @@ Recipes require several columns:
   - method: The method someone has to enter to discover the recipe if its hidden
 
 
-### Shop
-[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/shop_example.csv)
+### Shopitems
+[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/shopitems_example.csv)
 Shops require several columns:
-  - shopname: The name of the shop this will be added to 
-  - itemname: The name of the item that this adds
+  - shop_name: The name of the shop this will be added to 
+  - item_name: The name of the item that this adds
   - buy: The amount of money charged for buying this from the shop 
   - sell: The amount of money given for selling this to the shop 
 
