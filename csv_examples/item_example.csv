@@ -1,5 +1,5 @@
-name,description,image,type,use
-Basic Sword,Its a very nice sword,https://sabersmith.com/wp-content/uploads/2016/12/shortsword.jpg,nontransfer,
-Basic Shield,Its an ok shield made of oak,,basic,
-Master Sword,The most awesome sword ever,https://images-na.ssl-images-amazon.com/images/I/51-xZosrLEL._AC_SL1000_.jpg,"unique, nontransfer",
-Bomb,An explosive delight,,basic,"You throw the bomb, it seems like it was a dud though"
+name,description,image,type,use,weight:int,colour:string
+Basic Sword,Its a very nice sword,https://sabersmith.com/wp-content/uploads/2016/12/shortsword.jpg,nontransfer,,3,grey
+Basic Shield,Its an ok shield made of oak,,basic,,10,brown
+Master Sword,The most awesome sword ever,https://images-na.ssl-images-amazon.com/images/I/51-xZosrLEL._AC_SL1000_.jpg,"unique, nontransfer",,3,
+Bomb,An explosive delight,,basic,"You throw the bomb, it seems like it was a dud though",,fish
