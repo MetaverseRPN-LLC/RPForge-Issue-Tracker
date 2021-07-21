@@ -344,7 +344,7 @@ Depending on where this script is run from (from item use, ability use, or on an
   - take_bank(charname: string, amount: float) - Take an amount of money from the character's bank. Will return False if the character doesn't have enough
   - get_bank(charname: string) - Get the amount of money a character has in their bank
   - get_character_region(charname: string, default: any = False) - Set the value of an attribute of a character, `default` is optionally added to set a value that is returned if the character doesn't have a region
-  - set_character_attribute(charname: string, region: string) - Set the region of a character
+  - set_character_region(charname: string, region: string) - Set the region of a character
   
 ## Item Use
   - item - the name of the item as a string
