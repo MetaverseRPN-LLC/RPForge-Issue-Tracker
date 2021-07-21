@@ -325,7 +325,7 @@ Depending on where this script is run from (from item use, ability use, or on an
   - get_inventory_count(charname: string, itemname: string) - Get the number of an item a user has in their inventory
   - get_item_attribute(itemname: string, attrname: string, default: any = False) - Get the value of an attribute of an item, `default` is optionally added to set a value that is returned if the character doesn't have the attribute
   - set_item_attribute(itemname: string, attrname: string, value: any) - Set the value of an attribute of an item
-  - get_character_attribute(charname: string, attrname: string, default: any = False) - Set the value of an attribute of a character, `default` is optionally added to set a value that is returned if the character doesn't have the attribute
+  - get_character_attribute(charname: string, attrname: string, default: any = False) - Get the value of an attribute of a character, `default` is optionally added to set a value that is returned if the character doesn't have the attribute
   - set_character_attribute(charname: string, attrname: string, value: any) - Set the value of an attribute of a character
   - give_character_item(charname: string, itemname: string, amount: positive integer) - Set the value of an attribute of an item
   - take_character_item(charname: string, itemname: string, amount: positive integer) - Set the value of an attribute of an item
@@ -343,7 +343,8 @@ Depending on where this script is run from (from item use, ability use, or on an
   - give_bank(charname: string, amount: float) - Put an amount of money into the character's bank
   - take_bank(charname: string, amount: float) - Take an amount of money from the character's bank. Will return False if the character doesn't have enough
   - get_bank(charname: string) - Get the amount of money a character has in their bank
-  
+  - get_character_region(charname: string, default: any = False) - Set the value of an attribute of a character, `default` is optionally added to set a value that is returned if the character doesn't have a region
+  - set_character_attribute(charname: string, region: string) - Set the region of a character
   
 ## Item Use
   - item - the name of the item as a string
