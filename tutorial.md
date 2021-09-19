@@ -316,11 +316,115 @@ Shops require several columns:
   - sell: The amount of money given for selling this to the shop 
 
 # Scripting
-We use Pyk to implement our scripts. For a tutorial on Pyk syntax, see [here](https://github.com/IAmTomahawkx/pyk#syntax)
+We use Pyk to implement our scripts. 
+For some help with Pyk syntax  >>>>>>>>> [CLICK HERE](https://github.com/IAmTomahawkx/pyk#syntax)
 
-### Variables
-Depending on where this script is run from (from item use, ability use, or on an event), different variables will be defined in the namespace of the code, meaning you can use these variables in your script without defining them. For defined functions, if they fail for some reason, they will return false to let you know.
-## Builtin Functions
+Some Basics:
+
+# How to create a script
+  - Write your code and save it in a .txt file
+  - Upload the .txt file to your discord server, with the message !script create scriptname
+    Replace scriptname with the name you want to call the script.
+
+	
+## How to run a script
+  To run a script you first need to create it.
+  There are currently two ways to run scripts: when using an item, or when using an ability.
+
+### Run a script when using an item
+  - Create the item with rp!item create <itemname>
+    Replace itemname with the name you want to call the item.
+  - Use the Discord reactions to go through the menus, send messages to fill the menus with text.
+  -	In step 4 (Types) of item creation, set its type to usable
+  - Click next, this opens the menu Use.
+  - Write the name of your script in this menu
+  
+  Now whenever someone uses the item with !use ITEMNAME , the script will be run.
+  Remember this only works, if you actually have the item in your inventory. 
+  To test the script you can give someone the item with !giveitem ITEMNAME 1 CHARACTERNAME
+  
+### Run a script when using an ability
+  - Create the ability with rp!ability create name scriptname args
+    Replace name with the name you want to call the ability
+	Replace scriptname with the name of your script
+	Replace args with the function arguments you want the ability to have.
+	(These are variables you can reference in the script)
+    Function arguments should be separated by newlines.
+    Valid types: int, char, item, string, float
+  Example
+  ```
+  rp!ability create Fireball fireball damage:int
+  This creates the ability Fireball, running the script fireball, with a variable target(type int) defined
+  ```
+
+# Scripting Language
+## Variables
+Variables are used to store and retrieve information.
+They have a name and a value.
+You can use them to save numbers or text.
+
+  Create a variable:
+  ```
+  fruit = "apple"   //creates a variable named fruit with the value "apple"
+  damage = 5		//creates a variable named damage with the value 5
+  ```
+  
+  Calculate with variables:
+  ```
+  damage = 10
+  damage = damage + 5
+  
+  // This creates a damage variable with the value 10 and then adds 5 to it.
+  ```
+  
+
+  ```
+  fruit = "apple"
+  fruit = fruit + ", pear"
+  // This creates a fruit variable with the text "apple" and then adds some text.
+  // Now the variable fruit has the text "apple, pear" saved
+  ```
+## IF - STATEMENTS
+If statements are used to run code, only if a certain condition is true.
+
+Conditions you can use:
+X is 10 : checks if X is the same as 10
+X > 10 : checks if X is bigger than 10
+X < 10 : checks if X is smaller than 10
+X <= 10 : checks if X is smaller or the same as 10
+X >= 10 : checks if X is bigger or the same as 10
+
+    Example:
+  ```
+  a = 10
+  if (a is 10){
+  reply("Hello World")
+  }
+  ```
+  This code sets the variable a to 10.
+  It then checks if the variable a was set to 10, and if it is, reply the text "Hello World"
+  
+## IF - ELSE STATEMENTS
+If-else statements work like if- statements, but you can also run code if the condition is not met.
+
+    Example:
+  ```
+  a = 3
+  if (a is 10){
+  reply("Hello World")
+  }
+  else
+  {
+  reply("Goodbye World")
+  }
+  ```
+  This code sets the variable a to 3.
+  It then checks if the variable a was set to 10.
+  If it is, the code replies the text "Hello World".
+  If it isn't the code replies the text "Goodbye World".
+
+
+  ## Builtin Functions
   There are a number of predefined functions that are available when your script runs, as well as several variables depending on the context in which the script runs.
   - get_inventory_count(charname: string, itemname: string) - Get the number of an item a user has in their inventory
   - get_item_attribute(itemname: string, attrname: string, default: any = False) - Get the value of an attribute of an item, `default` is optionally added to set a value that is returned if the character doesn't have the attribute
@@ -345,18 +449,54 @@ Depending on where this script is run from (from item use, ability use, or on an
   - get_bank(charname: string) - Get the amount of money a character has in their bank
   - get_character_region(charname: string, default: any = False) - Set the value of an attribute of a character, `default` is optionally added to set a value that is returned if the character doesn't have a region
   - set_character_region(charname: string, region: string) - Set the region of a character
-  
-## Item Use
-  - item - the name of the item as a string
-  - char - the name of the character using the item as a string
-  
+  - str(variable) - Changes the type of a variable to string.	
+
+Example script:
+  ```
+	a = randint(1, 100)
+	give_pocket(char, a) 
+	moneytext = str(a)
+	words = char + " opens the huge bag and finds " + moneytext  + " dollars."
+	reply(words)
+  ```
+Gives a the user 1-100 money.
+Then the script creates a sentence and replies it in the chat.
+ 
+Example script:
+ ```
+random_item = choice("sword","apple","car","banana","phone")
+give_character_item(char, random_item, 1)
+replytext = char + " got a " + random_item
+display_item(picked_item)
+  ```
+This script randomly picks an item, gives it to a player and shows some information about the item.
+
+### Your own functions
+You can also create your own functions and use them in your script:
   Example:
   ```
-  reply("You used one" + item)
-  give_role(char, "Fishing Master")
+  func myfunction(){
+  reply("Hello World")}
+  myfunction()
   ```
+  
+# Builtin Variables
 
-## Abilities
-  When using a custom command through an ability, you will have access to all the variables that you defined when creating the ability, they will have the same names (`target -> target` in the script).
-  - char - the name of the character who used the ability
-  - channelid - the ID of the channel the command was used in
+  Depending on where this script is run from (from item use or ability use), different variables will already be defined, which can be used in your script.
+  If the variable is not set(because the script wasn't called from items or abilities), the default value is false.
+  
+  Run script from item:
+  ```
+  item - name of the used item as string
+  amount - the number of items used at once
+  ```
+  Run script from ability:
+  ```
+  You have access to all the variables that you defined when creating the ability, 
+  they will have the name you created them with (`target -> target` in the script).
+  channelid - the ID of the channel the command was used in
+  ```
+  Variables you can always use:
+  ```
+  char - name of the character running the script as string
+  ```
