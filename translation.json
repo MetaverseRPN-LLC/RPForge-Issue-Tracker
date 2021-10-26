@@ -3839,7 +3839,7 @@
     "it": "Imposta la quantità di soldi iniziali per un personaggio"
   },
   "Set whether adding/removing a role to a user will sync it with all the user's characters (yes/no)": {
-    "pt": "Bestimme ob Rollen die einem Nutzer gegeben werden, mit seinen Charakteren synchronisieren (yes/no)",
+    "pt": "Defina se adicionar / remover uma função para um usuário irá sincronizá-la com todos os personagens do usuário (yes/no)",
     "ru": "Установить, будет ли удаление / добавление роли пользователю отражаться и на всех его персонажах (yes/no)",
     "hu": "Beállítás, hogy egy felhasználónak jog adása/elvétele ugyanúgy módosítja-e azon felhasználó összes karakterének rangját is (yes/no)",
     "it": "Imposta se aggiungere/rimuovere un ruolo da un user lo sincronizza con tutti i suoi personaggi (yes/no)"
@@ -3865,36 +3865,42 @@
     "it": "Importa dati dal vecchio RPGBot.\nTipi di dati validi per l'importo:\n- oggetti\n- personaggi\n- impostazioni\n- gilde\n- lootbox\n- ricette\n- negozi"
   },
   "Region successfully set!": {
+    "pt": "Região alterada com sucesso!",
     "de": "Region erfolgreich erstellt!",
     "ru": "Регион успешно установлен!",
     "hu": "Régió sikeresen beállítva",
     "it": "Regione impostata con successo!"
   },
   "Delete a region": {
+    "pt": "Delete uma região",
     "de": "Lösche eine Region",
     "ru": "Удалить регион",
     "hu": "Régió törlése",
     "it": "Elimina una regione"
   },
   "Set the character's region": {
+    "pt": "Selecione a região do personagem",
     "de": "Region des Charakteres ändern",
     "ru": "Установить регион персонажа",
     "hu": "Karakter régiójának beállítása",
     "it": "Imposta la regione del personaggio"
   },
   "Set the role of a region": {
+    "pt": "Selecione o cargo da região",
     "de": "Rolle für die Region setzen",
     "ru": "Установить роль для региона",
     "hu": "Régió szerepének beállítása",
     "it": "Imposta il ruolo di una regione"
   },
   "Move the currently assumed character to a neighboring region": {
+    "pt": "Move o personagem atual até a região vizinha",
     "de": "Bewege den zurzeit angenommenen Charakter zu einer benachbarten Region",
     "ru": "Переместить текущего связанного персонажа в соседний регион",
     "hu": "Jelenleg megszemélyesített karakter mozgatása szomszédos régióba",
     "it": "Muovi il personaggio correntemente assunto in una regione vicina"
   },
   "Roll": {
+    "pt": "Role",
     "de": "Würfelwurf",
     "hu": "Dobás",
     "ru": "",
