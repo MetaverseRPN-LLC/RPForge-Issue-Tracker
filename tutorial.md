@@ -450,6 +450,7 @@ If-else statements work like if- statements, but you can also run code if the co
   - get_character_region(charname: string, default: any = False) - Set the value of an attribute of a character, `default` is optionally added to set a value that is returned if the character doesn't have a region
   - set_character_region(charname: string, region: string) - Set the region of a character
   - str(variable) - Changes the type of a variable to string.	
+  - time() - returns the current time 
 
 Example script:
   ```
@@ -484,7 +485,7 @@ You can also create your own functions and use them in your script:
 
   Depending on where this script is run from (from item use or ability use), different variables will already be defined, which can be used in your script.
   If the variable is not set(because the script wasn't called from items or abilities), the default value is false.
-  
+	
   Run script from item:
   ```
   item - name of the used item as string
@@ -499,4 +500,8 @@ You can also create your own functions and use them in your script:
   Variables you can always use:
   ```
   char - name of the character running the script as string
+  ```
+  Variables you should never use:
+  ```
+  time - this is reserved for the time() function and should not be used as a variable name, as it will cause bugs
   ```
