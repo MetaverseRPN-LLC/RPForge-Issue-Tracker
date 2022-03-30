@@ -8,7 +8,7 @@ Access to Data is only permitted to Bot's developers, and only in the scope requ
 
 ## Storage of Data
 
-Data is stored in a PostgreSQL database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
+Data is stored in a PostgreSQL database with full encryption. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
 
 ## User Rights
 
