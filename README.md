@@ -1,6 +1,11 @@
-.. image:: https://discord.com/api/guilds/303307934774067210/embed.png
-   :target: https://discord.gg/mXZg2mk
-   :alt: Discord server invite
+Visit the support server:
+
+[Discord Server Invite](https://discord.gg/mXZg2mk)
+
+![](https://discord.com/api/guilds/303307934774067210/embed.png)
+
+[Invite the bot](https://discordapp.com/oauth2/authorize?client_id=673737213959208980&scope=bot&permissions=805596240)
+
 
 # RPGBot-V2-Issue-Tracker
 A Github page for storing public data for RPGBot and tracking issues
