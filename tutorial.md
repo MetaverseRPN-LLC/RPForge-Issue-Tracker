@@ -411,15 +411,6 @@ replytext = char .. " got a " .. random_item
 display_item(picked_item)
   ```
 This script randomly picks an item, gives it to a player and shows some information about the item.
-
-### Your own functions
-You can also create your own functions and use them in your script:
-  Example:
-  ```
-  func myfunction(){
-  reply("Hello World")}
-  myfunction()
-  ```
   
 # Builtin Variables
 
