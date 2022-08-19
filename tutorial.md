@@ -316,14 +316,14 @@ Shops require several columns:
   - sell: The amount of money given for selling this to the shop 
 
 # Scripting
-We use Pyk to implement our scripts. 
-For some help with Pyk syntax  >>>>>>>>> [CLICK HERE](https://github.com/IAmTomahawkx/pyk#syntax)
+	
+The bot uses Lua for scripting, for a quick refresher on Lua syntax, see [here](https://learnxinyminutes.com/docs/lua/)
 
 Some Basics:
 
 # How to create a script
   - Write your code and save it in a .txt file
-  - Upload the .txt file to your discord server, with the message !script create scriptname
+  - Upload the .txt file to your discord server, with the message !script luacreate scriptname
     Replace scriptname with the name you want to call the script.
 
 	
@@ -358,86 +358,26 @@ Some Basics:
   ```
 
 # Scripting Language
-## Variables
-Variables are used to store and retrieve information.
-They have a name and a value.
-You can use them to save numbers or text.
 
-  Create a variable:
-  ```
-  fruit = "apple"   //creates a variable named fruit with the value "apple"
-  damage = 5		//creates a variable named damage with the value 5
-  ```
-  
-  Calculate with variables:
-  ```
-  damage = 10
-  damage = damage + 5
-  
-  // This creates a damage variable with the value 10 and then adds 5 to it.
-  ```
-  
+The bot uses Lua for scripting, for a quick refresher on Lua syntax, see [here](https://learnxinyminutes.com/docs/lua/)
 
-  ```
-  fruit = "apple"
-  fruit = fruit + ", pear"
-  // This creates a fruit variable with the text "apple" and then adds some text.
-  // Now the variable fruit has the text "apple, pear" saved
-  ```
-## IF - STATEMENTS
-If statements are used to run code, only if a certain condition is true.
-
-Conditions you can use:
-X is 10 : checks if X is the same as 10
-X > 10 : checks if X is bigger than 10
-X < 10 : checks if X is smaller than 10
-X <= 10 : checks if X is smaller or the same as 10
-X >= 10 : checks if X is bigger or the same as 10
-
-    Example:
-  ```
-  a = 10
-  if (a is 10){
-  reply("Hello World")
-  }
-  ```
-  This code sets the variable a to 10.
-  It then checks if the variable a was set to 10, and if it is, reply the text "Hello World"
-  
-## IF - ELSE STATEMENTS
-If-else statements work like if- statements, but you can also run code if the condition is not met.
-
-    Example:
-  ```
-  a = 3
-  if (a is 10){
-  reply("Hello World")
-  }
-  else
-  {
-  reply("Goodbye World")
-  }
-  ```
-  This code sets the variable a to 3.
-  It then checks if the variable a was set to 10.
-  If it is, the code replies the text "Hello World".
-  If it isn't the code replies the text "Goodbye World".
-
-
-  ## Builtin Functions
+## Builtin Functions
   There are a number of predefined functions that are available when your script runs, as well as several variables depending on the context in which the script runs.
   - get_inventory_count(charname: string, itemname: string) - Get the number of an item a user has in their inventory
   - get_item_attribute(itemname: string, attrname: string, default: any = False) - Get the value of an attribute of an item, `default` is optionally added to set a value that is returned if the character doesn't have the attribute
   - set_item_attribute(itemname: string, attrname: string, value: any) - Set the value of an attribute of an item
   - get_character_attribute(charname: string, attrname: string, default: any = False) - Get the value of an attribute of a character, `default` is optionally added to set a value that is returned if the character doesn't have the attribute
   - set_character_attribute(charname: string, attrname: string, value: any) - Set the value of an attribute of a character
+  - display_item(itemname: string) - Show the details for an item with the given name
   - give_character_item(charname: string, itemname: string, amount: positive integer) - Set the value of an attribute of an item
   - take_character_item(charname: string, itemname: string, amount: positive integer) - Set the value of an attribute of an item
+  - get_character_region(charname: string, default: any = False) - Get the region of a character, returning default if the character has no region
+  - set_character_region(charname: string, regionname: string) - Set the region for a char
   - reply(message: string) - Send a message in the current channel
   - randint(floor: integer, ceiling: integer) - Generate a random integer between the floor and ceiling inclusive
   - choice(items: list) - Choose a random thing out of a list of things
   - choice(item1, item2, item3, ...) - Alternative way to use choice
-  - sleep(time: float) - Wait a number of seconds (up to an hour) before continuing the code
+  - asleep(time: float) - Wait a number of seconds (up to an hour) before continuing the code
   - give_role(charname: string, rolename: string) - Give a character (and its owner) a role with the given name
   - take_role(charname: string, rolename: string) - Take a role from a character (and its owner) with the given name
   - has_role(charname: string, rolename: string) - Returns True if the character has the role with the given name, otherwise False
@@ -449,14 +389,15 @@ If-else statements work like if- statements, but you can also run code if the co
   - get_bank(charname: string) - Get the amount of money a character has in their bank
   - get_character_region(charname: string, default: any = False) - Set the value of an attribute of a character, `default` is optionally added to set a value that is returned if the character doesn't have a region
   - set_character_region(charname: string, region: string) - Set the region of a character
-  - str(variable) - Changes the type of a variable to string.	
+  - set_global_var(name: string, value: any) - Set a global var that can be accessed between scripts with the given name and value
+  - get_global_var(name: string) - Get a global var with the given name
 
 Example script:
   ```
 	a = randint(1, 100)
 	give_pocket(char, a) 
-	moneytext = str(a)
-	words = char + " opens the huge bag and finds " + moneytext  + " dollars."
+	moneytext = tostring(a)
+	words = char .. " opens the huge bag and finds " .. moneytext  .. " dollars."
 	reply(words)
   ```
 Gives a the user 1-100 money.
@@ -466,7 +407,7 @@ Example script:
  ```
 random_item = choice("sword","apple","car","banana","phone")
 give_character_item(char, random_item, 1)
-replytext = char + " got a " + random_item
+replytext = char .. " got a " .. random_item
 display_item(picked_item)
   ```
 This script randomly picks an item, gives it to a player and shows some information about the item.
