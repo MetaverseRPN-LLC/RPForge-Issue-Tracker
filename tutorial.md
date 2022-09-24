@@ -391,6 +391,8 @@ The bot uses Lua for scripting, for a quick refresher on Lua syntax, see [here](
   - set_character_region(charname: string, region: string) - Set the region of a character
   - set_global_var(name: string, value: any) - Set a global var that can be accessed between scripts with the given name and value
   - get_global_var(name: string) - Get a global var with the given name
+  - get_character_names() - Get the names of all characters in a table
+  - wipe_char_attrs(name: string) - wipe the attrs for a character
 
 Example script:
   ```
