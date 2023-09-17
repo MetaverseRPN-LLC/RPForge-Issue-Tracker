@@ -364,8 +364,8 @@ The bot uses Lua for scripting, for a quick refresher on Lua syntax, see [here](
 ## Builtin Functions
   There are a number of predefined functions that are available when your script runs, as well as several variables depending on the context in which the script runs.
   - get_inventory_count(charname: string, itemname: string) - Get the number of an item a user has in their inventory
-  - get_item_attribute(itemname: string, attrname: string, default: any = False) - Get the value of an attribute of an item, `default` is optionally added to set a value that is returned if the character doesn't have the attribute
-  - set_item_attribute(itemname: string, attrname: string, value: any) - Set the value of an attribute of an item
+  - get_item_attribute(charname: string, itemname: string, attrname: string, default: any = False) - Get the value of an attribute of an item, `default` is optionally added to set a value that is returned if the character doesn't have the attribute
+  - set_item_attribute(charname: string, itemname: string, attrname: string, value: any) - Set the value of an attribute of an item
   - get_character_attribute(charname: string, attrname: string, default: any = False) - Get the value of an attribute of a character, `default` is optionally added to set a value that is returned if the character doesn't have the attribute
   - set_character_attribute(charname: string, attrname: string, value: any) - Set the value of an attribute of a character
   - display_item(itemname: string) - Show the details for an item with the given name
