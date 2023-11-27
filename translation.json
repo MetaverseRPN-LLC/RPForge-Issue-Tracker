@@ -338,15 +338,15 @@
     "hu": "Nem tehetsz le több pénzt a bankba, mint amennyi készpénz nálad van!",
     "it": "Non puoi depositare più soldi di quelli che hai in tasca!"
   },
-  "On you:\t\t {cb}{:.2f} {ca}\nIn the bank:\t {}{:.2f}\nTotal:\t\t {}{:.2f}": {
-    "fr": "Sur vous:\t\t {cb}{:.2f} {ca}\nEn banque:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
-    "pt": "Com você:\t\t {cb}{:.2f} {ca}\nNo banco:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
-    "es": "En el bolsillo:\t\t {cb}{:.2f} {ca}\nEn el banco:\t {cb}{:.2f} {ca}\nTotal:\t\t {cb}{:.2f} {ca}",
-    "pl": "Przy tobie:\t\t {cb}{:.2f} {ca}\nW banku:\t {cb}{:.2f} {ca}\nŁacznie:\t\t {cb}{:.2f} {ca}",
-    "de": "Auf der Hand:\t\t {cb}{:.2f} {ca}\nAuf der Bank:\t {cb}{:.2f} {ca}\nInsgesamt:\t\t {cb}{:.2f} {ca}",
-    "ru": "В кошельке:\t\t {cb}{:.2f} {ca}\nВ банке:\t {cb}{:.2f} {ca}\nВсего:\t\t {cb}{:.2f} {ca}",
-    "hu": "Készpénz:\t\t {cb}{:.2f} {ca}\nBankban:\t {}{:.2f}\nÖsszesen:\t\t {}{:.2f}",
-    "it": "Addosso:\t\t {cb}{:.2f} {ca}\nNella banca:\t {}{:.2f}\nTotale:\t\t {}{:.2f}"
+  "On you:\t\t {cb}{:_.2f} {ca}\nIn the bank:\t {}{:_.2f}\nTotal:\t\t {}{:_.2f}": {
+    "fr": "Sur vous:\t\t {cb}{:_.2f} {ca}\nEn banque:\t {cb}{:_.2f} {ca}\nTotal:\t\t {cb}{:_.2f} {ca}",
+    "pt": "Com você:\t\t {cb}{:_.2f} {ca}\nNo banco:\t {cb}{:_.2f} {ca}\nTotal:\t\t {cb}{:_.2f} {ca}",
+    "es": "En el bolsillo:\t\t {cb}{:_.2f} {ca}\nEn el banco:\t {cb}{:_.2f} {ca}\nTotal:\t\t {cb}{:_.2f} {ca}",
+    "pl": "Przy tobie:\t\t {cb}{:_.2f} {ca}\nW banku:\t {cb}{:_.2f} {ca}\nŁacznie:\t\t {cb}{:_.2f} {ca}",
+    "de": "Auf der Hand:\t\t {cb}{:_.2f} {ca}\nAuf der Bank:\t {cb}{:_.2f} {ca}\nInsgesamt:\t\t {cb}{:_.2f} {ca}",
+    "ru": "В кошельке:\t\t {cb}{:_.2f} {ca}\nВ банке:\t {cb}{:_.2f} {ca}\nВсего:\t\t {cb}{:_.2f} {ca}",
+    "hu": "Készpénz:\t\t {cb}{:_.2f} {ca}\nBankban:\t {}{:_.2f}\nÖsszesen:\t\t {}{:_.2f}",
+    "it": "Addosso:\t\t {cb}{:_.2f} {ca}\nNella banca:\t {}{:_.2f}\nTotale:\t\t {}{:.2f}"
   },
   "This command is disabled!": {
     "fr": "Cette commande est désactivée",
@@ -3007,15 +3007,15 @@
     "hu": "Tárgy sikeresen megvásárolva!",
     "it": "Oggetto comprato con successo!"
   },
-  "How long should the time between salary collection be (in minutes)": {
-    "fr": "Combien de temps doit il y avoir entre 2 récupérations de salaire (en minutes)",
-    "pt": "Quanto deve ser o tempo entre as coletas de salário (em minutos)",
-    "es": "Cuanto tiempo debería haber entre cada cobro de salario (en minutos)",
-    "pl": "Co jaki czas powinna być możliwość odebrania wypłaty (w minutach)",
-    "de": "In welchem Zeitintervall erhält man das Gehalt?(in Minuten)",
-    "ru": "Установите интервал, спустя который игрок сможет получать свою зарплату (в минутах)",
-    "hu": "Mennyi idő teljen el minimum a fizetések begyűjtése között (percben megadva)?",
-    "it": "Quanto dev'essere lunga l'attesa per poter ricevere il proprio salario (in minuti)"
+  "How long should the time between salary collection be (in minutes, at least 5)": {
+    "fr": "Combien de temps doit il y avoir entre 2 récupérations de salaire (en minutes, >5)",
+    "pt": "Quanto deve ser o tempo entre as coletas de salário (em minutos, >5)",
+    "es": "Cuanto tiempo debería haber entre cada cobro de salario (en minutos, >5)",
+    "pl": "Co jaki czas powinna być możliwość odebrania wypłaty (w minutach, >5)",
+    "de": "In welchem Zeitintervall erhält man das Gehalt?(in Minuten, >5)",
+    "ru": "Установите интервал, спустя который игрок сможет получать свою зарплату (в минутах, >5)",
+    "hu": "Mennyi idő teljen el minimum a fizetések begyűjtése között (percben megadva, >5)?",
+    "it": "Quanto dev'essere lunga l'attesa per poter ricevere il proprio salario (in minuti, >5)"
   },
   "How much money should the salary give?": {
     "fr": "Combien d'argent le salaire doit il donner ?",
