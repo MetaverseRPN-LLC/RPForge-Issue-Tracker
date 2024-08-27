@@ -7,12 +7,12 @@ Visit the support server:
 [Invite the bot](https://discordapp.com/oauth2/authorize?client_id=673737213959208980&scope=bot&permissions=805596240)
 
 
-# RPGBot-V2-Issue-Tracker
-A Github page for storing public data for RPGBot and tracking issues
+# RPForge-Issue-Tracker
+A Github page for storing public data for RPForge and tracking issues
 
 This repository is for recording and reporting issues with the bot, crowd sourced translations, and hosting the tutorial. If you'd like to contribute, please message Henry or open a pull request!
 
-Hello and welcome to RPGBot!
+Hello and welcome to RPForge!
 
 Before we get started heres a general overview to give you an understanding of what this bot is and isn't:
 
@@ -57,7 +57,7 @@ Before we get started heres a general overview to give you an understanding of w
 - Dynamic Combat Script
     - [Placeholder]
    
-RPGBot is a tool to help you do your own RPGs, there is no game to play without you setting it up first.
+RPForge is a tool to help you do your own RPGs, there is no game to play without you setting it up first.
 
 > Note: throughout this tutorial commands will be shown with the following syntax:
 >
