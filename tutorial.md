@@ -307,6 +307,18 @@ Recipes require several columns:
   - method: The method someone has to enter to discover the recipe if its hidden
 
 
+### Salaries
+[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/salaries_example.csv)
+Salaries require several columns:
+  - role: The name for the salary
+  - interval: How often the salary will be collectable (measured in minutes, must be 5 or greater)
+Then they must also have at least one of:
+  - money: How much money the salary gives
+  - items: What items the salary gives
+	It can't be that the money amount is 0 and there are no items given.
+And optionally:
+  - type: Whether this salary is manual or automatic (defaults to automatic if this is left out. "m", "man", "manual", "a", "auto", and "automatic" (these are not case sensetive) are the valid values)
+
 ### Shopitems
 [Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/shopitems_example.csv)
 Shops require several columns:
