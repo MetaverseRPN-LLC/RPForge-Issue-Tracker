@@ -318,6 +318,7 @@ Then they must also have at least one of:
 	It can't be that the money amount is 0 and there are no items given.
 And optionally:
   - type: Whether this salary is manual or automatic (defaults to automatic if this is left out. "m", "man", "manual", "a", "auto", and "automatic" (these are not case sensetive) are the valid values)
+Also if you use rp!import salaries overwrite and you have salaries for roles that do not exit, the bot will create those roles for you.
 
 ### Shopitems
 [Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/shopitems_example.csv)
