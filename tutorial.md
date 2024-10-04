@@ -308,16 +308,20 @@ Recipes require several columns:
 
 
 ### Salaries
-[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/salaries_example.csv)
+[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/salary_example.csv)
 Salaries require several columns:
   - role: The name for the salary
   - interval: How often the salary will be collectable (measured in minutes, must be 5 or greater)
+
 Then they must also have at least one of:
   - money: How much money the salary gives
   - items: What items the salary gives
-	It can't be that the money amount is 0 and there are no items given.
+
+It can't be that the money amount is 0 and there are no items given.
+
 And optionally:
   - type: Whether this salary is manual or automatic (defaults to automatic if this is left out. "m", "man", "manual", "a", "auto", and "automatic" (these are not case sensetive) are the valid values)
+
 Also if you use rp!import salaries overwrite and you have salaries for roles that do not exit, the bot will create those roles for you.
 
 ### Shopitems
