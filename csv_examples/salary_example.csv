@@ -1,0 +1,5 @@
+role,interval,money,items,type
+guard,60,0,"Breadx10, Applex5",manual
+officer,50,65,Cakex1,manual
+general,120,1000,,automatic
+king,150,,Goldx10,automatic
