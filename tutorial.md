@@ -267,13 +267,13 @@ if you do want to do that just type overwrite
 
 ## Importing Data with Spreadsheets
 Many features of the bot can be imported from .csv files, which can be generated from Excel spreadsheets. Below are example spreadsheets
-See the csv_examples for [example spreadsheets](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/tree/master/csv_examples).
+See the csv_examples for [example spreadsheets](https://github.com/MetaverseRPN-LLC/RPForge-Issue-Tracker/tree/master/csv_examples).
 
 > rp!import \<datatype> [overwrite]
 
 Available datatypes are:
 ### Items
-[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/item_example.csv)
+[Example](https://github.com/MetaverseRPN-LLC/RPForge-Issue-Tracker/blob/master/csv_examples/item_example.csv)
 Items require several columns:
   - name: A name for the item
   - description: A description for the item
@@ -283,7 +283,7 @@ Items require several columns:
 
 
 ### Characters
-[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/character_example.csv)
+[Example](https://github.com/MetaverseRPN-LLC/RPForge-Issue-Tracker/blob/master/csv_examples/character_example.csv)
 Characters require several columns:
   - name: A name for the character
   - owner_id: The user id of the owner
@@ -297,7 +297,7 @@ Characters require several columns:
  
 
 ### Recipes
-[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/recipe_example.csv)
+[Example](https://github.com/MetaverseRPN-LLC/RPForge-Issue-Tracker/blob/master/csv_examples/recipe_example.csv)
 Recipes require several columns:
   - name: A name for the recipe
   - ingredients: What the recipe needs to be crafted
@@ -308,7 +308,7 @@ Recipes require several columns:
 
 
 ### Salaries
-[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/salary_example.csv)
+[Example](https://github.com/MetaverseRPN-LLC/RPForge-Issue-Tracker/blob/master/csv_examples/salary_example.csv)
 Salaries require several columns:
   - role: The name for the salary
   - interval: How often the salary will be collectable (measured in minutes, must be 5 or greater)
@@ -325,7 +325,7 @@ And optionally:
 Also if you use rp!import salaries overwrite and you have salaries for roles that do not exit, the bot will create those roles for you.
 
 ### Shopitems
-[Example](https://github.com/henry232323/RPGBot-V2-Issue-Tracker/blob/master/csv_examples/shopitems_example.csv)
+[Example](https://github.com/MetaverseRPN-LLC/RPForge-Issue-Tracker/blob/master/csv_examples/shopitems_example.csv)
 Shops require several columns:
   - shop_name: The name of the shop this will be added to 
   - item_name: The name of the item that this adds
