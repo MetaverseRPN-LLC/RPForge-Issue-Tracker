@@ -14,7 +14,7 @@ A multitude of things, though a short list of our mistakes during the first roun
 All of which contributed in some manner of another to us reverting the migration a few days later in it's entirety. However, this was not a clean reversion, as some items were created only on the new tables, which resulted in several days to weeks of us having to manually move items that were either created, or given to a character during the 72 hours the migration was active, from the newer tables back to the old tables.
 ## What did you learn from all of this?
 Over the past several months after this attempted migration, we have been working to slowly overhaul our database methods for every feature of the bot, migrating all methods off of our current/old adapter library(AsyncPG) to now use SQLAlchemy for all possible methods. SQLAlchemy comes with many many advantages over our old method to access the database, most notably, increased speed and efficient data access(SQLAlchemy is what allowed for the Ludicrous update, which as we confirmed, allowed for pulling up over 1000+ characters and items in a single incident, something that used to take several minutes via the older methods).
-# So it was time for round 2?
+## So it was time for round 2?
 Yes. After ample testing, and confirmation that these methods would work for what we needed to, we decided in late November, to begin the process of reimplementing the Item Migration we attempted previously, this time, updating all functions that used items at the same time to ensure no bugs like before would occur. This would inherently require us to update these features as well:
 - Shops
 - Markets
