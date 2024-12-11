@@ -10,6 +10,7 @@ A multitude of things, though a short list of our mistakes during the first roun
 - Only updating the create item method and instantiate methods to the new database methods.
 - Attempting to make this massive shift using AsyncPG rather than SQLAlchemy
 - Not shutting the bot down during the Migration in order to reduce downtime as much as humanely possible.
+
 All of which contributed in some manner of another to us reverting the migration a few days later in it's entirety. However, this was not a clean reversion, as some items were created only on the new tables, which resulted in several days to weeks of us having to manually move items that were either created, or given to a character during the 72 hours the migration was active, from the newer tables back to the old tables.
 ## What did you learn from all of this?
 Over the past several months after this attempted migration, we have been working to slowly overhaul our database methods for every feature of the bot, migrating all methods off of our current/old adapter library(AsyncPG) to now use SQLAlchemy for all possible methods. SQLAlchemy comes with many many advantages over our old method to access the database, most notably, increased speed and efficient data access(SQLAlchemy is what allowed for the Ludicrous update, which as we confirmed, allowed for pulling up over 1000+ characters and items in a single incident, something that used to take several minutes via the older methods).
